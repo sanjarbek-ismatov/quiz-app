@@ -1804,6 +1804,1348 @@
     ]
   },
   "modern-uz": {
-    "questions": []
+    "questions": [
+      {
+        "text": "What is the name of the public organization dealing with youth issues in Uzbekistan?",
+        "options": [
+          "#\"Youth Union\"",
+          "“Kamolot”",
+          "\"Kamalak\"",
+          "\"Youth Wing\""
+        ]
+      },
+      {
+        "text": "When was the Action Strategy of the Republic of Uzbekistan adopted?",
+        "options": [
+          "#February 2017",
+          "February 2018",
+          "February 2016",
+          "February 2019"
+        ]
+      },
+      {
+        "text": "At what age can a citizen of the Republic of Uzbekistan be elected as a deputy of the Oliy Majlis?",
+        "options": [
+          "#From 25 years old",
+          "From 30 years old",
+          "From 35 years old",
+          "From 21 years old"
+        ]
+      },
+      {
+        "text": "Which countries competed for the territory of Turkestan in the late 19th and early 20th centuries?",
+        "options": [
+          "#Russia and England",
+          "Russia and China",
+          "Russia and Afghanistan",
+          "Russia and India"
+        ]
+      },
+      {
+        "text": "Are the works done to preserve and perpetuate the memory of Jaloliddin Manguberdi during the years of independence not in line with reality?",
+        "options": [
+          "# A monument was erected in Tashkent",
+          "The Order of Jaloliddin Manguberdi was approved",
+          "In 1999, the 800th anniversary of the great commander was celebrated",
+          "A monument to Jaloliddin Manguberdi was erected"
+        ]
+      },
+      {
+        "text": "Complete the sentence: \"From a strong state - ...\"",
+        "options": [
+          "#\"towards a strong civil society\"",
+          "“Towards a strong state and a civil legal society”;",
+          "\"towards a strong society and the market;",
+          "“Towards a strong state and the people”;"
+        ]
+      },
+      {
+        "text": "According to the Constitution of the Republic of Uzbekistan, who can act on behalf of the people of Uzbekistan?",
+        "options": [
+          "#President and Oliy Majlis",
+          "President and Cabinet of Ministers",
+          "Cabinet of Ministers and Oliy Majlis",
+          "Oliy Majlis"
+        ]
+      },
+      {
+        "text": "The only source of state power in Uzbekistan is...",
+        "options": [
+          "# People",
+          "Cabinet of Ministers",
+          "Senate",
+          "Oliy Majlis"
+        ]
+      },
+      {
+        "text": "In the Republic of Uzbekistan, all .... (complete the sentence)",
+        "options": [
+          "#Have the right to profess any religion or not to profess any religion",
+          "are obliged to profess any religion",
+          "have the right to profess only the religion permitted by the state",
+          "are obliged to be an atheist"
+        ]
+      },
+      {
+        "text": "Which of the reforms listed in the five principles of the \"Uzbek model\" shows the essence of an evolutionary nature?",
+        "options": [
+          "#Gradual transition to market relations;",
+          "The state as the main reformer and a gradual transition to market relations;",
+          "Gradual transition to market relations and the primacy of the role of the state as the main reformer;",
+          "Achieving the rule of law in all aspects of public life;"
+        ]
+      },
+      {
+        "text": "A referendum is...",
+        "options": [
+          "#A nationwide vote to resolve an important issue in the life of the state and society;",
+          "Popular elections to local representative bodies;",
+          "Adoption of state programs by nationwide vote;",
+          "Resolving issues of state foreign policy by nationwide vote;"
+        ]
+      },
+      {
+        "text": "Which of the following rights are included in personal rights and freedoms?",
+        "options": [
+          "#right to life and personal integrity",
+          "right to work, property and free choice of occupation;",
+          "right to participate in political processes, in the management of public and state affairs;",
+          "Participation in rallies"
+        ]
+      },
+      {
+        "text": "A voluntary political organization that represents the interests of certain social groups or strata and strives for power is...",
+        "options": [
+          "#Political party",
+          "Social movement",
+          "President and Oliy Majlis",
+          "Political association"
+        ]
+      },
+      {
+        "text": "Local self-government bodies ...",
+        "options": [
+          "#Citizens' assemblies elect the chairman (aksakol) and his advisers for a five-year term.",
+          "Elect the governor for a five-year term",
+          "Elect the ministers and the president for a five-year term",
+          "Appointed by the governor for a five-year term"
+        ]
+      },
+      {
+        "text": "When was the Khiva Khanate conquered by the Russian Empire?",
+        "options": [
+          "# In 1873",
+          "In 1875",
+          "In 1880",
+          "In 1849"
+        ]
+      },
+      {
+        "text": "Where is the ancient Bactria region located?",
+        "options": [
+          "#Southern Uzbekistan, southwestern Tajikistan, and northern Afghanistan",
+          "Northeastern Afghanistan, Khorezm, Karakalpakstan, and Turkmenistan",
+          "Tashkent Oasis, Zarafshan Valley, southern Tajikistan, northeastern Afghanistan.",
+          "Tashkent Oasis, banks of the Syrdarya River, southern Kazakhstan, and northeastern Afghanistan."
+        ]
+      },
+      {
+        "text": "In what year was Samarkand declared the capital of the Timurid state?",
+        "options": [
+          "# In 1370",
+          "In 1379",
+          "In 1372",
+          "In 1365"
+        ]
+      },
+      {
+        "text": "Which Uzbek clan founded a new ruling dynasty in the Khiva Khanate in the second half of the 18th century?",
+        "options": [
+          "#Kungroats",
+          "Ming",
+          "Mangits",
+          "Kipchogs"
+        ]
+      },
+      {
+        "text": "When was the Emirate of Bukhara conquered by the Russian Empire?",
+        "options": [
+          "# 1868",
+          "1848",
+          "1835",
+          "1846"
+        ]
+      },
+      {
+        "text": "What is the name of the Uzbek clan that is considered the ruling dynasty that founded the Kokand Khanate?",
+        "options": [
+          "#Minglar",
+          "Kipchaks",
+          "Jaloyirlar",
+          "Mang'itlar"
+        ]
+      },
+      {
+        "text": "What does Article 1 of the new Constitution of the Republic of Uzbekistan say?",
+        "options": [
+          "# Uzbekistan is a sovereign, democratic, legal, social and secular state.",
+          "Uzbekistan is an economic, democratic, political and secular state in accordance with the laws.",
+          "Uzbekistan is a social, democratic, political-economic and secular state.",
+          "Uzbekistan is a democratic, political, religious, social and sovereign state."
+        ]
+      },
+      {
+        "text": "According to the new Constitution, what is the total number of senators and the number of senators appointed by the President?",
+        "options": [
+          "# 65 and 9 respectively",
+          "69 and 12 respectively",
+          "84 and 16 respectively",
+          "70 and 15 respectively"
+        ]
+      },
+      {
+        "text": "In what year was the New Uzbekistan Development Strategy for 2022-2026 adopted?",
+        "options": [
+          "#In 2022",
+          "In 2023",
+          "In 2017",
+          "In 2018"
+        ]
+      },
+      {
+        "text": "In which direction of the \"Uzbekistan 2030\" strategy are the goals set for realizing the potential of every person?",
+        "options": [
+          "#In the first direction",
+          "In the fifth direction",
+          "In the second direction",
+          "In the third direction"
+        ]
+      },
+      {
+        "text": "In which priority area of ​​the “Uzbekistan 2030” strategy are the issues of the rule of law reflected?",
+        "options": [
+          "#In the fourth area",
+          "In the third area",
+          "In the fifth area",
+          "In the first area"
+        ]
+      },
+      {
+        "text": "How many priority areas does the Uzbekistan 2030 Strategy consist of ?",
+        "options": [
+          "# Consists of 5 priority areas",
+          "Consists of 4 priority areas",
+          "Consists of 7 priority areas",
+          "Consists of 6 priority areas"
+        ]
+      },
+      {
+        "text": "When was the Presidential Decree on the Strategy \"Uzbekistan - 2030\" adopted?",
+        "options": [
+          "#September 11, 2023",
+          "September 23, 2022",
+          "August 12, 2024",
+          "September 10, 2021"
+        ]
+      },
+      {
+        "text": "Where did the largest uprising against Russian colonialism take place in Turkestan in 1916?",
+        "options": [
+          "#Jizzakh Uprising",
+          "Tashkent Uprising",
+          "Bukhara Uprising",
+          "Samarkand Uprising"
+        ]
+      },
+      {
+        "text": "What period in the history of Central Asia is the 9th-12th centuries?",
+        "options": [
+          "# First Renaissance",
+          "Second Renaissance",
+          "Third Renaissance",
+          "The Age of Jadids and Enlightenment"
+        ]
+      },
+      {
+        "text": "Until what century did the Great Silk Road, which played a huge role in the historical and cultural ties between the East and the West, exist?",
+        "options": [
+          "# Until the 16th century",
+          "Until the 18th century",
+          "Until the 19th century",
+          "Until the 20th century"
+        ]
+      },
+      {
+        "text": "What symbol does the hummingbird represent...?",
+        "options": [
+          "#Symbol of happiness and wealth",
+          "Symbol of happiness, victory and power",
+          "Symbol of happiness and fertility",
+          "Symbol of power and victory"
+        ]
+      },
+      {
+        "text": "What does the word \"Islam\" mean?",
+        "options": [
+          "#Submission",
+          "Belief",
+          "Faith",
+          "Awareness"
+        ]
+      },
+      {
+        "text": "What are the years of Prophet Muhammad's (pbuh) life?",
+        "options": [
+          "#570-632 years",
+          "632-694 years",
+          "470-529 years",
+          "575-634 years"
+        ]
+      },
+      {
+        "text": "When did the first Hijri year begin in the Muslim world?",
+        "options": [
+          "#622 AD",
+          "640 AD",
+          "630 AD",
+          "625 AD"
+        ]
+      },
+      {
+        "text": "Who was the leader of the largest uprising against the Arabs that began in Central Asia in the 70s and 80s of the 8th century?",
+        "options": [
+          "#Muqanna",
+          "Mahmud Torabi",
+          "Rafa ibn Layth",
+          "Mazdak"
+        ]
+      },
+      {
+        "text": "Identify the great hadith collector, author of the work \"Al-Jame as-Sahih\"?",
+        "options": [
+          "# Imam Al-Bukhari",
+          "Imam at-Tirmidhi",
+          "Ahmad Yassavi",
+          "Bahovuddin Naqshband"
+        ]
+      },
+      {
+        "text": "Identify the first Uzbek general who showed courage in the fight against fascism?",
+        "options": [
+          "# Sobir Rakhimov",
+          "Sharof Rashidov",
+          "Zebo G'aniyeva",
+          "Fayzulla Khojayev"
+        ]
+      },
+      {
+        "text": "What historical document was adopted on August 31, 1991?",
+        "options": [
+          "# Law “On the Fundamentals of State Independence of the Republic of Uzbekistan”",
+          "Law “On the Adoption of the Constitution of the Republic of Uzbekistan”",
+          "Law “On the Establishment of the Oliy Majlis of the Republic of Uzbekistan”",
+          "Law “On the Adoption of the Declaration of Sovereignty of the Republic of Uzbekistan”."
+        ]
+      },
+      {
+        "text": "When was the Concept for the Development of the Higher Education System of the Republic of Uzbekistan until 2030 approved?",
+        "options": [
+          "#October 8, 2019",
+          "May 29, 1997",
+          "October 25, 2021",
+          "April 30, 2023"
+        ]
+      },
+      {
+        "text": "How many religious denominations operate in Uzbekistan?",
+        "options": [
+          "#16",
+          "18",
+          "20",
+          "19"
+        ]
+      },
+      {
+        "text": "This is a unique educational center for our society, a unique place that unites citizens ideologically and ideologically -?",
+        "options": [
+          "#neighborhood",
+          "constitution",
+          "university",
+          "Party"
+        ]
+      },
+      {
+        "text": "What international charitable foundation was established in January 1996 under the Republican Center for Spirituality and Enlightenment?",
+        "options": [
+          "#Golden Heritage",
+          "Red Crescent",
+          "You are not alone",
+          "Navruz"
+        ]
+      },
+      {
+        "text": "When was the Imam Bukhari International Foundation established?",
+        "options": [
+          "#1998",
+          "2005",
+          "2024",
+          "1990"
+        ]
+      },
+      {
+        "text": "When did the \"perestroika\" policy begin?",
+        "options": [
+          "#1985",
+          "1982",
+          "1988",
+          "1981"
+        ]
+      },
+      {
+        "text": "In which country has the \"neighborhood seven system\" been introduced?",
+        "options": [
+          "#Uzbekistan",
+          "Russia",
+          "Spain",
+          "England"
+        ]
+      },
+      {
+        "text": "In which concept is the principle \"For the sake of human dignity\" reflected?",
+        "options": [
+          "In the #New Uzbekistan concept",
+          "In the National Revival concept",
+          "In the Uzbekistan - 2030 strategy",
+          "Only in the foreign policy strategy"
+        ]
+      },
+      {
+        "text": "When was Shavkat Mirziyoyev first elected President of Uzbekistan?",
+        "options": [
+          "#December 4, 2016",
+          "January 1, 2017",
+          "December 8, 2015",
+          "September 1, 2017"
+        ]
+      },
+      {
+        "text": "How many articles does the Declaration of Independence of the Republic of Uzbekistan contain?",
+        "options": [
+          "#12 articles",
+          "128 articles",
+          "17 articles",
+          "36 articles"
+        ]
+      },
+      {
+        "text": "What is the publication of the Liberal Democratic Party of Uzbekistan?",
+        "options": [
+          "#XXI asr newspaper",
+          "“O’zbekiston ovozi” newspaper",
+          "“Muloqot” magazine",
+          "“Tafakkur” magazine"
+        ]
+      },
+      {
+        "text": "When was the Ecological Party of Uzbekistan founded?",
+        "options": [
+          "#January 2019",
+          "May 2013",
+          "March 2001",
+          "December 1997"
+        ]
+      },
+      {
+        "text": "What is the purpose of studying the subject \"The most recent history of Uzbekistan\"?",
+        "options": [
+          "#to teach students about the history of Uzbekistan during the period of independence and its current reforms",
+          "to teach students about the history of the Soviet period and the reforms before independence",
+          "to teach students about the history of the 20th century Soviet period and the history of modern Uzbekistan",
+          "to teach students about the history of the 20th century Soviet period and the historical processes in modern Uzbekistan."
+        ]
+      },
+      {
+        "text": "When was Afrosiab, one of the oldest cities in Uzbekistan, founded?",
+        "options": [
+          "# 8th–7th centuries BC",
+          "6th–5th centuries BC",
+          "6th–4th centuries BC",
+          "4th–2nd centuries BC"
+        ]
+      },
+      {
+        "text": "Who were the investigators sent from the Center to Uzbekistan in the 1980s to investigate the \"Cotton Case\"?",
+        "options": [
+          "# Gdlyan and Ivanov",
+          "Morozov and Sorokin",
+          "Ivanov and Kisilyov",
+          "Vladimirov and Kochnyov"
+        ]
+      },
+      {
+        "text": "When was the Law \"On the State Flag of the Republic of Uzbekistan\" adopted?",
+        "options": [
+          "#November 18, 1991",
+          "June 20, 1991",
+          "June 20, 1990",
+          "December 29, 1991"
+        ]
+      },
+      {
+        "text": "When was the idea of ​​developing a draft of the first Constitution of Uzbekistan first put forward?",
+        "options": [
+          "#June 1990",
+          "March 1991",
+          "March 1992",
+          "August 1993"
+        ]
+      },
+      {
+        "text": "When was presidential rule introduced in Uzbekistan?",
+        "options": [
+          "#March 24, 1990",
+          "May 20, 1991",
+          "June 25, 1991",
+          "April 24, 1991"
+        ]
+      },
+      {
+        "text": "When was the first presidential election in the history of the independent Republic of Uzbekistan held?",
+        "options": [
+          "#December 29, 1991",
+          "March 24, 1990",
+          "August 31, 1991",
+          "March 2, 1992"
+        ]
+      },
+      {
+        "text": "How many countries does the Republic of Uzbekistan border?",
+        "options": [
+          "#5 countries",
+          "4 countries",
+          "6 countries",
+          "7 countries"
+        ]
+      },
+      {
+        "text": "When was the first national referendum on the independence of Uzbekistan held?",
+        "options": [
+          "#December 29, 1991",
+          "March 24, 1990",
+          "August 31, 1991",
+          "March 2, 1992"
+        ]
+      },
+      {
+        "text": "When was the Law \"On the State Language\", which granted the Uzbek language the status of the state language, adopted?",
+        "options": [
+          "#October 21, 1989",
+          "November 18, 1991",
+          "June 20, 1990",
+          "March 24, 1990"
+        ]
+      },
+      {
+        "text": "How many principles of division is the system of state power in Uzbekistan based on?",
+        "options": [
+          "#3",
+          "2",
+          "5",
+          "4"
+        ]
+      },
+      {
+        "text": "Which state symbol of the Republic of Uzbekistan was adopted on December 10, 1992?",
+        "options": [
+          "#national anthem",
+          "state emblem",
+          "Constitution",
+          "state flag"
+        ]
+      },
+      {
+        "text": "When was the national currency, the soum, introduced into circulation in the Republic of Uzbekistan?",
+        "options": [
+          "#July 1, 1994",
+          "December 8, 1992",
+          "November 18, 1991",
+          "July 2, 1992"
+        ]
+      },
+      {
+        "text": "When did Uzbekistan become a member of the UN?",
+        "options": [
+          "# March 2, 1992",
+          "November 18, 1991",
+          "June 2, 1992",
+          "December 8, 1992"
+        ]
+      },
+      {
+        "text": "Which state body in Uzbekistan approves amendments to laws?",
+        "options": [
+          "#Oliy Majlis",
+          "Cabinet of Ministers",
+          "Ministry of Internal Affairs",
+          "Prosecutor's Office of the Republic"
+        ]
+      },
+      {
+        "text": "When was the People's Democratic Party of Uzbekistan founded?",
+        "options": [
+          "#November 1991",
+          "February 1992",
+          "May 1994",
+          "September 1996"
+        ]
+      },
+      {
+        "text": "At what age do citizens have the right to vote in Uzbekistan?",
+        "options": [
+          "#18",
+          "20",
+          "22",
+          "24"
+        ]
+      },
+      {
+        "text": "At what age do citizens have the right to vote in Uzbekistan?",
+        "options": [
+          "#18",
+          "20",
+          "22",
+          "24"
+        ]
+      },
+      {
+        "text": "Which international organization is Uzbekistan not a member of?",
+        "options": [
+          "#NATO",
+          "UN",
+          "SCO",
+          "CIS"
+        ]
+      },
+      {
+        "text": "Who was the Olympic champion in women's judo at the 2024 Paris Olympics?",
+        "options": [
+          "# Diyora Keldiyorova",
+          "Dilfuza Inoyatova",
+          "Laylo Abdiyeva",
+          "Nilufar Rakhmatova"
+        ]
+      },
+      {
+        "text": "In May-June 1989, a clash between Uzbeks and representatives of which nationality occurred in Fergana?",
+        "options": [
+          "# Between Uzbeks and Meskhetian Turks",
+          "Between Uzbeks and Kyrgyz",
+          "Between Uzbeks and Tatars",
+          "No correct answer"
+        ]
+      },
+      {
+        "text": "Who was the founder of the \"Uzbek model\" of development?",
+        "options": [
+          "# I. Karimov",
+          "Sh. Rashidov",
+          "Sh. Mirziyoyev",
+          "A. Qodiriy"
+        ]
+      },
+      {
+        "text": "The main direction of Uzbekistan's cooperation with UNESCO.",
+        "options": [
+          "#education, science and culture",
+          "health and ecology",
+          "human rights protection",
+          "tourism"
+        ]
+      },
+      {
+        "text": "When was the Shanghai Cooperation Organization founded?",
+        "options": [
+          "#2001",
+          "1996",
+          "1997",
+          "2003"
+        ]
+      },
+      {
+        "text": "When was the SCO Samarkand Summit held in Uzbekistan?",
+        "options": [
+          "#2022",
+          "2010",
+          "2021",
+          "2020"
+        ]
+      },
+      {
+        "text": "Which priority area of ​​the strategy of actions is to improve the state administration system?",
+        "options": [
+          "# Priority areas of improving the state and society building system",
+          "Development of the social sphere and administration of the Cabinet of Ministers and the Presidency",
+          "Ensuring the rule of law and further reforming the judicial system and the Oliy Majlis",
+          "Ensuring security, interethnic harmony and religious tolerance, conducting a balanced, mutually beneficial and practical foreign policy"
+        ]
+      },
+      {
+        "text": "In what year was the pamphlet \"There is no future without historical memory\" published?",
+        "options": [
+          "#1998",
+          "1999",
+          "2000",
+          "2001"
+        ]
+      },
+      {
+        "text": "Peaceful resolution of disputes in accordance with the Constitution and non-interference in the internal affairs of other states....",
+        "options": [
+          "#This principle is a principle of Uzbekistan's foreign policy",
+          "This is not a principle of Uzbekistan's foreign policy",
+          "This principle reflects Uzbekistan's role in the Central Asian region",
+          "This principle is a principle of Uzbekistan's internal policy"
+        ]
+      },
+      {
+        "text": "How many types of education are there according to the new Law on Education of Uzbekistan?",
+        "options": [
+          "#7",
+          "5",
+          "6",
+          "4"
+        ]
+      },
+      {
+        "text": "When was the referendum on the adoption of the new Constitution of the Republic of Uzbekistan held?",
+        "options": [
+          "#April 30, 2023",
+          "September 24, 2023",
+          "December 8, 2023",
+          "January 1, 2023"
+        ]
+      },
+      {
+        "text": "What are the main tasks of political parties in building a democratic civil society?",
+        "options": [
+          "#Representing and protecting the interests of citizens",
+          "Only participating in elections",
+          "Only solving economic issues",
+          "Only managing state power"
+        ]
+      },
+      {
+        "text": "When was the new Law of the Republic of Uzbekistan \"On Education\" adopted?",
+        "options": [
+          "#September 23, 2020",
+          "May 29, 1997",
+          "October 25, 2021",
+          "April 30, 2023"
+        ]
+      },
+      {
+        "text": "When was the Governor-General of Turkestan established?",
+        "options": [
+          "#1867",
+          "1865",
+          "1876",
+          "1886"
+        ]
+      },
+      {
+        "text": "Who is the author of \"The City of Virtuous People\"?",
+        "options": [
+          "#Abu Nasr Al-Farabi",
+          "Alisher Navoi",
+          "Abu Ali ibn Sina",
+          "Abu Rayhan Al-Biruni"
+        ]
+      },
+      {
+        "text": "In which period did history falsify the past?",
+        "options": [
+          "#Soviet era",
+          "In antiquity",
+          "In the Middle Ages",
+          "In the period of independence"
+        ]
+      },
+      {
+        "text": "As a result of the efforts of I. Usmonkhodjayev and R. Abdullayeva to avoid creating an \"ideological vacuum\", which holiday was abolished by 1986?",
+        "options": [
+          "#Navruz holiday",
+          "Victory holiday",
+          "Hayit holiday",
+          "Independence holiday"
+        ]
+      },
+      {
+        "text": "The judicial system in Uzbekistan ....",
+        "options": [
+          "# operates independently of the legislative and executive branches",
+          "operates independently of the legislative and local government authorities",
+          "operates independently and is not dependent on political parties",
+          "operates independently of local government authorities"
+        ]
+      },
+      {
+        "text": "How many articles does the Law \"On the State Independence of the Republic of Uzbekistan\" contain?",
+        "options": [
+          "#17",
+          "19",
+          "21",
+          "24"
+        ]
+      },
+      {
+        "text": "The second most sacred source in Islam after the Quran is ....",
+        "options": [
+          "# Hadith",
+          "Fiqh",
+          "Teachings",
+          "Wisdom"
+        ]
+      },
+      {
+        "text": "In which cities of Uzbekistan are there statues of Amir Temur?",
+        "options": [
+          "# In Samarkand, Tashkent and Shahrisabz",
+          "Samarkand, Tashkent and Termez",
+          "Samarkand, Tashkent and Kitab",
+          "Samarkand, Termez and Shahrisabz"
+        ]
+      },
+      {
+        "text": "The principle of separation of powers What bodies are formed according to the Constitution and laws?",
+        "options": [
+          "# legislative, executive and judicial",
+          "local government, judicial",
+          "judicial, legislative",
+          "State Duma, local government"
+        ]
+      },
+      {
+        "text": "When was the presidential term of I. Karimov extended from 1997 to 2000 by a popular vote (referendum)?",
+        "options": [
+          "#March 26, 1995",
+          "December 26, 1995",
+          "March 11, 1996",
+          "January 12, 1997"
+        ]
+      },
+      {
+        "text": "Parliament is called differently in different countries. What is it called in Uzbekistan?",
+        "options": [
+          "# Oliy Majlis",
+          "Rada",
+          "Skupshina",
+          "Reichstag"
+        ]
+      },
+      {
+        "text": "Find the national government established in November 1917, which expressed the ideas of national liberation?",
+        "options": [
+          "# Turkestan autonomy",
+          "“Shu‘ra‘i ulama”",
+          "B) “Unity and Progress”",
+          "D) “Shu‘ra‘i Islam”"
+        ]
+      },
+      {
+        "text": "Which body exercises executive power in Uzbekistan?",
+        "options": [
+          "# Cabinet of Ministers",
+          "Khokimliks",
+          "Oliy Majlis",
+          "Senate"
+        ]
+      },
+      {
+        "text": "Where was the first presidential government introduced in the world?",
+        "options": [
+          "# USA",
+          "Canada",
+          "France",
+          "Japan"
+        ]
+      },
+      {
+        "text": "Who was elected First Secretary of the Communist Party of Uzbekistan on June 23, 1989?",
+        "options": [
+          "# Islam Karimov",
+          "Shavkat Mirziyoyev",
+          "Sharof Rashidov",
+          "Rafiq Nishonov"
+        ]
+      },
+      {
+        "text": "Who is the author of the idea that \"the people should serve the state bodies, not the state bodies\"?",
+        "options": [
+          "#Shavkat Mirziyoyev",
+          "Islom Karimov",
+          "Sharof Rashidov",
+          "Rafiq Nishonov"
+        ]
+      },
+      {
+        "text": "According to the results of the national referendum held on April 30, 2023…..",
+        "options": [
+          "#The new Constitution of the Republic of Uzbekistan was adopted",
+          "The Law of the New Uzbekistan on Education was adopted",
+          "The Labor Code of the New Uzbekistan was adopted",
+          "The Law of the New Uzbekistan on Political Parties was adopted"
+        ]
+      },
+      {
+        "text": "\"What goal of the new Development Strategy of Uzbekistan for 2022-2026 is \"Further development of the study and promotion of the history of Uzbekistan\"?\"",
+        "options": [
+          "# In goal 77",
+          "75 - goal",
+          "70 - goal",
+          "65 - goal"
+        ]
+      },
+      {
+        "text": "Which priority area of ​​the Strategy of Actions for the Further Development of the Republic of Uzbekistan in 2017-2021 is set to deepen democratic reforms and strengthen the role of the Oliy Majlis and political parties in modernizing the country?",
+        "options": [
+          "#Priority areas for improving the system of state and social development",
+          "Priority areas for political development to ensure stability in the country and in the Oliy Majlis",
+          "Priority areas for ensuring the rule of law and further reforming the judicial system",
+          "Priority areas for the activities of political parties, development and liberalization of the economy."
+        ]
+      },
+      {
+        "text": "When was the Liberal Democratic Party of Uzbekistan (UzLiDeP) founded?",
+        "options": [
+          "# 2003",
+          "1995",
+          "2000",
+          "1996"
+        ]
+      },
+      {
+        "text": "What initiatives did the President of Uzbekistan Shavkat Mirziyoyev put forward in his speech at the 75th session of the UN General Assembly on September 23, 2020?",
+        "options": [
+          "# Initiatives to strengthen peace and stability in the region and the world, progressive development, and ensure human rights and freedoms",
+          "Initiatives to ensure consistent development, human rights and freedoms, and stability in the region",
+          "Initiatives to strengthen peace and stability in the region and the world, sustainable development of the world",
+          "Initiatives to improve the environment in Central Asia"
+        ]
+      },
+      {
+        "text": "Which of the answers is not part of the principles of Uzbekistan's foreign policy?",
+        "options": [
+          "#Joining military blocs and alliances",
+          "Sovereign equality",
+          "Non-interference in the internal affairs of other states",
+          "Peaceful resolution of disputes"
+        ]
+      },
+      {
+        "text": "What is the role of the state in economic reforms during the transition period?",
+        "options": [
+          "#deepening democratic reforms and further liberalizing the economy",
+          "increasing direct state intervention in economic activity",
+          "rejecting state regulation of the economy and strengthening economic management",
+          "transferring economic management to local authorities and strengthening their management"
+        ]
+      },
+      {
+        "text": "What is the name of the fourth area of ​​the Strategy of Actions on the five priority areas of development of Uzbekistan in 2017-2021?",
+        "options": [
+          "#priority areas of development of the social sphere",
+          "priority areas of development and liberalization of the economy",
+          "priority areas of improving the system of state and social construction",
+          "priority areas of ensuring the rule of law and further reform of the judicial system"
+        ]
+      },
+      {
+        "text": "Which of the following countries does Uzbekistan not border?",
+        "options": [
+          "# Iran",
+          "Kyrgyzstan",
+          "Afghanistan",
+          "Turkmenistan"
+        ]
+      },
+      {
+        "text": "Why was the capture of Tashkent by the Russian Empire considered necessary?",
+        "options": [
+          "# Because this city was a key gateway for the conquest of Central Asia and served as a base for further Russian military operations.",
+          "This city was the military center of the Kokand Khanate, and if it were captured, all the khanates would be militarily weakened.",
+          "This city was located on the border of the Kokand Khanate and the Emirate of Bukhara, on the main road leading to the Khiva Khanate.",
+          "This city was conveniently located on the water route to the Khiva Khanate."
+        ]
+      },
+      {
+        "text": "How many principles does the “Uzbek model” consist of?",
+        "options": [
+          "#5",
+          "7",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "text": "The Uzbekistan-2030 Strategy sets a target of increasing the GDP to … billion US dollars and per capita income to … thousand US dollars.",
+        "options": [
+          "#160/4",
+          "200/6",
+          "250/8",
+          "180/5"
+        ]
+      },
+      {
+        "text": "Starting from the 2023/2024 academic year, … has been designated as a “base school” for general secondary education institutions.",
+        "options": [
+          "# Presidential schools and specialized schools",
+          "Vocational technical schools",
+          "Non-state educational institutions",
+          "Lyceums"
+        ]
+      },
+      {
+        "text": "What is the ultimate goal of the strong social policy being pursued in Uzbekistan?",
+        "options": [
+          "#social protection of vulnerable segments of the population during the transition to a market economy",
+          "ensuring guaranteed social rights of all members of the population during the transition to a market economy",
+          "maintaining civil harmony in society during the transition to a market economy",
+          "instilling the ideology of national independence into the consciousness of the people during the transition to a market economy"
+        ]
+      },
+      {
+        "text": "One of the priority areas of which legal document is called “Saving water resources and protecting the environment”?",
+        "options": [
+          "#Uzbekistan-2030 Strategy",
+          "New Uzbekistan Development Strategy",
+          "Action Strategy",
+          "Ecological Code of Uzbekistan"
+        ]
+      },
+      {
+        "text": "On June 22, 2024, specialized sports schools for … were established in Tashkent.",
+        "options": [
+          "#boxing and gymnastics",
+          "Boxing and football",
+          "Skiing and hockey",
+          "Golf and badminton"
+        ]
+      },
+      {
+        "text": "When was the Law \"On Combating Corruption\" adopted in Uzbekistan?",
+        "options": [
+          "#2017",
+          "2018",
+          "2019",
+          "2020"
+        ]
+      },
+      {
+        "text": "In which article of the new Constitution of the Republic of Uzbekistan does the \"social\" status of the state be defined?",
+        "options": [
+          "#Article 1",
+          "Article 5",
+          "Article 11",
+          "Article 17"
+        ]
+      },
+      {
+        "text": "The 550th anniversary of which scholar was celebrated in our country in 1991?",
+        "options": [
+          "#Alisher Navoi",
+          "Bobur",
+          "Mirzo Ulugbek",
+          "Al Ferghani"
+        ]
+      },
+      {
+        "text": "Turin Polytechnic University in Tashkent was established in partnership with which country?",
+        "options": [
+          "#Italy",
+          "Great Britain",
+          "France",
+          "USA"
+        ]
+      },
+      {
+        "text": "How many nationalities live in Uzbekistan?",
+        "options": [
+          "#More than 130 nationalities",
+          "110 nationalities",
+          "90 nationalities",
+          "More than 100 nationalities"
+        ]
+      },
+      {
+        "text": "How many sections did the Constitution of the Republic of Uzbekistan, adopted on December 8, 1992, consist of ?",
+        "options": [
+          "# 6 sections",
+          "10 sections",
+          "12 sections",
+          "8 sections"
+        ]
+      },
+      {
+        "text": "What is the dictionary meaning of the geographical term \"Movaraunnahr\"?",
+        "options": [
+          "#the other side of the river",
+          "Sandy land",
+          "Center of the desert",
+          "Border area"
+        ]
+      },
+      {
+        "text": "Where did the battle of 1365, known in history as the \"Battle of the Mud\", take place?",
+        "options": [
+          "#Between Chinaz and Tashkent",
+          "Between Chinaz and Turkestan",
+          "Between Chinaz and Syrdarya",
+          "Between Chinaz and Jizzakh"
+        ]
+      },
+      {
+        "text": "Who was the founder and initiator of the Jadid cultural and educational movement?",
+        "options": [
+          "#Ismoil Gasprinsky",
+          "Dukchi Eshon",
+          "Said Olimxon",
+          "Namoz Pirimkulov"
+        ]
+      },
+      {
+        "text": "Who led the \"Koschi\" peasant union in the 1920s?",
+        "options": [
+          "#Yoldosh Okhunboboev",
+          "Fayzulla Khodjaev",
+          "Usmon Yusupov",
+          "Turan Riskulov"
+        ]
+      },
+      {
+        "text": "When did Uzbekistan become a member of the Shanghai Cooperation Organization (SCO)?",
+        "options": [
+          "#2001.",
+          "1998.",
+          "2011.",
+          "2005."
+        ]
+      },
+      {
+        "text": "Supreme Soviet of the Uzbek SSR, March 24, 1990….",
+        "options": [
+          "# Introduced the position of the President",
+          "The Uzbek SSR adopted the Declaration of Independence",
+          "The Program of Sovereignty of the Republic of Uzbekistan was adopted",
+          "The Uzbek SSR adopted the Union Treaty"
+        ]
+      },
+      {
+        "text": "Who coined the phrase \"Critical analysis, strict discipline, personal responsibility of each leader should become the daily norm of every leader\"?",
+        "options": [
+          "#Shavkat Mirziyoyev",
+          "Islom Karimov",
+          "Amir Temur",
+          "Alisher Navoi"
+        ]
+      },
+      {
+        "text": "When was the decree “On the Strategy of Actions for the Further Development of the Republic of Uzbekistan” published?",
+        "options": [
+          "#February 7, 2017.",
+          "May 24, 2018",
+          "June 30, 2016",
+          "February 7, 2016"
+        ]
+      },
+      {
+        "text": "When was the Year of Amir Temur celebrated in Uzbekistan?",
+        "options": [
+          "#1996",
+          "1992",
+          "1998",
+          "2000"
+        ]
+      },
+      {
+        "text": "Which political party in Uzbekistan has the main goal of achieving social justice?",
+        "options": [
+          "#Adolat Social Democratic Party",
+          "People's Democratic Party",
+          "Liberal Democratic Party",
+          "National Revival Party"
+        ]
+      },
+      {
+        "text": "Which city in Uzbekistan was declared the \"Capital of Islamic Culture\" in 2007?",
+        "options": [
+          "# Tashkent",
+          "Samarkand",
+          "Khiva",
+          "Kokand"
+        ]
+      },
+      {
+        "text": "The unofficial \"fourth estate\" is .....",
+        "options": [
+          "#mass media",
+          "political parties",
+          "local government",
+          "civil associations"
+        ]
+      },
+      {
+        "text": "When, at the initiative of the President of the Republic of Uzbekistan, a special resolution of the UN General Assembly “Enlightenment and Religious Tolerance” was adopted.",
+        "options": [
+          "# 2018",
+          "2005",
+          "2001",
+          "2003"
+        ]
+      },
+      {
+        "text": "As a result of the renewal of the Constitution, the number of articles in the main dictionary increased from … to …, and the norms in it increased from … to ….",
+        "options": [
+          "#128/155, 275/434",
+          "155/135, 250/356",
+          "127/172, 134/245",
+          "180/192, 175/289"
+        ]
+      },
+      {
+        "text": "The new Constitution of the Republic of Uzbekistan...",
+        "options": [
+          "#Consists of 6 sections, 27 chapters and 155 articles",
+          "Consists of 6 sections, 26 chapters and 100 articles",
+          "Consists of 6 sections, 28 chapters and 150 articles",
+          "Consists of 6 sections, 25 chapters and 100 articles"
+        ]
+      },
+      {
+        "text": "The ambiguities in the laws should be resolved in favor of the person, in this regard, the Constitution stipulates that a person cannot be detained for more than … hours without a court decision.",
+        "options": [
+          "# 48 hours",
+          "28 hours",
+          "37 hours",
+          "24 hours"
+        ]
+      },
+      {
+        "text": "Shavkat Mirziyoyev “When was the idea put forward about the need to improve the position of the Republic of Uzbekistan in international ratings and indices?",
+        "options": [
+          "#In the Address of the Head of State to the Oliy Majlis in 2018",
+          "At the event dedicated to the 30th anniversary of the Constitution of the Republic of Uzbekistan",
+          "At the 72nd session of the UN General Assembly",
+          "At the 72nd session of the UN General Assembly"
+        ]
+      },
+      {
+        "text": "The first automobile factory in Asaka, Andijan region, was established in partnership with which country?",
+        "options": [
+          "# South Korea",
+          "China",
+          "Turkey",
+          "Germany"
+        ]
+      },
+      {
+        "text": "In which country was the Ombudsman institution first established?",
+        "options": [
+          "#Sweden",
+          "Denmark",
+          "USA",
+          "Finland"
+        ]
+      },
+      {
+        "text": "Since when was the full pension payment introduced for working pensioners?",
+        "options": [
+          "#January 1, 2019",
+          "September 1, 2018",
+          "May 1, 2020",
+          "June 1, 2022"
+        ]
+      },
+      {
+        "text": "For which years is the Action Strategy intended?",
+        "options": [
+          "#2017-2021",
+          "2017-2019",
+          "2017-2020",
+          "2017-2022"
+        ]
+      },
+      {
+        "text": "According to the results of the first presidential elections held on December 29, 1991, what percentage of voters voted for Islam Karimov?",
+        "options": [
+          "# 86 percent",
+          "98 percent",
+          "65 percent",
+          "80 percent"
+        ]
+      },
+      {
+        "text": "How many priority areas does the Action Strategy consist of?",
+        "options": [
+          "#5",
+          "3",
+          "6",
+          "2"
+        ]
+      },
+      {
+        "text": "How many articles of the new Constitution will be devoted to the education system and the status of teachers?",
+        "options": [
+          "#50,51,52",
+          "49,53,54",
+          "37,38,39",
+          "60,61,64"
+        ]
+      },
+      {
+        "text": "Which year was declared the \"Year of Dialogue with the People and Human Interests\"?",
+        "options": [
+          "#2017",
+          "2010",
+          "2012",
+          "2019"
+        ]
+      },
+      {
+        "text": "Which direction of the strategy of actions is called \"Further development and liberalization of the economy\"?",
+        "options": [
+          "#3rd",
+          "2nd",
+          "4th",
+          "5th"
+        ]
+      },
+      {
+        "text": "In what year was the Virtual Reception of the Prime Minister of the Republic of Uzbekistan established?",
+        "options": [
+          "#In 2016",
+          "In 2014",
+          "In 2009",
+          "In 2019"
+        ]
+      },
+      {
+        "text": "When did President Islam Karimov take his first presidential oath at the extraordinary 9th session of the Supreme Council?",
+        "options": [
+          "# January 4, 1992",
+          "January 10, 1995",
+          "January 2, 1992",
+          "February 1992"
+        ]
+      },
+      {
+        "text": "When were the last presidential elections held in the Republic of Uzbekistan?",
+        "options": [
+          "# July 9, 2023",
+          "January 10, 2023",
+          "January 2, 2023",
+          "January 12, 2023"
+        ]
+      }
+    ]
   }
 }
