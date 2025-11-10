@@ -3,11 +3,14 @@ import { Link } from 'react-router-dom'
 import { FiChevronRight } from 'react-icons/fi'
 
 const subjects = [
-  { id: 'history-econ', name: 'History of Economic Thoughts' },
-  { id: 'modern-uz', name: 'Modern History of Uzbekistan' },
+  { id: 'history-economy', name: 'History of Economic Thoughts' },
+  { id: 'history-uzb', name: 'Modern History of Uzbekistan' },
+  {
+    id: 'religion', name: 'Dinshunoslik'
+  }
 ]
 
-export default function Home(){
+export default function Home() {
   return (
     <div className="space-y-6 fade-in">
       <h1 className="text-3xl font-bold">Subjects</h1>
