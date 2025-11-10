@@ -1,3149 +1,1354 @@
 {
-  "history-econ": {
+  "Dinshunoslik": {
     "questions": [
       {
-        "text": "Find the three classes of the economy that Physiocrats identified.",
+        "text": "Dinning ijtimoiy ildizlari?",
         "options": [
-          "#\"productive\", \"sterile\", \"proprietor\"",
-          "\"productive\", \"proprietor\", \"merchants\"",
-          "\"sterile\", \"proprietor\", \"crafts\"",
-          "\"productive\", \"sterile\", \"philosophers\""
+          "Falsafiy maktablarning rivojlanishi",
+          "Siyosiy partiyalarning tashviqoti",
+          "#Kishilarning tabiat kuchlari oldidagi ojizligining oqibatlari",
+          "Iqtisodiy rivojlanishning yuqori darajasi"
         ]
       },
       {
-        "text": "What is Quesnay's renowned \"zig-zag\" depiction of income flows between economic sectors?",
+        "text": "Dinning asosiy tarixiy tiplari quyidagilardan qaysi biri?",
         "options": [
-          "Essays",
-          "Economic diagram",
-          "#Economic table",
-          "Circular flow diagram"
+          "Monoteistik, politeistik va ateistik",
+          "G'arbiy, sharqiy va afrika dinlari",
+          "Animizm, totemizm va fetishizm",
+          "#Urug’-qabilaviy, milliy-davlat va jahon"
         ]
       },
       {
-        "text": "In Islamic finance, this is the simplest financing method. Two (or more) people pool their resources in a joint venture, participate in its management, and share the profits and losses on a pre-determined basis.",
+        "text": "Vijdon erkinligi mohiyati nima?",
         "options": [
-          "#Musharaka",
-          "Mudarabah",
-          "Murabaha",
-          "Ijara wa iktina"
+          "Davlat tomonidan belgilangan dinga amal qilish",
+          "Faqat bitta rasmiy dinga e'tiqod qilish huquqi",
+          "#Insonning o‘z dunyoqarash mavqeini, shu jumladan dinga munosabatini ham erkin tanlashi",
+          "Diniy tashkilotlarga a'zo bo'lish majburiyati"
         ]
       },
       {
-        "text": "In Islamic finance, it is also known as the Commenda in Europe. This form of financing operates as a kind of mutual fund. One party puts up the capital, the other puts in the entrepreneurial skill.",
+        "text": "Olamdagi jonsiz narsalarni ilohiylashtirish qaysi dinning xususiyati?",
         "options": [
-          "Musharaka",
-          "Murabaha",
-          "#Mudarabah",
-          "Ijara wa iktina"
+          "Animizm",
+          "Totemizm",
+          "#Fetishizm",
+          "Monoteizm"
         ]
       },
       {
-        "text": "In Islamic finance, the financier acts as the purchasing agent for the borrower, and then sells the goods to the borrower with a fixed mark-up on the purchase price.",
+        "text": "Qabila boshliqlarining shaxsiga sig’insh qaysi dinlarga xos?",
         "options": [
-          "Musharaka",
-          "ijara wa iktina",
-          "Mudarabah",
-          "#murabaha"
+          "Jahon dinlariga",
+          "#Ibtidoiy",
+          "Milliy dinlarga",
+          "Monoteistik dinlarga"
         ]
       },
       {
-        "text": "Which one is A. Smith’s major scientific work?",
+        "text": "“Totemizm” atamasi qaysi xalqlardan kirib kelgan?",
         "options": [
-          "The theory of \"moral character\"",
-          "#\"Wealth of nations\"",
-          "\"Capital\"",
-          "\"What is property?\""
+          "Avstraliya aborigenlari",
+          "Janubiy Afrika qabilalari",
+          "Sibir xalqlari",
+          "#Shimoliy Amerikada yashovchi Ojibva qabilasi"
         ]
       },
       {
-        "text": "Who created the \"comparative advantage\" theory in international trade?",
+        "text": "Totemizmning asl mohiyati nima?",
         "options": [
-          "Smith",
-          "F. Quesnay",
-          "T. Malthus",
-          "#Ricardo"
+          "Jonsiz narsalarga sig'inish",
+          "Ruhlarga va jonlarga ishonish",
+          "Sehrli marosimlarni bajarish",
+          "#tabiat hodisalari, jonsiz narsalar oʻrtasida gʻayritabiiy aloqa, qon-qarindoshlik bor degan eʼtiqodga asoslanadi"
         ]
       },
       {
-        "text": "Fill in the space: French Mercantilism is better known as...",
+        "text": "“Animizm”ning ma’nosi nima?",
         "options": [
-          "\"Bullionist\"",
-          "\"Cameralism\"",
-          "#\"Colbertisme\"",
-          "\"Liberal\""
+          "Yunoncha - hayvon",
+          "Forscha - sig'inish",
+          "Fransuzcha - tumor",
+          "#Lotincha – anima – ruh, jon"
         ]
       },
       {
-        "text": "Fill in the space: German Mercantilism is better known as...",
+        "text": "Feteshizm qaysi tildan olingan?",
         "options": [
-          "\"Liberal\"",
-          "\"Bullionist\"",
-          "#\"Cameralism\"",
-          "\"Colbertisme\""
+          "Lotincha",
+          "Yunoncha",
+          "Inglizcha",
+          "#fransuzcha: fétiche; portugalcha: feitiço – sehrli narsa, tumor"
         ]
       },
       {
-        "text": "Which economic school investigated the \"Dutch puzzle\"?",
+        "text": "“Shomon” so’zining ma’nosi nima degan ma’noni anglatadi?",
         "options": [
-          "Neoliberalism",
-          "Neoclassic",
-          "#Merchantilism",
-          "Marginalism"
+          "Qabila boshlig'i, rahbar",
+          "Tabib, davolovchi",
+          "Ovchi, jangchi",
+          "#“Shomon” tunguscha soʻz boʻlib, “oʻta hayajonlangan”, “jazavali kishi” ma'nosini anglatadi. Shomon – u yoki bu qabilaning “ruhoniysi”"
         ]
       },
       {
-        "text": "Indicate D. Ricardo's economic school.",
+        "text": "Quyidagilarning qaysi biri milliy din hisoblanadi?",
         "options": [
-          "Neoliberalism",
-          "Neoclassic",
-          "Merchantilism",
-          "#Classic"
+          "Islom",
+          "Xristianlik",
+          "Buddizm",
+          "#Yahudiylik (Iudaizm). Hinduizm. Sintoizm. Daosizm. Konfutsiychilik."
         ]
       },
       {
-        "text": "Which school is A. Smith from?",
+        "text": "Politeizm – qanday din hisoblanadi?",
         "options": [
-          "Neoliberalism",
-          "Neoclassic",
-          "Merchantilism",
-          "#Classic"
+          "#Ko’p xudolik dini",
+          "Yakka xudolik dini",
+          "Ibtidoiy din",
+          "Milliy din"
         ]
       },
       {
-        "text": "Which school is M. Friedman from?",
+        "text": "“Xudo to’g’risidagi ta’limot” deya ifodalanuvchi atama qanday nomlanadi?",
         "options": [
-          "#Monetarism",
-          "Neoclassic",
-          "Merchantilism",
-          "Classic"
+          "Teokratiya",
+          "Monoteizm",
+          "#Teologiya",
+          "Metafizika"
         ]
       },
       {
-        "text": "Which school is W. Stafford from?",
+        "text": "Jahon dinlari quyidagilardan qaysilari?",
         "options": [
-          "Monetarism",
-          "Neoclassic",
-          "#Merchantilism",
-          "Classic"
+          "Islom, Yahudiylik, Sintoizm",
+          "#Buddizm, xristianlik, islom",
+          "Hinduizm, Buddizm, Xristianlik",
+          "Zardushtiylik, Islom, Buddizm"
         ]
       },
       {
-        "text": "Fill in the gap: _________ is the ability to produce more than a competitor.",
+        "text": "“Avеsto” so‘zining ma'nosi nima?",
         "options": [
-          "#Absolute advantage",
-          "Comparative advantage",
-          "Laissez-faire",
-          "Marginal cost"
+          "Muqaddas olov kitobi",
+          "Ezgu fikrlar to'plami",
+          "Yakka xudo ta'limoti",
+          "#Avеsto – (qad. eron-pahlaviy. «o‘rnatilgan, qat’iy qilib bеlgilangan qonun-qoidalar») zardushtiylikning muqaddas kitobi."
         ]
       },
       {
-        "text": "Fill in the gap: _________ is a policy of minimum governmental interference in the economic affairs of individuals and society.",
+        "text": "“Avеsto”ning 2700 yilligi qachon nishonlangan?",
         "options": [
-          "Absolute advantage",
-          "Comparative advantage",
-          "#Laissez-faire",
-          "Marginal cost"
+          "1991-yil",
+          "1996-yil",
+          "2000-yil",
+          "#2001-yil"
         ]
       },
       {
-        "text": "Who was Vilfredo Pareto?",
+        "text": "Zardushtiylik 3 ta tamoyilga tayanadi, bular qaysilar?",
         "options": [
-          "An Italian artist",
-          "An American economist",
-          "#An Italian economist",
-          "A French philosopher"
+          "Ezgu olov, ezgu suv, ezgu yer",
+          "#“Ezgu fikr, ezgu so‘z, ezgu amal”",
+          "Ezgu ibodat, ezgu qurbonlik, ezgu hayot",
+          "Ezgu ruh, ezgu qalb, ezgu niyat"
         ]
       },
       {
-        "text": "What was Pareto's contribution to economics?",
+        "text": "Buddizm dini qachon paydo bo‘ldi?",
         "options": [
-          "He was a leader of the Keynesian revolution",
-          "He developed the idea of game theory",
-          "He proposed the theory of comparative advantage",
-          "#He developed general equilibrium theory"
+          "Eramizning VI-V asrida Xitoyda",
+          "Eramizdan avvalgi I asrda Hindistonda",
+          "#Buddaviylik dini eramizdan avvalgi VI-V asrda Hindistonda vujudga kеlgan.",
+          "Eramizning I asrida Falastinda"
         ]
       },
       {
-        "text": "What is Pareto Efficiency?",
+        "text": "Eng qadimgi jahon dini qaysi?",
         "options": [
-          "An economic state where resources can be reallocated to make everyone better off",
-          "#An economic state where resources cannot be reallocated to make one individual better off without making another individual worse off",
-          "An economic state where resources are distributed equally among individuals",
-          "An economic state where resources are not being used efficiently"
+          "Xristianlik",
+          "Islom",
+          "#Budizm",
+          "Yahudiylik"
         ]
       },
       {
-        "text": "Choose Alfred Marshall's school.",
+        "text": "Buddizmda qayta tug‘ilish zanjiri nima?",
         "options": [
-          "Neoliberalism",
-          "#Neoclassic",
-          "Merchantilism",
-          "Marginalism"
+          "Nirvana",
+          "Dharma",
+          "Karma",
+          "#Sansara"
         ]
       },
       {
-        "text": "What is Alfred Marshall known for?",
+        "text": "Budda ta’limotining asosida qanday g‘oyalar yotadi?",
         "options": [
-          "Founding the \"Chicago\" school of economics",
-          "Propagating Marxist economics",
-          "#Founding the \"Cambridge\" school of Neoclassicism",
-          "Introducing the concept of behavioral economics"
+          "«Hayot – bu shodlik» va «najot yo'li ibodatdir»",
+          "«Hayot – bu kurash» va «kuchlilar g'olibdir»",
+          "#Budda ta’limotining asosida «hayot – bu azob-uqubat» va «najot yo‘li mavjud» degan g‘oyalar yotadi",
+          "«Hayot – bu sinov» va «jannat mavjud»"
         ]
       },
       {
-        "text": "Which of Alfred Marshall's books was the most successful textbook?",
+        "text": "Buddizm ta’limotiga ko‘ra, har qanday narsa yoki hodisa u xoh moddiy, xoh ma’naviy bo‘lsin, nimalardan iborat?",
         "options": [
-          "The Wealth of Nations",
-          "Capital in the Twenty-First Century",
-          "Das Kapital",
-          "#Principles of Economics"
+          "Sansara",
+          "Karma",
+          "Nirvana",
+          "#Dharma"
         ]
       },
       {
-        "text": "What do \"Marshallian scissors\" mean?",
+        "text": "Buddaning ilk da’vatida ta’birlangan to‘rt haqiqatdan birinchi haqiqat ma’nosi?",
         "options": [
-          "#Demand and supply",
-          "Saving and consumption",
-          "Needs and wants",
-          "Value and price"
+          "«Azobning sababi mavjuddir»",
+          "«Azobdan qutulish mumkin»",
+          "«Najot yo'li mavjuddir»",
+          "#«Azob uqubat mavjuddir». Har bir tirik jon boshidan kechiradi, shuning uchun har qanday hayot - qiynoq, azob-uqubatdir"
         ]
       },
       {
-        "text": "\"State officials should be replaced frequently to prevent them from abusing their positions.\" In which historical source can the idea above be found?",
+        "text": "Qaysi imperator davrida Buddizm kuchli mustaqil din sifatida shakllandi?",
         "options": [
-          "The Hamurabbi Code",
-          "#The Arthashastra",
-          "Laws of Eshnunna",
-          "Quran"
+          "Chandragupta Maurya",
+          "Buyuk Aleksandr",
+          "#Imperator Ashoka davri",
+          "Kanishka"
         ]
       },
       {
-        "text": "Who were the prominent economists associated with the American Institutionalist School?",
+        "text": "Buddaviylik diniy ta’limotining asosiy manbai muqaddas kitob qanday nomlangan?",
         "options": [
-          "Adam Smith and David Ricardo",
-          "Karl Marx and Friedrich Engels",
-          "#Thorstein Veblen, John Commons and Wesley Mitchell",
-          "Milton Friedman and Friedrich Hayek"
+          "Veda",
+          "Avesto",
+          "Tavrot",
+          "#TRIPITAKA “uch savat donolik” kitobi"
         ]
       },
       {
-        "text": "Fill in the space: … the duty of regular charity, was enforced and took a substantial bite out of profits.",
+        "text": "Buddizm Markaziy Osiyoda qachon tarqalgan?",
         "options": [
-          "Usury",
-          "#Zakat",
-          "Jizyah",
-          "Kharaj"
+          "Milodiy I asrda Arab istilolari davrida",
+          "Miloddan avvalgi X asrda",
+          "Milodiy V asrda Kushonlar davrida",
+          "#Buddizmning Markaziy Osiyoga tarqalishi miloddan avvaalgi II asrlarda grek-baktriya podsholigining o‘rnida qaror topgan Kushon imperiyasining rivojlangan davriga to‘g‘ri keladi."
         ]
       },
       {
-        "text": "Fill in the space: … is a tax levied on each individual, or “head” paid by non-Muslim dhimmis (Jews and Christians).",
+        "text": "Qaysi bir dinning muqaddas kitobi \"uch savat\" ma`nosini anglatadi?",
         "options": [
-          "Zakat",
-          "Kharaj",
-          "Ushr",
-          "#Jizyah"
+          "Zardushtiylik",
+          "Hinduizm",
+          "Xristianlik",
+          "#Buddaviylik"
         ]
       },
       {
-        "text": "Fill in the space: … is the tax on the produce of lands conquered in the course of the expansion of Islam, but kept in the hands of non-Muslim tillers.",
+        "text": "Buddizm dinidagi \"Katta arava\" deb nomlanadigan ta’limot.",
         "options": [
-          "#Kharaj",
-          "Ushr",
-          "Jizyah",
-          "Zakat"
+          "Xinayana",
+          "#Maxayana",
+          "Lamaizm",
+          "Vajrayana"
         ]
       },
       {
-        "text": "Fill in the space: … is one-tenth of annual produce or earnings, formerly taken as a tax for the support of the Church and clergy.",
+        "text": "Buddizm dinidagi \"Kichik arava\" deb nomlanadigan ta’limot.",
         "options": [
-          "Kharaj",
-          "Jizyah",
-          "Zakat",
-          "#Ushr"
+          "#Xinayana",
+          "Maxayana",
+          "Lamaizm",
+          "Dzen-buddizm"
         ]
       },
       {
-        "text": "According to Veblen, what is the function of advertising?",
+        "text": "Buddizmning dunyoda tez tarqalishidagi eng asosiy omil nima edi?",
         "options": [
-          "To inform consumers about products",
-          "#To create a desire for goods that display status and prestige",
-          "To lower the price of products",
-          "To increase competition between firms"
+          "Imperator Ashokaning harbiy yurishlari",
+          "Mo'jizalar ko'rsatishi",
+          "#Buddanng xushmuomalaligi, yumshoqligi",
+          "Boylik va'da qilishi"
         ]
       },
       {
-        "text": "What is Edward H. Chamberlin's contribution to economic theory?",
+        "text": "Quyidagilardan qaysi biri buddizm ta’limotiga kirmaydi?",
         "options": [
-          "The theory of comparative advantage",
-          "The theory of perfect competition",
-          "#The theory of monopolistic competition",
-          "The theory of supply and demand"
+          "Sansara",
+          "Karma",
+          "Nirvana",
+          "#"
         ]
       },
       {
-        "text": "Where did Chamberlin receive his education and who was his mentor?",
+        "text": "Neobuddizm (“neo” – “yangi”) – buddaviylikda qachon paydo bo‘lgan?",
         "options": [
-          "#Harvard, under Allyn Young",
-          "Yale, under John Bates Clark",
-          "Princeton, under Paul Samuelson",
-          "Columbia, under Milton Friedman"
+          "XIX asrning boshlarida",
+          "#XX asrning 40–50–yillaridan boshlab keng tarqala boshlagan diniy–ideologik oqim",
+          "Buddaning hayotlik davrida",
+          "Eramizdan avvalgi II asrda"
         ]
       },
       {
-        "text": "With which economic schools was Joan Robinson associated during her career?",
+        "text": "Buddizm tarixi qancha davrni o‘z ichiga oladi?",
         "options": [
-          "The Austrian School and the Chicago School",
-          "#The Cambridge School and the Neo-Ricardian and Post Keynesian schools",
-          "The Lausanne School and the Institutionalist School",
-          "The Monetarist School and the New Classical School"
+          "1000 yil atrofida",
+          "5000 yildan ortiq",
+          "1500 yil",
+          "#2000 yildan ortiq"
         ]
       },
       {
-        "text": "What theory did Joan Robinson introduce to economics?",
+        "text": "Buddaviylik oqimlari",
         "options": [
-          "Perfect competition",
-          "Monopoly",
-          "#Imperfect competition",
-          "Monopolistic competition"
+          "Sunniylik, Shialik",
+          "Katolitsizm, Protestantizm",
+          "#Xinayana, Maxayana, Lamaizm",
+          "Monoteizm, Politeizm"
         ]
       },
       {
-        "text": "Who independently discovered a similar theory of imperfect competition emphasizing product differentiation?",
+        "text": "Buddaviylikning еng yirik xalqaro tashkiloti",
         "options": [
-          "Alfred Marshall",
-          "John Bates Clark",
-          "#Edward Chamberlin",
-          "Wesley Mitchell"
+          "Buddaviylik Ligasiga",
+          "Nirvana Xalqaro Jamg'armasi",
+          "Uch Savat Ittifoqi",
+          "#Butunjahon Buddistlar Ittifoqi"
         ]
       },
       {
-        "text": "Who is John Maynard Keynes?",
+        "text": "Tripitaka qaysi dinning muqaddas kitobi?",
         "options": [
-          "#British economist",
-          "American politician",
-          "French philosopher",
-          "Russian novelist"
+          "Xristianlik",
+          "Islom",
+          "Hinduizm",
+          "#Buddaviylik"
         ]
       },
       {
-        "text": "Indicate the main book of J.M. Keynes.",
+        "text": "Quyidagilardan qaysi biri buddizm yo‘nalishlaridan emas?",
         "options": [
-          "The Wealth of Nations",
-          "Das Kapital",
-          "#The General Theory of Employment, Interest and Money",
-          "The Communist Manifesto"
+          "Xinayana",
+          "Maxayana",
+          "Lamaizm",
+          "#--"
         ]
       },
       {
-        "text": "What is the impact of Keynes' book, The General Theory of Employment, Interest and Money?",
+        "text": "Buddizm ta’limoti asosi qanday qismlaran iborat?",
         "options": [
-          "It changed the way the world looked at the economy and the role of government in society",
-          "#It caused a global economic crisis",
-          "It was ignored by economists and policymakers",
-          "It was banned in several countries for its controversial ideas."
+          "E'tiqod, ibodat, ro'za",
+          "Zikr, samo, xilvat",
+          "#axloq, meditatsiya, donolik",
+          "Imon, ehson, jihod"
         ]
       },
       {
-        "text": "Which of the following statements best represents Keynes' view on the capitalist economy during the Great Depression?",
+        "text": "O‘zbekiston Respublikasi «Vijdon erkinligi va diniy tashkilotlar to‘g’risida»gi Qonunning yangi tahriri qachon qabul qilindi?",
         "options": [
-          "The capitalist economy is always stable and will eventually achieve equilibrium without government intervention.",
-          "The capitalist economy is inherently stable but may experience short-term fluctuations that are self-correcting.",
-          "#The capitalist economy is inherently unstable and may experience persistent unemployment or severe inflation without government intervention.",
-          "The capitalist economy is always unstable and requires constant government intervention to achieve equilibrium."
+          "1991-yil 1-sentyabrda",
+          "1998-yil 1-mayda",
+          "2017-yil 7-dekabrda",
+          "#2021-yil 5-iyulda"
         ]
       },
       {
-        "text": "What is the principle of effective demand in Keynesian theory?",
+        "text": "Xristianlik dinidagi bo‘linish qachon sodir bo‘ldi?",
         "options": [
-          "The idea that supply creates its own demand",
-          "The belief that government intervention is unnecessary in achieving full employment",
-          "The notion that the economy is inherently stable and always self-correcting",
-          "#The concept that aggregate demand equals aggregate supply"
+          "476 y",
+          "800 y",
+          "#1054 y",
+          "1517 y"
         ]
       },
       {
-        "text": "How is effective demand expressed in an economy?",
+        "text": "Katolik oqimining bosh ruhoniysi to‘g‘ri ko‘rsatilgan javobni belgilang?",
         "options": [
-          "By the level of aggregate supply",
-          "By the price level of goods and services",
-          "#By the aggregate expenditure of an economy",
-          "By the level of income distribution in the economy"
+          "Patriarx",
+          "Imom",
+          "Rabbi",
+          "#Papa"
         ]
       },
       {
-        "text": "What does the term \"marginal propensity to consume\" refer to?",
+        "text": "Xristianlikning asosiy oqimlari qaysi oqimlar hisoblanadi?",
         "options": [
-          "The fraction of a change in income that is saved",
-          "#The fraction of a change in income that is consumed",
-          "The rate of interest on loans.",
-          "The level of aggregate deman"
+          "#Katolitsizm, provaslavie, protestantizm",
+          "Sunniylik, shialik, xorijiylik",
+          "Xinayana, Maxayana, Lamaizm",
+          "Iudaizm, Xristianlik, Islom"
         ]
       },
       {
-        "text": "Who was Friedrich von Hayek's great rival?",
+        "text": "«Xristianlik» iborasi qanday ma’noni anglatadi",
         "options": [
-          "#John Maynard Keynes",
-          "Ludwig von Mises",
-          "Eugen von Böhm-Bawerk",
-          "Carl Menger"
+          "Itoatkor",
+          "Nurlangan",
+          "#xaloskor",
+          "Muqaddas"
         ]
       },
       {
-        "text": "What is the full form of the APP?",
+        "text": "Iso Masihning hayoti va faoliyati Bibliya (Injil)ning qaysi qismida bayon etilgan?",
         "options": [
-          "#Average period of production",
-          "average production of period",
-          "A and B",
-          "no answer"
+          "Qadimgi Ahd",
+          "Tavrot",
+          "Zabur",
+          "#Yangi Ahd"
         ]
       },
       {
-        "text": "Who was the American Neoclassical economist and professor of economics at Columbia who became one of the leading figures of the Marginalist Revolution?",
+        "text": "Yevangeliya so‘zining ma’nosini belgilang?",
         "options": [
-          "Hilderbrand",
-          "#John Bates Clark",
-          "Karl Marx",
-          "no answer"
+          "Qonun",
+          "Havoriy",
+          "Najot",
+          "#xushxabar"
         ]
       },
       {
-        "text": "Who is considered important in the transition from agriculture to industry?",
+        "text": "Iso Masihning onasini ismi to‘g‘ri ko‘rsatilgan javobni belgilang?",
         "options": [
-          "#Friedrich List",
-          "Karl Marx",
-          "Engel Thompson",
-          "B and C"
+          "Fotima",
+          "Soro",
+          "Oisha",
+          "#Bibi Maryam"
         ]
       },
       {
-        "text": "Choose the economist who was born in 1818.",
+        "text": "Isoning 12 shogirdlari qanday nom bilan ataladi?",
         "options": [
-          "A. Smith",
-          "D. Ricardo",
-          "#K. Marx",
-          "F. Quesnay"
+          "Patriarxlar",
+          "Kardinallar",
+          "#apostollar (havoriylar)",
+          "Rohiblar"
         ]
       },
       {
-        "text": "Who is the author of the \"alienation\" theory?",
+        "text": "Iso Masix dastlab diniy qarashlarini qaysi hududlarda targ‘ib qilishdan boshlagan?",
         "options": [
-          "#K. Marx",
-          "A. Smith",
-          "B. Hildebrand",
-          "F. Quesnay"
+          "Rim",
+          "Quddus (Yerusalim)",
+          "Misr",
+          "#Falastinning Kapernaum"
         ]
       },
       {
-        "text": "Choose the correct definition of the \"alienation\" theory.",
+        "text": "Xristianlik dinidagi Evxaristiya qanday marosim hisoblanadi?",
         "options": [
-          "In a free market economy, self-interested individuals operate through a system of mutual interdependence",
-          "#The estrangement of people from aspects of their human nature",
-          "An economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners",
-          "Income flow among economic sectors"
+          "Cho'qintirish marosimi",
+          "Nikoh marosimi",
+          "Tavba qilish marosimi",
+          "#Non va Sharob totish marosimi"
         ]
       },
       {
-        "text": "Choose the book that describes \"class struggle\".",
+        "text": "Xristianlik dinidagi Miro moyi surtish marosimida qaysi mahsulotning yog‘idan foylalanilgan?",
         "options": [
-          "Wealth of nations",
-          "Economic table",
-          "Principles of economics",
-          "#Communist manifesto"
+          "Kungaboqar yog'i",
+          "Paxta yog'i",
+          "#Zaytun yog’i",
+          "Kunjut yog'i"
         ]
       },
       {
-        "text": "Choose the economist who did not believe in natural \"economic laws\".",
+        "text": "Xristianlikdagi oliy darajadagi ruhoniylik unvoni ?",
         "options": [
-          "F. Roscher",
-          "W. Petty",
-          "#B. Hildebrand",
-          "G. Schmoller"
+          "Yepiskop",
+          "Patriarx",
+          "Kardinal",
+          "#Papa"
         ]
       },
       {
-        "text": "Choose the economists who belong to the German Historical School.",
+        "text": "To‘g‘ri e’tiqod ma’nosini beruvchi xristianlikning sharqiy yo‘nalishi qanday nomlanadi?",
         "options": [
-          "A. Smith, D. Ricardo, W. Petty",
-          "F. Quesnay, Pierre de Nemours, J. Turgot",
-          "T. Mun, J. Colbert, J. Mill",
-          "#K. Marx, G. Schmoller, F. Roscher"
+          "Katolitsizm",
+          "Protestantizm",
+          "#Pravoslavlik",
+          "Anglikanlik"
         ]
       },
       {
-        "text": "Choose the economist who argued with Pareto about the \"non-existence of economic laws\" at a conference in Geneva.",
+        "text": "Xristianlik dini muqaddas manbalarini belgilang?",
         "options": [
-          "#G. Schmoller",
-          "F. List",
-          "B. Hildebrand",
-          "F. Wieser"
+          "Faqat Yangi Ahd",
+          "Qur'on va Injil",
+          "Tripitaka",
+          "#Qadimgi Ahd va Yangi Ahd"
         ]
       },
       {
-        "text": "Fill in the gap: _______ is the level of satisfaction a person derives from consuming a good or service.",
+        "text": "Xristianlik diniga ko‘ra apostollar (havoriylar) soni nechta deb keltiriladi?",
         "options": [
-          "Egoism",
-          "Opportunity cost",
-          "#Utility",
-          "Demand"
+          "7 ta",
+          "10 ta",
+          "#12 ta",
+          "4 ta"
         ]
       },
       {
-        "text": "Who is one of the leaders of the \"Marginalist Revolution\" of the 1870s?",
+        "text": "Xristianlik qaysi dindan ajralib chiqqan?",
         "options": [
-          "K. Marx",
-          "#C. Menger",
-          "A. Marshall",
-          "M. Friedman"
+          "Islom",
+          "Zardushtiylik",
+          "Misr dinlari",
+          "#Yahudiylik"
         ]
       },
       {
-        "text": "Who gave the definition of price as \"symptoms of an equilibrium between individuals involved in an exchange process”?",
+        "text": "Xristianlik dinida Rojdestvo Xristovo qanday bayram hisoblanadi?",
         "options": [
-          "A. Marshal",
-          "E. Böhm-Bawerk",
-          "S. Jevons",
-          "#C. Menger"
+          "Iso Masihning tirilishi",
+          "Iso Masihning cho'qinishi",
+          "#Iso Masihning tug’ilishi",
+          "Iso Masihning osmonga ko'tarilishi"
         ]
       },
       {
-        "text": "Exclude the economist who does not belong to the Austrian school.",
+        "text": "Injilga koʻra Iso..?",
         "options": [
-          "#B. Hildebrand",
-          "E. Böhm-Bawerk",
-          "L. Walras",
-          "C. Menger"
+          "xudoning payg'ambari",
+          "xudoning so'nggi elchisi",
+          "oddiy inson",
+          "#xudoning oʻgʻli"
         ]
       },
       {
-        "text": "What is the meaning of marginal utility?",
+        "text": "Iso Masihga qaysi muqaddas kitob nozil qilingan?",
         "options": [
-          "symptoms of an equilibrium between individuals involved in an exchange process",
-          "the level of satisfaction a person derives from consuming a good or service",
-          "#the level of satisfaction gained from consuming one additional unit of a product or service",
-          "The estrangement of people from aspects of their human nature"
+          "Tavrot",
+          "Zabur",
+          "Qur'on",
+          "#Injil"
         ]
       },
       {
-        "text": "Which economic school studies economic processes in terms of marginality?",
+        "text": "Lyuteranlik talimotining olimi, rohibi kim bo’lgan?",
         "options": [
-          "Mercantilism",
-          "Neoclassic",
-          "Classic",
-          "#Marginalism"
+          "Jan Kalvin",
+          "Genrix VIII",
+          "Rim Papasi",
+          "#Martin Lyuter"
         ]
       },
       {
-        "text": "What is the unit of measure of the level of satisfaction a person derives from consuming a good or service?",
+        "text": "“Golos Bojiy” xristian cherkovi 2022 yilning 1 dekabr holatiga kora O’zbekistonning qaysi viloyatida ro’yxatga olingan?",
         "options": [
-          "Cost",
-          "#Utile",
-          "Pleasure",
-          "Price"
+          "Toshkent Viloyati",
+          "Samarqand Viloyati",
+          "Buxoro Viloyati",
+          "#Navoiy Viloyati"
         ]
       },
       {
-        "text": "Choose the author of the “Positive Theory of Capital”.",
+        "text": "Eng qadimgi xristian cherkovlaridan birini toping.",
         "options": [
-          "K. Marx",
-          "A. Smith",
-          "#E. Böhm-Bawerk",
-          "A. Marshall"
+          "Rus pravoslav cherkovi",
+          "Rim katolik cherkovi",
+          "Lyuteran cherkovi",
+          "#Arman apostol cherkovi"
         ]
       },
       {
-        "text": "What are Wieser's two main contributions?",
+        "text": "Jahon dinlari orasida eng ko’p sig'inuvchisiga ega bo’lgani qaysi?",
         "options": [
-          "#alternative cost, opportunity cost",
-          "roundabout, dimension",
-          "input, output",
-          "no correct answer"
+          "Xristianlik",
+          "Buddizm",
+          "Hinduizm",
+          "#Islom"
         ]
       },
       {
-        "text": "Who wrote the Principles of Economics in 1871?",
+        "text": "O‘zbekiston Konstitusiyasining qaysi moddalari din masalalariga bag’ishlangan?",
         "options": [
-          "Karl Marx",
-          "#Carl Menger",
-          "Stanley Jevons",
-          "no correct answer"
+          "1, 2, 3 moddalari",
+          "10, 20, 30 moddalari",
+          "50, 51, 52 moddalari",
+          "#19, 35, 71 moddalari"
         ]
       },
       {
-        "text": "Who is the founder of the Austrian School of Economics?",
+        "text": "Islom dini qachon paydo bo‘ldi?",
         "options": [
-          "#Carl Menger",
-          "Stanley Jevons",
-          "Karl Marx",
-          "Joseph Schumpeter"
+          "Eramizdan avvalgi VII asrda",
+          "Milodmizning I asrida",
+          "#Milodmizning VII asrida",
+          "Milodmizning V asrida"
         ]
       },
       {
-        "text": "What is the definition of a \"good\" according to Carl Menger's ideas?",
+        "text": "Hadis nima?",
         "options": [
-          "alternative costs",
-          "opportunity costs",
-          "subject to cause and effect",
-          "#useful thing employed in the satisfaction of human needs."
+          "Qur'on suralari",
+          "Payg'ambarning tarjimai holi",
+          "Fiqh qoidalari",
+          "#rivoyatlar to‘plami;"
         ]
       },
       {
-        "text": "What did Böhm-Bawerk describe as the process of investment into labor and land?",
+        "text": "Islom dinining Muqaddas kitobi nima deb ataladi?",
         "options": [
-          "Dimension",
-          "Input",
-          "#Roundabout",
-          "output"
+          "Injil",
+          "Tavrot",
+          "Hadis",
+          "#Qur’on"
         ]
       },
       {
-        "text": "What is another name for the \"Austrian School\"?",
+        "text": "Shariatning mohiyati nima?",
         "options": [
-          "#Vienna school",
-          "Friedrich school",
-          "Eugen school",
-          "Revolution school"
+          "Islom tarixi",
+          "Islom falsafasi",
+          "#Musulmon huquqi",
+          "Tasavvuf ta'limoti"
         ]
       },
       {
-        "text": "By whom has Leon Walras been hailed as \"the greatest of all economists\"?",
+        "text": "Musulmon huquqshunosligidagi Shariat manbalari qatorini toping…",
         "options": [
-          "#Joseph Schumpeter",
-          "Stanley Jevons",
-          "Carl Menger",
-          "no answer"
+          "Faqat Qur'on va hadis",
+          "#Qur’on, hadis, ijmo, qiyos",
+          "Qur'on, fiqh, kalom",
+          "Hadis, tafsir, siyrat"
         ]
       },
       {
-        "text": "Who argued that there was a connection between the timing of commercial crises and the solar cycle?",
+        "text": "Islomda ro‘za necha kun tutiladi?",
         "options": [
-          "Carl Menger",
-          "Leon Walras",
-          "Joseph Schumpeter",
-          "#William Stanley Jevons"
+          "10 kun",
+          "40 kun",
+          "25 kun",
+          "#30 kun"
         ]
       },
       {
-        "text": "Who published \"Elements of Pure Economics\"?",
+        "text": "Islom ilohiyotining muhim soxasi - musulmon huquqshunosligi qanday nomlanadi?",
         "options": [
-          "#Leon Walras",
-          "Carl Menger",
-          "William Stanley",
-          "Joseph Schumpeter"
+          "Kalom",
+          "Tafsir",
+          "Tasavvuf",
+          "#Shariat"
         ]
       },
       {
-        "text": "Who is the father of general equilibrium theory?",
+        "text": "Marg’inoniyning \"Al-Xidoya\" asarining ma'nosi nima?",
         "options": [
-          "Carl Menger",
-          "#Leon Walras",
-          "Joseph Schumpeter",
-          "William Stanley Jevons"
+          "Hidoyat kitobi",
+          "Haqiqat yo'li",
+          "Shariat asoslari",
+          "#To’g’ri yo’l"
         ]
       },
       {
-        "text": "Who is the American Neoclassical economist and professor of economics at Columbia known for being one of the leading figures of the Marginalist Revolution?",
+        "text": "Marg’inoniyning qaysi asari XII asrdan buyon mukammal huquqiy manba sifatida o‘z ahamiyatini yo‘qotmagan?",
         "options": [
-          "#John Bates Clark",
-          "Carl Menger",
-          "William Stanley",
-          "Joseph Schumpeter"
+          "Kifoya",
+          "Al-Qonun",
+          "Tafsir",
+          "#Al-hidoya"
         ]
       },
       {
-        "text": "“Achieving a positive balance of trade causes England's wealth to steadily increase,” and “foreign trade was the best way to increase the wealth of a nation.” Who is the author of the statements above?",
+        "text": "«Diling Ollohda, qo‘ling mеhnatda bo‘lsin» hikmatining muallifi kim?",
         "options": [
-          "William Stafford",
-          "#Thomas Mun",
-          "Jean Charles",
-          "William Stanley"
-        ]
-      },
-      {
-        "text": "Who invited workmen from foreign countries and prohibited French workmen from emigrating?",
-        "options": [
-          "John Stuart Mill",
-          "Keynes",
-          "Hayek",
-          "#Jean-Baptiste Colbert"
-        ]
-      },
-      {
-        "text": "Who was expelling foreign merchants from France as much as possible and giving local merchants a monopoly on foreign trade?",
-        "options": [
-          "William Stanley",
-          "David Ricardo",
-          "#Antoine de Montchrestien",
-          "John Maynard"
-        ]
-      },
-      {
-        "text": "Which country’s importation was prohibited by William Stafford?",
-        "options": [
-          "#England",
-          "The USA",
-          "Germany",
-          "Russia"
-        ]
-      },
-      {
-        "text": "Which concept in the options belongs to John Law?",
-        "options": [
-          "inviting in workmen from foreign countries, and prohibited French workmen from emigrating",
-          "Supply creates own demand",
-          "avoiding anarchy in industry and focusing on planned central management",
-          "#a small increase in the price of goods leads to a large increase in the supply of goods"
-        ]
-      },
-      {
-        "text": "Which one refers to the school of thought of economics that originated in the late 18th and early 19th centuries, especially in Britain?",
-        "options": [
-          "#classical economics",
-          "political economics",
-          "classical political economics",
-          "No answer"
-        ]
-      },
-      {
-        "text": "What does Classical economics focus on?",
-        "options": [
-          "Demand drives supply and that healthy economies spend or invest more than they save",
-          "Market prices should be fixed by the consumers/business owners operating there, without any government interference",
-          "#Economic growth and economic freedom, advocating laissez-faire ideas and belief in free competition",
-          "The wealth of nations derived solely from the value of \"land agriculture\""
-        ]
-      },
-      {
-        "text": "What did the classical economic theory propagate to the countries?",
-        "options": [
-          "all important jobs should be open to women on the basis of skill and aptitude rather than closed on account of gender",
-          "wars important in the transition from agriculture to industry",
-          "alternative theories and ideas about the central issues of our day, including economic instability, central planning, and the operation of the political process.",
-          "#to move from the monarch rule to a capitalist democracy factored with self-regulation"
-        ]
-      },
-      {
-        "text": "Who believed the statement “Wages should be paid at a level that covers the living minimum”?",
-        "options": [
-          "#William Petty",
-          "John Stuart Mill",
-          "Jacques Turgot",
-          "Henri de Saint-Simon"
-        ]
-      },
-      {
-        "text": "What does Adam Smith describe as “The unintended greater social impacts brought about by individuals acting in their own self-interests”?",
-        "options": [
-          "Wars",
-          "Pandemic",
-          "classic school",
-          "#Invisible hand"
-        ]
-      },
-      {
-        "text": "Who believed that the “Comparative advantage” theory is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners?",
-        "options": [
-          "#David Ricardo",
-          "Jacques Turgot",
-          "John Stuart Mill",
-          "Jean Charles Leonard"
-        ]
-      },
-      {
-        "text": "How would population grow, whereas food resources would only grow in arithmetic progression, according to Thomas Malthus’s beliefs?",
-        "options": [
-          "biometric",
-          "#geometric",
-          "arithmetic",
-          "geographic"
-        ]
-      },
-      {
-        "text": "What can not be seen as a measure to prevent overpopulation, according to Thomas Malthus’s beliefs?",
-        "options": [
-          "#High standard of living",
-          "Later marriage",
-          "Famine",
-          "Wars"
-        ]
-      },
-      {
-        "text": "What language did the word Physiocracy originally come from?",
-        "options": [
-          "Latin",
-          "German",
-          "#Greek",
-          "French"
-        ]
-      },
-      {
-        "text": "Who trusted the idea that “the wealth of nations derived solely from the value of 'land agriculture' or 'land development'”?",
-        "options": [
-          "American philosophers",
-          "Chinese economists",
-          "#French economists",
-          "Russian politicians"
-        ]
-      },
-      {
-        "text": "Which concept originated in France and was most popular during the second half of the 18th century?",
-        "options": [
-          "#the wealth of nations derived solely from the value of \"land agriculture\" or \"land development\"",
-          "The amount of money in an economy must be equal to the quantity of goods and services",
-          "demand drives supply and that healthy economies spend or invest more than they save",
-          "the central issues of our day, including economic instability, central planning, and the operation of the political process"
-        ]
-      },
-      {
-        "text": "Who trusted the concept “The main source of wealth comes from agriculture”?",
-        "options": [
-          "Friedrich List",
-          "#François Quesnay",
-          "Alfred Marshall",
-          "Thorstein Veblen"
-        ]
-      },
-      {
-        "text": "Which statement belongs to Jacques Turgot?",
-        "options": [
-          "#The amount of money in an economy must be equal to the quantity of goods and services",
-          "Wages should be paid at a level that covers living minimum",
-          "“Comparative advantage” theory is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners",
-          "the wealth of nations derived solely from the value of \"land agriculture\" or \"land development\""
-        ]
-      },
-      {
-        "text": "Who suggests avoiding anarchy in industry and focusing on planned central management?",
-        "options": [
-          "David Ricardo",
-          "John Galbraith",
-          "John Maynard",
-          "#Henri de Saint-Simon"
-        ]
-      },
-      {
-        "text": "According to Charles Fourier’s opinions, for whom should all important jobs be open on the basis of skill and aptitude?",
-        "options": [
-          "Unemployment",
-          "Men",
-          "#Women",
-          "Youngsters"
-        ]
-      },
-      {
-        "text": "Fourier saw that what could potentially hurt women's rights as human beings?",
-        "options": [
-          "#traditional marriage",
-          "Being jobless",
-          "Being careless",
-          "Aggression"
-        ]
-      },
-      {
-        "text": "Who argues that demand drives supply and that healthy economies spend or invest more than they save?",
-        "options": [
-          "Japan economists",
-          "German scientists",
-          "Russian politicians",
-          "#Keynesian economics"
-        ]
-      },
-      {
-        "text": "Which scientists researched the evolution of modern economic views (Neoliberalism and Monetarism)?",
-        "options": [
-          "F. Hayek",
-          "M. Friedman",
-          "L. Erhard",
-          "#All answers are correct"
-        ]
-      },
-      {
-        "text": "How do we know Ludwig Wilhelm Erhard?",
-        "options": [
-          "competition where possible, regulation where necessary",
-          "#He is known for leading the West German postwar economic reforms and economic recovery (German for \"economic miracle\")",
-          "one of the giants of the economics profession",
-          "First Nobel-prizer in economics"
-        ]
-      },
-      {
-        "text": "Who is the founder of the American Economic School?",
-        "options": [
-          "#J. Clark",
-          "Marshall",
-          "J. Say",
-          "Ricardo"
-        ]
-      },
-      {
-        "text": "The founder of the Institutionalism school is ______.",
-        "options": [
-          "#T. Veblen",
-          "Smith",
-          "Ricardo",
-          "Marshall."
-        ]
-      },
-      {
-        "text": "To which school does the term \"utility\" belong?",
-        "options": [
-          "Classical doctrine",
-          "Monetarism",
-          "#Marginalism",
-          "Mercantilism"
-        ]
-      },
-      {
-        "text": "Which economist created the \"Economic Table\"?",
-        "options": [
-          "#F. Quesnay",
-          "A. Turgot",
-          "A. Smith",
-          "D. Ricardo"
-        ]
-      },
-      {
-        "text": "Who is the founder of the concept of the \"Invisible Hand\"?",
-        "options": [
-          "D. Ricardo",
-          "#A. Smith",
-          "F. Quesnay",
-          "D. Hume"
-        ]
-      },
-      {
-        "text": "What were the main ideas of the Physiocrats?",
-        "options": [
-          "Development of production",
-          "#Development of agriculture",
-          "Development of industry",
-          "Resistance to agricultural development"
-        ]
-      },
-      {
-        "text": "What type of tax was considered important by the Physiocrats?",
-        "options": [
-          "Property tax",
-          "Slave tax",
-          "Farm tax",
-          "#Land tax."
-        ]
-      },
-      {
-        "text": "\"The wealth of a nation,\" ________ argued, \"lies in the size of its net product.\"",
-        "options": [
-          "Adam Smith",
-          "#François Quesnay",
-          "David Ricardo",
-          "William Petty"
-        ]
-      },
-      {
-        "text": "The \"IS-LM\" model was introduced by ______.",
-        "options": [
-          "Thorstein Veblen",
-          "John Commons",
-          "Alfred Marshall",
-          "#John Maynard Keynes"
-        ]
-      },
-      {
-        "text": "The word “Oeconomicus” means:",
-        "options": [
-          "#a household management",
-          "agricultural law",
-          "manufactory",
-          "management"
-        ]
-      },
-      {
-        "text": "Which economist supported the state's intervention in the economy?",
-        "options": [
-          "Marshall",
-          "#J.M. Keynes",
-          "Ricardo",
-          "Smith"
-        ]
-      },
-      {
-        "text": "Which of the following is the policy of mercantilism?",
-        "options": [
-          "Neoliberalism",
-          "Market economy",
-          "#Protectionism",
-          "Democracy"
-        ]
-      },
-      {
-        "text": "Fill in the gap: According to W. Petty, “Labor is the father of wealth, __________ is its mother.”",
-        "options": [
-          "#Land",
-          "Capital",
-          "Business",
-          "Democracy"
-        ]
-      },
-      {
-        "text": "What is the main concept introduced by Adam Smith to describe how individual self-interest can lead to overall economic welfare?",
-        "options": [
-          "Invisible government",
-          "Market monopoly",
-          "#Invisible hand",
-          "Laissez-faire control"
-        ]
-      },
-      {
-        "text": "According to David Ricardo, what determines a country's pattern of international trade?",
-        "options": [
-          "Absolute advantage",
-          "Technological superiority",
-          "#Comparative advantage",
-          "High labor productivity"
-        ]
-      },
-      {
-        "text": "In Malthus’s theory, population tends to grow in which of the following progressions?",
-        "options": [
-          "Arithmetic progression",
-          "#Geometric progression",
-          "Constant progression",
-          "Cyclical progression"
-        ]
-      },
-      {
-        "text": "What is the main argument of Malthus’s “Essay on the Principle of Population”?",
-        "options": [
-          "Wages rise faster than prices",
-          "Government controls can stop overpopulation",
-          "#Population grows faster than food supply",
-          "Trade expansion prevents poverty"
-        ]
-      },
-      {
-        "text": "Which concept introduced by John Stuart Mill suggests that endless material growth is not desirable and society should focus on moral and intellectual progress?",
-        "options": [
-          "#Stationary state",
-          "Dynamic equilibrium",
-          "Circular growth",
-          "Demographic transition"
-        ]
-      },
-      {
-        "text": "According to Mill, what can be changed through social and institutional reforms?",
-        "options": [
-          "Natural laws of production",
-          "Technological progress",
-          "#Laws of distribution",
-          "Economic scarcity"
-        ]
-      },
-      {
-        "text": "Which statement best summarizes Say’s Law of Markets?",
-        "options": [
-          "Government must stimulate demand through spending",
-          "Demand creates its own supply",
-          "#Supply creates its own demand",
-          "Production depends on export markets"
-        ]
-      },
-      {
-        "text": "According to Jean-Baptiste Say, what role do entrepreneurs play in the economy?",
-        "options": [
-          "They only own capital and collect interest",
-          "#They coordinate production by combining land, labor, and capital",
-          "They are passive consumers of goods",
-          "They control government taxation"
-        ]
-      },
-      {
-        "text": "In Adam Smith’s Wealth of Nations, which type of labor directly contributes to the creation of national wealth?",
-        "options": [
-          "Unproductive labor",
-          "Administrative labor",
-          "#Productive labor",
-          "Public sector labor"
-        ]
-      },
-      {
-        "text": "Who among the classical economists argued that value comes from utility, not just the amount of labor embodied in goods?",
-        "options": [
-          "Thomas Malthus",
-          "#Jean-Baptiste Say",
-          "John Stuart Mill",
-          "David Ricardo"
-        ]
-      },
-      {
-        "text": "Which of the following best describes David Ricardo’s theory of rent?",
-        "options": [
-          "Rent is determined by government regulation",
-          "Rent increases as population decreases",
-          "#Rent arises due to differences in land fertility",
-          "Rent is unrelated to agricultural production"
-        ]
-      },
-      {
-        "text": "What was Malthus’s attitude toward poor relief and charity?",
-        "options": [
-          "He fully supported all welfare programs",
-          "He ignored the issue of poverty",
-          "#He believed charity encourages overpopulation",
-          "He thought welfare reduces inequality"
-        ]
-      },
-      {
-        "text": "According to John Stuart Mill, which of the following can lead to a fairer society without harming production efficiency?",
-        "options": [
-          "#Progressive taxation and redistribution",
-          "Elimination of private property",
-          "Increased tariffs on imports",
-          "Restricting capital accumulation"
-        ]
-      },
-      {
-        "text": "Which economist emphasized that the economy would naturally return to equilibrium without government intervention?",
-        "options": [
-          "Thomas Malthus",
-          "#Jean-Baptiste Say",
-          "John Stuart Mill",
-          "Adam Smith"
-        ]
-      },
-      {
-        "text": "In Adam Smith’s theory, which factor is not part of the “natural price” of goods?",
-        "options": [
-          "Wages",
-          "Profit",
-          "#Government subsidies",
-          "Rent"
-        ]
-      },
-      {
-        "text": "Who is considered one of the pioneers of industrialist and merit-based socialism?",
-        "options": [
-          "Charles Fourier",
-          "Robert Owen",
-          "#Claude Henri de Saint-Simon",
-          "Karl Marx"
-        ]
-      },
-      {
-        "text": "According to Saint-Simon, who should lead society for progress and welfare?",
-        "options": [
-          "#Scientists and engineers",
-          "Politicians and nobles",
-          "Merchants and landlords",
-          "Military leaders"
-        ]
-      },
-      {
-        "text": "What did Saint-Simon believe was the main source of social advancement?",
-        "options": [
-          "Agricultural expansion",
-          "#Industry and production",
-          "Wealth inheritance",
-          "Religious authority"
-        ]
-      },
-      {
-        "text": "Which of the following best describes Saint-Simon’s economic vision?",
-        "options": [
-          "Government ownership of all property",
-          "#Wealth distribution based on productivity and merit",
-          "Complete free-market capitalism",
-          "Feudal privileges and hierarchy"
-        ]
-      },
-      {
-        "text": "What kind of communities did Charles Fourier propose?",
-        "options": [
-          "State-owned colonies",
-          "#Small self-sufficient “phalanxes”",
-          "Urban industrial centers",
-          "Military communes"
-        ]
-      },
-      {
-        "text": "Which of the following did Fourier criticize most strongly?",
-        "options": [
-          "Technological development",
-          "#Economic inequality and alienated labor",
-          "Industrial cooperation",
-          "Utopian ideals"
-        ]
-      },
-      {
-        "text": "What was Fourier’s main principle of social organization?",
-        "options": [
-          "Strict government control",
-          "Religious discipline",
-          "#Voluntary cooperation and harmony",
-          "Private property rights"
-        ]
-      },
-      {
-        "text": "Who established the New Lanark model community to improve workers’ living conditions?",
-        "options": [
-          "Karl Marx",
-          "Charles Fourier",
-          "#Robert Owen",
-          "Saint-Simon"
-        ]
-      },
-      {
-        "text": "Which reform did Robert Owen introduce in his factories?",
-        "options": [
-          "Abolition of money",
-          "#Free education and shorter working hours",
-          "Nationalization of all industries",
-          "Child labor incentives"
-        ]
-      },
-      {
-        "text": "Robert Owen is known as the “Father of...”",
-        "options": [
-          "Modern Capitalism",
-          "#Cooperatives",
-          "Trade Unions",
-          "Public Finance"
-        ]
-      },
-      {
-        "text": "What is the main similarity among Saint-Simon, Fourier, and Owen?",
-        "options": [
-          "They all rejected industrialization",
-          "They supported absolute monarchy",
-          "#They sought alternatives to capitalism emphasizing cooperation",
-          "They opposed any social reforms"
-        ]
-      },
-      {
-        "text": "Which thinker emphasized industrial leadership and scientific planning?",
-        "options": [
-          "Robert Owen",
-          "Charles Fourier",
-          "#Saint-Simon",
-          "Karl Marx"
-        ]
-      },
-      {
-        "text": "Which thinker actually implemented practical social reforms rather than only proposing theory?",
-        "options": [
-          "Karl Marx",
-          "#Robert Owen",
-          "Saint-Simon",
-          "Fourier"
-        ]
-      },
-      {
-        "text": "What is the title of Karl Marx’s most famous work published in 1867?",
-        "options": [
-          "The Wealth of Nations",
-          "#Das Kapital",
-          "Principles of Political Economy",
-          "A Treatise on Money"
-        ]
-      },
-      {
-        "text": "According to Marx’s labor theory of value, what determines the value of a commodity?",
-        "options": [
-          "Utility to consumers",
-          "Scarcity of resources",
-          "#Socially necessary labor time",
-          "Government regulation"
-        ]
-      },
-      {
-        "text": "What is “surplus value” in Marxian economics?",
-        "options": [
-          "The total cost of production",
-          "#The difference between the value created by labor and the wage paid",
-          "The value of machinery used",
-          "Profit after taxation"
-        ]
-      },
-      {
-        "text": "According to Marx, what forms the profit of the capitalist?",
-        "options": [
-          "Rent from land",
-          "#Unpaid portion of workers’ labor",
-          "Government subsidies",
-          "Interest on credit"
-        ]
-      },
-      {
-        "text": "In Marx’s theory, labor power itself becomes a...",
-        "options": [
-          "Service",
-          "Gift",
-          "#Commodity",
-          "Tax obligation"
-        ]
-      },
-      {
-        "text": "Which of the following best describes Marx’s view of capitalism?",
-        "options": [
-          "A fair and equal system",
-          "#A system based on exploitation of labor",
-          "A temporary stage of socialism",
-          "A moral and spiritual system"
-        ]
-      },
-      {
-        "text": "What did Marx divide the total value produced in society into?",
-        "options": [
-          "Investment, consumption, and imports",
-          "#Wages, profit, and rent",
-          "Labor, capital, and land",
-          "Exports, savings, and taxes"
-        ]
-      },
-      {
-        "text": "Who was one of the founders of the Marginalist Revolution of 1871?",
-        "options": [
-          "John Stuart Mill",
-          "Karl Marx",
-          "#William Stanley Jevons",
-          "David Ricardo"
-        ]
-      },
-      {
-        "text": "Which economist founded the Austrian School of Economics?",
-        "options": [
-          "Alfred Marshall",
-          "#Carl Menger",
-          "Vilfredo Pareto",
-          "Léon Walras"
-        ]
-      },
-      {
-        "text": "Who were the main representatives of the first generation of the Austrian School?",
-        "options": [
-          "John Hicks and Keynes",
-          "#Eugen von Böhm-Bawerk and Friedrich von Wieser",
-          "Walras and Pareto",
-          "Schumpeter and Hayek"
-        ]
-      },
-      {
-        "text": "According to Friedrich von Wieser, all things are subject to:",
-        "options": [
-          "Market forces only",
-          "#Cause and effect",
-          "Government regulation",
-          "Moral law"
-        ]
-      },
-      {
-        "text": "What is Eugen von Böhm-Bawerk best known for?",
-        "options": [
-          "The law of population",
-          "#The Positive Theory of Capital (1889)",
-          "The Principles of Economics",
-          "The General Theory of Employment"
-        ]
-      },
-      {
-        "text": "According to Böhm-Bawerk, capital represents:",
-        "options": [
-          "Labor productivity only",
-          "Government ownership",
-          "#A “roundabout” production process involving time and investment",
-          "Pure financial capital"
-        ]
-      },
-      {
-        "text": "What is the “Average Period of Production (APP)” concept used for?",
-        "options": [
-          "#To measure the productivity of capital over time",
-          "To calculate wages",
-          "To estimate inflation",
-          "To measure government spending"
-        ]
-      },
-      {
-        "text": "Who was one of the three main economists associated with the Marginalist Revolution alongside Menger and Walras?",
-        "options": [
-          "Alfred Marshall",
-          "#William Stanley Jevons",
-          "Adam Smith",
-          "David Ricardo"
-        ]
-      },
-      {
-        "text": "What was the “Sunspot Theory” proposed by Jevons?",
-        "options": [
-          "A theory of taxation",
-          "#A link between solar activity and business cycles",
-          "A theory of comparative advantage",
-          "A model of consumer behavior"
-        ]
-      },
-      {
-        "text": "According to Jevons, government policy should:",
-        "options": [
-          "Completely control markets",
-          "Ignore social effects",
-          "#Increase happiness without reducing others’ welfare",
-          "Be based solely on taxation"
-        ]
-      },
-      {
-        "text": "Who is regarded as the father of general equilibrium theory?",
-        "options": [
-          "Carl Menger",
-          "#Léon Walras",
-          "Alfred Marshall",
-          "Robert Owen"
-        ]
-      },
-      {
-        "text": "Which book by Léon Walras laid the foundation of general equilibrium theory?",
-        "options": [
-          "Principles of Economics",
-          "#Elements of Pure Economics",
-          "Capital and Interest",
-          "The Positive Theory of Capital"
-        ]
-      },
-      {
-        "text": "Who was the founder of the Cambridge School of Neoclassicism?",
-        "options": [
-          "Carl Menger",
-          "Léon Walras",
-          "#Alfred Marshall",
-          "Vilfredo Pareto"
-        ]
-      },
-      {
-        "text": "Which of Alfred Marshall’s books became the foundation of neoclassical economics?",
-        "options": [
-          "#Principles of Economics (1890)",
-          "The Wealth of Nations",
-          "Das Kapital",
-          "The Theory of Moral Sentiments"
-        ]
-      },
-      {
-        "text": "What is the meaning of Marshall’s Latin phrase “Natura non facit saltum”?",
-        "options": [
-          "#Nature does not make jumps",
-          "Man controls nature",
-          "The economy is unpredictable",
-          "Wealth comes from nature"
-        ]
-      },
-      {
-        "text": "What key concept did Marshall develop to measure consumer welfare?",
-        "options": [
-          "Marginal utility",
-          "#Consumer surplus",
-          "Producer surplus",
-          "Total revenue"
-        ]
-      },
-      {
-        "text": "Which economist is associated with the concept of Pareto Efficiency?",
-        "options": [
-          "#Vilfredo Pareto",
-          "John Hicks",
-          "Alfred Marshall",
-          "Carl Menger"
-        ]
-      },
-      {
-        "text": "According to Pareto Efficiency, a change is efficient when:",
-        "options": [
-          "Everyone gains equally",
-          "#No one can be made better off without making someone else worse off",
-          "Total income increases",
-          "Wages rise faster than profits"
-        ]
-      },
-      {
-        "text": "Which economist described equilibrium as the result of “tastes and obstacles”?",
-        "options": [
-          "#Vilfredo Pareto",
-          "David Ricardo",
-          "William Jevons",
-          "Karl Marx"
-        ]
-      },
-      {
-        "text": "What was the main goal of the Neoclassical School that emerged after marginalism?",
-        "options": [
-          "To reject individual decision-making",
-          "#To integrate utility, supply and demand, and equilibrium analysis",
-          "To restore classical labor theory of value",
-          "To promote socialist planning"
-        ]
-      },
-      {
-        "text": "What was prohibited in the Laws of Hammurabi?",
-        "options": [
-          "#The sale of land, houses, or gardens belonging to a soldier or taxpayer for silver",
-          "Promoting private ownership",
-          "Commodity-money relations",
-          "Reforming the tax system"
-        ]
-      },
-      {
-        "text": "According to the Avesta, what is considered a grave sin to pollute?",
-        "options": [
-          "#Polluting or contaminating the earth, water, and air",
-          "Polluting the earth, milk, and temples",
-          "Polluting people’s minds and thoughts",
-          "All answers are correct"
-        ]
-      },
-      {
-        "text": "In Arthashastra, what activities are considered the basis of the economy?",
-        "options": [
-          "#Agriculture, animal husbandry, and trade",
-          "Agriculture, handicrafts, and trade",
-          "Agriculture, hunting, and handicrafts",
-          "All answers are correct"
-        ]
-      },
-      {
-        "text": "Who stated that differences in absolute costs are not important in international trade?",
-        "options": [
-          "#David Ricardo",
-          "William Petty",
-          "John Maynard Keynes",
-          "François Quesnay"
-        ]
-      },
-      {
-        "text": "Choose the correct works written by Xenophon (430–355 BCE):",
-        "options": [
-          "#“On Revenues” and “Oeconomicus”",
-          "“The Theory of Costs” and “Oeconomicus”",
-          "“Ways to Increase Income”",
-          "“On the Sources of Income”"
-        ]
-      },
-      {
-        "text": "In his work On Revenues, which state’s economy did Xenophon analyze?",
-        "options": [
-          "#The economy of Athens",
-          "The economy of Rome",
-          "The economy of China",
-          "The economy of Arabia"
-        ]
-      },
-      {
-        "text": "Which Greek philosopher wrote Nicomachean Ethics and Politics?",
-        "options": [
-          "#Aristotle",
-          "Xenophon",
-          "Plato",
-          "Confucius"
-        ]
-      },
-      {
-        "text": "What is chrematistics?",
-        "options": [
-          "#The art of gaining wealth through large-scale trade",
-          "The art of gaining wealth through agriculture",
-          "The art of gaining wealth through animal husbandry",
-          "The art of gaining wealth through craftsmanship"
-        ]
-      },
-      {
-        "text": "What was the core principle of the mercantilist worldview?",
-        "options": [
-          "#Considering gold and precious metals as the main form of wealth",
-          "Rejecting gold and precious metals",
-          "Considering all things as wealth",
-          "Banning the export of silver coins"
-        ]
-      },
-      {
-        "text": "What was the first school of economic thought?",
-        "options": [
-          "#Mercantilism",
-          "Classical School",
-          "Physiocracy",
-          "Marginalism"
-        ]
-      },
-      {
-        "text": "Who were the main representatives of mercantilism?",
-        "options": [
-          "#William Stafford, Gasparo Scaruffi",
-          "William Jevons, Carl Menger",
-          "Adam Smith, William Petty",
-          "Friedrich von Wieser, John Galbraith"
-        ]
-      },
-      {
-        "text": "What is the meaning of the word mercantilism?",
-        "options": [
-          "#From Italian “mercante” – merchant",
-          "From Greek “merko and kantos” – merchant",
-          "From Italian “mercante” – foreign trade",
-          "From Greek “merko and kantos” – foreign trade"
-        ]
-      },
-      {
-        "text": "Which school linked the origin of money’s value to the natural properties of gold and silver and their quantity in the country?",
-        "options": [
-          "#Mercantilism",
-          "Capitalism",
-          "Marginalism",
-          "Physiocracy"
-        ]
-      },
-      {
-        "text": "According to the mercantilists, what factor determines economic growth?",
-        "options": [
-          "#Government regulation of foreign trade and achieving a positive trade balance",
-          "Developing domestic trade",
-          "Producing more gold and silver coins",
-          "Restricting imports"
-        ]
-      },
-      {
-        "text": "Unlike early mercantilists, later mercantilists promoted which theory?",
-        "options": [
-          "#The “Trade Balance” theory",
-          "The “Money Balance” theory",
-          "The “Gold Balance” theory",
-          "The “Labor Balance” theory"
-        ]
-      },
-      {
-        "text": "What did mercantilists mean by an active trade balance?",
-        "options": [
-          "#Capturing foreign markets by selling relatively cheap goods, and reselling one country’s goods at higher prices in others",
-          "Capturing domestic markets by selling cheap goods",
-          "Selling cheap gold abroad and reselling it domestically",
-          "Selling cheap silver abroad and reselling it domestically"
-        ]
-      },
-      {
-        "text": "Who was a prominent representative of developed mercantilism?",
-        "options": [
-          "#Thomas Mun",
-          "McCulloch",
-          "John Maynard Keynes",
-          "Jean-Baptiste Say"
-        ]
-      },
-      {
-        "text": "In an active trade balance, ___________. (Fill in the blank)",
-        "options": [
-          "#Exports are encouraged",
-          "Manufacturing is developed",
-          "Industrial output is stimulated",
-          "Imports are banned"
-        ]
-      },
-      {
-        "text": "According to mercantilist doctrine, what is the main source of wealth?",
-        "options": [
-          "#Trade",
-          "Craftsmanship",
-          "Animal husbandry",
-          "Production"
-        ]
-      },
-      {
-        "text": "Who was the French mercantilist author of “Treatise on Political Economy” (1615)?",
-        "options": [
-          "#Antoine de Montchrestien",
-          "Adam Smith",
-          "David Ricardo",
-          "François Quesnay"
-        ]
-      },
-      {
-        "text": "How did second mercantilist policy differ from early mercantilism?",
-        "options": [
-          "#By focusing on foreign trade development",
-          "By increasing production volume",
-          "By developing domestic trade",
-          "By developing handicrafts"
-        ]
-      },
-      {
-        "text": "In which country did the first classical economic school emerge?",
-        "options": [
-          "#England",
-          "France",
-          "The Netherlands",
-          "Austria"
-        ]
-      },
-      {
-        "text": "What characterizes Petty’s theory of wages?",
-        "options": [
-          "#Wages represent the minimum necessary for subsistence",
-          "Wages must be set at the maximum level",
-          "Wages equal the entire value produced",
-          "Wages should be unlimited"
-        ]
-      },
-      {
-        "text": "Who were the French representatives of the classical school?",
-        "options": [
-          "#Pierre Boisguilbert, François Quesnay, Anne Turgot",
-          "Adam Smith, William Petty",
-          "Alfred Marshall, Turgot",
-          "Saint-Simon, David Ricardo"
-        ]
-      },
-      {
-        "text": "According to Boisguilbert, what is the main source of wealth and national prosperity?",
-        "options": [
-          "#Agriculture",
-          "Industry",
-          "Crafts",
-          "Trade"
-        ]
-      },
-      {
-        "text": "Who said: “Labor is the father of wealth, and the earth is its mother”?",
-        "options": [
-          "#William Petty",
-          "Adam Smith",
-          "David Ricardo",
-          "Turgot"
-        ]
-      },
-      {
-        "text": "Who wrote “An Inquiry into the Nature and Causes of the Wealth of Nations”?",
-        "options": [
-          "#Adam Smith",
-          "William Petty",
-          "David Ricardo",
-          "Anne Turgot"
-        ]
-      },
-      {
-        "text": "Who is the founder of the Physiocratic school?",
-        "options": [
-          "#François Quesnay",
-          "Alfred Marshall",
-          "Saint-Simon",
-          "John Maynard Keynes"
-        ]
-      },
-      {
-        "text": "According to Physiocrats, in which sector does wealth originate?",
-        "options": [
-          "#Agriculture",
-          "Trade",
-          "Animal husbandry",
-          "Tax reform"
-        ]
-      },
-      {
-        "text": "Who was the author of “Political Arithmetic” (1683)?",
-        "options": [
-          "#William Petty",
-          "Alfred Marshall",
-          "Saint-Simon",
-          "John Maynard Keynes"
-        ]
-      },
-      {
-        "text": "What is the essence of Quesnay’s concept of “Natural Order”?",
-        "options": [
-          "#An economy based on free competition",
-          "Based on private ownership",
-          "Based on commodity-money relations",
-          "Tax reform"
-        ]
-      },
-      {
-        "text": "Unlike Quesnay, J. Turgot recognized the existence of which additional social classes?",
-        "options": [
-          "#Workers and capitalists",
-          "Landowners",
-          "Industrialists",
-          "Clergy"
-        ]
-      },
-      {
-        "text": "Adam Smith and David Ricardo are representatives of which economic school?",
-        "options": [
-          "#Classical school",
-          "Mercantilism",
-          "Physiocracy",
-          "Clerical thought"
-        ]
-      },
-      {
-        "text": "What is Adam Smith’s main economic work?",
-        "options": [
-          "#An Inquiry into the Nature and Causes of the Wealth of Nations",
-          "The Theory of Moral Sentiments",
-          "Capital",
-          "Property Relations"
-        ]
-      },
-      {
-        "text": "Who proposed the idea of the “Invisible Hand”?",
-        "options": [
-          "#Adam Smith",
-          "William Petty",
-          "David Ricardo",
-          "J. Turgot"
-        ]
-      },
-      {
-        "text": "In the example of the pin factory, what did Adam Smith demonstrate?",
-        "options": [
-          "#The division of labor",
-          "Production",
-          "Finished products",
-          "Forms of activity"
-        ]
-      }
-    ]
-  },
-  "modern-uz": {
-    "questions": [
-      {
-        "text": "What is the name of the public organization dealing with youth issues in Uzbekistan?",
-        "options": [
-          "#\"Youth Union\"",
-          "“Kamolot”",
-          "\"Kamalak\"",
-          "\"Youth Wing\""
-        ]
-      },
-      {
-        "text": "When was the Action Strategy of the Republic of Uzbekistan adopted?",
-        "options": [
-          "#February 2017",
-          "February 2018",
-          "February 2016",
-          "February 2019"
-        ]
-      },
-      {
-        "text": "At what age can a citizen of the Republic of Uzbekistan be elected as a deputy of the Oliy Majlis?",
-        "options": [
-          "#From 25 years old",
-          "From 30 years old",
-          "From 35 years old",
-          "From 21 years old"
-        ]
-      },
-      {
-        "text": "Which countries competed for the territory of Turkestan in the late 19th and early 20th centuries?",
-        "options": [
-          "#Russia and England",
-          "Russia and China",
-          "Russia and Afghanistan",
-          "Russia and India"
-        ]
-      },
-      {
-        "text": "Are the works done to preserve and perpetuate the memory of Jaloliddin Manguberdi during the years of independence not in line with reality?",
-        "options": [
-          "# A monument was erected in Tashkent",
-          "The Order of Jaloliddin Manguberdi was approved",
-          "In 1999, the 800th anniversary of the great commander was celebrated",
-          "A monument to Jaloliddin Manguberdi was erected"
-        ]
-      },
-      {
-        "text": "Complete the sentence: \"From a strong state - ...\"",
-        "options": [
-          "#\"towards a strong civil society\"",
-          "“Towards a strong state and a civil legal society”;",
-          "\"towards a strong society and the market;",
-          "“Towards a strong state and the people”;"
-        ]
-      },
-      {
-        "text": "According to the Constitution of the Republic of Uzbekistan, who can act on behalf of the people of Uzbekistan?",
-        "options": [
-          "#President and Oliy Majlis",
-          "President and Cabinet of Ministers",
-          "Cabinet of Ministers and Oliy Majlis",
-          "Oliy Majlis"
-        ]
-      },
-      {
-        "text": "The only source of state power in Uzbekistan is...",
-        "options": [
-          "# People",
-          "Cabinet of Ministers",
-          "Senate",
-          "Oliy Majlis"
-        ]
-      },
-      {
-        "text": "In the Republic of Uzbekistan, all .... (complete the sentence)",
-        "options": [
-          "#Have the right to profess any religion or not to profess any religion",
-          "are obliged to profess any religion",
-          "have the right to profess only the religion permitted by the state",
-          "are obliged to be an atheist"
-        ]
-      },
-      {
-        "text": "Which of the reforms listed in the five principles of the \"Uzbek model\" shows the essence of an evolutionary nature?",
-        "options": [
-          "#Gradual transition to market relations;",
-          "The state as the main reformer and a gradual transition to market relations;",
-          "Gradual transition to market relations and the primacy of the role of the state as the main reformer;",
-          "Achieving the rule of law in all aspects of public life;"
-        ]
-      },
-      {
-        "text": "A referendum is...",
-        "options": [
-          "#A nationwide vote to resolve an important issue in the life of the state and society;",
-          "Popular elections to local representative bodies;",
-          "Adoption of state programs by nationwide vote;",
-          "Resolving issues of state foreign policy by nationwide vote;"
-        ]
-      },
-      {
-        "text": "Which of the following rights are included in personal rights and freedoms?",
-        "options": [
-          "#right to life and personal integrity",
-          "right to work, property and free choice of occupation;",
-          "right to participate in political processes, in the management of public and state affairs;",
-          "Participation in rallies"
-        ]
-      },
-      {
-        "text": "A voluntary political organization that represents the interests of certain social groups or strata and strives for power is...",
-        "options": [
-          "#Political party",
-          "Social movement",
-          "President and Oliy Majlis",
-          "Political association"
-        ]
-      },
-      {
-        "text": "Local self-government bodies ...",
-        "options": [
-          "#Citizens' assemblies elect the chairman (aksakol) and his advisers for a five-year term.",
-          "Elect the governor for a five-year term",
-          "Elect the ministers and the president for a five-year term",
-          "Appointed by the governor for a five-year term"
-        ]
-      },
-      {
-        "text": "When was the Khiva Khanate conquered by the Russian Empire?",
-        "options": [
-          "# In 1873",
-          "In 1875",
-          "In 1880",
-          "In 1849"
-        ]
-      },
-      {
-        "text": "Where is the ancient Bactria region located?",
-        "options": [
-          "#Southern Uzbekistan, southwestern Tajikistan, and northern Afghanistan",
-          "Northeastern Afghanistan, Khorezm, Karakalpakstan, and Turkmenistan",
-          "Tashkent Oasis, Zarafshan Valley, southern Tajikistan, northeastern Afghanistan.",
-          "Tashkent Oasis, banks of the Syrdarya River, southern Kazakhstan, and northeastern Afghanistan."
-        ]
-      },
-      {
-        "text": "In what year was Samarkand declared the capital of the Timurid state?",
-        "options": [
-          "# In 1370",
-          "In 1379",
-          "In 1372",
-          "In 1365"
-        ]
-      },
-      {
-        "text": "Which Uzbek clan founded a new ruling dynasty in the Khiva Khanate in the second half of the 18th century?",
-        "options": [
-          "#Kungroats",
-          "Ming",
-          "Mangits",
-          "Kipchogs"
-        ]
-      },
-      {
-        "text": "When was the Emirate of Bukhara conquered by the Russian Empire?",
-        "options": [
-          "# 1868",
-          "1848",
-          "1835",
-          "1846"
-        ]
-      },
-      {
-        "text": "What is the name of the Uzbek clan that is considered the ruling dynasty that founded the Kokand Khanate?",
-        "options": [
-          "#Minglar",
-          "Kipchaks",
-          "Jaloyirlar",
-          "Mang'itlar"
-        ]
-      },
-      {
-        "text": "What does Article 1 of the new Constitution of the Republic of Uzbekistan say?",
-        "options": [
-          "# Uzbekistan is a sovereign, democratic, legal, social and secular state.",
-          "Uzbekistan is an economic, democratic, political and secular state in accordance with the laws.",
-          "Uzbekistan is a social, democratic, political-economic and secular state.",
-          "Uzbekistan is a democratic, political, religious, social and sovereign state."
-        ]
-      },
-      {
-        "text": "According to the new Constitution, what is the total number of senators and the number of senators appointed by the President?",
-        "options": [
-          "# 65 and 9 respectively",
-          "69 and 12 respectively",
-          "84 and 16 respectively",
-          "70 and 15 respectively"
-        ]
-      },
-      {
-        "text": "In what year was the New Uzbekistan Development Strategy for 2022-2026 adopted?",
-        "options": [
-          "#In 2022",
-          "In 2023",
-          "In 2017",
-          "In 2018"
-        ]
-      },
-      {
-        "text": "In which direction of the \"Uzbekistan 2030\" strategy are the goals set for realizing the potential of every person?",
-        "options": [
-          "#In the first direction",
-          "In the fifth direction",
-          "In the second direction",
-          "In the third direction"
-        ]
-      },
-      {
-        "text": "In which priority area of ​​the “Uzbekistan 2030” strategy are the issues of the rule of law reflected?",
-        "options": [
-          "#In the fourth area",
-          "In the third area",
-          "In the fifth area",
-          "In the first area"
-        ]
-      },
-      {
-        "text": "How many priority areas does the Uzbekistan 2030 Strategy consist of ?",
-        "options": [
-          "# Consists of 5 priority areas",
-          "Consists of 4 priority areas",
-          "Consists of 7 priority areas",
-          "Consists of 6 priority areas"
-        ]
-      },
-      {
-        "text": "When was the Presidential Decree on the Strategy \"Uzbekistan - 2030\" adopted?",
-        "options": [
-          "#September 11, 2023",
-          "September 23, 2022",
-          "August 12, 2024",
-          "September 10, 2021"
-        ]
-      },
-      {
-        "text": "Where did the largest uprising against Russian colonialism take place in Turkestan in 1916?",
-        "options": [
-          "#Jizzakh Uprising",
-          "Tashkent Uprising",
-          "Bukhara Uprising",
-          "Samarkand Uprising"
-        ]
-      },
-      {
-        "text": "What period in the history of Central Asia is the 9th-12th centuries?",
-        "options": [
-          "# First Renaissance",
-          "Second Renaissance",
-          "Third Renaissance",
-          "The Age of Jadids and Enlightenment"
-        ]
-      },
-      {
-        "text": "Until what century did the Great Silk Road, which played a huge role in the historical and cultural ties between the East and the West, exist?",
-        "options": [
-          "# Until the 16th century",
-          "Until the 18th century",
-          "Until the 19th century",
-          "Until the 20th century"
-        ]
-      },
-      {
-        "text": "What symbol does the hummingbird represent...?",
-        "options": [
-          "#Symbol of happiness and wealth",
-          "Symbol of happiness, victory and power",
-          "Symbol of happiness and fertility",
-          "Symbol of power and victory"
-        ]
-      },
-      {
-        "text": "What does the word \"Islam\" mean?",
-        "options": [
-          "#Submission",
-          "Belief",
-          "Faith",
-          "Awareness"
-        ]
-      },
-      {
-        "text": "What are the years of Prophet Muhammad's (pbuh) life?",
-        "options": [
-          "#570-632 years",
-          "632-694 years",
-          "470-529 years",
-          "575-634 years"
-        ]
-      },
-      {
-        "text": "When did the first Hijri year begin in the Muslim world?",
-        "options": [
-          "#622 AD",
-          "640 AD",
-          "630 AD",
-          "625 AD"
-        ]
-      },
-      {
-        "text": "Who was the leader of the largest uprising against the Arabs that began in Central Asia in the 70s and 80s of the 8th century?",
-        "options": [
-          "#Muqanna",
-          "Mahmud Torabi",
-          "Rafa ibn Layth",
-          "Mazdak"
-        ]
-      },
-      {
-        "text": "Identify the great hadith collector, author of the work \"Al-Jame as-Sahih\"?",
-        "options": [
-          "# Imam Al-Bukhari",
-          "Imam at-Tirmidhi",
-          "Ahmad Yassavi",
-          "Bahovuddin Naqshband"
-        ]
-      },
-      {
-        "text": "Identify the first Uzbek general who showed courage in the fight against fascism?",
-        "options": [
-          "# Sobir Rakhimov",
-          "Sharof Rashidov",
-          "Zebo G'aniyeva",
-          "Fayzulla Khojayev"
-        ]
-      },
-      {
-        "text": "What historical document was adopted on August 31, 1991?",
-        "options": [
-          "# Law “On the Fundamentals of State Independence of the Republic of Uzbekistan”",
-          "Law “On the Adoption of the Constitution of the Republic of Uzbekistan”",
-          "Law “On the Establishment of the Oliy Majlis of the Republic of Uzbekistan”",
-          "Law “On the Adoption of the Declaration of Sovereignty of the Republic of Uzbekistan”."
-        ]
-      },
-      {
-        "text": "When was the Concept for the Development of the Higher Education System of the Republic of Uzbekistan until 2030 approved?",
-        "options": [
-          "#October 8, 2019",
-          "May 29, 1997",
-          "October 25, 2021",
-          "April 30, 2023"
-        ]
-      },
-      {
-        "text": "How many religious denominations operate in Uzbekistan?",
-        "options": [
-          "#16",
-          "18",
-          "20",
-          "19"
-        ]
-      },
-      {
-        "text": "This is a unique educational center for our society, a unique place that unites citizens ideologically and ideologically -?",
-        "options": [
-          "#neighborhood",
-          "constitution",
-          "university",
-          "Party"
-        ]
-      },
-      {
-        "text": "What international charitable foundation was established in January 1996 under the Republican Center for Spirituality and Enlightenment?",
-        "options": [
-          "#Golden Heritage",
-          "Red Crescent",
-          "You are not alone",
-          "Navruz"
-        ]
-      },
-      {
-        "text": "When was the Imam Bukhari International Foundation established?",
-        "options": [
-          "#1998",
-          "2005",
-          "2024",
-          "1990"
-        ]
-      },
-      {
-        "text": "When did the \"perestroika\" policy begin?",
-        "options": [
-          "#1985",
-          "1982",
-          "1988",
-          "1981"
-        ]
-      },
-      {
-        "text": "In which country has the \"neighborhood seven system\" been introduced?",
-        "options": [
-          "#Uzbekistan",
-          "Russia",
-          "Spain",
-          "England"
-        ]
-      },
-      {
-        "text": "In which concept is the principle \"For the sake of human dignity\" reflected?",
-        "options": [
-          "In the #New Uzbekistan concept",
-          "In the National Revival concept",
-          "In the Uzbekistan - 2030 strategy",
-          "Only in the foreign policy strategy"
-        ]
-      },
-      {
-        "text": "When was Shavkat Mirziyoyev first elected President of Uzbekistan?",
-        "options": [
-          "#December 4, 2016",
-          "January 1, 2017",
-          "December 8, 2015",
-          "September 1, 2017"
-        ]
-      },
-      {
-        "text": "How many articles does the Declaration of Independence of the Republic of Uzbekistan contain?",
-        "options": [
-          "#12 articles",
-          "128 articles",
-          "17 articles",
-          "36 articles"
-        ]
-      },
-      {
-        "text": "What is the publication of the Liberal Democratic Party of Uzbekistan?",
-        "options": [
-          "#XXI asr newspaper",
-          "“O’zbekiston ovozi” newspaper",
-          "“Muloqot” magazine",
-          "“Tafakkur” magazine"
-        ]
-      },
-      {
-        "text": "When was the Ecological Party of Uzbekistan founded?",
-        "options": [
-          "#January 2019",
-          "May 2013",
-          "March 2001",
-          "December 1997"
-        ]
-      },
-      {
-        "text": "What is the purpose of studying the subject \"The most recent history of Uzbekistan\"?",
-        "options": [
-          "#to teach students about the history of Uzbekistan during the period of independence and its current reforms",
-          "to teach students about the history of the Soviet period and the reforms before independence",
-          "to teach students about the history of the 20th century Soviet period and the history of modern Uzbekistan",
-          "to teach students about the history of the 20th century Soviet period and the historical processes in modern Uzbekistan."
-        ]
-      },
-      {
-        "text": "When was Afrosiab, one of the oldest cities in Uzbekistan, founded?",
-        "options": [
-          "# 8th–7th centuries BC",
-          "6th–5th centuries BC",
-          "6th–4th centuries BC",
-          "4th–2nd centuries BC"
-        ]
-      },
-      {
-        "text": "Who were the investigators sent from the Center to Uzbekistan in the 1980s to investigate the \"Cotton Case\"?",
-        "options": [
-          "# Gdlyan and Ivanov",
-          "Morozov and Sorokin",
-          "Ivanov and Kisilyov",
-          "Vladimirov and Kochnyov"
-        ]
-      },
-      {
-        "text": "When was the Law \"On the State Flag of the Republic of Uzbekistan\" adopted?",
-        "options": [
-          "#November 18, 1991",
-          "June 20, 1991",
-          "June 20, 1990",
-          "December 29, 1991"
-        ]
-      },
-      {
-        "text": "When was the idea of ​​developing a draft of the first Constitution of Uzbekistan first put forward?",
-        "options": [
-          "#June 1990",
-          "March 1991",
-          "March 1992",
-          "August 1993"
-        ]
-      },
-      {
-        "text": "When was presidential rule introduced in Uzbekistan?",
-        "options": [
-          "#March 24, 1990",
-          "May 20, 1991",
-          "June 25, 1991",
-          "April 24, 1991"
-        ]
-      },
-      {
-        "text": "When was the first presidential election in the history of the independent Republic of Uzbekistan held?",
-        "options": [
-          "#December 29, 1991",
-          "March 24, 1990",
-          "August 31, 1991",
-          "March 2, 1992"
-        ]
-      },
-      {
-        "text": "How many countries does the Republic of Uzbekistan border?",
-        "options": [
-          "#5 countries",
-          "4 countries",
-          "6 countries",
-          "7 countries"
-        ]
-      },
-      {
-        "text": "When was the first national referendum on the independence of Uzbekistan held?",
-        "options": [
-          "#December 29, 1991",
-          "March 24, 1990",
-          "August 31, 1991",
-          "March 2, 1992"
-        ]
-      },
-      {
-        "text": "When was the Law \"On the State Language\", which granted the Uzbek language the status of the state language, adopted?",
-        "options": [
-          "#October 21, 1989",
-          "November 18, 1991",
-          "June 20, 1990",
-          "March 24, 1990"
-        ]
-      },
-      {
-        "text": "How many principles of division is the system of state power in Uzbekistan based on?",
-        "options": [
-          "#3",
-          "2",
-          "5",
-          "4"
-        ]
-      },
-      {
-        "text": "Which state symbol of the Republic of Uzbekistan was adopted on December 10, 1992?",
-        "options": [
-          "#national anthem",
-          "state emblem",
-          "Constitution",
-          "state flag"
-        ]
-      },
-      {
-        "text": "When was the national currency, the soum, introduced into circulation in the Republic of Uzbekistan?",
-        "options": [
-          "#July 1, 1994",
-          "December 8, 1992",
-          "November 18, 1991",
-          "July 2, 1992"
-        ]
-      },
-      {
-        "text": "When did Uzbekistan become a member of the UN?",
-        "options": [
-          "# March 2, 1992",
-          "November 18, 1991",
-          "June 2, 1992",
-          "December 8, 1992"
-        ]
-      },
-      {
-        "text": "Which state body in Uzbekistan approves amendments to laws?",
-        "options": [
-          "#Oliy Majlis",
-          "Cabinet of Ministers",
-          "Ministry of Internal Affairs",
-          "Prosecutor's Office of the Republic"
-        ]
-      },
-      {
-        "text": "When was the People's Democratic Party of Uzbekistan founded?",
-        "options": [
-          "#November 1991",
-          "February 1992",
-          "May 1994",
-          "September 1996"
-        ]
-      },
-      {
-        "text": "At what age do citizens have the right to vote in Uzbekistan?",
-        "options": [
-          "#18",
-          "20",
-          "22",
-          "24"
-        ]
-      },
-      {
-        "text": "At what age do citizens have the right to vote in Uzbekistan?",
-        "options": [
-          "#18",
-          "20",
-          "22",
-          "24"
-        ]
-      },
-      {
-        "text": "Which international organization is Uzbekistan not a member of?",
-        "options": [
-          "#NATO",
-          "UN",
-          "SCO",
-          "CIS"
-        ]
-      },
-      {
-        "text": "Who was the Olympic champion in women's judo at the 2024 Paris Olympics?",
-        "options": [
-          "# Diyora Keldiyorova",
-          "Dilfuza Inoyatova",
-          "Laylo Abdiyeva",
-          "Nilufar Rakhmatova"
-        ]
-      },
-      {
-        "text": "In May-June 1989, a clash between Uzbeks and representatives of which nationality occurred in Fergana?",
-        "options": [
-          "# Between Uzbeks and Meskhetian Turks",
-          "Between Uzbeks and Kyrgyz",
-          "Between Uzbeks and Tatars",
-          "No correct answer"
-        ]
-      },
-      {
-        "text": "Who was the founder of the \"Uzbek model\" of development?",
-        "options": [
-          "# I. Karimov",
-          "Sh. Rashidov",
-          "Sh. Mirziyoyev",
-          "A. Qodiriy"
-        ]
-      },
-      {
-        "text": "The main direction of Uzbekistan's cooperation with UNESCO.",
-        "options": [
-          "#education, science and culture",
-          "health and ecology",
-          "human rights protection",
-          "tourism"
-        ]
-      },
-      {
-        "text": "When was the Shanghai Cooperation Organization founded?",
-        "options": [
-          "#2001",
-          "1996",
-          "1997",
-          "2003"
-        ]
-      },
-      {
-        "text": "When was the SCO Samarkand Summit held in Uzbekistan?",
-        "options": [
-          "#2022",
-          "2010",
-          "2021",
-          "2020"
-        ]
-      },
-      {
-        "text": "Which priority area of ​​the strategy of actions is to improve the state administration system?",
-        "options": [
-          "# Priority areas of improving the state and society building system",
-          "Development of the social sphere and administration of the Cabinet of Ministers and the Presidency",
-          "Ensuring the rule of law and further reforming the judicial system and the Oliy Majlis",
-          "Ensuring security, interethnic harmony and religious tolerance, conducting a balanced, mutually beneficial and practical foreign policy"
-        ]
-      },
-      {
-        "text": "In what year was the pamphlet \"There is no future without historical memory\" published?",
-        "options": [
-          "#1998",
-          "1999",
-          "2000",
-          "2001"
-        ]
-      },
-      {
-        "text": "Peaceful resolution of disputes in accordance with the Constitution and non-interference in the internal affairs of other states....",
-        "options": [
-          "#This principle is a principle of Uzbekistan's foreign policy",
-          "This is not a principle of Uzbekistan's foreign policy",
-          "This principle reflects Uzbekistan's role in the Central Asian region",
-          "This principle is a principle of Uzbekistan's internal policy"
-        ]
-      },
-      {
-        "text": "How many types of education are there according to the new Law on Education of Uzbekistan?",
-        "options": [
-          "#7",
-          "5",
-          "6",
-          "4"
-        ]
-      },
-      {
-        "text": "When was the referendum on the adoption of the new Constitution of the Republic of Uzbekistan held?",
-        "options": [
-          "#April 30, 2023",
-          "September 24, 2023",
-          "December 8, 2023",
-          "January 1, 2023"
-        ]
-      },
-      {
-        "text": "What are the main tasks of political parties in building a democratic civil society?",
-        "options": [
-          "#Representing and protecting the interests of citizens",
-          "Only participating in elections",
-          "Only solving economic issues",
-          "Only managing state power"
-        ]
-      },
-      {
-        "text": "When was the new Law of the Republic of Uzbekistan \"On Education\" adopted?",
-        "options": [
-          "#September 23, 2020",
-          "May 29, 1997",
-          "October 25, 2021",
-          "April 30, 2023"
-        ]
-      },
-      {
-        "text": "When was the Governor-General of Turkestan established?",
-        "options": [
-          "#1867",
-          "1865",
-          "1876",
-          "1886"
-        ]
-      },
-      {
-        "text": "Who is the author of \"The City of Virtuous People\"?",
-        "options": [
-          "#Abu Nasr Al-Farabi",
-          "Alisher Navoi",
-          "Abu Ali ibn Sina",
-          "Abu Rayhan Al-Biruni"
-        ]
-      },
-      {
-        "text": "In which period did history falsify the past?",
-        "options": [
-          "#Soviet era",
-          "In antiquity",
-          "In the Middle Ages",
-          "In the period of independence"
-        ]
-      },
-      {
-        "text": "As a result of the efforts of I. Usmonkhodjayev and R. Abdullayeva to avoid creating an \"ideological vacuum\", which holiday was abolished by 1986?",
-        "options": [
-          "#Navruz holiday",
-          "Victory holiday",
-          "Hayit holiday",
-          "Independence holiday"
-        ]
-      },
-      {
-        "text": "The judicial system in Uzbekistan ....",
-        "options": [
-          "# operates independently of the legislative and executive branches",
-          "operates independently of the legislative and local government authorities",
-          "operates independently and is not dependent on political parties",
-          "operates independently of local government authorities"
-        ]
-      },
-      {
-        "text": "How many articles does the Law \"On the State Independence of the Republic of Uzbekistan\" contain?",
-        "options": [
-          "#17",
-          "19",
-          "21",
-          "24"
-        ]
-      },
-      {
-        "text": "The second most sacred source in Islam after the Quran is ....",
-        "options": [
-          "# Hadith",
-          "Fiqh",
-          "Teachings",
-          "Wisdom"
-        ]
-      },
-      {
-        "text": "In which cities of Uzbekistan are there statues of Amir Temur?",
-        "options": [
-          "# In Samarkand, Tashkent and Shahrisabz",
-          "Samarkand, Tashkent and Termez",
-          "Samarkand, Tashkent and Kitab",
-          "Samarkand, Termez and Shahrisabz"
-        ]
-      },
-      {
-        "text": "The principle of separation of powers What bodies are formed according to the Constitution and laws?",
-        "options": [
-          "# legislative, executive and judicial",
-          "local government, judicial",
-          "judicial, legislative",
-          "State Duma, local government"
-        ]
-      },
-      {
-        "text": "When was the presidential term of I. Karimov extended from 1997 to 2000 by a popular vote (referendum)?",
-        "options": [
-          "#March 26, 1995",
-          "December 26, 1995",
-          "March 11, 1996",
-          "January 12, 1997"
-        ]
-      },
-      {
-        "text": "Parliament is called differently in different countries. What is it called in Uzbekistan?",
-        "options": [
-          "# Oliy Majlis",
-          "Rada",
-          "Skupshina",
-          "Reichstag"
-        ]
-      },
-      {
-        "text": "Find the national government established in November 1917, which expressed the ideas of national liberation?",
-        "options": [
-          "# Turkestan autonomy",
-          "“Shu‘ra‘i ulama”",
-          "B) “Unity and Progress”",
-          "D) “Shu‘ra‘i Islam”"
-        ]
-      },
-      {
-        "text": "Which body exercises executive power in Uzbekistan?",
-        "options": [
-          "# Cabinet of Ministers",
-          "Khokimliks",
-          "Oliy Majlis",
-          "Senate"
-        ]
-      },
-      {
-        "text": "Where was the first presidential government introduced in the world?",
-        "options": [
-          "# USA",
-          "Canada",
-          "France",
-          "Japan"
-        ]
-      },
-      {
-        "text": "Who was elected First Secretary of the Communist Party of Uzbekistan on June 23, 1989?",
-        "options": [
-          "# Islam Karimov",
-          "Shavkat Mirziyoyev",
-          "Sharof Rashidov",
-          "Rafiq Nishonov"
-        ]
-      },
-      {
-        "text": "Who is the author of the idea that \"the people should serve the state bodies, not the state bodies\"?",
-        "options": [
-          "#Shavkat Mirziyoyev",
-          "Islom Karimov",
-          "Sharof Rashidov",
-          "Rafiq Nishonov"
-        ]
-      },
-      {
-        "text": "According to the results of the national referendum held on April 30, 2023…..",
-        "options": [
-          "#The new Constitution of the Republic of Uzbekistan was adopted",
-          "The Law of the New Uzbekistan on Education was adopted",
-          "The Labor Code of the New Uzbekistan was adopted",
-          "The Law of the New Uzbekistan on Political Parties was adopted"
-        ]
-      },
-      {
-        "text": "\"What goal of the new Development Strategy of Uzbekistan for 2022-2026 is \"Further development of the study and promotion of the history of Uzbekistan\"?\"",
-        "options": [
-          "# In goal 77",
-          "75 - goal",
-          "70 - goal",
-          "65 - goal"
-        ]
-      },
-      {
-        "text": "Which priority area of ​​the Strategy of Actions for the Further Development of the Republic of Uzbekistan in 2017-2021 is set to deepen democratic reforms and strengthen the role of the Oliy Majlis and political parties in modernizing the country?",
-        "options": [
-          "#Priority areas for improving the system of state and social development",
-          "Priority areas for political development to ensure stability in the country and in the Oliy Majlis",
-          "Priority areas for ensuring the rule of law and further reforming the judicial system",
-          "Priority areas for the activities of political parties, development and liberalization of the economy."
-        ]
-      },
-      {
-        "text": "When was the Liberal Democratic Party of Uzbekistan (UzLiDeP) founded?",
-        "options": [
-          "# 2003",
-          "1995",
-          "2000",
-          "1996"
-        ]
-      },
-      {
-        "text": "What initiatives did the President of Uzbekistan Shavkat Mirziyoyev put forward in his speech at the 75th session of the UN General Assembly on September 23, 2020?",
-        "options": [
-          "# Initiatives to strengthen peace and stability in the region and the world, progressive development, and ensure human rights and freedoms",
-          "Initiatives to ensure consistent development, human rights and freedoms, and stability in the region",
-          "Initiatives to strengthen peace and stability in the region and the world, sustainable development of the world",
-          "Initiatives to improve the environment in Central Asia"
-        ]
-      },
-      {
-        "text": "Which of the answers is not part of the principles of Uzbekistan's foreign policy?",
-        "options": [
-          "#Joining military blocs and alliances",
-          "Sovereign equality",
-          "Non-interference in the internal affairs of other states",
-          "Peaceful resolution of disputes"
-        ]
-      },
-      {
-        "text": "What is the role of the state in economic reforms during the transition period?",
-        "options": [
-          "#deepening democratic reforms and further liberalizing the economy",
-          "increasing direct state intervention in economic activity",
-          "rejecting state regulation of the economy and strengthening economic management",
-          "transferring economic management to local authorities and strengthening their management"
-        ]
-      },
-      {
-        "text": "What is the name of the fourth area of ​​the Strategy of Actions on the five priority areas of development of Uzbekistan in 2017-2021?",
-        "options": [
-          "#priority areas of development of the social sphere",
-          "priority areas of development and liberalization of the economy",
-          "priority areas of improving the system of state and social construction",
-          "priority areas of ensuring the rule of law and further reform of the judicial system"
-        ]
-      },
-      {
-        "text": "Which of the following countries does Uzbekistan not border?",
-        "options": [
-          "# Iran",
-          "Kyrgyzstan",
-          "Afghanistan",
-          "Turkmenistan"
-        ]
-      },
-      {
-        "text": "Why was the capture of Tashkent by the Russian Empire considered necessary?",
-        "options": [
-          "# Because this city was a key gateway for the conquest of Central Asia and served as a base for further Russian military operations.",
-          "This city was the military center of the Kokand Khanate, and if it were captured, all the khanates would be militarily weakened.",
-          "This city was located on the border of the Kokand Khanate and the Emirate of Bukhara, on the main road leading to the Khiva Khanate.",
-          "This city was conveniently located on the water route to the Khiva Khanate."
-        ]
-      },
-      {
-        "text": "How many principles does the “Uzbek model” consist of?",
-        "options": [
-          "#5",
-          "7",
-          "3",
-          "4"
-        ]
-      },
-      {
-        "text": "The Uzbekistan-2030 Strategy sets a target of increasing the GDP to … billion US dollars and per capita income to … thousand US dollars.",
-        "options": [
-          "#160/4",
-          "200/6",
-          "250/8",
-          "180/5"
-        ]
-      },
-      {
-        "text": "Starting from the 2023/2024 academic year, … has been designated as a “base school” for general secondary education institutions.",
-        "options": [
-          "# Presidential schools and specialized schools",
-          "Vocational technical schools",
-          "Non-state educational institutions",
-          "Lyceums"
-        ]
-      },
-      {
-        "text": "What is the ultimate goal of the strong social policy being pursued in Uzbekistan?",
-        "options": [
-          "#social protection of vulnerable segments of the population during the transition to a market economy",
-          "ensuring guaranteed social rights of all members of the population during the transition to a market economy",
-          "maintaining civil harmony in society during the transition to a market economy",
-          "instilling the ideology of national independence into the consciousness of the people during the transition to a market economy"
-        ]
-      },
-      {
-        "text": "One of the priority areas of which legal document is called “Saving water resources and protecting the environment”?",
-        "options": [
-          "#Uzbekistan-2030 Strategy",
-          "New Uzbekistan Development Strategy",
-          "Action Strategy",
-          "Ecological Code of Uzbekistan"
-        ]
-      },
-      {
-        "text": "On June 22, 2024, specialized sports schools for … were established in Tashkent.",
-        "options": [
-          "#boxing and gymnastics",
-          "Boxing and football",
-          "Skiing and hockey",
-          "Golf and badminton"
-        ]
-      },
-      {
-        "text": "When was the Law \"On Combating Corruption\" adopted in Uzbekistan?",
-        "options": [
-          "#2017",
-          "2018",
-          "2019",
-          "2020"
-        ]
-      },
-      {
-        "text": "In which article of the new Constitution of the Republic of Uzbekistan does the \"social\" status of the state be defined?",
-        "options": [
-          "#Article 1",
-          "Article 5",
-          "Article 11",
-          "Article 17"
-        ]
-      },
-      {
-        "text": "The 550th anniversary of which scholar was celebrated in our country in 1991?",
-        "options": [
-          "#Alisher Navoi",
-          "Bobur",
-          "Mirzo Ulugbek",
-          "Al Ferghani"
-        ]
-      },
-      {
-        "text": "Turin Polytechnic University in Tashkent was established in partnership with which country?",
-        "options": [
-          "#Italy",
-          "Great Britain",
-          "France",
-          "USA"
-        ]
-      },
-      {
-        "text": "How many nationalities live in Uzbekistan?",
-        "options": [
-          "#More than 130 nationalities",
-          "110 nationalities",
-          "90 nationalities",
-          "More than 100 nationalities"
-        ]
-      },
-      {
-        "text": "How many sections did the Constitution of the Republic of Uzbekistan, adopted on December 8, 1992, consist of ?",
-        "options": [
-          "# 6 sections",
-          "10 sections",
-          "12 sections",
-          "8 sections"
-        ]
-      },
-      {
-        "text": "What is the dictionary meaning of the geographical term \"Movaraunnahr\"?",
-        "options": [
-          "#the other side of the river",
-          "Sandy land",
-          "Center of the desert",
-          "Border area"
-        ]
-      },
-      {
-        "text": "Where did the battle of 1365, known in history as the \"Battle of the Mud\", take place?",
-        "options": [
-          "#Between Chinaz and Tashkent",
-          "Between Chinaz and Turkestan",
-          "Between Chinaz and Syrdarya",
-          "Between Chinaz and Jizzakh"
-        ]
-      },
-      {
-        "text": "Who was the founder and initiator of the Jadid cultural and educational movement?",
-        "options": [
-          "#Ismoil Gasprinsky",
-          "Dukchi Eshon",
-          "Said Olimxon",
-          "Namoz Pirimkulov"
-        ]
-      },
-      {
-        "text": "Who led the \"Koschi\" peasant union in the 1920s?",
-        "options": [
-          "#Yoldosh Okhunboboev",
-          "Fayzulla Khodjaev",
-          "Usmon Yusupov",
-          "Turan Riskulov"
-        ]
-      },
-      {
-        "text": "When did Uzbekistan become a member of the Shanghai Cooperation Organization (SCO)?",
-        "options": [
-          "#2001.",
-          "1998.",
-          "2011.",
-          "2005."
-        ]
-      },
-      {
-        "text": "Supreme Soviet of the Uzbek SSR, March 24, 1990….",
-        "options": [
-          "# Introduced the position of the President",
-          "The Uzbek SSR adopted the Declaration of Independence",
-          "The Program of Sovereignty of the Republic of Uzbekistan was adopted",
-          "The Uzbek SSR adopted the Union Treaty"
-        ]
-      },
-      {
-        "text": "Who coined the phrase \"Critical analysis, strict discipline, personal responsibility of each leader should become the daily norm of every leader\"?",
-        "options": [
-          "#Shavkat Mirziyoyev",
-          "Islom Karimov",
+          "Ahmad Yassaviy",
+          "Imom al-Buxoriy",
           "Amir Temur",
-          "Alisher Navoi"
+          "#Bahouddin Naqshbandiy"
         ]
       },
       {
-        "text": "When was the decree “On the Strategy of Actions for the Further Development of the Republic of Uzbekistan” published?",
+        "text": "“Tarbiya biz uchun yo hayot – yo mamot, yo najot – yo halokat, yo saodat – yo falokat masalasi” so‘zlari qaysi ma'rifatparvar olim qalamiga mansub?",
         "options": [
-          "#February 7, 2017.",
-          "May 24, 2018",
-          "June 30, 2016",
-          "February 7, 2016"
+          "Mahmudxo'ja Behbudiy",
+          "Fitrat",
+          "Cho'lpon",
+          "#Abdulla Avloniy"
         ]
       },
       {
-        "text": "When was the Year of Amir Temur celebrated in Uzbekistan?",
+        "text": "Payg‘ambar vafotidan so‘ng birinchi xalifa kim bo‘lgan?",
         "options": [
-          "#1996",
-          "1992",
-          "1998",
-          "2000"
+          "Umar ibn Xattob (r.a.)",
+          "Usmon ibn Affon (r.a.)",
+          "Ali ibn Abu Tolib (r.a.)",
+          "#Abu Bakr Siddiq(r.a.)"
         ]
       },
       {
-        "text": "Which political party in Uzbekistan has the main goal of achieving social justice?",
+        "text": "Din arab tilida qanday ma’noni anglatadi?",
         "options": [
-          "#Adolat Social Democratic Party",
-          "People's Democratic Party",
-          "Liberal Democratic Party",
-          "National Revival Party"
+          "Qonun, tartib",
+          "Yo'l, ko'rsatma",
+          "Taqdir, qismat",
+          "#Inonmoq, Ishonmoq"
         ]
       },
       {
-        "text": "Which city in Uzbekistan was declared the \"Capital of Islamic Culture\" in 2007?",
+        "text": "Musulmon davlatining to‘rtinchi rahbari etib kim saylangan?",
         "options": [
-          "# Tashkent",
-          "Samarkand",
-          "Khiva",
-          "Kokand"
+          "Abu Bakr Siddiq",
+          "Umar ibn Xattob",
+          "Usmon ibn Affon",
+          "#Ali ibn Abu Tolib"
         ]
       },
       {
-        "text": "The unofficial \"fourth estate\" is .....",
+        "text": "“Fiqh” so‘zi qanday ma’noni bildiradi?",
         "options": [
-          "#mass media",
-          "political parties",
-          "local government",
-          "civil associations"
+          "“imon keltirish”, “e’tiqod”",
+          "“hikmat”, “donolik”",
+          "“sharhlash”, “tushuntirish”",
+          "#“chuqur tushunish”, “idrok etish”, “bilish”"
         ]
       },
       {
-        "text": "When, at the initiative of the President of the Republic of Uzbekistan, a special resolution of the UN General Assembly “Enlightenment and Religious Tolerance” was adopted.",
+        "text": "Fiqhning asosiy manbasiga quyidagi manbalardan qaysi qatordagisi kiradi?",
         "options": [
-          "# 2018",
-          "2005",
-          "2001",
-          "2003"
+          "Faqat Qur'on",
+          "Qur'on va Sunnat",
+          "Qur'on, Sunnat va Shariat",
+          "#Qur’on, sunnat, ijmo va qiyos"
         ]
       },
       {
-        "text": "As a result of the renewal of the Constitution, the number of articles in the main dictionary increased from … to …, and the norms in it increased from … to ….",
+        "text": "Muqaddas Ka’ba qayerda joylashgan?",
         "options": [
-          "#128/155, 275/434",
-          "155/135, 250/356",
-          "127/172, 134/245",
-          "180/192, 175/289"
+          "Madina",
+          "Quddus",
+          "Damashq",
+          "#Makka"
         ]
       },
       {
-        "text": "The new Constitution of the Republic of Uzbekistan...",
+        "text": "Qurbonlik – bu?:",
         "options": [
-          "#Consists of 6 sections, 27 chapters and 155 articles",
-          "Consists of 6 sections, 26 chapters and 100 articles",
-          "Consists of 6 sections, 28 chapters and 150 articles",
-          "Consists of 6 sections, 25 chapters and 100 articles"
+          "Gunohlardan poklanish marosimi",
+          "Jangda g'alaba qozonish marosimi",
+          "#Xudo yo‘liga bag’ishlanadigan marosim",
+          "Yangi yilni kutib olish marosimi"
         ]
       },
       {
-        "text": "The ambiguities in the laws should be resolved in favor of the person, in this regard, the Constitution stipulates that a person cannot be detained for more than … hours without a court decision.",
+        "text": "Payg’ambar – bu?",
         "options": [
-          "# 48 hours",
-          "28 hours",
-          "37 hours",
-          "24 hours"
+          "Xudoning o'g'li",
+          "Diniy jamoa rahbari",
+          "Muqaddas kitob muallifi",
+          "#Allohning elchisi"
         ]
       },
       {
-        "text": "Shavkat Mirziyoyev “When was the idea put forward about the need to improve the position of the Republic of Uzbekistan in international ratings and indices?",
+        "text": "Turkiy xalqlarning qadimgi etiqodi…?",
         "options": [
-          "#In the Address of the Head of State to the Oliy Majlis in 2018",
-          "At the event dedicated to the 30th anniversary of the Constitution of the Republic of Uzbekistan",
-          "At the 72nd session of the UN General Assembly",
-          "At the 72nd session of the UN General Assembly"
+          "Buddizm",
+          "Monoteizm",
+          "Animizm",
+          "#Otashparast (Zardushtiylik)"
         ]
       },
       {
-        "text": "The first automobile factory in Asaka, Andijan region, was established in partnership with which country?",
+        "text": "Qur’onda suralarning soni?",
         "options": [
-          "# South Korea",
-          "China",
-          "Turkey",
-          "Germany"
+          "100 ta",
+          "110 ta",
+          "#114 ta",
+          "124 ta"
         ]
       },
       {
-        "text": "In which country was the Ombudsman institution first established?",
+        "text": "Islom dini qayerda vujudga kelgan?",
         "options": [
-          "#Sweden",
-          "Denmark",
-          "USA",
-          "Finland"
+          "Misrda",
+          "Eronda",
+          "Markaziy Osiyoda",
+          "#Arabiston yarim orolida"
         ]
       },
       {
-        "text": "Since when was the full pension payment introduced for working pensioners?",
+        "text": "“Oyat” so‘zining ma’nosi?",
         "options": [
-          "#January 1, 2019",
-          "September 1, 2018",
-          "May 1, 2020",
-          "June 1, 2022"
+          "Qonun",
+          "Hikmat",
+          "Sura",
+          "#ilohiy belgi, mo’jiza"
         ]
       },
       {
-        "text": "For which years is the Action Strategy intended?",
+        "text": "Muhammad (s.a.v.) qayerda tavallud topganlar?",
         "options": [
-          "#2017-2021",
-          "2017-2019",
-          "2017-2020",
-          "2017-2022"
+          "Madinada",
+          "Toifda",
+          "Quddusda",
+          "#Makkada"
         ]
       },
       {
-        "text": "According to the results of the first presidential elections held on December 29, 1991, what percentage of voters voted for Islam Karimov?",
+        "text": "So‘fizm so‘zining m’anosi?",
         "options": [
-          "# 86 percent",
-          "98 percent",
-          "65 percent",
-          "80 percent"
+          "Poklik, tozalik",
+          "Donolik, hikmat",
+          "Sevgi, muhabbat",
+          "#dag’al mato, qalin"
         ]
       },
       {
-        "text": "How many priority areas does the Action Strategy consist of?",
+        "text": "So‘fizm ta’limotining asosi?",
         "options": [
-          "#5",
-          "3",
-          "6",
-          "2"
+          "Shariatga qat'iy rioya qilish",
+          "Tarkidunyochilik",
+          "Siyosiy kurash",
+          "#Allohga muhabbat"
         ]
       },
       {
-        "text": "How many articles of the new Constitution will be devoted to the education system and the status of teachers?",
+        "text": "Hadislarni yig’uvchi, sharhlovchi, targ’ib etuvchi shaxslar qanday nomlanadi?",
         "options": [
-          "#50,51,52",
-          "49,53,54",
-          "37,38,39",
-          "60,61,64"
+          "Mufassir",
+          "Faqih",
+          "Mutakallim",
+          "#Muhaddis"
         ]
       },
       {
-        "text": "Which year was declared the \"Year of Dialogue with the People and Human Interests\"?",
+        "text": "Islomdagi ikki asosiy oqimlar…?",
         "options": [
-          "#2017",
-          "2010",
-          "2012",
-          "2019"
+          "Moturidiya va Ash'ariya",
+          "Hanafiylik va Shofi'iylik",
+          "#Sunniylik va shialik",
+          "So'fiylik va Salafiylik"
         ]
       },
       {
-        "text": "Which direction of the strategy of actions is called \"Further development and liberalization of the economy\"?",
+        "text": "Eng so‘nggi payg’ambar…?",
         "options": [
-          "#3rd",
-          "2nd",
-          "4th",
-          "5th"
+          "Iso (a.s.)",
+          "Muso (a.s.)",
+          "Ibrohim (a.s.)",
+          "#Muhammmad (s.a.v.)"
         ]
       },
       {
-        "text": "In what year was the Virtual Reception of the Prime Minister of the Republic of Uzbekistan established?",
+        "text": "Islom dinidagi eng oliy gunoh - ….",
         "options": [
-          "#In 2016",
-          "In 2014",
-          "In 2009",
-          "In 2019"
+          "Ota-onaga oq bo'lish",
+          "Zino qilish",
+          "Yolg'on gapirish",
+          "#Ko’pxudolik"
         ]
       },
       {
-        "text": "When did President Islam Karimov take his first presidential oath at the extraordinary 9th session of the Supreme Council?",
+        "text": "Islomning asosiy arkonlari nechta?",
         "options": [
-          "# January 4, 1992",
-          "January 10, 1995",
-          "January 2, 1992",
-          "February 1992"
+          "3 ta",
+          "#5 ta",
+          "7 ta",
+          "6 ta"
         ]
       },
       {
-        "text": "When were the last presidential elections held in the Republic of Uzbekistan?",
+        "text": "Abu Bakr, Umar, Usmon, Ali – islom tarixida kim deb tanilganlar?",
         "options": [
-          "# July 9, 2023",
-          "January 10, 2023",
-          "January 2, 2023",
-          "January 12, 2023"
+          "Payg'ambarlar",
+          "Sahobalar",
+          "Imomlar",
+          "#Xalifa"
+        ]
+      },
+      {
+        "text": "Islomning tasavvuf ta’limoti qanday ataladi?",
+        "options": [
+          "Kalom",
+          "Fiqh",
+          "Shariat",
+          "#So’fiylik"
+        ]
+      },
+      {
+        "text": "Tafsir so‘zining ma’nosi?",
+        "options": [
+          "Hadislarni tushuntirish",
+          "Fiqh qoidalarini keltirish",
+          "#Qur’onni sharhlash",
+          "Siyratni o'rganish"
+        ]
+      },
+      {
+        "text": "Islom olamida “Hadis ilmining oltin asri” deb qaysi davr qayd etilgan?",
+        "options": [
+          "VII asr",
+          "#VIII asr",
+          "IX asr",
+          "X asr"
+        ]
+      },
+      {
+        "text": "“Al Jome as-Sahih” asarining muallifi kim?",
+        "options": [
+          "Imom at-Termiziy",
+          "Imom Muslim",
+          "Imom Abu Dovud",
+          "#Imom al-Buxoriy"
+        ]
+      },
+      {
+        "text": "“Ribo” soʼzining lugʼaviy maʼnosini aniqlang?",
+        "options": [
+          "Qarz",
+          "Savdo",
+          "Foyda",
+          "#haddan ziyod"
+        ]
+      },
+      {
+        "text": "Islom dinida tashqi savdoni moliyalashtirish usuli?",
+        "options": [
+          "Muzoraba",
+          "Musharaka",
+          "Ijara",
+          "#Murobaha"
+        ]
+      },
+      {
+        "text": "Qaysi allomaga “Hadis ilmining amiri” degan sharafli nom berilgan?",
+        "options": [
+          "Imom at-Termiziy",
+          "Ahmad Yassaviy",
+          "#Imom al-Buxoriy",
+          "Burhoniddin Marg'inoniy"
+        ]
+      },
+      {
+        "text": "Diniy tashkilot nima?",
+        "options": [
+          "Siyosiy partiya",
+          "Jamoat fondi",
+          "Nodavlat notijorat tashkiloti",
+          "#Diniy e’tiqodlar asosida tuzilgan va ruhoniylar boshchiligidagi uyushma"
+        ]
+      },
+      {
+        "text": "Islomni modernizatsiya (isloh) qilishining mohiyati nima?",
+        "options": [
+          "Islomni radikalizatsiya qilish",
+          "Islomni fundamentalizmga qaytarish",
+          "#Musulmonlar mafkurasi va diniy amaliyotni u yoki bu davr, mamlakat sharoitlariga moslashtirish",
+          "Boshqa dinlar bilan birlashtirish"
+        ]
+      },
+      {
+        "text": "Yovuz g`oya va mafkuralarning eng ko‘p tarqalgan shakli qaysi?",
+        "options": [
+          "Fundamentalizm",
+          "Radikalizm",
+          "Ekstremizm",
+          "#Terrozrizm"
+        ]
+      },
+      {
+        "text": "2007 yili Toshkеnt shahriga qaysi tashkilot tomonidan \"Islom madaniyati poytaxti\" nomi bеrildi?",
+        "options": [
+          "YUNESKO",
+          "BMT",
+          "Islom Hamkorlik Tashkiloti",
+          "#AYSЕSKO"
+        ]
+      },
+      {
+        "text": "Prezidentimiz Sh.Mirziyoyev 2017 yil 20 sentyabr kuni BMT Bosh Assambliyasida qanday rezalyutsiyani taqdim qildi?",
+        "options": [
+          "“Ekstremizmga qarshi kurash”",
+          "“Tinchlik va xavfsizlik”",
+          "“Diniy erkinlik to'g'risida”",
+          "#“Ma’rifat va diniy bag’rikenglik”"
+        ]
+      },
+      {
+        "text": "O‘zbekistonda islom dini bo‘yicha olib boriladigan tadbirlarni o’tkazish bilan qaysi tashkilot shug’illanadi?",
+        "options": [
+          "Din ishlari bo'yicha qo'mita",
+          "Vazirlar Mahkamasi",
+          "Adliya Vazirligi",
+          "#O‘zbekiston Musulmonlar idorasi"
+        ]
+      },
+      {
+        "text": "Prezidentimiz Sh.Mirziyoyev 2017 yil 20 sentyabr kuni BMT Bosh Assambliyasida taklif etilgan rezalyutsiya BMT tomonidan qachon qabul qilindi?",
+        "options": [
+          "2017 yil 20 sentabr",
+          "2018 yil 10 fevral",
+          "2019 yil 1 yanvar",
+          "#2018 yil 12 dekabr"
+        ]
+      },
+      {
+        "text": "Nechanchi yilda Shahidlar xotirasi xiyoboni tashkil etilgan?",
+        "options": [
+          "1991 - yilda",
+          "1996 - yilda",
+          "#2000 - yilda",
+          "2002 - yilda"
+        ]
+      },
+      {
+        "text": "Fundamentalizm nima?",
+        "options": [
+          "Jamiyatni tubdan o'zgartirishga chaqiriq",
+          "Siyosiy maqsadlarda zo'ravonlik ishlatish",
+          "#E’tiqodning asosiy tamoyillariga qat’iy amal qilishga asoslangan diniy oqim.",
+          "Bir dinga kirmagan guruh"
+        ]
+      },
+      {
+        "text": "Radikalizm nima?",
+        "options": [
+          "E'tiqodning asosiy tamoyillariga qat'iy amal qilish",
+          "#Jamiyatni tubdan o‘zgartirishga chaqiruvchi mafkura yoki e’tiqod.",
+          "Zo'ravonlik va tahdidlardan foydalanish",
+          "Muayyan dinga e'tiqod qilmaslik"
+        ]
+      },
+      {
+        "text": "Terrorizm nima?",
+        "options": [
+          "Jamiyatni tubdan o'zgartirishga chaqiriq",
+          "#Siyosiy maqsadlarga erishish uchun zo'ravonlik va tahdidlardan foydalanish.",
+          "Diniy ta'limotni tarqatish",
+          "E'tiqodning asosiy tamoyillariga qat'iy amal qilish"
+        ]
+      },
+      {
+        "text": "Qaysi dinda birinchi fundamentalizm g’oyalari namoyon bo’lgan?",
+        "options": [
+          "Islom",
+          "Xristianlik",
+          "Buddizm",
+          "#yahudiylik"
+        ]
+      },
+      {
+        "text": "Qaysi davlatlar terroristik faoliyatning markazlari?",
+        "options": [
+          "AQSh, Rossiya, Xitoy",
+          "Hindiston, Pokiston, Eron",
+          "#Iroq, Afg'oniston, Suriya.",
+          "Germaniya, Fransiya, Buyuk Britaniya"
+        ]
+      },
+      {
+        "text": "\"Ekstremistik tashkilot\" nima?",
+        "options": [
+          "Siyosiy maqsadlarga zo'ravonlik bilan erishuvchi tashkilot",
+          "Diniy e'tiqodga asoslangan uyushma",
+          "#zo'ravonlik va ekstremistik g'oyalarni targ'ib qiluvchi bir guruh odamlar.",
+          "Xalqaro gumanitar tashkilot"
+        ]
+      },
+      {
+        "text": "“Terrorchilik guruhi” nima?",
+        "options": [
+          "Diniy e'tiqodga asoslangan guruh",
+          "Zo'ravonlik g'oyalarini targ'ib qiluvchi guruh",
+          "#Siyosiy maqsadlarga erishish uchun zo'ravonlik va tahdidlardan foydalanadigan tashkilot.",
+          "Diniy ta'limotni isloh qiluvchi guruh"
+        ]
+      },
+      {
+        "text": "Bugungi kunda O‘zbekistonda nechta diniy konfessiya mavjud?",
+        "options": [
+          "1 ta",
+          "5 ta",
+          "10 ta",
+          "#16 ta"
+        ]
+      },
+      {
+        "text": "Krishnachilik qanday ta’limotga asoslanadi?",
+        "options": [
+          "ko‘p xudolikka, Vishnu va Shivani tan olishga",
+          "ateizmga, xudoni inkor etishga",
+          "politeizmga, tabiat kuchlariga sig'inishga",
+          "#yakkaxudolikka, ya’ni yagona va mutloq xudo – Krishnani tan olishga asoslanadi"
+        ]
+      },
+      {
+        "text": "Krishnachilar tomonidan missionerlik faoliyati qachon boshlangan?",
+        "options": [
+          "o'rta asrlarda",
+          "XIX asrning boshlarida",
+          "#o‘tgan asrning 70–yillarida",
+          "XXI asrning boshlarida"
+        ]
+      },
+      {
+        "text": "Missionerlik bu..................?",
+        "options": [
+          "Boshqa din vakillariga hurmat bilan qarash",
+          "O'z dinini isloh qilish faoliyati",
+          "Diniy bayramlarni nishonlash",
+          "#(lotinchada «missio» – «yuborish», «vazifa topshirish») muayyan din vakillarining o’z diniy ta’limotini targ’ib qilish va tarqatish"
+        ]
+      },
+      {
+        "text": "Islom hamkorlik tashkilotiga qachon va qayerda asos solingan?",
+        "options": [
+          "1945 yilda Nyu-Yorkda",
+          "1960 yilda Qohirada",
+          "#1969 yilning 25 sentabrida Marokashning Rabot shahrida asos solingan",
+          "1991 yilda Toshkentda"
+        ]
+      },
+      {
+        "text": "Islom hamkorlik tashkilotining bosh qarorgohi qayerda joylashgan?",
+        "options": [
+          "Rabot, Marokash",
+          "Qohira, Misr",
+          "Istanbul, Turkiya",
+          "#Bosh qarorgohi Saudiya Arabistonining Jidda shahrida joylashgan"
+        ]
+      },
+      {
+        "text": "O‘zbekiston Islom hamkorlik tashkilotiga qachon a’zo bo‘lgan?",
+        "options": [
+          "1991 yilda",
+          "1992 yilda",
+          "#1996 yilda a’zo bo‘lib kirgan",
+          "2001 yilda"
+        ]
+      },
+      {
+        "text": "IHT mamlakatlari turizm vazirlari tomonidan ........... deb e’lon qilindi.",
+        "options": [
+          "Samarqand shahri 2023 yilda “Islom dunyosining turizm poytaxti”",
+          "Buxoro shahri 2024 yilda “Islom dunyosining turizm poytaxti”",
+          "#Xiva shahri 2024 yilda “Islom dunyosining turizm poytaxti”",
+          "Toshkent shahri 2025 yilda “Islom dunyosining turizm poytaxti”"
+        ]
+      },
+      {
+        "text": "“Konfessiya” so‘zi o‘zbek tilida qanday ma’noni anglatadi?",
+        "options": [
+          "“rad etish”, “inkor qilish”",
+          "“birlashish”, “ittifoq”",
+          "“bo'linish”, “tarqoqlik”",
+          "#(lotincha – “confessio”) “e’tiqod qilish”"
+        ]
+      },
+      {
+        "text": "Konfessiya so’zining ma’nosi to’g’ri keltirilgan qatorni aniqlang?",
+        "options": [
+          "#Diniy oqim",
+          "Siyosiy partiya",
+          "Mafkuraviy guruh",
+          "Milliy uyushma"
+        ]
+      },
+      {
+        "text": "Diniy konfessiyalar nima? .",
+        "options": [
+          "muayyan siyosiy g'oyaga ergashuvchilar guruhi",
+          "muayyan millatga mansub kishilar guruhi",
+          "#muayyan diniy ta’limot asosida shakllangan e’toqodga ergashuvchilar guruhi",
+          "davlat tomonidan tan olinmagan guruh"
+        ]
+      },
+      {
+        "text": "Muayyan diniy, siyosiy yoki falsafiy qarashlarga ergashuvchilar guruhi qanday nomlanadi?",
+        "options": [
+          "Konfessiya",
+          "Partiya",
+          "Jamoa",
+          "#sekta"
+        ]
+      },
+      {
+        "text": "Diniy tashkilotlarning markaziy boshqaruv organlari qaysi vazirlik tomonidan ro’yxatga olinadi?",
+        "options": [
+          "O’zbekiston Respublikasi Madaniyat Vazirligi",
+          "Din ishlari bo'yicha qo'mita",
+          "O’zbekiston Respublikasi Vazirlar Mahkamasi",
+          "#O’zbekiston Respublikasi Adliya Vazirligi"
+        ]
+      },
+      {
+        "text": "Diniy birlikning asosiy belgilarini ko’rsating?",
+        "options": [
+          "Millat, til, hudud birligi",
+          "Siyosiy qarashlar, mafkura birligi",
+          "#Diniy e’tiqod, diniy marosim, diniy mansublik, vazifalar birligi",
+          "Iqtisodiy manfaatlar, kasbiy birlik"
+        ]
+      },
+      {
+        "text": "Diniy bag’rikenglik bu…",
+        "options": [
+          "Barcha dinlarni rad etish",
+          "Faqat o'z dinini hurmat qilish",
+          "Barcha dinlarni bir-biriga aralashtirish",
+          "#Barcha dinlarga sabr- toqat, hurmat bilan munosabatda bo’lish"
+        ]
+      },
+      {
+        "text": "«Sekta» so’zining lug’aviy ma’nosi nima?",
+        "options": [
+          "yunoncha - birlik, ittifoq",
+          "arabcha - e'tiqod, ishonch",
+          "#lotin- fikrlash, faoliyat, hayot, yo’nalish shakli",
+          "sanskritcha - donolik, ma'rifat"
+        ]
+      },
+      {
+        "text": "E’tiqod” so’zining ma’nosini aniqlang?",
+        "options": [
+          "shubha, ikkilanish",
+          "bilim, ma'lumot",
+          "marosim, udum",
+          "#chuqur, mustahkam, ishonch"
+        ]
+      },
+      {
+        "text": "Ma’naviy tahdid nima?",
+        "options": [
+          "Iqtisodiy inqirozga olib keluvchi tahdid",
+          "Harbiy hujum tahdidi",
+          "Ekologik falokat tahdidi",
+          "#Insonni o’zligi va kelajagiga tahdid"
+        ]
+      },
+      {
+        "text": "YUNESKO ning “Bag’rikenglik tamoyillari Deklaratsiyasi” qachon qabul qilingan?",
+        "options": [
+          "1945 y 24 oktyabr",
+          "1991 y 1 sentyabr",
+          "2000 y 1 yanvar",
+          "#1995 y 16 noyabr"
+        ]
+      },
+      {
+        "text": "“Sekulyarizatsiya” atamasi diniy jihatdan qanday ma’noda ishlatiladi?",
+        "options": [
+          "Dinning davlatga aralashuvini ifodalash uchun",
+          "Diniy fundamentalizmni ifodalash uchun",
+          "#Dinning davlatdan ajratilganligini ifodalsh uchun",
+          "Diniy konfessiyalarning birlashuvini ifodalash uchun"
+        ]
+      },
+      {
+        "text": "Islom dinida tasavvuf ta’limoti qachon vujudga keldi?",
+        "options": [
+          "VII asrda",
+          "#VIII asrda",
+          "IX asrda",
+          "X asrda"
+        ]
+      },
+      {
+        "text": "Jahon dinlari orasidagi eng tez ko’payotgan dinni aniqlang.",
+        "options": [
+          "Xristianlik",
+          "Buddizm",
+          "Hinduizm",
+          "#Islom"
+        ]
+      },
+      {
+        "text": "Qur’onda ...... payg‘ambarning nomlari zikr etilgan?",
+        "options": [
+          "10 payg'ambarning",
+          "20 payg'ambarning",
+          "#25 payg’ambarning",
+          "30 payg'ambarning"
+        ]
+      },
+      {
+        "text": "Insonning joni o‘lgandan keyin ko’rinmas ruh bo‘lib yashaydi degan tasavvur ibtidoiy dinning qaysi shaklida uchraydi?",
+        "options": [
+          "Fetishizm",
+          "Totemizm",
+          "Shomonizm",
+          "#Animizm"
+        ]
+      },
+      {
+        "text": "Monoteizm – bu…:",
+        "options": [
+          "Ko'pxudolik",
+          "Xudosizlik (ateizm)",
+          "Ibtidoiy e'tiqod",
+          "#Yakkaxudolik"
+        ]
+      },
+      {
+        "text": "Zardushtiylikning muqaddas manbasi?",
+        "options": [
+          "Tripitaka",
+          "Tavrot",
+          "Vedalar",
+          "#Avesto"
+        ]
+      },
+      {
+        "text": "Sidxartxa Gautama – qaysi dinga asos solgan?",
+        "options": [
+          "Hinduizm",
+          "Jaynizm",
+          "#Buddizm",
+          "Zardushtiylik"
+        ]
+      },
+      {
+        "text": "Diniy urf-odatlar yig‘indisi qanday ataladi?",
+        "options": [
+          "Diniy e'tiqod",
+          "Diniy ta'limot",
+          "Diniy konfessiya",
+          "#Diniy marosimlar"
+        ]
+      },
+      {
+        "text": "Narsa va buyumlarga sig‘iniladigan ilk diniy e'tiqod...?",
+        "options": [
+          "Animizm",
+          "Totemizm",
+          "Politeizm",
+          "#Fetishizm"
+        ]
+      },
+      {
+        "text": "Muhammad (s.a.v.) hayotlari to‘g‘risidagi manba ?",
+        "options": [
+          "Qur'on",
+          "Tafsir",
+          "Fiqh",
+          "#Hadisi Sharif"
+        ]
+      },
+      {
+        "text": "“Prozelitizm” so’zining ma’nosi?",
+        "options": [
+          "O'z dinidan voz kechish",
+          "Diniy bag'rikenglik",
+          "Diniy islohot o'tkazish",
+          "#bir din vakilini boshqa dinga olib kirish"
+        ]
+      },
+      {
+        "text": "Markaziy Оsiyo musulmоnlari qaysi g’оyaviy aqidaviy mafkura ta’limоtga amal qilishadi?",
+        "options": [
+          "Ash'ariya",
+          "Shialik",
+          "Salafiylik",
+          "#Moturudiya"
+        ]
+      },
+      {
+        "text": "Bugungi kunda 240 milliondan ortiq musulmonga ega dunyodagi eng katta musulmon davlati quyidag",
+        "options": [
+          "Pokiston",
+          "Hindiston",
+          "Saudiya Arabistoni",
+          "#Indoneziya"
         ]
       }
     ]
