@@ -3,7 +3,8 @@ import { Link } from 'react-router-dom'
 import { FiChevronRight } from 'react-icons/fi'
 
 const subjects = [
-{id: 'academic-writing', name: "Akademik yozuv"}
+{id: 'academic-writing', name: "Akademik yozuv"},
+{id: 'information-technology', name: "Information Technology"}
 ]
 
 export default function Home() {
