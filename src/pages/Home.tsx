@@ -4,7 +4,8 @@ import { FiChevronRight } from 'react-icons/fi'
 
 const subjects = [
 {id: 'academic-writing', name: "Akademik yozuv"},
-{id: 'information-technology', name: "Information Technology"}
+{id: 'information-technology', name: "Information Technology"},
+{id: 'economic-theories', name: "Economic Theories"},
 ]
 
 export default function Home() {

@@ -2985,6 +2985,1370 @@
         ]
       }
     ]
+  },
+  "economic-theories": {
+    "questions": [
+      {
+        "text": "What is the fundamental problem that the study of economics addresses?",
+        "options": [
+          "#Scarcity of resources relative to human wants",
+          "The elimination of poverty in developing nations",
+          "The management of government tax revenues",
+          "The fluctuation of prices in the stock market"
+        ]
+      },
+      {
+        "text": "Scarcity exists because:",
+        "options": [
+          "#Human wants are unlimited while resources are limited",
+          "Governments fail to distribute goods fairly",
+          "Firms do not use enough technology in production",
+          "The global population is growing too slowly"
+        ]
+      },
+      {
+        "text": "Which of the following best illustrates the concept of scarcity?",
+        "options": [
+          "#A student choosing between studying for an hour or sleeping for an hour",
+          "A store running out of a popular toy during the holidays",
+          "A person having enough money to buy everything they want",
+          "An abundance of natural gas discovered in a new field"
+        ]
+      },
+      {
+        "text": "Which of the following best describes the concept of efficiency?",
+        "options": [
+          "#Society getting the maximum benefits from its scarce resources",
+          "Distributing economic prosperity uniformly among all members",
+          "Ensuring that government regulations are strictly followed",
+          "Keeping the unemployment rate at exactly zero percent"
+        ]
+      },
+      {
+        "text": "Which of the following best describes the concept of equality in economics?",
+        "options": [
+          "#Distributing economic prosperity uniformly among members of society",
+          "Producing the highest possible quality of goods",
+          "Allowing the market to determine all prices without intervention",
+          "Maximizing the total profit of all firms in a nation"
+        ]
+      },
+      {
+        "text": "Which of the following best describes rational people in economics?",
+        "options": [
+          "#People who systematically and purposefully do the best they can to achieve their objectives",
+          "People who never make mistakes when predicting the future",
+          "People who only care about money and ignore all social costs",
+          "People who always choose the cheapest option available"
+        ]
+      },
+      {
+        "text": "Which of the following best describes an incentive in economics?",
+        "options": [
+          "#Something that induces a person to act, such as a prospect of a punishment or reward",
+          "A legal requirement enforced by the government",
+          "The total cost of producing a specific good",
+          "A psychological state of being satisfied with a purchase"
+        ]
+      },
+      {
+        "text": "A marginal change is one that:",
+        "options": [
+          "#Describes a small incremental adjustment to an existing plan of action",
+          "Changes the entire structure of the national economy",
+          "Occurs only when a firm goes bankrupt",
+          "Is irrelevant to the decision-making process of a rational person"
+        ]
+      },
+      {
+        "text": "Because people respond to incentives,",
+        "options": [
+          "#Policymakers must consider how their laws change the costs or benefits for citizens",
+          "Prices in a market economy will always remain constant",
+          "The government does not need to intervene in the economy",
+          "People will ignore the marginal costs of their actions"
+        ]
+      },
+      {
+        "text": "According to the principle of opportunity cost, what is the cost of an economic decision?",
+        "options": [
+          "#Whatever must be given up to obtain some item",
+          "The total monetary value spent on the decision",
+          "The time spent researching the different options",
+          "The psychological stress caused by making a choice"
+        ]
+      },
+      {
+        "text": "Which principle suggests that people make decisions by comparing marginal benefits and marginal costs?",
+        "options": [
+          "#Rational people think at the margin",
+          "Trade can make everyone better off",
+          "The invisible hand principle",
+          "The law of diminishing returns"
+        ]
+      },
+      {
+        "text": "International trade benefits a nation when:",
+        "options": [
+          "#It allows countries to specialize in what they do best",
+          "The nation exports more than it imports",
+          "It forces domestic firms to lower their quality",
+          "The government imposes high tariffs on all imports"
+        ]
+      },
+      {
+        "text": "Adam Smith’s “invisible hand” refers to:",
+        "options": [
+          "#How households and firms acting in their own self-interest lead to desirable market outcomes",
+          "The secret interventions of the central bank to control inflation",
+          "The way government regulations subtly guide the economy",
+          "The automated systems used in modern manufacturing"
+        ]
+      },
+      {
+        "text": "Governments may intervene in a market economy in order to:",
+        "options": [
+          "#Promote efficiency or promote equality",
+          "Ensure that all firms make an equal amount of profit",
+          "Prevent any changes in the equilibrium price",
+          "Control the personal choices of every consumer"
+        ]
+      },
+      {
+        "text": "Which of the following is a positive, rather than a normative, statement?",
+        "options": [
+          "#An increase in the minimum wage will lead to a higher rate of unemployment",
+          "The government should increase the minimum wage to help the poor",
+          "The minimum wage is too low for a family to live on comfortably",
+          "It is unfair that some people earn more than others"
+        ]
+      },
+      {
+        "text": "The following parts of government regularly rely on the advice of economists:",
+        "options": [
+          "#The Department of the Treasury, the Department of Labor, and the Department of Justice",
+          "The Department of Defense and the National Aeronautics and Space Administration (NASA)",
+          "The Department of Education and the Environmental Protection Agency (EPA)",
+          "All of the above"
+        ]
+      },
+      {
+        "text": "Economists may disagree because they have different:",
+        "options": [
+          "#Scientific judgments or different values",
+          "Access to data or different educational backgrounds",
+          "Political affiliations or different cultural upbringings",
+          "Levels of intelligence or different life experiences"
+        ]
+      },
+      {
+        "text": "In an hour, Mateo can wash 2 cars or mow 1 lawn, and Sophia can wash 3 cars or mow 1 lawn. Who has the absolute advantage?",
+        "options": [
+          "#Sophia in washing cars, while neither has an absolute advantage in mowing lawns",
+          "Mateo in washing cars and Sophia in mowing lawns",
+          "Sophia in both washing cars and mowing lawns",
+          "Mateo in both washing cars and mowing lawns"
+        ]
+      },
+      {
+        "text": "In an hour, Mateo can wash 2 cars or mow 1 lawn, and Sophia can wash 3 cars or mow 1 lawn. Who has the comparative advantage?",
+        "options": [
+          "#Mateo in mowing lawns and Sophia in washing cars",
+          "Mateo in washing cars and Sophia in mowing lawns",
+          "Sophia in both washing cars and mowing lawns",
+          "Mateo in both washing cars and mowing lawns"
+        ]
+      },
+      {
+        "text": "A nation will typically import those goods in which:",
+        "options": [
+          "#Other nations have a comparative advantage",
+          "It has a comparative advantage",
+          "It has an absolute advantage",
+          "The domestic price is higher than the world price"
+        ]
+      },
+      {
+        "text": "If producing an aircraft and a shirt requires different labor hours in the U.S. and China, what will these nations trade?",
+        "options": [
+          "#The good in which each country has a comparative advantage",
+          "The good in which each country has an absolute advantage",
+          "Only the goods that are not produced in both countries",
+          "They will not trade if one country is more efficient at producing both goods"
+        ]
+      },
+      {
+        "text": "Kayla cooks dinner in 30 minutes and washes laundry in 20 minutes; her roommate takes twice as long. How should the work be allocated?",
+        "options": [
+          "#They should both specialize based on their comparative advantages",
+          "Kayla should do all the work because she is faster at both",
+          "The roommate should do all the work to gain more experience",
+          "They should split each task equally between them"
+        ]
+      },
+      {
+        "text": "When Mateo and Sophia specialize and trade based on comparative advantage, what happens?",
+        "options": [
+          "#Both can consume more of both goods than they could without trade",
+          "Mateo benefits but Sophia loses",
+          "Sophia benefits but Mateo loses",
+          "The total output of both goods remains the same"
+        ]
+      },
+      {
+        "text": "Most economists believe that tariffs are:",
+        "options": [
+          "#Harmful because they reduce the gains from trade",
+          "Beneficial because they protect domestic industries and jobs",
+          "Necessary to ensure fair competition in international markets",
+          "Only effective in the short run to promote economic growth"
+        ]
+      },
+      {
+        "text": "What is the best definition of a market?",
+        "options": [
+          "#A group of buyers and sellers of a particular good or service",
+          "A physical location where goods are exchanged for money",
+          "The set of laws and regulations that govern economic activity",
+          "A specific industry that is dominated by a few large firms"
+        ]
+      },
+      {
+        "text": "In a perfectly competitive market,",
+        "options": [
+          "#There are many buyers and sellers, such that each has a negligible impact on the market price",
+          "Firms have total control over the price of the goods they sell",
+          "Only a few large companies dominate the entire industry",
+          "The goods offered for sale are highly differentiated"
+        ]
+      },
+      {
+        "text": "Which product best fits the definition of a perfectly competitive market?",
+        "options": [
+          "#Wheat",
+          "Smartphones",
+          "Commercial aircraft",
+          "Luxury cars"
+        ]
+      },
+      {
+        "text": "What is the primary characteristic of a market economy?",
+        "options": [
+          "#Resources are allocated through the decentralized decisions of many firms and households",
+          "A central planning authority decides what goods and services will be produced",
+          "The government owns all of the factors of production",
+          "Prices are fixed by law to ensure they are affordable for everyone"
+        ]
+      },
+      {
+        "text": "What is an economic model?",
+        "options": [
+          "#A simplified representation of reality used to understand economic behavior",
+          "A detailed map of every transaction that occurs in an economy",
+          "A set of rules that all businesses must follow",
+          "A mathematical equation that predicts the future with 100% accuracy"
+        ]
+      },
+      {
+        "text": "In the circular-flow diagram, in markets for the factors of production:",
+        "options": [
+          "#Households are sellers and firms are buyers",
+          "Firms are sellers and households are buyers",
+          "The government acts as the only buyer and seller",
+          "Only services are traded, not goods"
+        ]
+      },
+      {
+        "text": "A point inside the production possibilities frontier is:",
+        "options": [
+          "#Feasible but inefficient",
+          "Infeasible given current resources and technology",
+          "Both efficient and feasible",
+          "Where the economy should aim to produce to maximize welfare"
+        ]
+      },
+      {
+        "text": "All of the following topics fall within microeconomics EXCEPT:",
+        "options": [
+          "#The influence of the government budget deficit on economic growth",
+          "The effect of rent control on the housing market in New York City",
+          "The impact of foreign competition on the U.S. auto industry",
+          "The factors that influence a consumer's decision to buy a car"
+        ]
+      },
+      {
+        "text": "Which economic system relies on supply and demand to allocate resources?",
+        "options": [
+          "#Market economy",
+          "Command economy",
+          "Traditional economy",
+          "Barter economy"
+        ]
+      },
+      {
+        "text": "A change in which variable does NOT shift the demand curve for hamburgers?",
+        "options": [
+          "#The price of hamburgers",
+          "The price of hot dogs (a substitute)",
+          "Consumer income",
+          "The expected future price of hamburgers"
+        ]
+      },
+      {
+        "text": "Which event shifts the demand curve for pizza to the right?",
+        "options": [
+          "#An increase in the price of hamburgers (a substitute)",
+          "A decrease in the price of pizza",
+          "A scientific study showing that pizza is bad for your health",
+          "A decrease in the number of pizza buyers"
+        ]
+      },
+      {
+        "text": "If pasta is an inferior good, how does its demand change when income rises?",
+        "options": [
+          "#Demand decreases",
+          "Demand increases",
+          "Demand remains unchanged",
+          "Quantity demanded decreases, but demand stays the same"
+        ]
+      },
+      {
+        "text": "In a command economy, who decides what and how much to produce?",
+        "options": [
+          "#The government",
+          "Individual consumers",
+          "Business owners",
+          "Market forces"
+        ]
+      },
+      {
+        "text": "Which economic system combines market and command elements?",
+        "options": [
+          "#Mixed economy",
+          "Pure market economy",
+          "Pure command economy",
+          "Traditional economy"
+        ]
+      },
+      {
+        "text": "What does “invisible hand” refer to in economic theory?",
+        "options": [
+          "#The self-regulating nature of the marketplace",
+          "The government's intervention in the economy",
+          "The impact of technology on production",
+          "The control of large corporations over prices"
+        ]
+      },
+      {
+        "text": "Which good is likely to have a more inelastic demand?",
+        "options": [
+          "#Life-saving insulin",
+          "A brand of potato chips",
+          "Tickets to a concert",
+          "A luxury yacht"
+        ]
+      },
+      {
+        "text": "What is the main difference between economic profit and accounting profit?",
+        "options": [
+          "#Economic profit considers both explicit and implicit costs, while accounting profit only considers explicit costs",
+          "Accounting profit considers both explicit and implicit costs, while economic profit only considers explicit costs",
+          "Economic profit is always higher than accounting profit",
+          "Accounting profit is only used by large corporations"
+        ]
+      },
+      {
+        "text": "If a firm's marginal product of labor is 10, what does this mean?",
+        "options": [
+          "#Hiring one more worker increases total output by 10 units",
+          "The firm produces 10 units for every worker it employs",
+          "The cost of hiring one more worker is $10",
+          "The firm's total profit increases by $10 when it hires one more worker"
+        ]
+      },
+      {
+        "text": "What does diminishing marginal product of labor indicate?",
+        "options": [
+          "#As more workers are hired, the extra output produced by each additional worker decreases",
+          "The total output of the firm decreases as more workers are hired",
+          "The firm should stop hiring workers immediately",
+          "The cost of labor is increasing"
+        ]
+      },
+      {
+        "text": "Which of the following is a characteristic of perfectly competitive markets?",
+        "options": [
+          "#The goods offered by the various sellers are largely the same",
+          "There are only a few sellers in the market",
+          "Firms have significant power to set their own prices",
+          "There are high barriers to entry for new firms"
+        ]
+      },
+      {
+        "text": "In a perfectly competitive market, each firm is a:",
+        "options": [
+          "#Price taker",
+          "Price maker",
+          "Monopolist",
+          "Oligopolist"
+        ]
+      },
+      {
+        "text": "What is the main goal of a firm in a perfectly competitive market?",
+        "options": [
+          "#To maximize profit",
+          "To maximize total revenue",
+          "To minimize total cost",
+          "To provide the best possible service to customers"
+        ]
+      },
+      {
+        "text": "The demand curve facing a perfectly competitive firm is:",
+        "options": [
+          "#Perfectly elastic",
+          "Perfectly inelastic",
+          "Downward sloping",
+          "Upward sloping"
+        ]
+      },
+      {
+        "text": "Which of the following is a characteristic of monopolistic competition?",
+        "options": [
+          "#Many firms selling products that are similar but not identical",
+          "One firm selling a product with no close substitutes",
+          "A few firms selling products that are identical",
+          "High barriers to entry and exit"
+        ]
+      },
+      {
+        "text": "What is a key feature of an oligopoly?",
+        "options": [
+          "#The market is dominated by a small number of large firms",
+          "There are no barriers to entry or exit",
+          "Firms have no influence over the market price",
+          "All firms produce identical products"
+        ]
+      },
+      {
+        "text": "What is a natural monopoly?",
+        "options": [
+          "#A monopoly that arises because a single firm can supply a good or service to an entire market at a lower cost than could two or more firms",
+          "A monopoly that is created by the government",
+          "A monopoly that exists because a firm owns a key resource",
+          "A monopoly that occurs in industries with high research and development costs"
+        ]
+      },
+      {
+        "text": "A firm in a monopolistic market faces a:",
+        "options": [
+          "#Downward-sloping demand curve",
+          "Horizontal demand curve",
+          "Vertical demand curve",
+          "Upward-sloping demand curve"
+        ]
+      },
+      {
+        "text": "Which of the following best describes the term 'externality'?",
+        "options": [
+          "#The uncompensated impact of one person's actions on the well-being of a bystander",
+          "The internal costs that a firm incurs during production",
+          "The benefits that a consumer receives from purchasing a good",
+          "The taxes that a government imposes on a specific industry"
+        ]
+      },
+      {
+        "text": "Which of the following is an example of a positive externality?",
+        "options": [
+          "#A person getting a flu shot, which reduces the chance of others getting sick",
+          "A factory polluting a nearby river",
+          "A neighbor playing loud music late at night",
+          "A firm's increased production leading to more traffic congestion"
+        ]
+      },
+      {
+        "text": "What does a point inside the production possibilities frontier indicate?",
+        "options": [
+          "#Resources are not being used efficiently",
+          "The economy is producing at its maximum potential",
+          "The chosen combination of goods is impossible to produce",
+          "There is no opportunity cost involved in moving to the frontier"
+        ]
+      },
+      {
+        "text": "If an economy is operating on its PPF, what does this imply?",
+        "options": [
+          "#All of the above",
+          "The economy is using all its resources efficiently",
+          "There is no way to produce more of one good without producing less of another",
+          "The economy is experiencing full employment"
+        ]
+      },
+      {
+        "text": "What happens to equilibrium price and quantity when demand increases while supply remains constant?",
+        "options": [
+          "#Both price and quantity increase",
+          "Price increases and quantity decreases",
+          "Price decreases and quantity increases",
+          "Both price and quantity decrease"
+        ]
+      },
+      {
+        "text": "In the law of demand, what is the relationship between price and quantity demanded?",
+        "options": [
+          "#Inverse relationship",
+          "Direct relationship",
+          "No relationship",
+          "Proportional relationship"
+        ]
+      },
+      {
+        "text": "When supply decreases while demand remains constant, what happens?",
+        "options": [
+          "#Price increases and quantity decreases",
+          "Price decreases and quantity increases",
+          "Both price and quantity increase",
+          "Both price and quantity decrease"
+        ]
+      },
+      {
+        "text": "If the cross-price elasticity between two goods is positive, what can we conclude?",
+        "options": [
+          "#The two goods are substitutes",
+          "The two goods are complements",
+          "One of the goods is an inferior good",
+          "The demand for both goods is perfectly inelastic"
+        ]
+      },
+      {
+        "text": "What does the term 'elasticity of demand' measure?",
+        "options": [
+          "#How much the quantity demanded responds to a change in price",
+          "The slope of the demand curve",
+          "The total revenue generated by a firm",
+          "The impact of a change in income on the quantity demanded"
+        ]
+      },
+      {
+        "text": "If the government imposes a price ceiling below equilibrium, what occurs?",
+        "options": [
+          "#A shortage",
+          "A surplus",
+          "Equilibrium is maintained",
+          "The quantity supplied increases"
+        ]
+      },
+      {
+        "text": "Which factor is likely to shift the supply curve to the right?",
+        "options": [
+          "#An improvement in production technology",
+          "An increase in the cost of raw materials",
+          "A decrease in the number of sellers in the market",
+          "An increase in the price of the good itself"
+        ]
+      },
+      {
+        "text": "How does demand for a luxury good change when income increases?",
+        "options": [
+          "#It increases by a larger percentage than the increase in income",
+          "It increases by the same percentage as the increase in income",
+          "It decreases",
+          "It remains constant"
+        ]
+      },
+      {
+        "text": "What is the situation called when quantity demanded exceeds quantity supplied?",
+        "options": [
+          "#Shortage",
+          "Surplus",
+          "Equilibrium",
+          "Market failure"
+        ]
+      },
+      {
+        "text": "How is the price elasticity of demand calculated?",
+        "options": [
+          "#Percentage change in quantity demanded divided by percentage change in price",
+          "Percentage change in price divided by percentage change in quantity demanded",
+          "Change in quantity demanded divided by change in price",
+          "Change in price divided by change in quantity demanded"
+        ]
+      },
+      {
+        "text": "If a good has many substitutes, what happens to its price elasticity?",
+        "options": [
+          "#It tends to be more elastic",
+          "It tends to be more inelastic",
+          "It becomes perfectly inelastic",
+          "The number of substitutes has no effect on elasticity"
+        ]
+      },
+      {
+        "text": "What happens to equilibrium price and quantity when both demand and supply decrease?",
+        "options": [
+          "#Quantity decreases, but the effect on price is ambiguous",
+          "Price decreases, but the effect on quantity is ambiguous",
+          "Both price and quantity decrease",
+          "Both price and quantity increase"
+        ]
+      },
+      {
+        "text": "What is the relationship between elasticity of demand and total revenue?",
+        "options": [
+          "#If demand is elastic, a price increase will decrease total revenue",
+          "If demand is inelastic, a price increase will decrease total revenue",
+          "If demand is unit elastic, a price change will significantly change total revenue",
+          "Elasticity of demand has no relationship with total revenue"
+        ]
+      },
+      {
+        "text": "When the government imposes a tax, how do equilibrium price and quantity change?",
+        "options": [
+          "#Price paid by buyers increases and quantity sold decreases",
+          "Price paid by buyers decreases and quantity sold increases",
+          "Price received by sellers increases and quantity sold decreases",
+          "Price paid by buyers increases and quantity sold increases"
+        ]
+      },
+      {
+        "text": "If price falls and total revenue rises, what is the elasticity of demand?",
+        "options": [
+          "#Elastic",
+          "Inelastic",
+          "Unit elastic",
+          "Perfectly inelastic"
+        ]
+      },
+      {
+        "text": "What does elasticity of demand indicate when the coefficient is greater than one?",
+        "options": [
+          "#The demand is elastic",
+          "The demand is inelastic",
+          "The demand is unit elastic",
+          "The good is a necessity"
+        ]
+      },
+      {
+        "text": "If the price of a good increases by 10% and quantity demanded decreases by 20%, what is the elasticity?",
+        "options": [
+          "#2",
+          "0.5",
+          "10",
+          "0.2"
+        ]
+      },
+      {
+        "text": "In which scenario is demand most elastic?",
+        "options": [
+          "#A specific brand of cereal",
+          "Food in general",
+          "Gasoline in the short run",
+          "Water for drinking"
+        ]
+      },
+      {
+        "text": "What is the elasticity of demand for a perfectly inelastic good?",
+        "options": [
+          "#Zero",
+          "One",
+          "Infinity",
+          "Greater than one"
+        ]
+      },
+      {
+        "text": "If cross-price elasticity is negative, what does it imply?",
+        "options": [
+          "#The two goods are complements",
+          "The two goods are substitutes",
+          "One of the goods is an inferior good",
+          "The demand for the goods is highly elastic"
+        ]
+      },
+      {
+        "text": "What does a perfectly elastic supply curve look like?",
+        "options": [
+          "#A horizontal line",
+          "A vertical line",
+          "An upward-sloping line starting from the origin",
+          "A downward-sloping line"
+        ]
+      },
+      {
+        "text": "If percentage change in quantity supplied exceeds percentage change in price, what is supply elasticity?",
+        "options": [
+          "#Greater than one (elastic)",
+          "Less than one (inelastic)",
+          "Equal to one (unit elastic)",
+          "Zero (perfectly inelastic)"
+        ]
+      },
+      {
+        "text": "Why is supply more elastic in the long run than in the short run?",
+        "options": [
+          "#Firms have more time to build new factories or for new firms to enter the market",
+          "Consumers' tastes and preferences change more slowly over time",
+          "The government is more likely to intervene in the long run",
+          "Short-run production is always more efficient"
+        ]
+      },
+      {
+        "text": "What is the definition of fixed costs?",
+        "options": [
+          "#Costs that do not vary with the quantity of output produced",
+          "Costs that increase directly with the quantity of output produced",
+          "Costs that only occur when the firm is profitable",
+          "The costs associated with hiring additional labor"
+        ]
+      },
+      {
+        "text": "Which of the following is an example of variable costs in manufacturing?",
+        "options": [
+          "#Raw materials",
+          "Rent on a factory building",
+          "Interest payments on a long-term loan",
+          "The salary of the CEO"
+        ]
+      },
+      {
+        "text": "What does 'opportunity cost' mean in production?",
+        "options": [
+          "#The value of the next best alternative that must be foregone",
+          "The total cost of all inputs used in production",
+          "The cost of the most expensive input used",
+          "The amount of profit a firm could have made"
+        ]
+      },
+      {
+        "text": "Which cost represents the additional cost of producing one more unit?",
+        "options": [
+          "#Marginal cost",
+          "Average total cost",
+          "Variable cost",
+          "Fixed cost"
+        ]
+      },
+      {
+        "text": "What is the formula for total cost?",
+        "options": [
+          "#Fixed Cost + Variable Cost",
+          "Average Fixed Cost + Average Variable Cost",
+          "Marginal Cost x Quantity",
+          "Fixed Cost / Quantity"
+        ]
+      },
+      {
+        "text": "What is the formula for average variable cost?",
+        "options": [
+          "#Variable Cost / Quantity",
+          "Total Cost / Quantity",
+          "Change in Total Cost / Change in Quantity",
+          "Fixed Cost / Quantity"
+        ]
+      },
+      {
+        "text": "Which of the following is an implicit cost?",
+        "options": [
+          "#The foregone interest on the owner's own money invested in the business",
+          "The wages paid to employees",
+          "The rent paid for factory space",
+          "The cost of raw materials"
+        ]
+      },
+      {
+        "text": "What is the purpose of calculating the break-even point?",
+        "options": [
+          "#To determine the level of output at which total revenue equals total cost",
+          "To find the level of output that maximizes profit",
+          "To identify the point where marginal cost equals marginal revenue",
+          "To calculate the total taxes owed by the firm"
+        ]
+      },
+      {
+        "text": "In a monopoly, the firm is a:",
+        "options": [
+          "#Price maker",
+          "Price taker",
+          "Profit taker",
+          "Market follower"
+        ]
+      },
+      {
+        "text": "Which market structure is characterized by few interdependent firms?",
+        "options": [
+          "#Oligopoly",
+          "Monopoly",
+          "Perfect competition",
+          "Monopolistic competition"
+        ]
+      },
+      {
+        "text": "Why do firms differentiate products in monopolistic competition?",
+        "options": [
+          "#To gain some control over the price of their product",
+          "To lower their total production costs",
+          "To comply with government regulations",
+          "Because consumers demand identical products"
+        ]
+      },
+      {
+        "text": "A firm in perfect competition maximizes profit where:",
+        "options": [
+          "#Marginal Revenue = Marginal Cost",
+          "Price = Average Total Cost",
+          "Total Revenue is at its maximum",
+          "Average Variable Cost is at its minimum"
+        ]
+      },
+      {
+        "text": "Which market structure typically exhibits non-price competition?",
+        "options": [
+          "#Monopolistic competition",
+          "Perfect competition",
+          "Pure monopoly",
+          "None of the above"
+        ]
+      },
+      {
+        "text": "What does the Herfindahl-Hirschman Index (HHI) measure?",
+        "options": [
+          "#Market concentration",
+          "The degree of product differentiation",
+          "The profitability of a firm",
+          "Consumer surplus"
+        ]
+      },
+      {
+        "text": "When will a perfectly competitive firm shut down in the short run?",
+        "options": [
+          "#If Price < Average Variable Cost",
+          "If Price < Average Total Cost",
+          "If Total Revenue < Total Cost",
+          "If Marginal Revenue < Marginal Cost"
+        ]
+      },
+      {
+        "text": "What does GDP stand for?",
+        "options": [
+          "#Gross Domestic Product",
+          "Global Development Program",
+          "General Domestic Price",
+          "Gross Demand Potential"
+        ]
+      },
+      {
+        "text": "What is the economic term for satisfaction from consuming a good?",
+        "options": [
+          "#Utility",
+          "Profit",
+          "Surplus",
+          "Elasticity"
+        ]
+      },
+      {
+        "text": "Compute equilibrium quantity using: Qd = 20 − 2p and Qs = −10 + 2p.",
+        "options": [
+          "#5",
+          "7.5",
+          "10",
+          "15"
+        ]
+      },
+      {
+        "text": "In the circular flow model, what do households provide to firms?",
+        "options": [
+          "#Factors of production (labor, land, capital)",
+          "Goods and services",
+          "Wages and salaries",
+          "Tax revenue"
+        ]
+      },
+      {
+        "text": "In a closed economy without government, what are the two primary markets?",
+        "options": [
+          "#Markets for goods/services and markets for factors of production",
+          "The stock market and the bond market",
+          "The domestic market and the international market",
+          "The consumer market and the industrial market"
+        ]
+      },
+      {
+        "text": "When economists say “people face trade-offs,” what do they mean?",
+        "options": [
+          "#To get one thing that we like, we usually have to give up another thing that we like",
+          "Life is always full of difficult and unhappy choices",
+          "Every decision has a negative consequence",
+          "Trading goods is the only way to improve welfare"
+        ]
+      },
+      {
+        "text": "Which example demonstrates “thinking at the margin”?",
+        "options": [
+          "#Deciding whether to stay in school for one more year",
+          "Deciding whether to go to college or start working after high school",
+          "Choosing which career path to follow for the rest of your life",
+          "Calculating the total cost of a four-year degree"
+        ]
+      },
+      {
+        "text": "How do economists define incentives?",
+        "options": [
+          "#Something that induces a person to act",
+          "The internal drive to succeed",
+          "A government regulation that limits choice",
+          "A person's natural preference for a particular good"
+        ]
+      },
+      {
+        "text": "What does “trade can make everyone better off” imply?",
+        "options": [
+          "#Trade allows people to specialize and enjoy a greater variety of goods",
+          "Trade ensures that everyone gets an equal amount of resources",
+          "Trade eliminates the need for any government intervention",
+          "Trade always results in a surplus for all participating nations"
+        ]
+      },
+      {
+        "text": "In market principles, what does a competitive market lead to?",
+        "options": [
+          "#An efficient allocation of resources",
+          "The highest possible prices for consumers",
+          "The guaranteed survival of every firm",
+          "Total equality among all members of society"
+        ]
+      },
+      {
+        "text": "What describes the government's role in correcting market failure?",
+        "options": [
+          "#Intervening to improve efficiency when the market fails to allocate resources well on its own",
+          "Nationalizing all major industries to ensure they are run fairly",
+          "Fixing prices to make sure goods are affordable",
+          "Eliminating all competition to prevent market instability"
+        ]
+      },
+      {
+        "text": "Which situation represents an externality?",
+        "options": [
+          "#Second-hand smoke from a neighbor's cigarette",
+          "Buying a used car from a private seller",
+          "Paying a higher price for a good because of a tax",
+          "Working overtime to earn extra money"
+        ]
+      },
+      {
+        "text": "Which statement reflects that living standards depend on production?",
+        "options": [
+          "#A country's standard of living depends on its ability to produce goods and services",
+          "Living standards are purely determined by a country's natural resources",
+          "The government's ability to print money is the key to a high standard of living",
+          "High living standards are only possible in countries with low taxes"
+        ]
+      },
+      {
+        "text": "Which principle explains inflation?",
+        "options": [
+          "#Prices rise when the government prints too much money",
+          "Prices rise when there is a decrease in the demand for goods",
+          "Prices fall when the supply of money increases",
+          "Inflation is caused by high levels of unemployment"
+        ]
+      },
+      {
+        "text": "“No free lunch” illustrates which principle?",
+        "options": [
+          "#People face trade-offs",
+          "Rational people think at the margin",
+          "Incentives matter",
+          "Trade can make everyone better off"
+        ]
+      },
+      {
+        "text": "What represents the idea that markets organize economic activity well?",
+        "options": [
+          "#The 'invisible hand' guiding the actions of buyers and sellers",
+          "The strict oversight of a central planning committee",
+          "The use of bartering in local communities",
+          "The establishment of trade barriers to protect domestic markets"
+        ]
+      },
+      {
+        "text": "Which scenario could improve a country's standard of living?",
+        "options": [
+          "#An increase in the productivity of its workers",
+          "A decrease in the total amount of goods produced",
+          "A significant increase in the national debt",
+          "A rise in the overall price level (inflation)"
+        ]
+      },
+      {
+        "text": "What does “trade can make everyone better off” imply for international trade?",
+        "options": [
+          "#Countries benefit from being able to trade with one another",
+          "Trade is a zero-sum game where one country's gain is another's loss",
+          "All countries should try to be self-sufficient and avoid trade",
+          "Trade only benefits wealthy nations"
+        ]
+      },
+      {
+        "text": "Which scenario reflects marginal thinking?",
+        "options": [
+          "#An airline selling a last-minute seat for less than the average cost per seat",
+          "A person deciding to buy a whole new wardrobe",
+          "A firm choosing to shut down its entire operations",
+          "A government deciding to change its entire economic system"
+        ]
+      },
+      {
+        "text": "What is the short-run trade-off between inflation and unemployment?",
+        "options": [
+          "#Reducing inflation often leads to a temporary increase in unemployment",
+          "Higher unemployment always leads to higher inflation",
+          "There is no relationship between inflation and unemployment",
+          "Policies that reduce unemployment will always reduce inflation as well"
+        ]
+      },
+      {
+        "text": "Which factor directly affects national productivity?",
+        "options": [
+          "#The skills and knowledge of the workforce (human capital)",
+          "The total amount of money in circulation",
+          "The number of holidays in a year",
+          "The specific political party in power"
+        ]
+      },
+      {
+        "text": "Why do people face trade-offs?",
+        "options": [
+          "#Because resources are scarce",
+          "Because people are naturally greedy",
+          "Because the government imposes limits on what we can do",
+          "Because markets are inherently inefficient"
+        ]
+      },
+      {
+        "text": "Why do economists use assumptions?",
+        "options": [
+          "#To simplify the complex world and make it easier to understand",
+          "Because they do not have enough data to be accurate",
+          "To ensure that their models always support their personal values",
+          "Because economics is not a true science"
+        ]
+      },
+      {
+        "text": "Which is an example of a positive statement?",
+        "options": [
+          "#The unemployment rate is currently 5%",
+          "The government should do more to reduce unemployment",
+          "High unemployment is the biggest problem facing the country",
+          "It is better to have low inflation than low unemployment"
+        ]
+      },
+      {
+        "text": "What does an outward shift of the PPF represent?",
+        "options": [
+          "#Economic growth",
+          "A decrease in resources",
+          "An increase in the unemployment rate",
+          "A shift in consumer preferences toward one good"
+        ]
+      },
+      {
+        "text": "Which is a normative statement?",
+        "options": [
+          "#The inheritance tax should be abolished because it is unfair",
+          "The inheritance tax generates $10 billion in revenue annually",
+          "The inheritance tax only applies to very wealthy estates",
+          "Many other countries also have inheritance taxes"
+        ]
+      },
+      {
+        "text": "What does “ceteris paribus” mean?",
+        "options": [
+          "#All other things being equal",
+          "For every action, there is an equal and opposite reaction",
+          "The buyer must beware",
+          "Nothing is certain except death and taxes"
+        ]
+      },
+      {
+        "text": "What defines absolute advantage?",
+        "options": [
+          "#The ability to produce a good using fewer inputs than another producer",
+          "The ability to produce a good at a lower opportunity cost than another producer",
+          "The ability to sell a good at a higher price than another producer",
+          "Having more total resources than another producer"
+        ]
+      },
+      {
+        "text": "What must a country consider in comparative advantage?",
+        "options": [
+          "#The opportunity cost of producing a good",
+          "The total amount of labor available in the country",
+          "The absolute number of goods it can produce",
+          "The level of technology in other countries"
+        ]
+      },
+      {
+        "text": "Given two countries’ production capabilities, which has comparative advantage?",
+        "options": [
+          "#The country with the lower opportunity cost for a specific good",
+          "The country that can produce more of both goods",
+          "The country with the more advanced technology",
+          "The country that has the absolute advantage in both goods"
+        ]
+      },
+      {
+        "text": "The “gains from trade” concept relies on which theory?",
+        "options": [
+          "#Comparative advantage",
+          "Absolute advantage",
+          "The labor theory of value",
+          "The theory of mercantilism"
+        ]
+      },
+      {
+        "text": "Which scenario best illustrates interdependence?",
+        "options": [
+          "#A country relying on others for goods it cannot produce efficiently itself",
+          "A family growing all of its own food and making its own clothes",
+          "A firm producing every component of its final product in-house",
+          "An individual living alone in the wilderness"
+        ]
+      },
+      {
+        "text": "Why do economists focus on opportunity cost in trade analysis?",
+        "options": [
+          "#Because it is the true cost of choosing one activity over another",
+          "Because it is easier to calculate than monetary cost",
+          "Because opportunity cost is only relevant in international trade",
+          "Because it helps to justify government intervention in markets"
+        ]
+      },
+      {
+        "text": "Which of the following is a fixed cost?",
+        "options": [
+          "#Monthly rent on a factory building",
+          "The cost of electricity used in production",
+          "Wages paid to hourly workers",
+          "The cost of packaging materials"
+        ]
+      },
+      {
+        "text": "What is total cost if fixed cost = 200, variable cost/unit = 5, quantity = 100?",
+        "options": [
+          "#700",
+          "500",
+          "205",
+          "1000"
+        ]
+      },
+      {
+        "text": "If total cost = 500 for 20 units and fixed cost = 100, what is the average variable cost?",
+        "options": [
+          "#20",
+          "25",
+          "5",
+          "400"
+        ]
+      },
+      {
+        "text": "If price falls below minimum AVC, what is the firm’s short-run decision?",
+        "options": [
+          "#Shut down operations",
+          "Continue producing to cover fixed costs",
+          "Increase production to achieve economies of scale",
+          "Raise the price to match competitors"
+        ]
+      },
+      {
+        "text": "If TFC = 500 and TVC = 300 at Q = 50, what is ATC?",
+        "options": [
+          "#16",
+          "10",
+          "6",
+          "800"
+        ]
+      },
+      {
+        "text": "If marginal cost is above ATC, what happens to ATC?",
+        "options": [
+          "#Average Total Cost increases",
+          "Average Total Cost decreases",
+          "Average Total Cost remains unchanged",
+          "Average Total Cost becomes equal to Marginal Cost"
+        ]
+      },
+      {
+        "text": "What is marginal cost when TC increases from 2000 to 2500 as output increases from 100 to 150?",
+        "options": [
+          "#10",
+          "500",
+          "50",
+          "5"
+        ]
+      },
+      {
+        "text": "What is the relationship between MC and ATC?",
+        "options": [
+          "#The MC curve crosses the ATC curve at its minimum point",
+          "The MC curve is always above the ATC curve",
+          "The MC curve is always below the ATC curve",
+          "There is no predictable relationship between MC and ATC"
+        ]
+      },
+      {
+        "text": "When AVC is at its minimum, what is true?",
+        "options": [
+          "#Marginal Cost equals Average Variable Cost",
+          "Average Total Cost is also at its minimum",
+          "Fixed Cost is zero",
+          "Total Cost is at its minimum"
+        ]
+      },
+      {
+        "text": "Why is the ATC curve U-shaped?",
+        "options": [
+          "#It reflects the initial dominance of falling AFC followed by the dominance of rising AVC due to diminishing marginal product",
+          "Because fixed costs increase as production increases",
+          "Because firms always aim for a specific level of production",
+          "Because total costs always decrease then increase"
+        ]
+      },
+      {
+        "text": "If MC > ATC, what happens to ATC?",
+        "options": [
+          "#ATC is rising",
+          "ATC is falling",
+          "ATC is at its minimum",
+          "ATC is constant"
+        ]
+      },
+      {
+        "text": "What happens to AFC as production increases?",
+        "options": [
+          "#It decreases continuously",
+          "It increases continuously",
+          "It remains constant",
+          "It first decreases and then increases"
+        ]
+      },
+      {
+        "text": "What is the correct relationship between TC, TFC, and TVC?",
+        "options": [
+          "#TC = TFC + TVC",
+          "TC = TFC - TVC",
+          "TFC = TC + TVC",
+          "TVC = TC + TFC"
+        ]
+      },
+      {
+        "text": "What is one main advantage of a market economy?",
+        "options": [
+          "#Efficiency in resource allocation",
+          "Guaranteed income equality",
+          "Absence of any economic cycles",
+          "Complete control by the government"
+        ]
+      },
+      {
+        "text": "Discovery of new crude oil reserves shifts which curve, and what happens to price?",
+        "options": [
+          "#Supply curve to the right; price decreases",
+          "Supply curve to the left; price increases",
+          "Demand curve to the right; price increases",
+          "Demand curve to the left; price decreases"
+        ]
+      },
+      {
+        "text": "What happens to inferior goods during recession?",
+        "options": [
+          "#Demand for them increases as incomes fall",
+          "Demand for them decreases as incomes fall",
+          "Demand remains unchanged",
+          "They are no longer produced"
+        ]
+      },
+      {
+        "text": "What event increases the equilibrium price of jelly and reduces equilibrium quantity?",
+        "options": [
+          "#An increase in the price of grapes (an input)",
+          "A decrease in the price of peanut butter (a complement)",
+          "A scientific study saying jelly is good for health",
+          "A technological advance in jelly production"
+        ]
+      },
+      {
+        "text": "An increase in what causes movement along a supply curve?",
+        "options": [
+          "#The price of the good itself",
+          "The number of sellers",
+          "Input prices",
+          "Technology"
+        ]
+      },
+      {
+        "text": "A good tends to have low elasticity of demand if:",
+        "options": [
+          "#It is a necessity with no close substitutes",
+          "It is a luxury good",
+          "It has many close substitutes",
+          "It takes up a large portion of a consumer's budget"
+        ]
+      },
+      {
+        "text": "An increase in price reduces total spending if price elasticity is:",
+        "options": [
+          "#Elastic (greater than 1)",
+          "Inelastic (less than 1)",
+          "Unit elastic (equal to 1)",
+          "Perfectly inelastic (zero)"
+        ]
+      },
+      {
+        "text": "A downward-sloping linear demand curve is:",
+        "options": [
+          "#Elastic at high prices and inelastic at low prices",
+          "Inelastic at high prices and elastic at low prices",
+          "Unit elastic at all points",
+          "Perfectly elastic at all points"
+        ]
+      },
+      {
+        "text": "Why do Rohan residents spend more of their income on food than Gondor?",
+        "options": [
+          "#Because Rohan is likely poorer and food is a necessity with low income elasticity",
+          "Because food is more expensive in Rohan",
+          "Because Rohan residents enjoy eating more than Gondor residents",
+          "Because Gondor has a higher tax on food items"
+        ]
+      },
+      {
+        "text": "Calculate elasticity of supply using midpoint method given price and quantity change.",
+        "options": [
+          "#Percentage change in Qs / Percentage change in P using averages as the base",
+          "Change in Qs / Change in P",
+          "Initial Qs / Initial P",
+          "Final Qs / Final P"
+        ]
+      },
+      {
+        "text": "If price elasticity of supply is zero, what does the supply curve look like?",
+        "options": [
+          "#Vertical",
+          "Horizontal",
+          "Upward sloping",
+          "Downward sloping"
+        ]
+      },
+      {
+        "text": "In the long run, what happens to supply elasticity due to firm entry and exit?",
+        "options": [
+          "#It becomes more elastic",
+          "It becomes less elastic",
+          "It becomes perfectly inelastic",
+          "It remains unchanged"
+        ]
+      }
+    ]
   }
+
 
 }
