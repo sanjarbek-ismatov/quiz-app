@@ -2,26 +2,115 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Root styling */
 html, body, #root { height: 100%; }
 
-/* small UI helpers */
-.fade-in { animation: fadeIn 320ms ease; }
-@keyframes fadeIn { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: translateY(0) } }
-.pop { transition: transform 140ms ease; }
-.pop:active { transform: scale(.98) }
-.focus-ring:focus { box-shadow: 0 0 0 3px rgba(99,102,241,0.15); outline: none }
-
-/* Responsive container */
-.app-container { max-width: 920px; margin: 0 auto; padding: 16px; }
-
-/* Mobile-friendly option buttons */
-.option-btn { padding: 14px 12px; font-size: 15px; text-align: left }
-
-@media (min-width: 640px) {
-	.app-container { padding: 24px }
-	.option-btn { padding: 12px 14px; font-size: 15px }
+body {
+  @apply bg-gray-50 dark:bg-gray-900;
 }
 
-/* Card and modal shadows tuned for mobile */
-.card { border-radius: 12px; box-shadow: 0 6px 18px rgba(16,24,40,0.06); }
-.modal-card { border-radius: 12px; box-shadow: 0 12px 36px rgba(2,6,23,0.2); }
+html.dark {
+  color-scheme: dark;
+}
+
+/* Modern animations */
+.fade-in { animation: fadeIn 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+@keyframes fadeIn { 
+  from { opacity: 0; transform: translateY(8px); } 
+  to { opacity: 1; transform: translateY(0); } 
+}
+
+.slide-up { animation: slideUp 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
+@keyframes slideUp { 
+  from { opacity: 0; transform: translateY(16px); } 
+  to { opacity: 1; transform: translateY(0); } 
+}
+
+.scale-in { animation: scaleIn 0.2s cubic-bezier(0.34, 1.56, 0.64, 1); }
+@keyframes scaleIn { 
+  from { opacity: 0; transform: scale(0.92); } 
+  to { opacity: 1; transform: scale(1); } 
+}
+
+/* Interactive effects */
+.pop { 
+  @apply transition-transform duration-150 ease-out;
+}
+.pop:active { 
+  @apply transform scale-95;
+}
+
+.hover-lift {
+  @apply transition-all duration-300 ease-out;
+}
+.hover-lift:hover {
+  @apply -translate-y-1 shadow-lg;
+}
+
+/* Focus ring - accessible focus state */
+.focus-ring {
+  @apply transition-shadow duration-200;
+}
+.focus-ring:focus {
+  @apply outline-none ring-2 ring-offset-2 ring-primary-500;
+}
+
+/* Accessible button */
+@layer components {
+  .btn-base {
+    @apply relative inline-flex items-center justify-center gap-2 px-4 py-2.5 font-medium text-sm rounded-lg transition-all duration-200 focus-ring disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+  
+  .btn-primary {
+    @apply btn-base bg-primary-600 text-white hover:bg-primary-700 active:scale-95 dark:bg-primary-500 dark:hover:bg-primary-600;
+  }
+  
+  .btn-secondary {
+    @apply btn-base bg-gray-200 text-gray-900 hover:bg-gray-300 active:scale-95 dark:bg-gray-700 dark:text-gray-100 dark:hover:bg-gray-600;
+  }
+  
+  .card {
+    @apply bg-white dark:bg-gray-800 rounded-xl shadow-md transition-all duration-300 border border-gray-100 dark:border-gray-700;
+  }
+  
+  .card:hover {
+    @apply shadow-lg border-gray-200 dark:border-gray-600;
+  }
+}
+
+/* Responsive container */
+.app-container { 
+  @apply max-w-5xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+/* Mobile-friendly option buttons */
+.option-btn { 
+  @apply w-full px-4 py-3 text-left rounded-lg border-2 transition-all duration-200 focus-ring;
+}
+
+@media (min-width: 640px) {
+  .app-container { @apply px-6; }
+  .option-btn { @apply py-2.5 px-3; }
+}
+
+/* Card shadows */
+.modal-card { 
+  @apply rounded-xl shadow-2xl;
+}
+
+/* Accessibility helpers */
+.sr-only {
+  @apply absolute w-1 h-1 p-0 -m-1 overflow-hidden whitespace-nowrap;
+  clip: rect(1px, 1px, 1px, 1px);
+  border-width: 0;
+}
+
+/* Skip to main content link */
+.skip-link {
+  @apply absolute -top-full left-0 z-50 px-4 py-2 bg-primary-600 text-white rounded-b-lg focus:top-0 transition-all duration-200;
+}
+
+/* Better text selection */
+::selection {
+  @apply bg-primary-200 dark:bg-primary-900/50 text-gray-900 dark:text-gray-100;
+}

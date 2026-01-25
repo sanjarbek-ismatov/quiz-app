@@ -1,0 +1,1804 @@
+ {"academic-writing": {
+    "questions": [
+      {
+        "text": "Akademik yozuv fani nimani oʻrgatadi?",
+        "options": [
+          "#Talabalarda ilmiy matn yozish malakalarini shakllantiradi",
+          "Matnlarni yozishda talabalarni malakalarini shakllantiradi",
+          "Talabalarda adabiy matn yozish malakalarini shakllantiradi",
+          "Talabalarda soʻzlashuv matnlarini yozish malakalarini shakllantiradi"
+        ]
+      },
+      {
+        "text": "Akademik yozuvning qanday xususiyatlari bor?",
+        "options": [
+          "#Akademik yozuv — bu ilmiy matnlarni: insholar, kurs ishlari, diplom ishlar, magistrlik dissertatsiyalari, maqolalar, monografiyalar yozish metodologiyasi.",
+          "Akademik yozuv — bu ilmiy matnlarni yozishda xato qilmaslikka erishishdir.",
+          "Akademik yozuv — bu ilmiy matnlarni: insholar, xatlar yozish metodologiyasi.",
+          "Akademik yozuv — bu ilmiy matnlarni: oʻqish va yozish metodologiyasi."
+        ]
+      },
+      {
+        "text": "Ilmiy uslub janriga qaysi javob kirmaydi?",
+        "options": [
+          "#Memorandum",
+          "Annotatsiya",
+          "Referat",
+          "Xulosa"
+        ]
+      },
+      {
+        "text": "Ilmiy uslubining asosiy vazifasi:",
+        "options": [
+          "#Ilmiy maʼlumotlarni yetkazish, asoslarini ilmiy tushuntirish",
+          "Toʻgʻridan-toʻgʻri kundalik aloqa",
+          "Tasvir va kitobxonga tavsiya berish",
+          "Muloqot qilish"
+        ]
+      },
+      {
+        "text": "Monolog – bu…..",
+        "options": [
+          "#Bir kishining nutqi",
+          "Inson tomonidan yaratilgan matn",
+          "Ikki yoki undan ortiq odam oʻrtasidagi suhbat",
+          "Jamoaviy muhokama"
+        ]
+      },
+      {
+        "text": "Quyidagi janrlardan qaysi biri publistik uslubga xos emas?",
+        "options": [
+          "#Teoremaning isboti",
+          "Nutq",
+          "Muhokama paytidagi nutq",
+          "Intervyu"
+        ]
+      },
+      {
+        "text": "Ushbu manbalardan qaysi biri publistik uslubdagi matnni oʻz ichiga olishi mumkin?",
+        "options": [
+          "#Gazeta",
+          "Lirik sheʼrlar toʻplami",
+          "Jinoyat kodeksi",
+          "Kimyo darsligi"
+        ]
+      },
+      {
+        "text": "Esse nima?",
+        "options": [
+          "#Kichik hajmli va erkin kompozitsiyali nasriy insho",
+          "Norasmiy xatti-harakatlar orqali his-tuygʻularni ifodalash",
+          "Oʻzaro munosabatlar madaniyatini oʻzlashtirishda qoidalarni yodlash",
+          "Ichki his tuygʻularni aks ettirish"
+        ]
+      },
+      {
+        "text": "Esse tuzilishi jihatidan qanaqa boʻladi?",
+        "options": [
+          "#Insho",
+          "Roman",
+          "Povest",
+          "Xulosa"
+        ]
+      },
+      {
+        "text": "Jurnalning soʻnggi ikki yildagi maqolalariga iqtiboslar sonining oʻsha davrda nashr etilgan maqolalar soniga nisbatan oʻlchovi — bu...",
+        "options": [
+          "#Impakt Faktor",
+          "Ilmiy nashr",
+          "Ilmiy jurnal",
+          "Ilmiy maqola"
+        ]
+      },
+      {
+        "text": "Referatni tanlash mavzusi uchun yetarli asos….",
+        "options": [
+          "#javoblarda berilgan barcha asoslar",
+          "faqat muallifning bu masalaga qiziqishi",
+          "faqat muammoning mazmuni",
+          "faqat manbalar doirasining mavjudligi"
+        ]
+      },
+      {
+        "text": "Iqtibos – bu…",
+        "options": [
+          "#manbadan soʻzma-soʻz yozilgan muallif matnining qismlari",
+          "referat muallifining talqinidagi eng qiziqarli fikrlar",
+          "aytilgan yoki yozilgan narsadan xulosa chiqarish",
+          "aytilgan gap"
+        ]
+      },
+      {
+        "text": "Dialog qaysi funksional uslubga xos xususiyatdir?",
+        "options": [
+          "#Soʻzlashuv",
+          "Rasmiy-idoraviy",
+          "Publitsistik",
+          "Ilmiy"
+        ]
+      },
+      {
+        "text": "Lotincha “refero”, yaʼni “xabar beraman” degan maʼnoni anglatadi va mavzu boʻyicha ilmiy ish (asar) mazmunini yozma yoki ommaviy hisobot koʻrinishidagi xulosa yoki uning asosiy mazmunini yoritadigan barcha masalalar, baholash va xulosalar berish – bu …",
+        "options": [
+          "#Referat",
+          "Annotatsiya",
+          "Xulosa",
+          "Ilova"
+        ]
+      },
+      {
+        "text": "Maqola yoki nashr haqidagi qisqa axborot; hujjat; uning bir qismi yoki hujjatlar guruhining maqsadi, mazmuni, shakli va boshqa oʻziga xos xususiyatlari nuqtai nazaridan tavsifnomasi – bu …",
+        "options": [
+          "#Annotatsiya",
+          "Referat",
+          "Xulosa",
+          "Ilova"
+        ]
+      },
+      {
+        "text": "Hujjat haqidagi maʼlumotlar roʻyxatini maʼlum qoidalarga muvofiq qoʻshish jarayoni va natijasi boʻlib, ushbu hujjatni aniqlaydi va uni boshqa koʻplab narsalar qatorida topishga imkon beradi – bu...",
+        "options": [
+          "#Bibliografik tavsif",
+          "Bibliografik xabar",
+          "Bibliografik soʻrov",
+          "Bibliografik qidiruv"
+        ]
+      },
+      {
+        "text": "Akademik yozuvning asosiy janrlari toʻgʻri koʻrsatilgan qatorni tanlang:",
+        "options": [
+          "#Ilmiy maqola, dissertatsiya, taqriz, monografiya",
+          "dissertatsiya, diktant, monografiya",
+          "dissertatsiya, diktant, taqriz,",
+          "Ilmiy maqola, diktant, taqriz,"
+        ]
+      },
+      {
+        "text": "ISBN nima?",
+        "options": [
+          "#kitoblar uchun xalqaro standart kod boʻlib, bu kod kitoblar uchun noyob identifikator vazifasini bajaradi.",
+          "maqolaga beriladigan kod",
+          "kitobga beriladigan narx",
+          "tadqiqot yoʻnalishi"
+        ]
+      },
+      {
+        "text": "UDK nima?",
+        "options": [
+          "#Bu ingliz tilidagi “Universal Decimal Classification”, yaʼni universal oʻntalik klassifikatsiya (UOʻK) hisoblanadi.",
+          "maqolaga beriladigan kod",
+          "kitobga beriladigan narx",
+          "tadqiqot yoʻnalishi"
+        ]
+      },
+      {
+        "text": "Axborotning asosiy xususiyatlarini toping:",
+        "options": [
+          "#ishonchlilik, obyektivlik, toʻliqlik, dolzarblik, tushunarlilik va mavjudlik",
+          "ishonchlilik, obyektivlik, toʻliqlik, mohiyat va mavjudlik",
+          "toʻliqlik, yangilik, aniqlik va mavjudlik, chiroylilik",
+          "ishonchlilik, tushunarlilik va mavjudlik, aniqmaslik"
+        ]
+      },
+      {
+        "text": "Matnni ingliz tilidan rus tiliga tarjima qilish jarayoni:",
+        "options": [
+          "#Maʼlumotni qayta ishlash",
+          "Maʼlumotlarni izlash",
+          "Maʼlumotlarni saqlash",
+          "Maʼlumotlarni uzatish"
+        ]
+      },
+      {
+        "text": "Bir yoki bir necha kutubxona fondida mavjud kitoblar, hujjatlarning tarkibi va mazmunini ochib beruvchi bibliografik yozuvlar roʻyxati – bu…",
+        "options": [
+          "#Kutubxona katalogi",
+          "Kutubxona kitoblari",
+          "Kutubxona axborotnomasi",
+          "Kutubxona xabari"
+        ]
+      },
+      {
+        "text": "Matn rejasi nima?",
+        "options": [
+          "#Muallif tomonidan bildirilgan fikrlarni qismlarga ajratish, va roʻyxati",
+          "Asosiy iqtiboslar roʻyxati",
+          "Matnning xulosasini tavsiflash",
+          "Matnning leksik va grammatik xususiyatlarini sanab oʻtish"
+        ]
+      },
+      {
+        "text": "Tasavvur qiling, siz matn boʻyicha reja tuzasiz va keyin har bir elementga savol berasiz. Savollarga javob bergandan soʻng, biz xulosa olamiz. Bunday konspekt qanday nomlanadi?",
+        "options": [
+          "#Reja-xulosa",
+          "Anketa",
+          "Sxema",
+          "Bayonot"
+        ]
+      },
+      {
+        "text": "Elektron shaklda taqdim etilgan maʼlumotlarni oʻz ichiga olgan va uzoq muddatli saqlash va nomaʼlum miqdordagi foydalanuvchilar tomonidan takroriy foydalanish uchun moʻljallangan, barcha nusxalari asl nusxaga mos keladigan mustaqil tayyor mahsulot – bu",
+        "options": [
+          "#Elektron nashr (EN)",
+          "Elektron eʼlon",
+          "Elektron pochta",
+          "Elektron taqdimot"
+        ]
+      },
+      {
+        "text": "Axborot tizimlaridagi (kutubxonalar, arxivlar, fondlar) alohida hujjatlar va hujjatlar massivlari, maʼlumotlar bazalari va boshqa axborotlar- bu:",
+        "options": [
+          "#Axborot resurslari",
+          "Axborot xavfsizligi",
+          "Axborot birligi",
+          "Axborot sifati"
+        ]
+      },
+      {
+        "text": "Quyidagi janrlardan qaysi biri badiiy uslub janri emas?",
+        "options": [
+          "#Monografiya",
+          "Sheʼr",
+          "Hikoya",
+          "Drama"
+        ]
+      },
+      {
+        "text": "Quyidagi janrlardan qaysi biri rasmiy idoraviy uslub janrida qoʻllaniladi.",
+        "options": [
+          "#Dalolatnoma",
+          "Taqriz",
+          "Insho",
+          "Referat"
+        ]
+      },
+      {
+        "text": "Reklama maqolasiga qanday funksional uslubni kiritish mumkin?",
+        "options": [
+          "#Publitsistik",
+          "Rasmiy-idoraviy",
+          "Soʻzlashuv",
+          "Badiiy"
+        ]
+      },
+      {
+        "text": "Quyidagi matn qaysi funksional uslubga tegishli? \"Daryoning yuzasi oynaga oʻxshar edi, bu uning tozaligini pastki qismigacha ochib berdi. Qanday moʻjiza: na kunduzi, na kechasi uning ohangdor qoʻshiq oqimi toʻxtamaydi\".",
+        "options": [
+          "#Badiiy",
+          "Ilmiy",
+          "Publitsistik",
+          "Rasmiy-idoraviy"
+        ]
+      },
+      {
+        "text": "Quyidagi matn qaysi funksional uslubga tegishli? “Shartnoma oʻz vaqtida bajarildi. Tomonlarning bir-biriga qarshi daʼvolari yoʻq”.",
+        "options": [
+          "#Rasmiy-idoraviy",
+          "Ilmiy",
+          "Publitsistik",
+          "Badiiy"
+        ]
+      },
+      {
+        "text": "Ilmiy uslub janriga nima kirmaydi?",
+        "options": [
+          "#Xat yozishmalari",
+          "Disseratatsiya",
+          "Tesiz",
+          "Maqola"
+        ]
+      },
+      {
+        "text": "Ilmiy nutq uslubining asosiy vazifasi?",
+        "options": [
+          "#Ilmiy maʼlumotlarni yetkazish, faktlarni ilmiy tushuntirish",
+          "Toʻgʻridan-toʻgʻri kundalik aloqa",
+          "Tasvir va kitobxonga taʼsiri",
+          "Muloqot"
+        ]
+      },
+      {
+        "text": "Janrlar: monografiya, dissertatsiya, maʼruza, referat, konspekt ______ uslubga tegishli",
+        "options": [
+          "#Ilmiy",
+          "Rasmiy-idoraviy",
+          "Soʻzlashuv",
+          "Badiiy"
+        ]
+      },
+      {
+        "text": "Qaysi janrlar rasmiy idoraviy uslubiga tegishli?",
+        "options": [
+          "#Qaror, bayonot, bayonot xati",
+          "Dissertatsiya, konspekt, doklad",
+          "Ocherk, feleton, reportaj",
+          "Esse, konspekt, doklad"
+        ]
+      },
+      {
+        "text": "Qaysi soʻz lotinchadan olingan boʻlib, “bildirmoq” degan maʼnoni anglatadi?",
+        "options": [
+          "#Referat",
+          "Annotatsiya",
+          "Taqriz",
+          "Sitata"
+        ]
+      },
+      {
+        "text": "Qaysi soʻz lotinchadan olingan boʻlib, “qayd” , “qisqacha taʼrif” degan maʼnoni anglatadi?",
+        "options": [
+          "#Annotatsiya",
+          "Referat",
+          "Taqriz",
+          "Sitata"
+        ]
+      },
+      {
+        "text": "«Maqola» soʻzi qaysi tildan olingan boʻlib, qanday maʼnoni anglatadi?",
+        "options": [
+          "#arabchadan olingan boʻlib, “bob, nutq” degan maʼnoni anglatadi",
+          "arabchadan olingan boʻlib, “qayd” , “qisqacha taʼrif” degan maʼnoni anglatadi",
+          "arabchadan olingan boʻlib, “ijobiy baho” degan maʼnoni anglatadi",
+          "arabchadan olingan boʻlib, “taʼkidlash” degan maʼnoni anglatadi"
+        ]
+      },
+      {
+        "text": "Referat qanday boʻlimlardan tashkil topadi?",
+        "options": [
+          "#Titul varagʻi; Reja; Kirish qismi, Asosiy qism; Xulosa; Foydalanilgan adabiyotlar roʻyxati",
+          "Titul varagʻi; Asosiy qism; Foydalanilgan adabiyotlar roʻyxati",
+          "Kirish; Asosiy qism; Xulosa",
+          "Titul varagʻi; Asosiy qism; Foydalanilgan adabiyotlar roʻyxati"
+        ]
+      },
+      {
+        "text": "Maqola qanday tarkibiy ketma ket qismlardan tashkil topadi?",
+        "options": [
+          "#Sarlavha, kalit soʻzlar, annotatsiya, kirish, asosiy qism, xulosa, foydalanilgan adabiyotlar roʻyxati",
+          "Sarlavha, kirish, asosiy qism, xulosa, reja, foydalanilgan adabiyotlar roʻyxati,",
+          "Kirish, ilova, asosiy qism, foydalanilgan adabiyotlar roʻyxati",
+          "Sarlavha, kalit soʻzlar, kirish, foydalanilgan adabiyotlar roʻyxati, rasmlar"
+        ]
+      },
+      {
+        "text": "Internet soʻzining maʼnosini qaysi lugʻat orqali bilib olish mumkin?",
+        "options": [
+          "#Izohli lugʻat",
+          "Imlo lugʻati",
+          "Tarjima lugʻati",
+          "Sinonim (maʼnodosh) soʻzlar lugʻati"
+        ]
+      },
+      {
+        "text": "Adabiy til meʼyorlariga doimo amal qilavermaydigan erkin muloqot shakli qanday ataladi?",
+        "options": [
+          "#Oddiy soʻzlashuv uslubi",
+          "Adabiy soʻzlashuv uslubi",
+          "Badiiy uslub",
+          "Publitsistik uslub"
+        ]
+      },
+      {
+        "text": "Davlat idorasi tomonidan chiqariladigan qaror, qonun, nizom, xalqaro hujjatlar qaysi uslubda yoziladi?",
+        "options": [
+          "#Rasmiy-idoraviy uslub",
+          "Badiiy uslub",
+          "Ilmiy uslub",
+          "Publitsistik uslub"
+        ]
+      },
+      {
+        "text": "Lotincha Annotatio — “izoh\" yoki xulosa, fransuzcha rezyume — \"qisqartirilgan\" maʼnoni bildirib, kitob yoki boshqa nashrning qisqacha mazmuni, qoʻlyozma, monografiya, maqola yoki kitob shuningdek nashrning qisqacha tavsifi – bu …",
+        "options": [
+          "#Annotatsiya",
+          "Hisobot",
+          "Xulosa",
+          "Hikoya"
+        ]
+      },
+      {
+        "text": "Idoraviy-devonxona uslubiga kiruvchi hujjatlarni belgilang?",
+        "options": [
+          "#Buyruq, ariza bildirgi, tavsifnoma, tarjimayi hol, dalolatnoma",
+          "Qonun, farmon, jinoiy aktlar, daftar, kitoblar",
+          "Soʻzlashuv yozishmalari",
+          "Muhokama, xulosa, qarorlar va suhbatlar, maqola"
+        ]
+      },
+      {
+        "text": "Dunyodagi eng mashhur ilmiy maʼlumotlar bazalari roʻyxati toʻgʻri koʻrsatilgan qatorni belgilang:",
+        "options": [
+          "#Scopus, Web of Science, eLIBRARY, EBSCO, Google Scholar, Springer nature, Elsevier,",
+          "Scopus, Web of Science, Web sahifa, eLIBRARY, EBSCO, Google Scholar",
+          "Scopus, Web of Science, eLIBRARY, Brauzer, Springer nature, Elsevier",
+          "Scopus, Web of Science, EBSCO, Google Scholar, Yandex, Springer nature"
+        ]
+      },
+      {
+        "text": "Bibliografik tavsif nimani oʻz ichiga oladi:",
+        "options": [
+          "#Hujjat haqidagi bibliografik maʼlumotlarni",
+          "Muallif belgisi",
+          "Ensiklopediya",
+          "Mavzu indeksi"
+        ]
+      },
+      {
+        "text": "Daliliy munosabatlar asosida chiqarilgan ilmiy xulosalarga asoslanuvchi, har bir fan sohasining oʻziga xos atamalariga tayanuvchi, fikrni aniq va mantiqiy izchil bayon qiluvchi uslub qanday uslub hisoblanadi?",
+        "options": [
+          "#Ilmiy uslub",
+          "Rasmiy-idoraviy uslub",
+          "Badiiy uslub",
+          "Soʻzlashuv uslubi"
+        ]
+      },
+      {
+        "text": "Annotatsiyaning asosiy vazifasi nimadan iborat?",
+        "options": [
+          "#Talabalarga muayyan kitob, maqola yoki qoʻlyozma toʻgʻrisida umumiy tasavvur tugʻdirish",
+          "Talabalarga mutaxassislikka oid adabiyot tanlashda yordam koʻrsatish",
+          "Bibliografik koʻrsatkichlarda hamda kutubxona kataloglarida qayd qilib borish",
+          "Maqolaga xulosa berishda"
+        ]
+      },
+      {
+        "text": "Maqola bajarayotgan vazifasiga qarab qanday xarakterlar kasb etadi?",
+        "options": [
+          "#Publitsistik, problematik, nazariy, tanqidiy, ilmiy, metodik xarakter kasb etadi",
+          "Ilmiy xarakter kasb etadi",
+          "Publitsistik kasb etadi",
+          "Nazariy kasb etadi"
+        ]
+      },
+      {
+        "text": "«Taqriz» qaysi tilning atamasi va u qanday maʼnolarni beradi?",
+        "options": [
+          "#Arabcha soʻz, «ijobiy baho» maʼnolarini beradi;",
+          "Tojikcha soʻz, «asarning qimmatini belgilash»;",
+          "Forscha soʻz, «asarni tahlil etish»;",
+          "Forscha — tojikcha soʻz, «asarning oʻrnini aniqlash»;"
+        ]
+      },
+      {
+        "text": "Muxbirimiz voqea roʻy bergan joydan xabar beradi, voqeaga guvoh boʻlganlarning soʻziga koʻra, muxbirimizning xabar berishicha kabi iboralar qaysi uslubda qoʻllaniladi?",
+        "options": [
+          "#publitsistik uslub",
+          "rasmiy uslub",
+          "badiiy uslub",
+          "ilmiy uslub"
+        ]
+      },
+      {
+        "text": "Maqola turlarining barchasiga xos boʻlgan umumiy xususiyatlar qaysi javobda koʻrsatilgan?",
+        "options": [
+          "#ilmiy uslubda yozilishi",
+          "badiiy uslubda yozilishi",
+          "publitsistik uslubda yozilishi",
+          "rasmiy uslubda yozilishi"
+        ]
+      },
+      {
+        "text": "Ilmiy darajani belgilovchi ilmiy-tadqiqiy ish turini (janrini) belgilang.",
+        "options": [
+          "#dissertatsiya",
+          "kurs ishi",
+          "ilmiy maʼruza",
+          "Monografiya"
+        ]
+      },
+      {
+        "text": "Ilmiy maqolalar …",
+        "options": [
+          "#sohaviy atamalar, terminlar, formulalar, havolalarni oʻz ichiga qamrab oladi;",
+          "xulosalarda bayon etiladi",
+          "gazetalarda chop etiladi",
+          "kitoblarda chop etiladi"
+        ]
+      },
+      {
+        "text": "Annotatsiya…",
+        "options": [
+          "#ilmiy maqola yoki ilmiy maʼruzaning qisqartirilgan bayoni;",
+          "ilmiy maqola yoki ilmiy asar matnining maksimal bayoni;",
+          "konferensiya, simpozium, seminarlarda taqdim etiladigan ilmiy asar;",
+          "Ilmiy maqolaga berilgan xulosa"
+        ]
+      },
+      {
+        "text": "Daliliy munosabatlar asosida chiqarilgan ilmiy xulosalarga asoslanuvchi, har bir fan sohasining o‘ziga xos atamalariga tayanuvchi, fikrni aniq va mantiqiy izchil bayon qiluvchi uslub qanday uslub hisoblanadi?",
+        "options": [
+          "#Ilmiy uslub",
+          "Rasmiy-idoraviy uslub",
+          "Badiiy uslub",
+          "So‘zlashuv uslubi"
+        ]
+      },
+      {
+        "text": "Ma'lumot olingan manbani keltirib o‘tish qanday nomlanadi?",
+        "options": [
+          "#havola",
+          "sitata",
+          "izoh",
+          "perefraza"
+        ]
+      },
+      {
+        "text": "Iqtiboslardan qanday hollarda foydalanish maqsadga muvofiq hisoblanadi?",
+        "options": [
+          "#barchasi to‘g‘ri",
+          "Sitata muallifining aynan gapi o‘zgacha ma’noni anglatsa",
+          "Muallifning aynan gapi siznikiga qaraganda qisqa va lo‘nda bo‘lsa",
+          "Muallifning aynan gapi barchaga ma’lum va mashhur bo‘lsa"
+        ]
+      },
+      {
+        "text": "Sitatada ba’zi bir so‘zlar izoh talab qilishi mumkin va bunday hollarda qanday tinish belgisidan foydalanish maqsadga muvofiq hisoblanadi?",
+        "options": [
+          "#to‘rtburchak qavs",
+          "oddiy qavs",
+          "qo‘shtirnoq",
+          "uchburchak qavs"
+        ]
+      },
+      {
+        "text": "Qaysi so‘z lotinchadan olingan bo’lib, “Axborot beryapman” degan ma’noni anglatadi?",
+        "options": [
+          "#referat",
+          "annotatsiya",
+          "taqriz",
+          "Sitata"
+        ]
+      },
+      {
+        "text": "Qaysi so‘z lotinchadan olingan bo‘lib, “eslatma”, \"belgi\" yoki \"izoh\" degan ma’noni anglatadi?",
+        "options": [
+          "#annotatsiya",
+          "referat",
+          "taqriz",
+          "Sitata"
+        ]
+      },
+      {
+        "text": "“Taqriz” so‘zi qaysi tildan olingan bo‘lib, qanday ma’noni anglatadi?",
+        "options": [
+          "#arabchadan olingan bo‘lib, “ijobiy baho” degan ma’noni anglatadi",
+          "lotinchadan olingan bo‘lib, “bildirmoq” degan ma’noni anglatadi",
+          "lotinchadan olingan bo’lib, “qayd” , “qisqacha ta’rif” degan ma’noni anglatadi",
+          "arabchadan olingan bo‘lib, “ ta’kidlash” degan ma’noni anglatadi"
+        ]
+      },
+      {
+        "text": "Referat qanday qismlardan tuziladi?",
+        "options": [
+          "#Reja; Kirish; Asosiy qism; Xulosa, Adabiyotlar ro'yxati",
+          "Reja; Kirish; Rasmlar; Xulosa; Mundarija",
+          "Referat mavzusi; Kim tomonidan bajarilganligi; Asosiy matn",
+          "To’g’ri javob yo’q"
+        ]
+      },
+      {
+        "text": "Maqolaning rasmiylashtirilishi to‘g‘ri ko‘rsatilgan qatorni belgilang. Maqola kompyuterda 14-shrift bilan, 1,5 interval orqali standart A4 formatli qog‘ozda va matn uning ikki tomonini egallaydi, qog‘ozning chap tomonidan 3 sm, o‘ng tomonidan 1,5 sm, yuqorisi va pastidan kamida 2 smlik hoshiyalar bilan terilishi kerak. Matn sahifalari albatta raqamlanishi kerak. Maqola hajmi 8-10 sahifadan iborat bo’ladi.",
+        "options": [
+          "#Maqola kompyuterda 14-shrift bilan, 1,5 interval orqali standart A4 formatli qog‘ozda va matn uning ikki tomonini egallaydi, qog‘ozning chap tomonidan 3 sm, o‘ng tomonidan 1,5 sm, yuqorisi va pastidan kamida 2 smlik hoshiyalar bilan terilishi kerak. Matn sahifalari albatta raqamlanishi kerak. Maqola hajmi 8-10 sahifadan iborat bo’ladi.",
+          "Maqola kompyuterda 12-shrift bilan, 1,5 interval orqali standart A4 formatli qog‘ozda va matn uning ikki tomonini egallaydi, qog‘ozning chap tomonidan 2,5 sm, o‘ng tomonidan 2,5 sm, yuqorisi va pastidan kamida 2 smlik hoshiyalar bilan terilishi kerak. Matn sahifalari albatta raqamlanishi kerak. Maqola hajmi 1-2 sahifadan iborat bo’ladi.",
+          "Maqola kompyuterda 14-shrift bilan, 1,5 interval orqali standart A4 formatli qog‘ozda va matn uning faqat bir tomonini egallaydi, qog‘ozning chap tomonidan 1,5 sm, o‘ng tomonidan 1,5 sm, yuqorisi va pastidan kamida 2,5 smlik hoshiyalar bilan terilishi kerak. Matn sahifalari albatta raqamlanishi kerak. Maqola hajmi 1-2 sahifadan iborat bo’ladi.",
+          "Maqola kompyuterda 12-shrift bilan, 1,5 interval orqali standart A4 formatli qog‘ozda va matn uning faqat bir tomonini egallaydi, qog‘ozning chap tomonidan 2,5 sm, o’ng tomonidan 1,5 sm, yuqorisi va pastidan kamida 4 smlik hoshiyalar bilan terilishi kerak. Matn sahifalari albatta raqamlanishi kerak. Maqola hajmi 16-20 sahifadan oshmasligi kerak."
+        ]
+      },
+      {
+        "text": "Kitob, maqola, qo‘lyozma mundarijasini, mavzu yo‘nalishi va boshqa jihatlarini ochib berishga qaratilgan kichik hajmli matn qanday nomlanadi?",
+        "options": [
+          "#annotatsiya",
+          "referat",
+          "taqriz",
+          "Konspekt"
+        ]
+      },
+      {
+        "text": "«Maqola» so‘zi qaysi tildan olingan bo‘lib, qanday ma’noni anglatadi?",
+        "options": [
+          "#arabchadan olingan bo‘lib, “Nutq; kichik asar” degan ma’noni anglatadi",
+          "arabchadan olingan bo’lib, “qayd” , “qisqacha ta’rif” degan ma’noni anglatadi",
+          "arabchadan olingan bo‘lib, “ijobiy baho” degan ma’noni anglatadi",
+          "arabchadan olingan bo‘lib, “ ta’kidlash” degan ma’noni anglatadi"
+        ]
+      },
+      {
+        "text": "Maqola qanday tarkibiy qismlardan tashkil topadi?",
+        "options": [
+          "#Sarlavha, annotatsiya, kirish, asosiy qism, Xulosa, foydalanilgan adabiyotlar ro‘yxati, ilovalar",
+          "Sarlavha, annotatsiya, kirish, asosiy qism",
+          "Xulosa, foydalanilgan adabiyotlar ro‘yxati, ilovalar",
+          "Kirish, asosiy qism, xulosa, audio yozuvlar"
+        ]
+      },
+      {
+        "text": "Ilmiy uslub o‘z ichida nechta guruhga bo‘linadi?",
+        "options": [
+          "#Ilmiy-adabiy uslub va ilmiy-ommabop uslub",
+          "Ilmiy-adabiy uslub va sof ilmiy uslub",
+          "Sof ilmiy uslub va ilmiy-ommabop uslub",
+          "Ilmiy-adabiy, sof ilmiy va ilmiy-ommabop uslub"
+        ]
+      },
+      {
+        "text": "Qaysi uslubda fan yutuqlarini keng ommaga yetkazish maqsad qilinadi?",
+        "options": [
+          "#Ilmiy-ommabop uslub",
+          "Ilmiy-adabiy uslub",
+          "Sof ilmiy uslub",
+          "Publitsistik uslub"
+        ]
+      },
+      {
+        "text": "Qaysi uslubda fanning ma’lum sohasiga doir atamalar keng qo‘llaniladi?",
+        "options": [
+          "#Ilmiy adabiy uslub",
+          "Publitsistik uslub",
+          "Sof ilmiy uslub",
+          "Ilmiy-ommabop uslub"
+        ]
+      },
+      {
+        "text": "Ommaviy axborot vositalariga nimalar kiradi?",
+        "options": [
+          "#matbuot, radio, televideniye",
+          "kino, serial va qo‘shiqlar",
+          "so‘zlar, maqolalar va iboralar",
+          "radio, gazeta, kino"
+        ]
+      },
+      {
+        "text": "Imlo qoidalari nima?",
+        "options": [
+          "#to‘g‘ri yozish qoidalari",
+          "talaffuz qoidalari",
+          "so‘z yasash qoidalari",
+          "tinish belgilarining ishlatilishi"
+        ]
+      },
+      {
+        "text": "Ommaviy axborot vositalari bu –",
+        "options": [
+          "#gazeta, jurnal, televideniye, radio, internet",
+          "axborot, jurnal, reklama",
+          "intervyu, maqola, ko‘rsatuv",
+          "maqola, reportaj, axborot"
+        ]
+      },
+      {
+        "text": "Tashkiliy hujjatlar to‘g‘ri ko‘rsatilgan javobni toping?",
+        "options": [
+          "#guvohnoma, yo‘riqnoma, nizom, shartnoma",
+          "buyruq, ko‘rsatma, farmoyish",
+          "taklifnoma, telegramma, xatlar",
+          "ariza, bayonnoma, dalolatnoma, ishonchnoma"
+        ]
+      },
+      {
+        "text": "Farmoyish hujjatlari to‘g‘ri ko‘rsatilgan javobni toping?",
+        "options": [
+          "#buyruq, ko‘rsatma, farmoyish",
+          "guvohnoma, yo‘riqnoma, nizom, shartnoma",
+          "ariza, bayonnoma, dalolatnoma, ishonchnoma",
+          "tarjimayi hol, tilxat, tushuntirish xati, e’lon"
+        ]
+      },
+      {
+        "text": "Ma’lumot-axborot hujjatlari to‘g‘ri ko‘rsatilgan javobni toping?",
+        "options": [
+          "#ariza, bayonnoma, dalolatnoma, ishonchnoma",
+          "guvohnoma, yo‘riqnoma, nizom, shartnoma",
+          "buyruq, ko‘rsatma, farmoyish",
+          "taklifnoma, telegramma, xatlar"
+        ]
+      },
+      {
+        "text": "Xizmat yozishmalari to‘g‘ri ko‘rsatilgan javobni toping?",
+        "options": [
+          "#taklifnoma, telegramma, xatlar",
+          "tavsifnoma, tarjimayi hol, tilxat, tushuntirish xati",
+          "guvohnoma, yo‘riqnoma, nizom, shartnoma",
+          "ariza, bayonnoma, dalolatnoma, ishonchnoma"
+        ]
+      },
+      {
+        "text": "Qaysi hujjat turi erkin holda tuzilib, ma’lumotlar davriylik ya’ni xronologik holda beriladi?",
+        "options": [
+          "#Tarjimayi hol",
+          "So‘rovnoma",
+          "Shartnoma",
+          "Ariza"
+        ]
+      },
+      {
+        "text": "Arizaning nechta asosiy zaruriy qismlari mavjud?",
+        "options": [
+          "#7 ta",
+          "6 ta",
+          "8 ta",
+          "9 ta"
+        ]
+      },
+      {
+        "text": "Hujjatlar tuzilishiga ko‘ra qanday turlarga bo‘linadi?",
+        "options": [
+          "#Sodda va murakkab hujjatlar",
+          "Ichki va tashqi hujjatlar",
+          "Rasmiy va shaxsiy hujjatlar",
+          "Qolipli va namunaviy hujjatlar"
+        ]
+      },
+      {
+        "text": "Alohida shaxslar tomonidan yozilib, ularning xizmat faoliyatlaridan tashqaridagi yoki jamoat ishlarini bajarish bilan bog‘liq masalalarga tegishli bo‘lgan hujjatlar qanday hujjat hisoblanadi?",
+        "options": [
+          "#Shaxsiy hujjatlar",
+          "Xizmat hujjatlari",
+          "Rasmiy hujjatlar",
+          "Ma’lumot hujjatlari"
+        ]
+      },
+      {
+        "text": "Qaysi hujjat turi muayyan muassasaga yoki mansabdor shaxs nomiga biror iltimos, taklif yoki shikoyat mazmunida yoziladigan rasmiy hujjat turi bo‘lib, ushbu hujjat amaliyotda eng ko‘p qo‘llaniladigan va keng tarqalgan ish qog‘ozidir?",
+        "options": [
+          "#Ariza",
+          "Tarjimayi hol",
+          "Tushuntirish xati",
+          "Tilxat"
+        ]
+      },
+      {
+        "text": "Turli yig‘ilish, kengash va boshqa tur anjumanlarning borishini, majlis qatnashuvchilarining chiqishlari va ular qabul qilgan qarorlarni aniq, siqiq holda qayd qiluvchi rasmiy hujjat turini to‘g‘ri toping.",
+        "options": [
+          "#Bayonnoma",
+          "Shartnoma",
+          "Ma’lumotnoma",
+          "Buyruq"
+        ]
+      },
+      {
+        "text": "Ma’lum bir shaxsning, u vafot etgan taqdirda, o‘ziga qarashli bo‘lgan mol-mulkni tasarruf etish bo’yicha xohish-irodasi bayon qilingan hujjat turini to‘g‘ri toping.",
+        "options": [
+          "#Vasiyatnoma",
+          "Tilxat",
+          "Dalolatnoma",
+          "Ishonchnoma"
+        ]
+      },
+      {
+        "text": "Muayyan muassasa yoki ayrim shaxs o‘z nomidan ish ko‘rish uchun ikkinchi bir shaxsga ishonch bildiradigan yozma vakolatli hujjat turini toping.",
+        "options": [
+          "#Ishonchnoma",
+          "Vakolatnoma",
+          "So‘rovnoma",
+          "Dalolatnoma"
+        ]
+      },
+      {
+        "text": "Ma’lum bir shaxsning mehnat va ijtimoiy faoliyati, shuningdek, uning o‘ziga xos xislat va fazilatlarini aks ettiruvchi rasmiy hujjat turini toping. Ushbu hujjat turi muassasa ma’muriyati yoki jamoat tashkilotlari tomonidan xodimga bir qancha maqsadlar uchun beriladi.",
+        "options": [
+          "#Tavsifnoma",
+          "Ma’lumotnoma",
+          "Tarjimayi hol",
+          "So‘rovnoma"
+        ]
+      },
+      {
+        "text": "Pul, hujjat, qimmatbaho buyumlar yoxud boshqa biror narsa olinganligini tasdiqlovchi rasmiy yozma hujjat turi qanday nomlanadi?",
+        "options": [
+          "#Tilxat",
+          "Kafolat xati",
+          "Ishonchnoma",
+          "Tasdiq xat"
+        ]
+      },
+      {
+        "text": "Ko‘pchilikni yoki ma’lum guruhdagi shaxslarni yaqin orada bo‘ladigan biron-bir tadbir – majlis, uchrashuv, suhbat, shuningdek, ishga, o‘qishga qabul qilish va boshqalar haqida xabardor qilish uchun qo‘llanuvchi yozma axborot turini toping?",
+        "options": [
+          "#E’lon",
+          "Ma’lumotnoma",
+          "Bildirgi",
+          "Yangiliklar"
+        ]
+      },
+      {
+        "text": "Biron-bir tantanali tadbirga taklif etish uchun qo‘llanadigan yozma axborot turini toping.",
+        "options": [
+          "#Taklifnoma",
+          "Xabarnoma",
+          "Yangiliklar",
+          "E’lon"
+        ]
+      },
+      {
+        "text": "Muayyan bir shart yoki va’dani tasdiqlash maqsadida tuziladigan xizmat xatlarining turini toping.",
+        "options": [
+          "#Kafolat xati",
+          "Da’vo xati",
+          "So‘rov xati",
+          "Tasdiq xati"
+        ]
+      },
+      {
+        "text": "Hujjatlar tegishliligiga ko’ra qanday turlarga ajratish mumkin?",
+        "options": [
+          "#Xizmat va Shaxsiy hujjatlar",
+          "Olinma va jo‘natma hujjatlar",
+          "Jo‘natma va ichki hujjatlar",
+          "Olinma, jo‘natma va ichki hujjatlar"
+        ]
+      },
+      {
+        "text": "Ilmiy maqola klassik namunasining hajmi necha sahifa bo‘ladi?",
+        "options": [
+          "#8-10 bet",
+          "3-4 bet",
+          "4-5 bet",
+          "5-6 bet"
+        ]
+      },
+      {
+        "text": "Ma’ruza so‘zining ma’nosi?",
+        "options": [
+          "#Biror mavzuda ko‘pchilik oldida so‘zlangan nutq, doklad",
+          "Axborot",
+          "Hisobot",
+          "Tezisning bir ko‘rinishi"
+        ]
+      },
+      {
+        "text": "Tezis so‘zining ma’nosi nima va uning matni hajmi qanchagacha bo‘ladi?",
+        "options": [
+          "#grekcha so‘z, qoida, isbot, 5 betgacha",
+          "forscha so‘z, ma'lum qilaman, 4 betgacha",
+          "ruscha so‘z, axborot, 3 betgacha",
+          "fransuzcha so‘z, xabar beraman, 2 betgacha"
+        ]
+      },
+      {
+        "text": "«Referat» qaysi tilning atamasi va u qanday ma’nolarni beradi?",
+        "options": [
+          "#lotincha so‘z, «Axborot beryapman»",
+          "Arabcha so‘z, «bayon qilish, so‘zlash, tasdiqlash» ma’nolarini beradi.",
+          "Forscha so‘z, «asarni tahlil etish»;",
+          "Forscha - tojikcha so‘z, «asarning o‘rnini aniqlash»;"
+        ]
+      },
+      {
+        "text": "Ilmiy maqolani yozishda muallif e’tiborini nimaga qaratishi lozim?",
+        "options": [
+          "#barcha javoblar to‘g ‘ri",
+          "mavzuning dolzarbligiga va o‘rganilish zaruriyatiga",
+          "maqolaning maqsadi va amaliy ahamiyatiga",
+          "ko‘tarilgan muammoning yеchimini bеrishga"
+        ]
+      },
+      {
+        "text": "Maqolaning muallif tomonidan tayyorlangan qisqacha bayonini ko‘rsating",
+        "options": [
+          "#tezis",
+          "taqriz",
+          "epigraf",
+          "avtoreferat"
+        ]
+      },
+      {
+        "text": "Magistr yoki PhD ilmiy darajasini olish uchun yoziladigan ilmiy ish turi qanday nomlanadi?",
+        "options": [
+          "#dissertatsiya",
+          "avtoreferat",
+          "ilmiy ma’ruza",
+          "Monografiya"
+        ]
+      },
+      {
+        "text": "Yozuvchilar, shoirlar, olimlar tomonidan ishlangan, qat’iy me’yorlarga ega bo‘lgan nutq ko‘rinishini to‘g‘ri toping.",
+        "options": [
+          "#Adabiy nutq",
+          "Badiiy nutq",
+          "Ilmiy nutq",
+          "Publitsistik nutq"
+        ]
+      },
+      {
+        "text": "Ommaviy axborot vositalarida (gazeta-jurnal, radio, televideniye), Oliy majlis yig‘inlarida, turli xil anjumanlarda qo‘llaniladigan nutq uslubi qanday nomlanadi?",
+        "options": [
+          "#Rasmiy-idoraviy uslub",
+          "Ilmiy uslub",
+          "Badiiy uslub",
+          "Publitsistik uslub"
+        ]
+      },
+      {
+        "text": "Daliliy munosabatlar asosida chiqarilgan ilmiy xulosalarga asoslanuvchi, har bir fan sohasining o‘ziga xos atamalariga tayanuvchi, fikrni aniq va mantiqiy izchil bayon qiluvchi uslub qanday uslub hisoblanadi?",
+        "options": [
+          "#Ilmiy uslub",
+          "Rasmiy-idoraviy uslub",
+          "Badiiy uslub",
+          "So‘zlashuv uslubi"
+        ]
+      },
+      {
+        "text": "Ultra tovushlar kashf etilgunga qadar har qanday tovushni qabul qilish vositasi insonning eshitish a’zosi bo‘lgan quloq deb hisoblangan. Tovush to‘lqinlarining vujudga kelishi va tarqalishi bilan bog‘liq hodisalar akustik hodisalar deb yuritiladi . Yuqorida keltirilgan gap qaysi uslubga tegishli?",
+        "options": [
+          "#Ilmiy uslub",
+          "Rasmiy-idoraviy uslub",
+          "Publitsistik uslub",
+          "Badiiy uslub"
+        ]
+      },
+      {
+        "text": "Kishilar o’rtasidagi faoliyat ehtiyojlaridan kelib chiqadigan bog’lanishlar rivojlanishining ko’p qirrali jarayoni bu .................... dir.",
+        "options": [
+          "#Muloqot",
+          "Suhbat",
+          "Dialog",
+          "Kommunikatsiya"
+        ]
+      },
+      {
+        "text": "“Kommunikatsiya” so‘zi qanday ma’noni bildiradi?",
+        "options": [
+          "#bo’lishmoq, umumlashtirmoq",
+          "xabar bermoq",
+          "qatnashmoq",
+          "jarayon"
+        ]
+      },
+      {
+        "text": "«Kommunikatsiya ma’no almashinuvining natijasi bo’luvchi har qanday xatti-harakatdir», deb kimlar ta’rif beradilar?",
+        "options": [
+          "#Amerika Menejment Assotsiatsiyasi",
+          "Germaniya Menejment Assotsiatsiyasi",
+          "Fransiya Menejment Assotsiatsiyasi",
+          "Italiya Menejment Assotsiatsiyasi"
+        ]
+      },
+      {
+        "text": "Foydalanish uchun qulay, oson erishib bo‘ladigan, dunyodagi har qanday telefon liniyasidan qatnashsa bo‘ladigan, konferens qo‘ng‘iroqlarini tuzish uchun faqatgina bir necha daqiqa ketadigan, harajatlar, energiya va vaqt tejaladigan aloqa turini toping.",
+        "options": [
+          "#Telekonferensiya",
+          "Videokonferensiya",
+          "Faol mobil telefon qurilmasi",
+          "Xat"
+        ]
+      },
+      {
+        "text": "Qaysi aloqa vositasi to‘liq interaktiv va deyarli yuzma-yuz yig‘ilishlarga o‘xshash bo'ladi. Bu standart telefon liniyasi orqali muloqot qilinishi mumkin. Murakkabroq tizim va jihozlar bilan ikki joydagi insonlarning barchalari bir-birlarini xuddi haqiqiy yig‘ilishdagidek ko‘rishlari ehtimolini yaratadi?",
+        "options": [
+          "#Videokonferensiya",
+          "Telekonferensiya",
+          "Faol mobil telefon qurilmasi",
+          "Xat"
+        ]
+      },
+      {
+        "text": "Muloqot madaniyati, mimik pantomima va hissiy holat bu………?",
+        "options": [
+          "#Muloqot texnikasining tarkibiy qismlari",
+          "Muloqot texnikasida uchraydigan kamchiliklar",
+          "Muloqot texnikasiga qo‘yiladigan talablar",
+          "Muloqot texnikasiga shartlari"
+        ]
+      },
+      {
+        "text": "………. - savodli gapirish, o'z nutqini chiroyli va tushunarli, ta’sirchan qilib bayon etish, o‘z fikr va his-tuyg‘ularini so'zda aniq ifodalash. Nuqtalar o‘rniga mos javobni toping.",
+        "options": [
+          "#Muloqot madaniyati",
+          "Mimik pantomima",
+          "Hissiy holat",
+          "Uyg’unlik"
+        ]
+      },
+      {
+        "text": "…………- aniq imo-ishora, ma’noli qarash, rag‘batlantiruvchi yoki iliq tabassum. Nuqtalar o‘rniga mos javobni toping.",
+        "options": [
+          "#Mimik pantomima",
+          "Muloqot madaniyati",
+          "Hissiy holat",
+          "Uyg’unlik"
+        ]
+      },
+      {
+        "text": "Notiqlikning eng yuksak cho‘qqisini zabt etgan olim kim?",
+        "options": [
+          "#Demosfen",
+          "Vikram Bisen Priya",
+          "T.Gudd",
+          "J.Brofi"
+        ]
+      },
+      {
+        "text": "So‘zlovchi va qabul qiluvchi og‘zaki muloqot vositasisiz amalga oshganda juda asqotadigan hamda barcha tashkilotlarda ijrochilar yozma xabarlar orqali bo‘limlararo va bo`limlar ichida samarali aloqani yuritishlari mumkin bo‘lgan vosita turini toping.",
+        "options": [
+          "#Yozma muloqot",
+          "Muloqot texnikasi",
+          "Muloqot texnologiyasi",
+          "Pedagogik muloqot"
+        ]
+      },
+      {
+        "text": "Bildirishnomalar, eslatmalar, hisobotlar, moliyaviy hisobotlar, biznes xatlari va shu kabilarning barcha turlarini nima qamrab oladi?",
+        "options": [
+          "#Yozma muloqot",
+          "Rasmiy muloqot",
+          "Muloqot texnologiyasi",
+          "Pedagogik muloqot"
+        ]
+      },
+      {
+        "text": "Agar siz kimningdir ishidan yordam olsangiz, buni ko‘rsatishning qanday usullari bor?",
+        "options": [
+          "#Havola berish usuli va qo‘shtirnoq usuli",
+          "Qoshtirnoq usuli va qavsga olish usuli",
+          "Qisqacha mazmun usuli va qo‘shtirnoq usuli",
+          "Havola berish usuli va qisacha mazmun usuli"
+        ]
+      },
+      {
+        "text": "Asosiy ma’noni saqlagan holda, fikrni boshqa so‘zlar yordamida ifodalash qanday nomlanadi?",
+        "options": [
+          "#Perefrazalash",
+          "Xulosalash",
+          "Izohlash",
+          "Tasvirlab ifodalash"
+        ]
+      },
+      {
+        "text": "Xulosalashning maqsadi nimadan iborat?",
+        "options": [
+          "#Ma’lumotlar hajmini yetarli darajagacha qisqartirish va uzundan uzoq ma’lumotlarni qisqa hajmga keltirishdan iborat",
+          "Umumiy ma’noni saqlagan holda ma’lumotni asl manbadagidan farqli qilib, o‘zgartirib yozishdan iborat",
+          "Keltirilgan ma’lumotning hajmini tasvirlab ifodalashdan iborat",
+          "Keltirilgan ma’lumotning shaklini tasvirlab ifodalashdan iborat"
+        ]
+      },
+      {
+        "text": "Perefrazalashning maqsadi nimadan iborat?",
+        "options": [
+          "#Umumiy ma’noni saqlagan holda ma’lumotni asl manbadagidan farqli qilib, o‘zgartirib yozishdan iborat",
+          "Ma’lumotlar hajmini yetarli darajagacha qisqartirish va uzundan uzoq ma’lumotlarni qisqa hajmga keltirishdan iborat",
+          "Keltirilgan ma’lumotning hajmini tasvirlab ifodalashdan iborat",
+          "Keltirilgan ma’lumotning shaklini tasvirlab ifodalashdan iborat"
+        ]
+      },
+      {
+        "text": "Qanday perefraza asl manbadan o‘z shakliga ko‘ra farqlanadi, asl manbadagi so‘zlarning sinonimlaridan iborat bo‘ladi, asosiy ma’noni saqlagan bo‘ladi, asl manbadagi ba’zi bir qismlarni o‘zida mujassamlashtiradi?",
+        "options": [
+          "#Tasviriy perefraza",
+          "Ilmiy perefraza",
+          "Ta’sirchan perefraza",
+          "Xulosali perefraza"
+        ]
+      },
+      {
+        "text": "Ma'lumot olingan manbani keltirib o‘tish qanday nomlanadi?",
+        "options": [
+          "#havola",
+          "sitata",
+          "izoh",
+          "perefraza"
+        ]
+      },
+      {
+        "text": "Sitatada ba’zi bir so‘zlar izoh talab qilishi mumkin va bunday hollarda qanday tinish belgisidan foydalanish maqsadga muvofiq hisoblanadi?",
+        "options": [
+          "#to‘rtburchak qavs",
+          "oddiy qavs",
+          "qo‘shtirnoq",
+          "uchburchak qavs"
+        ]
+      },
+      {
+        "text": "Sitatalar asl manbadagiday bo‘lishiga alohida e’tibor qaratish zarur. Agar ma’lum bir qismlar keraksiz bo‘lsa, shu joyda qaysi belgidan foydalanish mumkin?",
+        "options": [
+          "#ko‘p nuqta",
+          "nuqtali vergul",
+          "undov belgisi",
+          "ikki nuqta"
+        ]
+      },
+      {
+        "text": "Qisqa sitatalar qanday tinish belgisi yordamida yoziladi?",
+        "options": [
+          "#bittalik qo‘shtirnoq",
+          "oddiy qavs",
+          "to‘rtburchak qavs",
+          "uchburchak qavs"
+        ]
+      },
+      {
+        "text": "Uzunroq sitatalar satr boshidan boshlanadi yoki kichikroq qilib yoziladi. Bu holatda qanday tinish belgisi qo’yiladi?",
+        "options": [
+          "#hech qanday qo‘shtirnoq qo‘yilmaydi",
+          "bittalik qo’shtirnoq",
+          "ikkitalik qo’shtirnoq",
+          "to‘rtburchak qavs"
+        ]
+      },
+      {
+        "text": "Qaysi so‘z lotinchadan olingan bo’lib, “bildirmoq” degan ma’noni anglatadi?",
+        "options": [
+          "#annotatsiya",
+          "referat",
+          "taqriz",
+          "sitata"
+        ]
+      },
+      {
+        "text": "Qaysi so‘z lotinchadan olingan bo‘lib, “qayd” , “qisqacha ta’rif” degan ma’noni anglatadi?",
+        "options": [
+          "#referat",
+          "annotatsiya",
+          "taqriz",
+          "sitata"
+        ]
+      },
+      {
+        "text": "Referat qanday bo‘limlardan tashkil topadi?",
+        "options": [
+          "#Titul varag‘i; Reja; Kirish qismi; Asosiy qism; Xulosa; Foydalanilgan adabiyotlar ro‘yxati",
+          "Titul varag‘i; Reja; Kirish qismi",
+          "Asosiy qism; Xulosa; Foydalanilgan adabiyotlar ro‘yxati",
+          "Kirish; Asosiy qism; Xulosa"
+        ]
+      },
+      {
+        "text": "Annotatsiyaning asosiy vazifasi nimadan iborat?",
+        "options": [
+          "#Talabalarga muayyan kitob, maqola yoki qo‘lyozma toʻgʻrisida umumiy tasavvur tugʻdirish",
+          "Talabalarga mutaxassislikka oid adabiyot tanlashda yordam koʻrsatish",
+          "Bibliografik koʻrsatkichlarda hamda kutubxona kataloglarida qayd qilib borish",
+          "Sarlavha tanlashga yordamlashish"
+        ]
+      },
+      {
+        "text": "Kitob, maqola, qo‘lyozma mundarijasini, mavzu yo‘nalishi va boshqa jihatlarini ochib berishga qaratilgan kichik hajmli matn qanday nomlanadi?",
+        "options": [
+          "#annotatsiya",
+          "referat",
+          "taqriz",
+          "konspekt"
+        ]
+      },
+      {
+        "text": "«Maqola» so‘zi qaysi tildan olingan bo‘lib, qanday ma’noni anglatadi?",
+        "options": [
+          "#arabchadan olingan bo‘lib, “bob, nutq” degan ma’noni anglatadi",
+          "arabchadan olingan bo’lib, “qayd” , “qisqacha ta’rif” degan ma’noni anglatadi",
+          "arabchadan olingan bo‘lib, “ijobiy baho” degan ma’noni anglatadi",
+          "arabchadan olingan bo‘lib, “ ta’kidlash” degan ma’noni anglatadi"
+        ]
+      },
+      {
+        "text": "………. asarning bibliografik tavsifi, shuningdek, mazmuni, unda ko‘tarilgan muammolar, asarning g‘oyaviy badiiy xususiyatlari aks etadi.",
+        "options": [
+          "#Taqrizda",
+          "Maqolada",
+          "Annotatsiyada",
+          "Referatda"
+        ]
+      },
+      {
+        "text": "So‘z va uning ma’nolarini o‘rganuvchi tilshunoslik bo‘limi qanday nomlanadi?",
+        "options": [
+          "#leksikologiya",
+          "morfologiya",
+          "etimologiya",
+          "frazeologiya"
+        ]
+      },
+      {
+        "text": "So‘zning grammatik ma’no bildiruvchi qo‘shimchalarsiz qismi qanday nomlanadi?",
+        "options": [
+          "#leksema",
+          "frazema",
+          "nomema",
+          "franema"
+        ]
+      },
+      {
+        "text": "Lug‘aviy birliklarga quyidagilardan qaysilari kiradi? 1) so‘z; 2) ibora; 3) termin (atama); 4) qo‘shma so‘z; 5) tasviriy ifoda.",
+        "options": [
+          "#1,2,3,4,5",
+          "faqat 1,2,3",
+          "faqat 1,4,5",
+          "faqat 1,3,4"
+        ]
+      },
+      {
+        "text": "Bir ma’noli so‘zlar qaysi qatorda berilgan?",
+        "options": [
+          "#chumchuq, ravish",
+          "ko‘z, qosh",
+          "og‘iz, bosh",
+          "etak, oyoq"
+        ]
+      },
+      {
+        "text": "Qanday so‘zlarga nisbatan \"ko‘chma ma’no\" atamasi qo‘llanadi?",
+        "options": [
+          "#ko‘p ma‘noli so‘zlarga nisbatan",
+          "bir ma’noli so’zlarga nisbatan",
+          "omonim so‘zlarga nisbatan",
+          "sinonim so‘zlarga nisbatan"
+        ]
+      },
+      {
+        "text": "Ko‘p ma’noli so‘zlarni toping?",
+        "options": [
+          "#tomir, yoqa",
+          "men, sen",
+          "besh, o‘n",
+          "ota, ona"
+        ]
+      },
+      {
+        "text": "“Polisemiya” va “polisemantik so‘z” deganda nima tushuniladi?",
+        "options": [
+          "#ko‘p ma‘nolilik va ko‘p ma‘noli so‘zlar",
+          "shakldoshlik va shakldosh so‘zlar",
+          "zid ma’nolilik va zid ma’noli so‘zlar",
+          "ma‘nodoshlik va ma‘nodosh so‘zlar"
+        ]
+      },
+      {
+        "text": "\"Denotativ ma’no\" deganda nima nazarda tutiladi?",
+        "options": [
+          "#so‘zning asl, tub ma‘nosi",
+          "so‘zning ko’chma, yasama ma’nosi",
+          "so‘zning grammatik ma’nosi",
+          "ma‘nodoshlik va ma‘nodosh so‘zlar"
+        ]
+      },
+      {
+        "text": "\"Konotativ ma’no\" deganda nima nazarda tutiladi?",
+        "options": [
+          "#so‘zning ko‘chma, yasama ma’nosi",
+          "so‘zning asl, tub ma‘nosi",
+          "so‘zning grammatik ma‘nosi",
+          "ma‘nodoshlik va ma‘nodosh so‘zlar"
+        ]
+      },
+      {
+        "text": "Qaysi qatorda til so‘zi ko‘chma ma’noda kelgan?",
+        "options": [
+          "#Agronom Salimov dehqonchilikning tilini yaxshi biladi.",
+          "Til – millat boyligi.",
+          "Ona tilim – faxrim.",
+          "Til tovushlari to‘rt guruhga bo‘linadi."
+        ]
+      },
+      {
+        "text": "Tildagi so‘zlarning qanday paydo bo‘lishini o‘rgatuvchi lug‘at...?",
+        "options": [
+          "#etimologik lug‘at",
+          "imlo lug‘at",
+          "izohli lug‘at",
+          "morfemik lug‘at"
+        ]
+      },
+      {
+        "text": "Shevaga xos so‘zlar qaysi qatorda berilgan?",
+        "options": [
+          "#moma, o‘jak, yumurta",
+          "maktab, suv, tosh",
+          "yaxshi, yomon, sariq",
+          "men, sen, biz"
+        ]
+      },
+      {
+        "text": "Ma’lum hududdagina ishlatilib, faqat shu yerda yashovchi kishilarga tushunarli bo‘lgan so‘zlar qanday ataladi?",
+        "options": [
+          "#sheva so‘zlar",
+          "atamalar",
+          "paronimlar",
+          "terminlar"
+        ]
+      },
+      {
+        "text": "O‘zbek tilining ichki imkoniyatlari asosida hosil bo‘lgan so‘zlarni toping.",
+        "options": [
+          "#limonzor, sportchi, tilshunos, ilmli, maktabdosh, shoirona",
+          "osmon, oftob, bahor, barg, daraxt, shamol",
+          "kitob, maktab, xalq, shoir, ma’no, oila",
+          "stol, stul, ruchka, pero, pechka, parta"
+        ]
+      },
+      {
+        "text": "Fan-texnika, qishloq xo‘jaligi, san’at va madaniyat sohasiga xos so‘zlar qanday nomlanadi?",
+        "options": [
+          "#termin",
+          "tasviriy ifoda",
+          "ibora",
+          "so‘z birikmasi"
+        ]
+      },
+      {
+        "text": "Adabiy til me’yorlariga doimo amal qilavermaydigan erkin muloqot shakli qanday ataladi?",
+        "options": [
+          "#Oddiy so‘zlashuv uslubi",
+          "Adabiy so‘zlashuv uslubi",
+          "Badiiy uslub",
+          "Publitsistik uslub"
+        ]
+      },
+      {
+        "text": "Qaysi uslubda so‘zlar o‘z ma’nosida qo‘llanadi, qoida yoki ta’rifning mazmunini ochishga xizmat qiladigan ajratilgan bo‘laklar, kirish so‘zlar, kirish birikmalar, shuningdek, qo‘shma gaplardan keng foydalaniladi?",
+        "options": [
+          "#Ilmiy uslub",
+          "Badiiy uslub",
+          "Rasmiy-idoraviy uslub",
+          "Publitsistik uslub"
+        ]
+      },
+      {
+        "text": "Kishilarning kundalik rasmiy-norasmiy, erkin muomalalari doirasida til birliklarining o‘ziga xos tarzda amal qilishi qaysi uslub sanaladi?",
+        "options": [
+          "#So‘zlashuv uslub",
+          "Badiiy uslub",
+          "Ilmiy uslub",
+          "Publitsistik uslub"
+        ]
+      },
+      {
+        "text": "Qaysi uslub ommaviy axborot vositalari sanaladigan radio va televideniyeda, gazeta va jurnallar sahifalarida aks etadigan yangilik, xabar, reportaj, tahlilnoma, bosh maqola, maqola, ocherk, felyeton, pamflet, e’lon, reklama singari qator janrlarni o‘z ichiga qamrab oladi?",
+        "options": [
+          "#Publitsistik uslub",
+          "Badiiy uslub",
+          "So‘zlashuv uslub",
+          "Ilmiy uslub"
+        ]
+      },
+      {
+        "text": "Bu uslub o‘zbek tili vazifaviy uslublari orasida o‘ziga xos mavqyega ega bo‘lib, ayni paytda o‘zining alohida ma’yorlariga ham ega. Til materialini qamrab olish imkoniyatining kengligi, umumxalq tilida mavjud bo‘lgan barcha lingvistik birliklarning, shu bilan birga, boshqa vazifaviy uslublarga xos bo‘lgan elementlarning ham ishlatilaverishi va ularning muhim bir vazifaga – badiiy-estetik vazifani bajarishga xizmat qilishi qaysi uslubning asosiy xususiyati hisoblanadi?",
+        "options": [
+          "#Badiiy uslub",
+          "So’zlashuv uslub",
+          "Ilmiy uslub",
+          "Publitsistik uslub"
+        ]
+      },
+      {
+        "text": "Publitsistik uslub qanday shaklda namoyon bo‘ladi?",
+        "options": [
+          "#yozma va og’zaki shaklda",
+          "ommaviy-axborot shaklida",
+          "ommabop-publitsistik shaklda",
+          "Nutqiy munosabat shaklda"
+        ]
+      },
+      {
+        "text": "Sof qonunchilik uslubida yozilgan hujjatlar qatorini toping?",
+        "options": [
+          "#qonun, farmon, jinoiy aktlar",
+          "buyruq, ariza bildirgi, tavsifnoma",
+          "tarjimayi hol, dalolatnoma",
+          "A va B"
+        ]
+      },
+      {
+        "text": "Diplomatik uslubda yozilgan hujjatlar qatorini toping?",
+        "options": [
+          "#nota, bayonotnoma, bitim, konvensiya",
+          "buyruq, ariza bildirgi, tavsifnoma",
+          "tarjimayi hol, dalolatnoma",
+          "qonun, farmon, jinoiy aktlar"
+        ]
+      },
+      {
+        "text": "Qaysi nutq uslublari ham og‘zaki, ham yozma shakllarga ega?",
+        "options": [
+          "#Publitsistik, badiiy, rasmiy, ilmiy",
+          "Publitsistik, so’zlashuv, rasmiy",
+          "faqat ilmiy va badiiy",
+          "faqat so’zlashuv va badiiy"
+        ]
+      },
+      {
+        "text": "Badiiy uslubning og‘zaki shakli nima?",
+        "options": [
+          "#Xalq og’zaki ijodi",
+          "Og’zaki adabiyot",
+          "Badiiy uslubning og’zaki shakli mavjud emas",
+          "So’zlashuv uslubi"
+        ]
+      },
+      {
+        "text": "“Publitsistik” so‘zi qaysi tilga xos?",
+        "options": [
+          "#Lotincha, publika – xalq, omma",
+          "Lotincha, publika – bayon qilish",
+          "Fors-tojikcha, publika – xalq, omma",
+          "Yunoncha, publika - tahlil"
+        ]
+      },
+      {
+        "text": "Publitsistika janrlariga qaysilar kiradi?",
+        "options": [
+          "#Reportaj, pamflet,felyeton",
+          "Reportaj, felyeton, ocherk",
+          "Felyeton, ocherk, pamflet",
+          "Pamflet, reportaj, ocherk"
+        ]
+      },
+      {
+        "text": "Rasmiy uslub qanday turlarga bo‘linadi?",
+        "options": [
+          "#Idoraviy uslub va diplomatik uslub",
+          "Sof qonunchilik uslubi va devonxona uslubi",
+          "Sof qonunchilik uslubi va idoraviy uslub",
+          "Devonxona uslubi va diplomatik uslub"
+        ]
+      },
+      {
+        "text": "Qonun, farmon, fuqarolik va jinoiy aktlar, nizomlar uslubi qaysi uslubni yuzaga keltiradi?",
+        "options": [
+          "#Sof qonunchilik uslubi",
+          "Devonxona uslubi",
+          "Idoraviy uslub",
+          "Diplomatik uslub"
+        ]
+      },
+      {
+        "text": "Buyruq, ariza, talabnoma, bildirgi, tavsifnoma, tarjimayi hol, ishonchnoma, dalolatnoma uslubi qaysi uslubni yuzaga keltiradi?",
+        "options": [
+          "#Idoraviy uslub",
+          "Sof qonunchilik uslubi",
+          "Diplomatik uslubi",
+          "Devonxona uslubi"
+        ]
+      },
+      {
+        "text": "Nota, bayonotnoma, bitim, konvensiya uslubi qaysi uslubni yuzaga keltiradi?",
+        "options": [
+          "#Diplomatik uslubi",
+          "Devonxona uslubi",
+          "Idoraviy uslub",
+          "Sof qonunchilik uslubi"
+        ]
+      },
+      {
+        "text": "Qaysi uslub deyarli yozma shaklda ro‘yobga chiqib, har qanday tasviriy vositalardan xoli bo‘ladi?",
+        "options": [
+          "#Rasmiy uslub",
+          "Yozma adabiy uslub",
+          "Publitsistik uslub",
+          "Badiiy uslub"
+        ]
+      },
+      {
+        "text": "Ilmiy uslub o‘z ichida nechta guruhga bo‘linadi?",
+        "options": [
+          "#Ilmiy-adabiy,sof ilmiy va ilmiy-ommabop uslub",
+          "Ilmiy-adabiy uslub va ilmiy-ommabop uslub",
+          "Ilmiy-adabiy uslub va sof ilmiy uslub",
+          "Sof ilmiy uslub va ilmiy-ommabop uslub"
+        ]
+      },
+      {
+        "text": "Qaysi uslubda fan yutuqlarini keng ommaga yetkazish maqsad qilinadi?",
+        "options": [
+          "#Ilmiy-ommabop uslub",
+          "Publitsistik uslub",
+          "Sof ilmiy uslub",
+          "Ilmiy adabiy uslub"
+        ]
+      },
+      {
+        "text": "Qaysi uslubda fanning ma’lum sohasiga doir atamalar keng qo‘llaniladi?",
+        "options": [
+          "#Sof ilmiy uslub",
+          "Publitsistik uslub",
+          "Ilmiy-ommabop uslub",
+          "Ilmiy adabiy uslub"
+        ]
+      },
+      {
+        "text": "Badiiy uslubning muhim belgisi mima?",
+        "options": [
+          "#Obrazlilik va estetik ta’sir qilish",
+          "So’zlar ko’pincha kinoya, piching, qochirimlarga boy bo’ladi",
+          "Axborot berish va ta’sir qilish bo’lib, soddalik, tushunarlilik, ta’sirchanlik, adabiy til me’yorlariga qat’iy amal qilish",
+          "Oilada, ko’cha-ko’yda kishilarning fikr almashish jarayonida qo’llaniladigan nutq uslubi"
+        ]
+      },
+      {
+        "text": "Publitsistik uslubning muhum xususiyati nima?",
+        "options": [
+          "#U muayyan ijtimoiy masalalarga faol munosabatda bo’lishlik, hozirjavoblik, ta’sirchanlik belgilariga ega",
+          "Obrazlilik va estetik ta’sir qilish",
+          "Oilada, ko’cha-ko’yda kishilarning fikr almashish jarayonida qo’llaniladigan nutq uslubi",
+          "Unda axborot uzatish va da’vat etish, buyurish vazifasi amalga oshiriladi"
+        ]
+      },
+      {
+        "text": "Nima inson hayoti va faoliyatining muhim shartidir? Aynan unda insonlar tabiatni o‘zlashtirish va o‘z ehtiyojlarini qondirish uchun birgalikda harakat qilish imkoniyatlariga ega bo‘ladilar?",
+        "options": [
+          "#Muloqot",
+          "Kommunikatsiya",
+          "Globalizatsiya",
+          "Vizual axborotlar"
+        ]
+      },
+      {
+        "text": "Dunyo bo‘ylab tez va samarali aloqa qilish qobiliyati dunyoni toraytiradi va nimani haqiqatga aylantiradi?",
+        "options": [
+          "#Globalizatsiya",
+          "Muloqot",
+          "Kommunikatsiya",
+          "Vizual axborotlar"
+        ]
+      },
+      {
+        "text": "Atama (termin) larni o‘rganuvchi soha nima deb ataladi?",
+        "options": [
+          "#atamashunoslik(terminologiya)",
+          "fonetika",
+          "leksika",
+          "audit"
+        ]
+      },
+      {
+        "text": "Terminlar asosan qaysi uslubda ishlatiladi?",
+        "options": [
+          "#Ilmiy uslubda",
+          "So'zlashuv uslubida",
+          "Rasmiy idoraviy uslubda",
+          "Publitsistik uslubda"
+        ]
+      },
+      {
+        "text": "Bo‘lgan voqea yoki mavjud holatlarni bildirish-axborot berish mazmunida ifodalaydigan hujjat turi odatda, yuqori idora, mansabdor, xususiy va yuridik shaxslar hamda oddiy kishilarning ko‘rsatmasi, talabi yoki iltimosiga ko‘ra tuziladi hamda biron-bir masalada iltimosni qondiradigan axborot va ma’lumotlarni o‘zida aks ettiradigan hujjat turini toping.",
+        "options": [
+          "#Ma’lumotnoma",
+          "So‘rovnoma",
+          "Dalolatnoma",
+          "Iltimosnoma"
+        ]
+      },
+      {
+        "text": "Biron-bir tantanali tadbirga taklif etish uchun qo‘llanadigan yozma axborot turini toping.",
+        "options": [
+          "#Taklifnoma",
+          "Xabarnoma",
+          "Yangiliklar",
+          "E’lon"
+        ]
+      },
+      {
+        "text": "Muhim xabarning telegraf orqali berilgan nihoyatda qisqa shakli bo‘lib, u bir muassasadan (yoki shaxsdan) ikkinchisiga yo‘llangan rasmiy hujjat hisoblanadi. Ushbu xizmat yozishmalarining turini toping.",
+        "options": [
+          "#Telegramma",
+          "Telefonogramma",
+          "Faksogramma",
+          "Xizmat xatlari"
+        ]
+      },
+      {
+        "text": "Ma’lum bir muassasaning boshqa bir idora yoki transport tashkilotlariga nisbatan talab va e’tirozlari bayon qilingan xatlar nima deb yuritiladi?",
+        "options": [
+          "#Da’vo xatlari",
+          "Xizmat xatlari",
+          "Ilova xatlar",
+          "Iltimos xatlar"
+        ]
+      },
+      {
+        "text": "Bir tarmoqqa tegishli quyi muassasalarning barchasiga yo‘llangan rasmiy hujjatlardan biri. Ushbu xatlar xizmat aloqalarining ko‘pgina sohalarida qo‘llanadi. Ularning asosiy vazifasi aynan bir xil mazmundagi xabarni bir necha manzilga yetkazishdir. Keltirilgan ta’rif qaysi xizmat xatlariga kiradi?",
+        "options": [
+          "#Farmoyish xat",
+          "Da’vo xati",
+          "Tasdiq xat",
+          "Eslatma xat"
+        ]
+      },
+      {
+        "text": "Jo‘natilgan iltimos va so‘rov xatlarga javob olinmasa, shuningdek, tuzilgan shartnomalar muddati buzilganda yoki unga amal qilinmagan hollarda xizmat xatlaridan qaysi biri yuboriladi?",
+        "options": [
+          "#Ogohlantirish xati",
+          "Iltimos xat",
+          "Taklif xat",
+          "So‘rov xat"
+        ]
+      },
+      {
+        "text": "Xatning qaysi turi vazirliklar, elchixonalar, vakolatxonalar o‘rtasidagi yozishma bo‘lib, biror mansabdor shaxs nomidan yoziladi. Xat so‘ngida shu shaxslarning ismi-sharifi, lavozimi ko’rsatiladi, biroq imzo qo‘yilmaydi. Ushbu xatning turini toping.",
+        "options": [
+          "#Rasmiy xat",
+          "Shaxsiy xat",
+          "Farmoyish xat",
+          "So‘rov xat"
+        ]
+      },
+      {
+        "text": "Bu hujjat turi qabul qilingan xalqaro shartnomalar, bitim va muzokaralar yuzasidan kengaytirilgan ma’lumot beruvchi hujjatdir. Unda shartnoma va bitimlarning amal qilishi va kuchga kirishining o‘zaro kelishilgan qonun-qoidalari bayon etiladi. Ushbu hujjat turini toping.",
+        "options": [
+          "#Memorandumlar",
+          "Esdalik yozishmalari",
+          "Bayonotlar",
+          "Tijorat yozishmalari"
+        ]
+      },
+      {
+        "text": "Davlatlarning biror masala yuzasidan o‘zaro qabul qilgan qarorlari yuzasidan bergan bayonnomasi qanday nomlanadi?",
+        "options": [
+          "#Bayonotlar",
+          "Esdalik yozishmalari",
+          "Memorandumlar",
+          "Tijorat yozishmalari"
+        ]
+      },
+      {
+        "text": "Da’vo arizalarining oxirgi zaruriy qismi nimadan iborat?",
+        "options": [
+          "#Ism-familiya, imzo",
+          "Da’vo arizasining matni",
+          "Da’vo arizasi yozilgan sana",
+          "Ilovalar"
+        ]
+      },
+      {
+        "text": "Annotatsiya janrida muayyan asar kimlarga mo‘ljallanganligi aniqlanadimi?",
+        "options": [
+          "#Albatta, aniqlanadi",
+          "Aniqlanmaydi",
+          "Bu savol ahamiyatli emas",
+          "Faqat muayyan asarga xarakteristika beriladi"
+        ]
+      },
+      {
+        "text": "Bajarayotgan vazifasidan kelib chiqib, maqola qanday xarakterlarga ega bo‘ladi?",
+        "options": [
+          "#Publitsistik, problematik, nazariy, tanqidiy, ilmiy, metodik xarakter kasb etadi",
+          "Ilmiy xarakter kasb etadi",
+          "Publitsistik kasb etadi",
+          "Nazariy kasb etadi"
+        ]
+      },
+      {
+        "text": "Ilmiy maqolada muallifning ismi-sharifi,maqolaning nomi, o‘quv yurti (ilmiy tashkilot yoki ishlab chiqarish korxonasi) nomlanishi qayd etiladimi?",
+        "options": [
+          "#axborot xatida qo‘yilgan barcha talablar qayd etiladi",
+          "qayd etilmaydi",
+          "Ilmiy tashkilotning nomlanishi qayd etiladi",
+          "maqolaning nomi bo‘lsa bas"
+        ]
+      },
+      {
+        "text": "Ilm so‘zi qaysi til atamasi va uning lug‘aviy ma’nosi nima?",
+        "options": [
+          "#Arabcha so‘z, kishining o‘qish o‘rganish va hayotiy tajribasi orqali orttirilgan bilimi",
+          "Forscha so‘z, bilim",
+          "Turkcha so‘z, ma’lumotlar",
+          "O‘zbekcha so‘z, tajribalar yig‘indisi"
+        ]
+      },
+      {
+        "text": "Ma’ruza so‘zining ma’nosi?",
+        "options": [
+          "#Biror mavzuda ko‘pchilik oldida so‘zlangan nutq, doklad",
+          "Axborot",
+          "Hisobot",
+          "Tezisning bir ko‘rinishi"
+        ]
+      },
+      {
+        "text": "Ilmiy axborot nima?",
+        "options": [
+          "#Muayyan sohadagi eng yangi yutuq va xulosalarning ilmiy daragi",
+          "Hisobot",
+          "Ma’ruza",
+          "Ma’lumot"
+        ]
+      },
+      {
+        "text": "Konferensiyalarda chop etiladigan, “Tezis” tushunchasi nimani anglatadi va u qanday maksimal hajmda yozilishi lozim?",
+        "options": [
+          "#grekcha so‘z, qoida, isbot 2 betgacha",
+          "forscha so‘z, ma'lum qilaman, 4 betgacha",
+          "ruscha so‘z, axborot, 3 betgacha",
+          "fransuzcha so‘z, xabar beraman, 2 betgacha"
+        ]
+      },
+      {
+        "text": "«Taqriz» qaysi tilning atamasi va u qanday ma’nolarni beradi?",
+        "options": [
+          "#Arabcha soʻz, «ijobiy baho» maʼnolarini beradi;",
+          "Tojikcha soʻz, «asarning qimmatini belgilash»;",
+          "Forscha soʻz, «asarni tahlil etish»;",
+          "Forscha — tojikcha soʻz, «asarning oʻrnini aniqlash»;"
+        ]
+      },
+      {
+        "text": "Referatda yagona fikr hukmronlik qiladimi yoki fikrlar majmui beriladimi?",
+        "options": [
+          "#Fikrlar majmui beriladi",
+          "Kamida 5 ta fikr aytiladi",
+          "Yagona fikr hukmronlik qiladi va u to‘liq isbot etiladi",
+          "Faqatgina tanqidiy fikr beriladi"
+        ]
+      },
+      {
+        "text": "Qaysi qatorda ilmiy uslubga xos gap berilgan?",
+        "options": [
+          "#Ega va kesim gapning grammatik asosi hisoblanadi.",
+          "Saxiylik va olijanoblik ulug‘vor fazilatdir.",
+          "Seni hur va ozod kuylaymen.",
+          "Nedin g‘amnok ko‘rinasiz!"
+        ]
+      },
+      {
+        "text": "Qo‘lyozmani nashrga tayyorlashning yuridik jabhasi dеganda ...",
+        "options": [
+          "#nashriyot, bosmaxona yoki nashrni o‘z zimmasiga olayotgan muassasa yoki homiy bilan o‘zaro shartnoma imzolash tushuniladi.",
+          "qo‘lyozmani nashrga tayyorlashdagi muharrir vazifasi tushuniladi.",
+          "ishning tipografiyada terish yo‘li bilan amalga oshirilishi tushuniladi.",
+          "ishning muhokama va taqrizlardan o‘tkazish jarayoni tushuniladi."
+        ]
+      },
+      {
+        "text": "Maqola turlarining barchasiga xos bo‘lgan umumiy xususiyatlar qaysi javobda ko‘rsatilgan?",
+        "options": [
+          "#ilmiy uslubda yozilishi",
+          "badiiy uslubda yozilishi",
+          "publitsistik uslubda yozilishi",
+          "rasmiy uslubda yozilishi"
+        ]
+      },
+      {
+        "text": "Muallif tomonidan yozilgan ilmiy maqolaning qisqacha mazmunini ko’rsatadigan ilmiy ish?",
+        "options": [
+          "#tezis",
+          "taqriz",
+          "epigraf",
+          "avtoreferat"
+        ]
+      },
+      {
+        "text": "Qaysi turdagi ilmiy-tadqiqiy ish doktorlik ilmiy darajani belgilashga asos bo‘ladi?",
+        "options": [
+          "#dissertatsiya",
+          "avtoreferat",
+          "ilmiy ma’ruza",
+          "monografiya"
+        ]
+      },
+      {
+        "text": "Ilmiy uslub nima?",
+        "options": [
+          "#yangi bilimni olishning uslubi va qo‘llanmalarining tizimi",
+          "mazkur fanda hukmronlik qiladigan tadqiqotlar yo‘nalishi",
+          "tadqiqot obyektining yoyiq tavsifi",
+          "nazarda tutilgan tadqiqotning batafsil rejasi"
+        ]
+      },
+      {
+        "text": "Ilmiy tadqiqot ishining tuzilmaviy mantiqiy sxemasi nima?",
+        "options": [
+          "#tasvirlash mantig‘iga mos umumiy talablarni aks ettiruvchi ilmiy matnni tuzilishining umumiy standartlari",
+          "ilmiy ishning kompozitsiyasi",
+          "ilmiy ishning aniq rejasi",
+          "tadqiqot predmetining tasviri namoyon bo‘ladigan yo‘nalish"
+        ]
+      },
+      {
+        "text": "Ilmiy tadqiq qilish deganda nima tushuniladi?",
+        "options": [
+          "#tadqiqotning ilmiy asoslanishi tushuniladi",
+          "ilmiy izlanish yo‘nalishi tushuniladi",
+          "ilmiy yangilikni fanga yoki jamiyatga joriy qilish tushuniladi",
+          "ilmiy izchillikning berilishi tushuniladi"
+        ]
+      },
+      {
+        "text": "Hovuzning qirg‘oqlarida hosil bo‘lgan yupqa muz asta-sekin hovuzning o‘rtasiga chuqurroq joylariga siljib, ko‘p o‘tmay butun suv ustini tiniq shaffof muz qatlami qoplab oladi...Ushbu parcha qanday matnga xos?",
+        "options": [
+          "#ilmiy-ommabop;",
+          "ilmiy;",
+          "ilmiy-uslubiy;",
+          "uslubiy"
+        ]
+      }
+    ]
+  }}

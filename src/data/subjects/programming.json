@@ -1,0 +1,1318 @@
+{
+    "questions": [
+        {
+            "text": "Quyidagi dastur qismidan n ning qiymatiga 36 soni kiritilsa, dastur natijasi nimaga teng bo'ladi?\nint n, cnt=0; cin>>n;\nfor(int i=2; i*i<=n; i++){ if(n%i==0){ while(n%i==0) n/=i; cnt++;}} cout << cnt;",
+            "options": [
+                "#2",
+                "6",
+                "4",
+                "0"
+            ]
+        },
+        {
+            "text": "Inkapsulyatsiya bu nima?",
+            "options": [
+                "#Ma'lumotlarni yashirish",
+                "Vorislik",
+                "Polimorfizm",
+                "Dinamik xotira"
+            ]
+        },
+        {
+            "text": "Chiqarish oqimi uchun qanday belgi ishlaydi?",
+            "options": [
+                "#<<",
+                ">>",
+                "==",
+                "++"
+            ]
+        },
+        {
+            "text": "Fayllar bilan ishlashda fayllarni ochishning 'wb' rejimi vazifasi qanday?",
+            "options": [
+                "#Write-yozish (binar)",
+                "Read-o'qish",
+                "Faqat ochish",
+                "O'chirish"
+            ]
+        },
+        {
+            "text": "Fayllar bilan ishlashda fayllarni ochishning 'rb' rejimi vazifasi qanday?",
+            "options": [
+                "#Read-O'qish (binar)",
+                "Write-yozish",
+                "Yangi fayl yaratish",
+                "Faqat yopish"
+            ]
+        },
+        {
+            "text": "Faqat musbat sonlarni qabul qiluvchi funksiya tipi qaysi?",
+            "options": [
+                "#unsigned",
+                "signed",
+                "integer",
+                "float"
+            ]
+        },
+        {
+            "text": "Quyidagi sinflardan qaysi biri fayllarga yozishni amalga oshiradi?",
+            "options": [
+                "#ofstream",
+                "ifstream",
+                "iostream",
+                "stdio.h"
+            ]
+        },
+        {
+            "text": "int turi uchun qaysi amallar o'rinli?",
+            "options": [
+                "#+ - * / %",
+                "+ - * /",
+                "&& || !",
+                "faqat + va -"
+            ]
+        },
+        {
+            "text": "float turi uchun qaysi amallar o'rinli?",
+            "options": [
+                "#+ - * /",
+                "+ - * / %",
+                "&& ||",
+                "++ --"
+            ]
+        },
+        {
+            "text": "struct kalit so'zi yordamida qanday tuzilma yaratiladi?",
+            "options": [
+                "#Yozuv (Record)",
+                "Massiv",
+                "Klass",
+                "Funksiya"
+            ]
+        },
+        {
+            "text": "Algoritm nima?",
+            "options": [
+                "#Amallar ketma-ketligi",
+                "Dasturlash tili",
+                "Kompyuter xotirasi",
+                "Grafik chizma"
+            ]
+        },
+        {
+            "text": "Qaysi qiymat true kalit so'ziga mos keladi?",
+            "options": [
+                "#1",
+                "0",
+                "-1",
+                "null"
+            ]
+        },
+        {
+            "text": "Qaysi qiymat false kalit so'ziga mos keladi?",
+            "options": [
+                "#0",
+                "1",
+                "2",
+                "-1"
+            ]
+        },
+        {
+            "text": "Shartli operator if tanasi qachon bajariladi?",
+            "options": [
+                "#Shart true bo'lsa",
+                "Shart false bo'lsa",
+                "Dastur boshida",
+                "Dastur oxirida"
+            ]
+        },
+        {
+            "text": "C++ tilida kiritish oqimi qanday yoziladi?",
+            "options": [
+                "#cin >>",
+                "cout <<",
+                "printf",
+                "scanf"
+            ]
+        },
+        {
+            "text": "C++ tilida chiqarish oqimi qanday yoziladi?",
+            "options": [
+                "#cout <<",
+                "cin >>",
+                "input",
+                "output"
+            ]
+        },
+        {
+            "text": "Massiv o'lchami 19 bo'lsa, oxirgi elementning tartib raqami nechiga teng?",
+            "options": [
+                "#18",
+                "19",
+                "20",
+                "0"
+            ]
+        },
+        {
+            "text": "Ma'lumotlar tuzilmasi ustida bajariladigan to'rtta asosiy amal qaysilar?",
+            "options": [
+                "#Yaratish, o'chirish, tanlash, yangilash",
+                "Kiritish, chiqarish, saqlash, nusxalash",
+                "Sikllar, shartlar, metodlar, klasslar",
+                "Kompilyatsiya, testlash, xatolik, tuzatish"
+            ]
+        },
+        {
+            "text": "Bir xil tipdagi elementlar majmuasi nima deyiladi?",
+            "options": [
+                "#massiv",
+                "o'zgaruvchi",
+                "struktura",
+                "funksiya"
+            ]
+        },
+        {
+            "text": "C++ tilida ko'rsatkich qanday to'g'ri e'lon qilinadi?",
+            "options": [
+                "#int *p;",
+                "int &p;",
+                "pointer p;",
+                "int p*;"
+            ]
+        },
+        {
+            "text": "int mas[10] massivida yettinchi elementga qanday murojaat qilinadi?",
+            "options": [
+                "#mas[6]",
+                "mas[7]",
+                "mas[8]",
+                "mas(7)"
+            ]
+        },
+        {
+            "text": "int function(char x1, float x2, double x3) funksiyasi qanday qiymat qaytaradi?",
+            "options": [
+                "#int",
+                "char",
+                "float",
+                "double"
+            ]
+        },
+        {
+            "text": "Taqqoslash amallaridan qaysi biri noto'g'ri yozilgan?",
+            "options": [
+                "#=!",
+                "==",
+                "!=",
+                "<="
+            ]
+        },
+        {
+            "text": "Funksiya nomidan keyin yoziladigan belgi qaysi?",
+            "options": [
+                "#( )",
+                "[ ]",
+                "{ }",
+                "< >"
+            ]
+        },
+        {
+            "text": "Ma'lumot turlarini keltirishda to'g'ri yozilgan variant qaysi?",
+            "options": [
+                "#(char)a",
+                "char:a",
+                "char a",
+                "to_char(a)"
+            ]
+        },
+        {
+            "text": "Qaysi e'lon massiv tuzilmasini anglatadi?",
+            "options": [
+                "#int a[10]",
+                "int a",
+                "int *a",
+                "int a()"
+            ]
+        },
+        {
+            "text": "Ikkita satrni o'zaro taqqoslash uchun qaysi funksiya ishlatiladi?",
+            "options": [
+                "#strcmp()",
+                "strcat()",
+                "strlen()",
+                "strcpy()"
+            ]
+        },
+        {
+            "text": "Birinchi satr oxiriga ikkinchi satrni qo'shuvchi funksiya qaysi?",
+            "options": [
+                "#strcat()",
+                "strcmp()",
+                "strcpy()",
+                "strlen()"
+            ]
+        },
+        {
+            "text": "Ro'yxatning massivdan ustunligi nimada?",
+            "options": [
+                "#Hajmi chegaralanmagan",
+                "Tezkor murojaat",
+                "Kamroq xotira egallaydi",
+                "Statik tuzilish"
+            ]
+        },
+        {
+            "text": "Kiritish oqimidan 100 ta belgini satrga o'qiydigan funksiya qaysi?",
+            "options": [
+                "#cin.getline(x, 100)",
+                "cin >> x",
+                "gets(x)",
+                "scanf(x)"
+            ]
+        },
+        {
+            "text": "Dastur bajarilishida xotira hajmi aniqlanadigan tuzilma nima deyiladi?",
+            "options": [
+                "#Dinamik ma'lumotlar tuzilmasi",
+                "Statik ma'lumotlar tuzilmasi",
+                "Doimiy massiv",
+                "O'zgarmas son"
+            ]
+        },
+        {
+            "text": "Faylga yozish jarayonini boshqaruvchi klass qaysi?",
+            "options": [
+                "#ofstream",
+                "ifstream",
+                "fstream",
+                "iostream"
+            ]
+        },
+        {
+            "text": "Fayldan o'qish jarayonini boshqaruvchi klass qaysi?",
+            "options": [
+                "#ifstream",
+                "ofstream",
+                "fstream",
+                "iostream"
+            ]
+        },
+        {
+            "text": "Fayl kiritish/chiqarish oqimlari qaysi kutubxonada joylashgan?",
+            "options": [
+                "#fstream",
+                "iostream",
+                "cmath",
+                "iomanip"
+            ]
+        },
+        {
+            "text": "C++ dasturida asosiy funksiya qaysi?",
+            "options": [
+                "#main",
+                "start",
+                "init",
+                "begin"
+            ]
+        },
+        {
+            "text": "Identifikator qaysi belgidan boshlanishi mumkin?",
+            "options": [
+                "#Harf yoki tag chiziq",
+                "Raqam",
+                "Maxsus belgi (!)",
+                "Bo'sh joy"
+            ]
+        },
+        {
+            "text": "Qaysi biri noto'g'ri identifikator?",
+            "options": [
+                "#3son",
+                "son3",
+                "_son",
+                "SON"
+            ]
+        },
+        {
+            "text": "C++ tilida butun sonlar uchun asosiy tip qaysi?",
+            "options": [
+                "#int",
+                "float",
+                "char",
+                "bool"
+            ]
+        },
+        {
+            "text": "O'zgaruvchi nima?",
+            "options": [
+                "#Qiymat saqlovchi xotira yacheykasi",
+                "Kutubxona",
+                "Funksiya",
+                "Doimiy qiymat"
+            ]
+        },
+        {
+            "text": "Belgili (character) tip qaysi?",
+            "options": [
+                "#char",
+                "int",
+                "string",
+                "double"
+            ]
+        },
+        {
+            "text": "Nomlangan konstanta qaysi kalit so'z bilan e'lon qilinadi?",
+            "options": [
+                "#const",
+                "static",
+                "final",
+                "void"
+            ]
+        },
+        {
+            "text": "ASCII nima?",
+            "options": [
+                "#Standard belgilar to'plami",
+                "Grafik interfeys",
+                "Kompilyator turi",
+                "Operatsion tizim"
+            ]
+        },
+        {
+            "text": "Inkrement amali qaysi belgi bilan ifodalanadi?",
+            "options": [
+                "#++",
+                "--",
+                "+=",
+                "=="
+            ]
+        },
+        {
+            "text": "Postfiks inkrement qanday yoziladi?",
+            "options": [
+                "#i++",
+                "++i",
+                "i+1",
+                "+i"
+            ]
+        },
+        {
+            "text": "Dekrement amali nima qiladi?",
+            "options": [
+                "#Qiymatni 1 ga kamaytiradi",
+                "Qiymatni 1 ga oshiradi",
+                "Qiymatni 0 ga tenglaydi",
+                "Qiymatni ko'paytiradi"
+            ]
+        },
+        {
+            "text": "Shartli (ternar) amal qaysi belgilar bilan yoziladi?",
+            "options": [
+                "#?:",
+                "if-else",
+                "&&",
+                "||"
+            ]
+        },
+        {
+            "text": "\"Teng emas\" munosabat amali qaysi?",
+            "options": [
+                "#!=",
+                "==",
+                "<>",
+                "not="
+            ]
+        },
+        {
+            "text": "Mantiqiy inkor amali qaysi belgi bilan yoziladi?",
+            "options": [
+                "#!",
+                "&&",
+                "||",
+                "~"
+            ]
+        },
+        {
+            "text": "sizeof operatori nima vazifani bajaradi?",
+            "options": [
+                "#Hajmni baytlarda o'lchaydi",
+                "Tipni o'zgartiradi",
+                "Xotirani bo'shatadi",
+                "Dasturni to'xtatadi"
+            ]
+        },
+        {
+            "text": "Qaysi dastur kompilyator hisoblanadi?",
+            "options": [
+                "#Code blocks",
+                "Chrome",
+                "Excel",
+                "PowerPoint"
+            ]
+        },
+        {
+            "text": "Preprotsessor direktivasi #include nima uchun ishlatiladi?",
+            "options": [
+                "#Kutubxonalarni ulash uchun",
+                "Sikl yaratish uchun",
+                "Shart tekshirish uchun",
+                "Xotira ajratish uchun"
+            ]
+        },
+        {
+            "text": "for siklining qaysi qismi sikl o'zgaruvchisiga boshlang'ich qiymat beradi?",
+            "options": [
+                "#Ifoda 1",
+                "Ifoda 2",
+                "Ifoda 3",
+                "Sikl tanasi"
+            ]
+        },
+        {
+            "text": "for(int i=1; i<=5; i++) cout<<i; kodi necha marta bajariladi?",
+            "options": [
+                "#5",
+                "4",
+                "6",
+                "1"
+            ]
+        },
+        {
+            "text": "Qaysi sikl kamida bir marta bajariladi?",
+            "options": [
+                "#do while",
+                "while",
+                "for",
+                "if-else"
+            ]
+        },
+        {
+            "text": "while(1) ifodasi nimani anglatadi?",
+            "options": [
+                "#Cheksiz sikl",
+                "Xato",
+                "Sikl ishlamaydi",
+                "Faqat bir marta ishlaydi"
+            ]
+        },
+        {
+            "text": "int a=1; for(int i=1; i<4; i++) a+=i; cout<<a; natijasi nima?",
+            "options": [
+                "#7",
+                "6",
+                "4",
+                "10"
+            ]
+        },
+        {
+            "text": "break operatorining vazifasi nima?",
+            "options": [
+                "#Siklni to'xtatish",
+                "Keyingi qadamga o'tish",
+                "Dasturni boshlash",
+                "Qiymatni o'zgartirish"
+            ]
+        },
+        {
+            "text": "continue operatori nima qiladi?",
+            "options": [
+                "#Keyingi iteratsiyaga o'tadi",
+                "Siklni to'xtatadi",
+                "Funksiyadan chiqadi",
+                "Xotirani tozalaydi"
+            ]
+        },
+        {
+            "text": "Qaysi holatda while sikli umuman ishlamaydi?",
+            "options": [
+                "#Boshida shart False bo'lsa",
+                "Boshida shart True bo'lsa",
+                "Sikl ichida break bo'lsa",
+                "Faqat do while ishlaydi"
+            ]
+        },
+        {
+            "text": "int i=5; while(i>0){ i--; } cout<<i; natijasi nima?",
+            "options": [
+                "#0",
+                "5",
+                "1",
+                "4"
+            ]
+        },
+        {
+            "text": "for(;;) ifodasi nimani bildiradi?",
+            "options": [
+                "#Cheksiz sikl",
+                "Sintaktik xato",
+                "Sikl ishlamaydi",
+                "Bir marta ishlaydi"
+            ]
+        },
+        {
+            "text": "Massiv indeksi qaysi sondan boshlanadi?",
+            "options": [
+                "#0",
+                "1",
+                "-1",
+                "ixtiyoriy"
+            ]
+        },
+        {
+            "text": "int a[10]; massivining oxirgi indeksi nechiga teng?",
+            "options": [
+                "#9",
+                "10",
+                "11",
+                "8"
+            ]
+        },
+        {
+            "text": "int a[3]={1,2,3}; cout<<a[1]; nimani chiqaradi?",
+            "options": [
+                "#2",
+                "1",
+                "3",
+                "xato"
+            ]
+        },
+        {
+            "text": "Bir o'lchovli massiv elementi xotirada qanday joylashadi?",
+            "options": [
+                "#Ketma-ket (Contiguous)",
+                "Dinamik",
+                "Tasodifiy",
+                "Bog'langan"
+            ]
+        },
+        {
+            "text": "Qaysi algoritm saralash (sorting) algoritmiga tegishli?",
+            "options": [
+                "#Bubble sort",
+                "Linear search",
+                "Binary search",
+                "BFS"
+            ]
+        },
+        {
+            "text": "for(int i=0; i<N; i++) cin>>A[i]; kodi nima qiladi?",
+            "options": [
+                "#Massiv qiymatlarini to'ldiradi",
+                "Massivni o'chiradi",
+                "Massivni tartiblaydi",
+                "Massivni chiqaradi"
+            ]
+        },
+        {
+            "text": "Ikki o'lchovli massivda nechta indeks bo'ladi?",
+            "options": [
+                "#2ta",
+                "1ta",
+                "3ta",
+                "cheksiz"
+            ]
+        },
+        {
+            "text": "int a[3][4]; e'loni nimani bildiradi?",
+            "options": [
+                "#Ikki o'lchovli massiv (Matritsa)",
+                "Uch o'lchovli massiv",
+                "Vektor",
+                "Struktura"
+            ]
+        },
+        {
+            "text": "Massivdan faqat ma'lum elementlarni ajratib olish qaysi amal hisoblanadi?",
+            "options": [
+                "#Tanlash",
+                "Saralash",
+                "Qidiruv",
+                "O'chirish"
+            ]
+        },
+        {
+            "text": "Obyektga yo'naltirilgan dasturlashda (OYD) sinf (class) nima?",
+            "options": [
+                "#Obyekt yaratish uchun shablon",
+                "Oddiy funksiya",
+                "O'zgaruvchi",
+                "Kutubxona"
+            ]
+        },
+        {
+            "text": "Inkapsulyatsiya nimani ta'minlaydi?",
+            "options": [
+                "#Ma'lumotlarni himoyalash",
+                "Tezlikni oshirish",
+                "Xotirani tozalash",
+                "Sikl yaratish"
+            ]
+        },
+        {
+            "text": "private kalit so'zi nimani bildiradi?",
+            "options": [
+                "#Faqat sinf ichidan murojaat qilinadi",
+                "Hamma ko'ra oladi",
+                "Faqat main ko'ra oladi",
+                "Vorislar ko'ra oladi"
+            ]
+        },
+        {
+            "text": "Konstruktor qachon chaqiriladi?",
+            "options": [
+                "#Obyekt yaratilganda",
+                "Obyekt o'chirilganda",
+                "Funksiya tugaganda",
+                "Har doim"
+            ]
+        },
+        {
+            "text": "Destruktor belgisi qaysi?",
+            "options": [
+                "#~",
+                "!",
+                "#",
+                "&"
+            ]
+        },
+        {
+            "text": "class Person { public: Person(){} }; kodida Person() nima?",
+            "options": [
+                "#Konstruktor",
+                "Destruktor",
+                "Metod",
+                "Obyekt"
+            ]
+        },
+        {
+            "text": "Sinf ichida e'lon qilingan o'zgaruvchi nima deyiladi?",
+            "options": [
+                "#Atribut (A'zo o'zgaruvchi)",
+                "Global o'zgaruvchi",
+                "Lokal o'zgaruvchi",
+                "Parametr"
+            ]
+        },
+        {
+            "text": "public kalit so'zi nimani bildiradi?",
+            "options": [
+                "#Tashqaridan ham murojaat qilish mumkin",
+                "Faqat sinf ichidan ko'riladi",
+                "Faqat do'st sinflar ko'radi",
+                "Ma'lumotlar o'zgarmas qoladi"
+            ]
+        },
+        {
+            "text": "Bitta sinfdan nechta obyekt yaratish mumkin?",
+            "options": [
+                "#Cheksiz",
+                "1 ta",
+                "256 ta",
+                "10 ta"
+            ]
+        },
+        {
+            "text": "Sinf metodlari qayerda e'lon qilinadi?",
+            "options": [
+                "#Sinf ichida",
+                "Faqat main ichida",
+                "Faqat sarlavha faylda",
+                "Kompilyator ichida"
+            ]
+        },
+        {
+            "text": "Vorislik nima?",
+            "options": [
+                "#Bir sinf xususiyatlarini boshqasiga meros berish",
+                "Xotirani avtomatik tozalash",
+                "Funksiyalarni qayta yuklash",
+                "Ma'lumotlarni yashirish"
+            ]
+        },
+        {
+            "text": "Vorislik qaysi belgi orqali yoziladi?",
+            "options": [
+                "#:",
+                ";",
+                "::",
+                "->"
+            ]
+        },
+        {
+            "text": "Polimorfizm nimani anglatadi?",
+            "options": [
+                "#Bir xil funksiya har xil ishlashi",
+                "Faqat bitta obyekt",
+                "Ma'lumotlarni yashirish",
+                "Kutubxona ulanishi"
+            ]
+        },
+        {
+            "text": "virtual kalit so'zi qayerda ishlatiladi?",
+            "options": [
+                "#Polimorfizmda",
+                "Massivlarda",
+                "Sikllarda",
+                "Strukturalarda"
+            ]
+        },
+        {
+            "text": "struct va class orasidagi asosiy farq nimada?",
+            "options": [
+                "#Structda a'zolar default 'public' bo'ladi",
+                "Class tezroq ishlaydi",
+                "Structda metodlar bo'lmaydi",
+                "Classda massiv ishlatib bo'lmaydi"
+            ]
+        },
+        {
+            "text": "Satr oxiri qaysi belgi bilan tugaydi?",
+            "options": [
+                "#\\0",
+                ";",
+                "}",
+                "\\n"
+            ]
+        },
+        {
+            "text": "strlen() funksiyasi nima qaytaradi?",
+            "options": [
+                "#Satr uzunligini",
+                "Birinchi belgini",
+                "Xotira manzilini",
+                "Satr nusxasini"
+            ]
+        },
+        {
+            "text": "strcpy() funksiyasining vazifasi nima?",
+            "options": [
+                "#Satrdan nusxa olish",
+                "Satrni o'chirish",
+                "Satrlarni birlashtirish",
+                "Satrni o'qish"
+            ]
+        },
+        {
+            "text": "char s[]='Salom'; cout<<strlen(s); natijasi nima?",
+            "options": [
+                "#5",
+                "6",
+                "4",
+                "Salom"
+            ]
+        },
+        {
+            "text": "Satr bilan ishlashda bo'sh joylarni ham o'qiy oladigan funksiya qaysi?",
+            "options": [
+                "#getline()",
+                "cin >>",
+                "scanf",
+                "gets"
+            ]
+        },
+        {
+            "text": "Qaysi satr o'qish funksiyasi xavfli (buffer overflow) hisoblanadi?",
+            "options": [
+                "#gets()",
+                "getline()",
+                "cin.get()",
+                "fgets()"
+            ]
+        },
+        {
+            "text": "string turi qaysi kutubxonada joylashgan?",
+            "options": [
+                "#string",
+                "iostream",
+                "stdio",
+                "math"
+            ]
+        },
+        {
+            "text": "strchr() funksiyasi nima qiladi?",
+            "options": [
+                "#Satrdan belgini qidiradi",
+                "Satrni nusxalaydi",
+                "Satrni o'chiradi",
+                "Satrni o'zgartiradi"
+            ]
+        },
+        {
+            "text": "Ko'rsatkich (pointer) nima?",
+            "options": [
+                "#Xotira manzilini saqlovchi o'zgaruvchi",
+                "Sikl operatori",
+                "Matematik funksiya",
+                "Doimiy son"
+            ]
+        },
+        {
+            "text": "Ko'rsatkichni to'g'ri e'lon qilish qanday yoziladi?",
+            "options": [
+                "#int *p;",
+                "int &p;",
+                "int p;",
+                "pointer p;"
+            ]
+        },
+        {
+            "text": "& operatori nima vazifani bajaradi?",
+            "options": [
+                "#O'zgaruvchining manzilini qaytaradi",
+                "Qiymatni qaytaradi",
+                "Ko'paytiruv amali",
+                "Sikl boshlanishi"
+            ]
+        },
+        {
+            "text": "* operatori ko'rsatkich bilan ishlaganda nimani bildiradi?",
+            "options": [
+                "#Manzildagi qiymatni",
+                "Manzilni o'zini",
+                "Hajmni",
+                "Tipni"
+            ]
+        },
+        {
+            "text": "Ko'rsatkich orqali qiymatni o'zgartirish mumkinmi?",
+            "options": [
+                "#Ha",
+                "Yo'q",
+                "Faqat massivda",
+                "Faqat const bo'lsa"
+            ]
+        },
+        {
+            "text": "int a=5; int *p=&a; cout<<*p; natijasi nima?",
+            "options": [
+                "#5",
+                "Xotira manzili",
+                "0",
+                "a"
+            ]
+        },
+        {
+            "text": "int a=10; int *p=&a; cout<<p; nimani chiqaradi?",
+            "options": [
+                "#Xotira manzilini",
+                "10",
+                "p",
+                "a"
+            ]
+        },
+        {
+            "text": "int *p = new int; kodi nima qiladi?",
+            "options": [
+                "#Bitta butun son uchun dinamik xotira ajratadi",
+                "Butun sonni o'chiradi",
+                "Sikl boshlaydi",
+                "Klass yaratadi"
+            ]
+        },
+        {
+            "text": "int *a = new int[5]; nimani bildiradi?",
+            "options": [
+                "#5 ta int uchun dinamik joy ajratadi",
+                "5 ta sonni o'chiradi",
+                "Massivni tartiblaydi",
+                "Xato yozilgan"
+            ]
+        },
+        {
+            "text": "class A{}; A x,y; kodida nechta obyekt bor?",
+            "options": [
+                "#2ta",
+                "1ta",
+                "0ta",
+                "xato"
+            ]
+        },
+        {
+            "text": "~Test(){} kodi nima?",
+            "options": [
+                "#Destruktor",
+                "Konstruktor",
+                "Metod",
+                "Sikl"
+            ]
+        },
+        {
+            "text": "ofstream f('a.txt'); kodi nimani bajaradi?",
+            "options": [
+                "#Yozish uchun fayl ochadi",
+                "O'qish uchun fayl ochadi",
+                "Faylni o'chiradi",
+                "Faylni nusxalaydi"
+            ]
+        },
+        {
+            "text": "ofstream f('data.txt', ios::app); nimani bildiradi?",
+            "options": [
+                "#Fayl oxiriga ma'lumot qo'shish",
+                "Faylni boshidan yozish",
+                "Faylni o'qish",
+                "Faylni yopish"
+            ]
+        },
+        {
+            "text": "ifstream f('a.txt'); string s; getline(cin, s); kodida qanday xato bor?",
+            "options": [
+                "#Fayldan emas, klaviaturadan o'qiyapti",
+                "Fayl ochilmagan",
+                "Sikl yo'q",
+                "string ishlatib bo'lmaydi"
+            ]
+        },
+        {
+            "text": "while(f >> x) s+=x; nimani hisoblaydi?",
+            "options": [
+                "#Fayldagi sonlar yig'indisini",
+                "Fayldagi so'zlar sonini",
+                "Fayl hajmini",
+                "Faylni o'chiradi"
+            ]
+        },
+        {
+            "text": "int f(int a){ return a*a; } nimani qaytaradi?",
+            "options": [
+                "#Sonning kvadratini",
+                "Sonning ildizini",
+                "0 ni",
+                "Hech narsa"
+            ]
+        },
+        {
+            "text": "void f(){ cout<<'Hi'; } int main(){ f(); } natijasi nima?",
+            "options": [
+                "#Hi",
+                "0",
+                "Xato",
+                "Hech narsa chiqmaydi"
+            ]
+        },
+        {
+            "text": "void g(int &x){ x+=5; } int a=3; g(a); cout<<a; natijasi nima?",
+            "options": [
+                "#8",
+                "3",
+                "5",
+                "0"
+            ]
+        },
+        {
+            "text": "nullptr nimani bildiradi?",
+            "options": [
+                "#Bo'sh ko'rsatkich",
+                "Xato",
+                "0 dan katta qiymat",
+                "Funksiya"
+            ]
+        },
+        {
+            "text": "Ko'rsatkichlar ko'proq qayerda ishlatiladi?",
+            "options": [
+                "#Dinamik xotirada",
+                "Faqat if shartida",
+                "Matematik amallarda",
+                "Faqat coutda"
+            ]
+        },
+        {
+            "text": "Dinamik xotira qachon ajratiladi?",
+            "options": [
+                "#Dastur bajarilish vaqtida (Runtime)",
+                "Kompilyatsiya vaqtida",
+                "Dastur yozilayotgan vaqtda",
+                "Kompyuter yoqilganda"
+            ]
+        },
+        {
+            "text": "Dinamik xotira ajratish operatori qaysi?",
+            "options": [
+                "#new",
+                "delete",
+                "malloc",
+                "alloc"
+            ]
+        },
+        {
+            "text": "Dinamik xotirani bo'shatish operatori qaysi?",
+            "options": [
+                "#delete",
+                "new",
+                "free",
+                "clear"
+            ]
+        },
+        {
+            "text": "Dinamik xotira ishlatilib, bo'shatilmasa qanday muammo bo'ladi?",
+            "options": [
+                "#Memory leak (Xotira sizib chiqishi)",
+                "Protsessor qizishi",
+                "Dastur tezlashishi",
+                "Kompilyatsiya xatosi"
+            ]
+        },
+        {
+            "text": "Dinamik xotiraning asosiy ustunligi nimada?",
+            "options": [
+                "#Moslashuvchanlik (kerakli hajm olish)",
+                "Dastur hajmi kichrayishi",
+                "Xotirani tozalash shart emasligi",
+                "Xatosiz ishlashi"
+            ]
+        },
+        {
+            "text": "Dinamik xotiraning kamchiligi nimada?",
+            "options": [
+                "#Faqat qo'lda boshqariladi (Manual management)",
+                "Juda sekin",
+                "Faqat sonlar uchun",
+                "Ishlatib bo'lmaydi"
+            ]
+        },
+        {
+            "text": "Qaysi tuzilma dinamik ma'lumotlar tuzilmasiga kiradi?",
+            "options": [
+                "#Bog'langan ro'yxat (Linked List)",
+                "Oddiy massiv",
+                "Constanta",
+                "Enum"
+            ]
+        },
+        {
+            "text": "Obyekt nima?",
+            "options": [
+                "#Sinfdan olingan nusxa",
+                "Ma'lumot tipi",
+                "Funksiya nomi",
+                "Kutubxona"
+            ]
+        },
+        {
+            "text": "class ichida e'lon qilingan o'zgaruvchi nima deyiladi?",
+            "options": [
+                "#A'zo o'zgaruvchi",
+                "Global o'zgaruvchi",
+                "Lokal o'zgaruvchi",
+                "Statik"
+            ]
+        },
+        {
+            "text": "Sinf ichidagi funksiya nima deb ataladi?",
+            "options": [
+                "#Metod",
+                "Atribut",
+                "Sikl",
+                "Obyekt"
+            ]
+        },
+        {
+            "text": "Destruktor qachon chaqiriladi?",
+            "options": [
+                "#Obyekt o'chirilishidan oldin",
+                "Obyekt yaratilganda",
+                "Har bir siklda",
+                "Faqat main boshida"
+            ]
+        },
+        {
+            "text": "Fayl nima?",
+            "options": [
+                "#Ma'lumotlarni doimiy saqlash tuzilmasi",
+                "RAM dagi o'zgaruvchi",
+                "Funksiya turi",
+                "Dasturlash tili"
+            ]
+        },
+        {
+            "text": "Fayl ochilganini tekshiruvchi funksiya qaysi?",
+            "options": [
+                "#is_open()",
+                "close()",
+                "open()",
+                "eof()"
+            ]
+        },
+        {
+            "text": "Fayldan so'zma-so'z o'qish qaysi operator orqali bajariladi?",
+            "options": [
+                "#>>",
+                "<<",
+                "==",
+                "++"
+            ]
+        },
+        {
+            "text": "Fayl oxiriga yetilganini tekshiruvchi funksiya qaysi?",
+            "options": [
+                "#eof()",
+                "open()",
+                "fail()",
+                "bad()"
+            ]
+        },
+        {
+            "text": "Fayl yopilmasa qanday muammo yuz berishi mumkin?",
+            "options": [
+                "#Ma'lumotlar saqlanmasligi mumkin",
+                "Dastur o'chib ketadi",
+                "Kompyuter o'chadi",
+                "Xato chiqmaydi"
+            ]
+        },
+        {
+            "text": "Funksiya nima?",
+            "options": [
+                "#Ma'lum vazifani bajaruvchi qayta ishlatiladigan kod",
+                "Dastur nomi",
+                "O'zgaruvchilar to'plami",
+                "Kutubxona"
+            ]
+        },
+        {
+            "text": "Qiymat qaytarmaydigan funksiya qaysi turda bo'ladi?",
+            "options": [
+                "#void",
+                "int",
+                "double",
+                "float"
+            ]
+        },
+        {
+            "text": "Funksiya prototipi nima uchun kerak?",
+            "options": [
+                "#Funksiyani oldindan e'lon qilish uchun",
+                "Dasturni tezlashtirish uchun",
+                "Xotirani tejash uchun",
+                "Xatoni yashirish uchun"
+            ]
+        },
+        {
+            "text": "Funksiya parametrlarini uzatishning nechta usuli mavjud?",
+            "options": [
+                "#3ta",
+                "1ta",
+                "2ta",
+                "5ta"
+            ]
+        },
+        {
+            "text": "Havola (reference) orqali parametr uzatish nimani ta'minlaydi?",
+            "options": [
+                "#Asl o'zgaruvchini o'zgartirishni",
+                "Xotira nusxasini olishni",
+                "Dasturni to'xtatishni",
+                "Faqat o'qishni"
+            ]
+        },
+        {
+            "text": "Funksiya ichida boshqa funksiyani chaqirish mumkinmi?",
+            "options": [
+                "#Ha",
+                "Yo'q",
+                "Faqat bir marta",
+                "Faqat main ichida"
+            ]
+        },
+        {
+            "text": "Rekursiv funksiya nima?",
+            "options": [
+                "#O'zini-o'zi chaqiradigan funksiya",
+                "Faqat bir marta ishlaydigan funksiya",
+                "Xato funksiya",
+                "Boshqa fayldagi funksiya"
+            ]
+        },
+        {
+            "text": "Rekursiyada to'xtash sharti bo'lmasa nima sodir bo'ladi?",
+            "options": [
+                "#Cheksiz rekursiya (Stack overflow)",
+                "Dastur muvaffaqiyatli tugaydi",
+                "Siklga aylanadi",
+                "Hech narsa bo'lmaydi"
+            ]
+        },
+        {
+            "text": "Algoritmning vaqt murakkabligi nimani bildiradi?",
+            "options": [
+                "#Vaqtning axborot hajmiga bog'liqligi",
+                "Dasturning necha qatorligi",
+                "Kompyuter tezligi",
+                "Dasturchining ish vaqti"
+            ]
+        },
+        {
+            "text": "Qidiruv algoritmining vazifasi nima?",
+            "options": [
+                "#Berilgan elementni topish",
+                "Ma'lumotlarni o'chirish",
+                "Ma'lumotlarni ko'paytirish",
+                "Klass yaratish"
+            ]
+        },
+        {
+            "text": "Chiziqli qidiruv qachon samarali bo'ladi?",
+            "options": [
+                "#Ma'lumotlar soni kam bo'lganda",
+                "Ma'lumotlar juda ko'p bo'lganda",
+                "Faqat tartiblangan bo'lsa",
+                "Hech qachon"
+            ]
+        },
+        {
+            "text": "Binar qidiruv qaysi shartda ishlaydi?",
+            "options": [
+                "#Ma'lumotlar tartiblangan bo'lsa",
+                "Ma'lumotlar tartiblanmagan bo'lsa",
+                "Faqat harflar bo'lsa",
+                "Faqat bitta element bo'lsa"
+            ]
+        },
+        {
+            "text": "Saralash algoritmi nima uchun kerak?",
+            "options": [
+                "#Ma'lumotlarni tartiblash uchun",
+                "Ma'lumotlarni qidirish uchun",
+                "Xotirani tozalash uchun",
+                "Dasturni o'chirish uchun"
+            ]
+        },
+        {
+            "text": "Barqaror (stable) saralash nima?",
+            "options": [
+                "#Teng elementlar tartibi saqlanadi",
+                "Dastur to'xtab qolmaydi",
+                "Juda tez ishlaydi",
+                "Kam xotira oladi"
+            ]
+        },
+        {
+            "text": "Tezkor saralash (Quick sort) qanday turga kiradi?",
+            "options": [
+                "#Taqsimlab-yechish (Divide and Conquer)",
+                "Oddiy almashtirish",
+                "Ketma-ket saralash",
+                "Tasodifiy saralash"
+            ]
+        },
+        {
+            "text": "Ichki saralash deganda nimani tushunasiz?",
+            "options": [
+                "#Xotirada (RAM) bajariladigan saralash",
+                "Faqat faylda bajariladigan",
+                "Dastur ichida yozilgan",
+                "Hech qanday kutubxonasiz"
+            ]
+        },
+        {
+            "text": "Dasturlashda testlashning asosiy maqsadi nima?",
+            "options": [
+                "#Xatolarni aniqlash va to'g'rilash",
+                "Dasturni chiroyli qilish",
+                "Dastur hajmini oshirish",
+                "Faqat foydalanuvchi uchun"
+            ]
+        }
+    ]
+}

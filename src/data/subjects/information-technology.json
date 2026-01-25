@@ -1,0 +1,1183 @@
+{
+    "questions": [
+        {
+            "text": "Microsoft Word - is?",
+            "options": [
+                "#Text editor",
+                "Spreadsheet editor",
+                "Graphic editor",
+                "Graphic editor"
+            ]
+        },
+        {
+            "text": "Which objects are essential for a database to exist?",
+            "options": [
+                "#Tables",
+                "Reports",
+                "Forms",
+                "Requests"
+            ]
+        },
+        {
+            "text": "Free programs that are distributed openly and are supported by the user, who is authorized to make necessary changes to them, are called:",
+            "options": [
+                "#Freeware",
+                "Shareware",
+                "OEM programs",
+                "Utility programs"
+            ]
+        },
+        {
+            "text": "The high-speed memory located between the processor and the computer's RAM is called",
+            "options": [
+                "#Cache-memory",
+                "Flash memory",
+                "Permanent memory",
+                "External memory"
+            ]
+        },
+        {
+            "text": "In what cases is this format of absolute reference to the cell address $ A2 used ?",
+            "options": [
+                "#When copying a formula, the column address does not change",
+                "When copying a formula, the column and row address do not change",
+                "When copying a formula, the row address does not change",
+                "When copying a formula, the column and row address change"
+            ]
+        },
+        {
+            "text": "In which type of database any data set is represented as a two-dimensional table",
+            "options": [
+                "#Relational model",
+                "Network models",
+                "Hierarchical model",
+                "External model"
+            ]
+        },
+        {
+            "text": "In which cloud service model does the provider develop and manage a web application, providing customers with access to the software over the Internet?",
+            "options": [
+                "#Software as a Service ( SaaS )",
+                "Platform as a Service ( PaaS )",
+                "Infrastructure as a Service ( IaaS )",
+                "Everything as a Service ( EaaS )"
+            ]
+        },
+        {
+            "text": "Which cloud service model provides the entire range of web application development, testing, and deployment operations in a single integrated environment, thereby eliminating the costs of maintaining separate environments for specific stages?",
+            "options": [
+                "#Platform as a Service ( PaaS )",
+                "Software as a Service ( SaaS )",
+                "Infrastructure as a Service ( IaaS )",
+                "Everything as a Service ( EaaS )"
+            ]
+        },
+        {
+            "text": "Which cloud service model provides the client with a variety of computer infrastructure: servers, data storage systems, network equipment, as well as software for managing these resources?",
+            "options": [
+                "#Infrastructure as a Service ( IaaS )",
+                "Platform as a Service ( PaaS )",
+                "Software as a Service ( SaaS )",
+                "Everything as a Service ( EaaS )"
+            ]
+        },
+        {
+            "text": "In which infrastructure can end users access the infrastructure over the Internet with the ability to use computing resources without local installation through virtualization?",
+            "options": [
+                "#Cloud",
+                "Traditional",
+                "Advanced",
+                "Innovative"
+            ]
+        },
+        {
+            "text": "The functions of the database management system include:",
+            "options": [
+                "#Organization of storage and retrieval of information",
+                "Providing global connectivity",
+                "Providing local communication",
+                "Statistical processing of information"
+            ]
+        },
+        {
+            "text": "In a spreadsheet, a cell address is:",
+            "options": [
+                "#G234",
+                "2 D",
+                "$6 F",
+                "$ C"
+            ]
+        },
+        {
+            "text": "In a spreadsheet, a cell is:",
+            "options": [
+                "#Row and column intersection",
+                "Horizontal column",
+                "Vertical column",
+                "Volume plus on the screen"
+            ]
+        },
+        {
+            "text": "Microsoft Spreadsheets Excel has a group of cells A1:B3 selected. How many cells are included in this range?",
+            "options": [
+                "#6",
+                "2",
+                "8",
+                "9"
+            ]
+        },
+        {
+            "text": "A range in spreadsheets is:",
+            "options": [
+                "#A set of cells that form a rectangular area in a table",
+                "All cells of one row",
+                "All cells of one column",
+                "Set of admissible values"
+            ]
+        },
+        {
+            "text": "For the user, a spreadsheet cell is identified by:",
+            "options": [
+                "#By sequentially specifying the column name and row number at the intersection of which the cell is located",
+                "The address of the machine word of the RAM allocated for the cell",
+                "With a special code word",
+                "A name arbitrarily defined by the user"
+            ]
+        },
+        {
+            "text": "What are databases used for? Choose the most complete answer",
+            "options": [
+                "#For storing information",
+                "For storing numbers",
+                "For storing phone lists",
+                "For storing surnames"
+            ]
+        },
+        {
+            "text": "What are queries used for in MS ACCESS?",
+            "options": [
+                "#For selection and processing database data",
+                "For storing database data",
+                "To enter database data and view it",
+                "To automatically execute a group of commands"
+            ]
+        },
+        {
+            "text": "Column headings are indicated:",
+            "options": [
+                "#In Latin letters",
+                "Only numbers",
+                "Letters and numbers",
+                "In Russian letters"
+            ]
+        },
+        {
+            "text": "Ordering an insurance policy directly through the website of an insurance company or insurance broker is",
+            "options": [
+                "#Internet insurance",
+                "Internet trading",
+                "Internet banking",
+                "Internet marketing"
+            ]
+        },
+        {
+            "text": "Concluding transactions for the purchase or sale of securities or currency assets via the Internet, in real time, is",
+            "options": [
+                "#Internet trading",
+                "Internet banking",
+                "Internet insurance",
+                "Internet marketing"
+            ]
+        },
+        {
+            "text": "The programming technology toolkit is designed for",
+            "options": [
+                "#Supporting technology for program development",
+                "Maintenance of hardware of autonomous computers and computer networks",
+                "Solutions to functional problems in various subject areas",
+                "Working with text"
+            ]
+        },
+        {
+            "text": "Information technology is",
+            "options": [
+                "#A process that uses a set of means and methods for collecting, processing and transmitting data to obtain information of a new quality about the state of an object, process or phenomenon",
+                "A set of means and methods for collecting, processing and transmitting data to obtain new quality information about the state of an object, process or phenomenon",
+                "The process of collecting, processing and transmitting data to obtain new quality information about the state of an object, process or phenomenon",
+                "The process of processing data to make a management decision"
+            ]
+        },
+        {
+            "text": "What type of programs are Kaspersky Lab AVP , NOD 32, Doctor Web , McAfee ?",
+            "options": [
+                "#Antivirus programs",
+                "Office applications",
+                "Programs for accessing the Internet",
+                "Programs that run as administrator"
+            ]
+        },
+        {
+            "text": "What is the name of a global computer network consisting of many computer networks?",
+            "options": [
+                "#Internet",
+                "Intranet",
+                "Regional network",
+                "Corporate network"
+            ]
+        },
+        {
+            "text": "What is the name of an action whose purpose is to seize control (escalate privileges) over a remote or local computing system, or to destabilize it, or to deny service?",
+            "options": [
+                "#Hacker attack",
+                "Virus distribution",
+                "Data disposal",
+                "Copying data"
+            ]
+        },
+        {
+            "text": "What are the documents created in the Microsoft Excel program called?",
+            "options": [
+                "#\"Workbook\"",
+                "\"Presentation\"",
+                "\"Document\"",
+                "\"Sheet\""
+            ]
+        },
+        {
+            "text": "What is the name of an Internet scam that aims to obtain users' identification data?",
+            "options": [
+                "#Phishing",
+                "Hacker attack",
+                "Virus distribution",
+                "Data disposal"
+            ]
+        },
+        {
+            "text": "What is the name of the key available to any user of the information system and intended to confirm the authenticity of an electronic digital signature?",
+            "options": [
+                "#Public key of electronic digital signature",
+                "Encryption tools",
+                "Private key of electronic digital signature",
+                "Coding tools"
+            ]
+        },
+        {
+            "text": "What is the name of the hardware or software system that controls and filters the information passing through it?",
+            "options": [
+                "#Firewall",
+                "Controller",
+                "Router",
+                "Distributor"
+            ]
+        },
+        {
+            "text": "The mass distribution of commercial, political, or other advertisements or messages to people who did not express a desire to receive them is called:",
+            "options": [
+                "#Spam",
+                "Anti-advertisement",
+                "Advertising",
+                "Macro"
+            ]
+        },
+        {
+            "text": "What is the name of the main storage device in most computers?",
+            "options": [
+                "#Hard disk",
+                "CPU",
+                "System unit",
+                "power unit"
+            ]
+        },
+        {
+            "text": "What is the name of a type of computer program whose distinctive feature is the ability to reproduce and harm a computer?",
+            "options": [
+                "#Computer virus",
+                "Program code",
+                "System error",
+                "Driver"
+            ]
+        },
+        {
+            "text": "What is the name of a collection of Internet pages that combines a lot of information?",
+            "options": [
+                "#Website",
+                "Web application",
+                "Hypertex",
+                "Web document"
+            ]
+        },
+        {
+            "text": "What is the name of the system that ensures the exchange of data between government agencies?",
+            "options": [
+                "#Interdepartmental electronic interaction system",
+                "Information system of government agencies",
+                "Electronic document management system",
+                "Information system of the Cabinet of Ministers of the Republic of Uzbekistan"
+            ]
+        },
+        {
+            "text": "What is the name of the service that provides real-time information exchange on the Internet?",
+            "options": [
+                "#Chat",
+                "E-mail",
+                "Website",
+                "Proxy"
+            ]
+        },
+        {
+            "text": "What is the name of a device designed to visually display information?",
+            "options": [
+                "#Monitor (display)",
+                "Tablet computer",
+                "Backlit keyboard",
+                "Scanner"
+            ]
+        },
+        {
+            "text": "What are the aspects related to defining, achieving and maintaining confidentiality, integrity, availability and reliability of information or the means of processing it called?",
+            "options": [
+                "#Information security",
+                "Security Policy",
+                "Protection of communication channels",
+                "Security system management"
+            ]
+        },
+        {
+            "text": "What are documents created on Microsoft PowerPoint  called?",
+            "options": [
+                "#\"Presentation\"",
+                "\"Book\"",
+                "\"Document\"",
+                "\"Sheet\""
+            ]
+        },
+        {
+            "text": "What are the small sized charts that fit into one cell called?",
+            "options": [
+                "#Sparkline",
+                "Histogram",
+                "Schedule",
+                "SmartArt"
+            ]
+        },
+        {
+            "text": "What kind of computer network connects subscribers located within a small area?",
+            "options": [
+                "#Local",
+                "Global",
+                "Regional",
+                "Corporate"
+            ]
+        },
+        {
+            "text": "What kind of computer network connects subscribers located in different countries, on different continents?",
+            "options": [
+                "#Global",
+                "Regional",
+                "Local",
+                "Corporate"
+            ]
+        },
+        {
+            "text": "Which of the following functions is a logical function in a Microsoft Excel program?",
+            "options": [
+                "#IF",
+                "SUM",
+                "MAX",
+                "AVERAGE"
+            ]
+        },
+        {
+            "text": "Which cloud service model is mainly used by end users?",
+            "options": [
+                "#Software as a Service ( SaaS )",
+                "Platform as a Service ( PaaS )",
+                "Infrastructure as a Service ( IaaS )",
+                "Everything as a Service ( EaaS )"
+            ]
+        },
+        {
+            "text": "What operation is performed when using the given formula = R 5^2?",
+            "options": [
+                "#Squares the value in cell R5",
+                "Multiplies cell R5 by 2",
+                "Takes the square root of cell R5",
+                "Divides cell R5 by 2"
+            ]
+        },
+        {
+            "text": "What type of network is used to build a blockchain ?",
+            "options": [
+                "#Peer to Peer",
+                "Client-server",
+                "Local",
+                "Corporate"
+            ]
+        },
+        {
+            "text": "Which information systems perform all information processing operations without human intervention?",
+            "options": [
+                "#Automatic IS",
+                "Manual IS",
+                "Automated IS",
+                "expert IS"
+            ]
+        },
+        {
+            "text": "Which information systems involve both humans and technical means in the information processing process, with the main role being given to the computer?",
+            "options": [
+                "#Automated IS",
+                "Automatic IS",
+                "Manual IS",
+                "Non-automated IS"
+            ]
+        },
+        {
+            "text": "Which information systems are characterized by the absence of modern technical means of information processing and the performance of all operations by humans?",
+            "options": [
+                "#Manual IS",
+                "Automatic IS",
+                "Automated IS",
+                "Expert IS"
+            ]
+        },
+        {
+            "text": "What programs are designed to manage the execution of user programs, planning and management of computer computing resources?",
+            "options": [
+                "#Operating systems",
+                "Operating shells",
+                "Utilities",
+                "Programming languages"
+            ]
+        },
+        {
+            "text": "What is the main purpose of information technology?",
+            "options": [
+                "#Obtaining information",
+                "Information processing",
+                "Information gathering",
+                "Transfer of information to the organization's management"
+            ]
+        },
+        {
+            "text": "What keyboard shortcut will start the presentation from the current slide?",
+            "options": [
+                "#Shift+F5",
+                "Ctrl+F5",
+                "Shift+Ctrl+F5",
+                "Alt + F 5"
+            ]
+        },
+        {
+            "text": "Which of the following devices is included in the basic configuration of a computer?",
+            "options": [
+                "#Keyboard",
+                "Printer",
+                "Scanner",
+                "Sound speakers"
+            ]
+        },
+        {
+            "text": "Which of the following presentation editors is best for developing creative presentations?",
+            "options": [
+                "#Prezi",
+                "Google Slides",
+                "Libre Office Impress",
+                "PhotoSHOW PRO"
+            ]
+        },
+        {
+            "text": "Which of the following presentation editors is a cloud resource?",
+            "options": [
+                "#Prezi",
+                "Apple Keynote",
+                "Libre Office Impress",
+                "Microsoft PowerPoint"
+            ]
+        },
+        {
+            "text": "Which cloud service model do app developers mostly use?",
+            "options": [
+                "#Platform as a Service ( PaaS )",
+                "Software as a Service ( SaaS )",
+                "Infrastructure as a Service ( IaaS )",
+                "Everything as a Service ( EaaS )"
+            ]
+        },
+        {
+            "text": "Computer resources grouped into a \"pool,\" which represents a set of services designed and controlled by a private enterprise, are known as:",
+            "options": [
+                "#Private Cloud",
+                "Public cloud",
+                "Hybrid cloud",
+                "Public cloud"
+            ]
+        },
+        {
+            "text": "A computer algorithm designed to conclude and maintain commercial contracts in blockchain technology is",
+            "options": [
+                "#Smart contract",
+                "Electronic contract",
+                "Consensus algorithm",
+                "International contract"
+            ]
+        },
+        {
+            "text": "The criteria for the optimality of the technological process are",
+            "options": [
+                "#Timeliness of delivery of information to users, its reliability, accuracy and completeness",
+                "Obtaining information",
+                "Information integration",
+                "Information processing"
+            ]
+        },
+        {
+            "text": "Which country's model did the Republic of Uzbekistan use in developing and implementing the Electronic Government system?",
+            "options": [
+                "#South Korea",
+                "USA",
+                "Great Britain",
+                "Japan"
+            ]
+        },
+        {
+            "text": "Based on the territorial location of subscriber systems, networks are divided into:",
+            "options": [
+                "#Global, regional, local,",
+                "Peer-to-peer , multi-peer",
+                "Low, medium and high speed",
+                "Global and local"
+            ]
+        },
+        {
+            "text": "A set of commands and instructions that are grouped together as a single command to automatically perform a task is:",
+            "options": [
+                "#Macro",
+                "Module",
+                "Program",
+                "Initial letter"
+            ]
+        },
+        {
+            "text": "Non-commercial (shareware) programs that can be used, as a rule, for free are:",
+            "options": [
+                "#Shareware",
+                "Freeware",
+                "OEM programs",
+                "Utility programs"
+            ]
+        },
+        {
+            "text": "Providing the client with the ability to manage a bank account via the Internet based on electronic payment systems:",
+            "options": [
+                "#Internet banking",
+                "Internet trading",
+                "Internet insurance",
+                "Internet marketing"
+            ]
+        },
+        {
+            "text": "A public cloud designed for large groups of users, the infrastructure of which is built and maintained by a cloud service provider.",
+            "options": [
+                "#Public cloud",
+                "Private cloud",
+                "Hybrid cloud",
+                "Simple cloud"
+            ]
+        },
+        {
+            "text": "An information system is understood as:",
+            "options": [
+                "#An interconnected set of tools, methods and personnel used to store, process and issue information in the interests of achieving a given goal",
+                "A set of information functioning in an economic entity",
+                "System of information sources and data collection",
+                "A set of means and methods for processing information"
+            ]
+        },
+        {
+            "text": "The software of an information system (IS) refers to:",
+            "options": [
+                "#A set of software tools with documentation necessary to achieve the goals and objectives of the IS, as well as to ensure the normal functioning of the hardware",
+                "Complexes of system and special programs",
+                "Complex of application programs",
+                "Software documentation required to implement the system functions"
+            ]
+        },
+        {
+            "text": "The hardware of an information system (IS) refers to:",
+            "options": [
+                "#A set of technical means for processing data in the IS, along with corresponding documentation for these means",
+                "A set of software tools",
+                "An interconnected set of data processing devices",
+                "Staff"
+            ]
+        },
+        {
+            "text": "When moving or copying within a spreadsheet, absolute references:",
+            "options": [
+                "#Don't change",
+                "Are transformed regardless of the new position of the formula",
+                "Are transformed depending on the new position of the formula",
+                "Are transformed depending on the length of the formula"
+            ]
+        },
+        {
+            "text": "When moving or copying within a spreadsheet, relative references:",
+            "options": [
+                "#Are transformed depending on the new position of the formula",
+                "Do not change",
+                "Are transformed regardless of the new position of the formula",
+                "Are transformed depending on the length of the formula"
+            ]
+        },
+        {
+            "text": "A printer is:",
+            "options": [
+                "#Device for outputting information onto paper",
+                "A device for long-term storage of information",
+                "A device for recording information on a magnetic disk",
+                "CD-ROM Reader"
+            ]
+        },
+        {
+            "text": "Power Program Point is",
+            "options": [
+                "#Graphic editor for preparing presentations and slide films",
+                "Spreadsheet processor for processing multifaceted statements and tables",
+                "A graphic editor that allows you to create complex drawings",
+                "A text editor that allows you to create and work with text documents and graphics"
+            ]
+        },
+        {
+            "text": "Software implementation of the solution to the problem on a computer is:",
+            "options": [
+                "Application",
+                "Software",
+                "#Program",
+                "Algorithm"
+            ]
+        },
+        {
+            "text": "Promotion of goods and services through online services is",
+            "options": [
+                "#Internet marketing",
+                "Internet insurance",
+                "Internet trading",
+                "Internet banking"
+            ]
+        },
+        {
+            "text": "The protocol is:",
+            "options": [
+                "#Rules for organizing data transmission in the network",
+                "Data packet",
+                "Rules for storing data on the network",
+                "Structuring data on the network"
+            ]
+        },
+        {
+            "text": "The process of confirming transactions and including them in a global list – blockchain – is",
+            "options": [
+                "#Mining",
+                "Consensus mechanism",
+                "Authentication",
+                "Authorization"
+            ]
+        },
+        {
+            "text": "Development of the information system over time",
+            "options": [
+                "#Ensures the dynamism of IT, allowing for modernization, modification, and changes in structure, etc.",
+                "Consists in increasing the efficiency of production through the introduction of modern computing technology, distributed databases, and various computer networks",
+                "Involves organizing the relationship between information technology and management objects, external enterprises, and organizations",
+                "Means that information technology is an integrated system capable of solving problems that are not inherent to any of its components"
+            ]
+        },
+        {
+            "text": "A distributed database in which the storage devices are not connected to a common server is:",
+            "options": [
+                "#Blockchain",
+                "Database",
+                "Knowledge Base",
+                "Data warehouses"
+            ]
+        },
+        {
+            "text": "Since what year has Uzbekistan's Single Portal of Interactive State Services been operational?",
+            "options": [
+                "#2013",
+                "2011",
+                "2009",
+                "2015"
+            ]
+        },
+        {
+            "text": "Which Word tool can I use to quickly highlight text using special effects?",
+            "options": [
+                "#WordArt",
+                "SmartArt",
+                "Macro",
+                "Initial letters"
+            ]
+        },
+        {
+            "text": "Which Word tool allows you to quickly and easily create visual representations of information in the form of charts, diagrams, and pictures?",
+            "options": [
+                "#SmartArt",
+                "WordArt",
+                "Macro",
+                "Initial letters"
+            ]
+        },
+        {
+            "text": "Which EXCEL program tool can be used to obtain the arithmetic mean?",
+            "options": [
+                "#Function",
+                "Sorting",
+                "Filtration",
+                "Autosum"
+            ]
+        },
+        {
+            "text": "Server is:",
+            "options": [
+                "#One or more powerful computers to serve the network",
+                "High performance computer",
+                "Bootloader Keeper",
+                "Multimedia computer with modem."
+            ]
+        },
+        {
+            "text": "The system of organizational and legal measures and technical means aimed at ensuring the activities of state bodies in providing public services to individuals and legal entities through the use of information and communication technologies is",
+            "options": [
+                "#Electronic government",
+                "Electronic document management",
+                "Electronic government",
+                "Information system of the Cabinet of Ministers of the Republic of Uzbekistan"
+            ]
+        },
+        {
+            "text": "A database management system is:",
+            "options": [
+                "#A software system that supports data input and manipulation in database files",
+                "A set of programs that ensures the operation of all hardware devices of a computer and user access to them",
+                "Application program for processing texts and various documents",
+                "An operating system shell that allows you to work with files more comfortably"
+            ]
+        },
+        {
+            "text": "Scanner is",
+            "options": [
+                "#An input device that translates documents into digital information that a computer can understand",
+                "Standard device for inputting numerical and text information",
+                "Audio input device",
+                "Device for visual reproduction of symbolic and graphic information"
+            ]
+        },
+        {
+            "text": "The presentation slide is:",
+            "options": [
+                "#A single frame that can include a title, text, graphics, diagrams, etc.",
+                "Printed in compact form two, four or six slides on one page",
+                "A document containing only slide titles and body text without graphics or design",
+                "A set of slides and special effects accompanying their display on the screen"
+            ]
+        },
+        {
+            "text": "Information technology tools are",
+            "options": [
+                "#Technical, software, information and other means through which information technology is implemented in an economic entity",
+                "Means of execution and a set of technological solutions used as a basis for constructing a certain range of application programs",
+                "A system of methods, algorithms, software and hardware for input, processing and displaying graphic information, as well as for converting data into graphic form",
+                "System of methods, algorithms, software and hardware"
+            ]
+        },
+        {
+            "text": "Spreadsheet rows:",
+            "options": [
+                "#Are numbered",
+                "Are named arbitrarily by the user",
+                "Are designated by the letters of the Russian alphabet A... Ya",
+                "Are designated by letters of the Latin alphabet"
+            ]
+        },
+        {
+            "text": "The table in the databases is intended:",
+            "options": [
+                "#For storing database data",
+                "For selection and processing of database data",
+                "To enter database data and view it",
+                "To automatically execute a group of commands"
+            ]
+        },
+        {
+            "text": "A data processing technology in which computer resources and capacities are provided to the user as an Internet service is",
+            "options": [
+                "#Cloud technology",
+                "Blockchain technology",
+                "Internet technology",
+                "Big data processing technology"
+            ]
+        },
+        {
+            "text": "Indicate the complete set of components included in an information system:",
+            "options": [
+                "#Hardware and software, telecommunications, databases and data storage, human resources, procedures",
+                "Methods and models for solving control problems",
+                "Complex of technical and software tools",
+                "Methods of data organization, instructions for personnel"
+            ]
+        },
+        {
+            "text": "Indicate the correct format for a web resource address:",
+            "options": [
+                "#http://www.gov.uz",
+                "www:/http.gov.uz",
+                "isoft@gov.uz​​​​",
+                "http @ www.gov.uz"
+            ]
+        },
+        {
+            "text": "Input devices:",
+            "options": [
+                "#Keyboard, mouse, touch screen, optical scanner, light pen, microphone",
+                "Printer, speakers, monitor",
+                "Processor, speakers, microphone",
+                "Printer, monitor, scanner"
+            ]
+        },
+        {
+            "text": "The device for outputting text information is:",
+            "options": [
+                "#Display screen",
+                "Keyboard",
+                "Drive",
+                "Mouse"
+            ]
+        },
+        {
+            "text": "Clarify the concept of a database:",
+            "options": [
+                "#A named collection of data reflecting the state of objects and their relationships within a specific subject area",
+                "Information in computer or non-computer form",
+                "Source of information services",
+                "The totality of data existing in libraries and archives"
+            ]
+        },
+        {
+            "text": "Economic activities in which the key factor of production is digital data , processing large volumes of information is",
+            "options": [
+                "#Digital Economy",
+                "Electronic manufacturing",
+                "Innovative economy",
+                "Information economy"
+            ]
+        },
+        {
+            "text": "The purpose of the information system is:",
+            "options": [
+                "#Fully and timely meet the information needs of end users",
+                "Providing information to support decisions",
+                "Presentation of information prepared for decision making",
+                "Presenting information at maximum speed"
+            ]
+        },
+        {
+            "text": "In an information system, the element responsible for outputting information is:",
+            "options": [
+                "#Output",
+                "Feedback",
+                "Entrance",
+                "Process"
+            ]
+        },
+        {
+            "text": "In an information system, the element responsible for information processing is:",
+            "options": [
+                "#Process",
+                "Feedback",
+                "Entrance",
+                "Exit"
+            ]
+        },
+        {
+            "text": "In an information system, the element responsible for receiving external information is:",
+            "options": [
+                "#Input",
+                "Process",
+                "Feedback",
+                "Exit"
+            ]
+        },
+        {
+            "text": "What is not included in the functions of a database management system?",
+            "options": [
+                "#Ensuring local connectivity",
+                "Organization of information storage",
+                "Ensuring data integrity",
+                "Providing information on request"
+            ]
+        },
+        {
+            "text": "What happens when you click on a table column header with your mouse in a Microsoft Excel program",
+            "options": [
+                "#The entire column is selected",
+                "Activate column",
+                "Move cursor to selected column",
+                "Selecting the visible area of a column on the screen"
+            ]
+        },
+        {
+            "text": "What happens when you click on a table row number with the mouse pointer in a Microsoft program Excel",
+            "options": [
+                "#The entire row is selected",
+                "Activation of the line",
+                "Move cursor to selected line",
+                "Selecting the visible area of a line"
+            ]
+        },
+        {
+            "text": "Esc key is pressed during a presentation (slide show) ?",
+            "options": [
+                "#Slideshow will stop",
+                "There will be a transition to the next slide.",
+                "There will be a transition to the previous slide.",
+                "There will be a transition to the last slide"
+            ]
+        },
+        {
+            "text": "What happens if you double-click on a file with the extension \"*. pptx \"?",
+            "options": [
+                "#Microsoft PowerPoint opens and loads the selected document",
+                "Microsoft program is launched Word and the selected document is loaded into it",
+                "Microsoft program is launched Excel and the selected document is loaded into it",
+                "Microsoft program is launched WordPad and the selected document is loaded into it."
+            ]
+        },
+        {
+            "text": "What happens when you double-click the left mouse button on a file with the extension \"* .doc \"",
+            "options": [
+                "#Microsoft program is launched Word and the selected document is loaded into it",
+                "Microsoft program is launched Excel and the selected document is loaded into it",
+                "Microsoft program is launched PowerPoint and the selected document is loaded into it",
+                "Microsoft program is launched WordPad and the selected document is loaded into it."
+            ]
+        },
+        {
+            "text": "What happens when you double-click the left mouse button on a file with the extension \"*. xls \"",
+            "options": [
+                "#Microsoft program is launched Excel and the selected document is loaded into it",
+                "Microsoft program is launched Word and the selected document is loaded into it",
+                "Microsoft program is launched PowerPoint and the selected document is loaded into it",
+                "Microsoft program is launched WordPad and the selected document is loaded into it."
+            ]
+        },
+        {
+            "text": "What is MS ACCESS ?",
+            "options": [
+                "#Database design and management system",
+                "Programming language",
+                "operating system",
+                "Automated system"
+            ]
+        },
+        {
+            "text": "A spreadsheet is:",
+            "options": [
+                "#Application program designed to process data structured in a table",
+                "Application program for processing code tables",
+                "A device in a personal computer that manages its resources during the processing of data in tabular form",
+                "A system program that manages the resources of a personal computer when processing tables"
+            ]
+        },
+        {
+            "text": "An electronic device that receives, stores, and processes data under a set of instructions is -",
+            "options": [
+                "#Computer",
+                "Calculator",
+                "Printer",
+                "Smartphone"
+            ]
+        },
+        {
+            "text": "The main functions of text editors are…",
+            "options": [
+                "#Text editing, text formatting, working with styles",
+                "Creating tables and performing calculations on them",
+                "Development of graphic applications",
+                "Creating databases"
+            ]
+        },
+        {
+            "text": "A text editor is:",
+            "options": [
+                "#Application software used to create and work with text documents",
+                "Application software used to create and work with tables",
+                "Application software used to automate accounting tasks",
+                "Software used to create applications"
+            ]
+        },
+        {
+            "text": "What is a computer virus?",
+            "options": [
+                "#A program that performs unauthorized actions on a computer.",
+                "Application program.",
+                "System program.",
+                "Database."
+            ]
+        },
+        {
+            "text": "The file size in the operating system is determined",
+            "options": [
+                "#In bytes",
+                "In bits",
+                "In sectors",
+                "In clusters"
+            ]
+        },
+        {
+            "text": "When an application program is running, it is stored in…",
+            "options": [
+                "#In RAM",
+                "In video memory",
+                "In the processor",
+                "On the hard drive"
+            ]
+        },
+        {
+            "text": "Antivirus programs are intented for –",
+            "options": [
+                "#Preventing virus infections and eliminating their consequences",
+                "Computer management, running programs, ensuring data protection, performing various service functions at the request of the user and programs.",
+                "Expansion of OS capabilities.",
+                "Checking the functionality of computer devices, etc."
+            ]
+        },
+        {
+            "text": "Specify the units of measurement of information in ascending order",
+            "options": [
+                "#Bit, byte, kilobyte, megabyte",
+                "Bit, byte, megabyte, kilobyte",
+                "Bit, terabyte , megabyte",
+                "Byte, bit, kilobyte, megabyte"
+            ]
+        },
+        {
+            "text": "What is the name of the internal private network of an organization or large government agency?",
+            "options": [
+                "#Intranet",
+                "Extranet",
+                "Internet",
+                "Telnet"
+            ]
+        },
+        {
+            "text": "What is the corporate network that uses Internet technology to connect all company branches, partners, and clients, containing dedicated areas accessible to external users, called?",
+            "options": [
+                "#Extranet",
+                "Intranet",
+                "Internet",
+                "Telnet"
+            ]
+        },
+        {
+            "text": "For what purposes was the Single Portal of Interactive State Services created? Choose the most complete answer.",
+            "options": [
+                "#Created to provide users with access to electronic government services",
+                "Created for the purpose of automating the exchange of data between divisions of government agencies",
+                "Created for the purpose of automating the receipt of certificates",
+                "Created to automate the filing of complaints to government agencies"
+            ]
+        },
+        {
+            "text": "What model of e-commerce implies commercial relations between legal entities, economic subjects of the market?",
+            "options": [
+                "#B2B (Business-to-Business)",
+                "B2C (Business-to-Consumer)",
+                "B2G (Business-to-Government)",
+                "C2C (Consumer-to-Consumer)"
+            ]
+        },
+        {
+            "text": "Which e-commerce model involves trading goods and services between legal entities and individuals?",
+            "options": [
+                "#B2C (Business-to-Consumer)",
+                "B2B (Business-to-Business)",
+                "B2G (Business-to-Government)",
+                "C2C (Consumer-to-Consumer)"
+            ]
+        },
+        {
+            "text": "Which e-commerce model involves transactions between individuals?",
+            "options": [
+                "#C2C (Consumer-to-Consumer)",
+                "B2C (Business-to-Consumer)",
+                "B2B (Business-to-Business)",
+                "B2G (Business-to-Government)"
+            ]
+        },
+        {
+            "text": "Which e-commerce model involves market participants such as legal entities (companies, corporations, brands) on one side and municipal authorities or government agencies on the other?",
+            "options": [
+                "#B2G (Business-to-Government)",
+                "C2C (Consumer-to-Consumer)",
+                "B2C (Business-to-Consumer)",
+                "B2B (Business-to-Business)"
+            ]
+        },
+        {
+            "text": "Which e-commerce model involves providing public information access through online services?",
+            "options": [
+                "#G2C (Government-to-Citizens)",
+                "B2G (Business-to-Government)",
+                "B2C (Business-to-Consumer)",
+                "B2B (Business-to-Business)"
+            ]
+        },
+        {
+            "text": "The ability of a digital computer or a computer-controlled robot to perform tasks typically associated with intelligent beings is known as:",
+            "options": [
+                "#Artificial Intelligence",
+                "Electronic Intelligence",
+                "Computer Intelligence",
+                "Intelligent Computer"
+            ]
+        },
+        {
+            "text": "Reactive AI is:",
+            "options": [
+                "#Programmed to provide predictable results based on input data",
+                "Learns from past experiences and accumulates knowledge based on actions or data",
+                "Can understand and remember emotions, then adjust behavior based on these emotions when interacting with people",
+                "Is aware of its own emotions and the emotions of others"
+            ]
+        },
+        {
+            "text": "Limited memory AI:",
+            "options": [
+                "#Learns from past experiences and accumulates knowledge based on actions or data",
+                "Is programmed to provide predictable results based on input data",
+                "Can understand and remember emotions, then adjust behavior based on these emotions when interacting with people",
+                "Is aware of its own emotions and the emotions of others"
+            ]
+        },
+        {
+            "text": "Theory of mind AI:",
+            "options": [
+                "#Can understand and remember emotions, then adjust behavior based on these emotions when interacting with people",
+                "Is programmed to provide predictable results based on input data",
+                "Learns from past experiences and accumulates knowledge based on actions or data",
+                "Is aware of its own emotions and the emotions of others"
+            ]
+        },
+        {
+            "text": "Self-aware AI:",
+            "options": [
+                "#Is aware of its own emotions and the emotions of others",
+                "Is programmed to provide predictable results based on input data",
+                "Learns from past experiences and accumulates knowledge based on actions or data",
+                "Can understand and remember emotions, then adjust behavior based on these emotions when interacting with people"
+            ]
+        }
+    ]
+}
