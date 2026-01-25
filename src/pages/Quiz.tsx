@@ -80,6 +80,14 @@ export default function Quiz(){
   const [showModal, setShowModal] = useState(false)
   const [currentQuestion, setCurrentQuestion] = useState(0)
 
+  // Reset progress when navigating to a different group
+  useEffect(() => {
+    setAnswers({})
+    setShowModal(false)
+    setCurrentQuestion(0)
+    setShuffleKey(Date.now())
+  }, [groupId])
+
   function select(qid:number, index:number){
     setAnswers(a => ({...a, [qid]: index}))
   }
@@ -227,23 +235,31 @@ export default function Quiz(){
                 {q.options.map((opt, i) => {
                   const isSelected = selected === i
                   const isCorrect = q.correctIndex === i
-                  const wasWrong = isSelected && !isCorrect && selected !== null
+                  const hasAnswered = typeof selected === 'number' // user has selected an answer
+                  const answeredWrong = hasAnswered && selected !== q.correctIndex // user answered the question incorrectly
+                  const wasWrong = isSelected && !isCorrect // this specific option was selected and is wrong
                   
                   let bgClass = 'bg-white dark:bg-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600 border-gray-200 dark:border-gray-600'
                   let hoverClass = 'hover:shadow-md'
                   
-                  if (selected !== null) {
+                  if (hasAnswered) {
                     hoverClass = ''
                     if (isSelected && isCorrect) {
+                      // User selected the correct answer - green
                       bgClass = 'bg-green-50 dark:bg-green-900/20 border-green-500 dark:border-green-600'
                     } else if (wasWrong) {
+                      // User selected this wrong answer - red
                       bgClass = 'bg-red-50 dark:bg-red-900/20 border-red-500 dark:border-red-600'
+                    } else if (isCorrect && answeredWrong) {
+                      // This is the correct answer, but user chose wrong - darker gray to reveal the right answer
+                      bgClass = 'bg-gray-200 dark:bg-gray-500 border-gray-500 dark:border-gray-400'
                     } else {
-                      bgClass = 'bg-white dark:bg-gray-700 border-gray-200 dark:border-gray-600'
+                      // Unselected options - lighter/more subtle
+                      bgClass = 'bg-white dark:bg-gray-800 border-gray-100 dark:border-gray-700'
                     }
                   }
 
-                  const disabled = selected != null
+                  const disabled = hasAnswered
 
                   return (
                     <button
@@ -256,14 +272,15 @@ export default function Quiz(){
                     >
                       <span className="flex-shrink-0 w-8 h-8 rounded-full border-2 flex items-center justify-center font-semibold text-sm"
                         style={{
-                          borderColor: isSelected && isCorrect ? '#10b981' : isSelected && wasWrong ? '#ef4444' : 'currentColor',
-                          backgroundColor: isSelected && isCorrect ? '#10b981' : isSelected && wasWrong ? '#ef4444' : 'transparent',
-                          color: isSelected ? 'white' : 'currentColor'
+                          borderColor: isSelected && isCorrect ? '#10b981' : wasWrong ? '#ef4444' : (isCorrect && answeredWrong) ? '#4b5563' : 'currentColor',
+                          backgroundColor: isSelected && isCorrect ? '#10b981' : wasWrong ? '#ef4444' : (isCorrect && answeredWrong) ? '#4b5563' : 'transparent',
+                          color: (isSelected || (isCorrect && answeredWrong)) ? 'white' : 'currentColor'
                         }}>
                         {String.fromCharCode(65 + i)}
                       </span>
                       <span className="flex-1 text-sm sm:text-base">{opt}</span>
                       {isSelected && isCorrect && <FiCheck className="flex-shrink-0 text-base sm:text-lg text-green-600" aria-hidden="true" />}
+                      {isCorrect && answeredWrong && <FiCheck className="flex-shrink-0 text-base sm:text-lg text-gray-600" aria-hidden="true" />}
                       {wasWrong && <FiAlertCircle className="flex-shrink-0 text-base sm:text-lg text-red-600" aria-hidden="true" />}
                     </button>
                   )
