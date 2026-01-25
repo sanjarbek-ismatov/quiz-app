@@ -17,15 +17,15 @@ export interface SubjectConfig {
 }
 
 export const SUBJECTS: SubjectConfig[] = [
-//   {
-//     id: 'academic-writing',
-//     name: 'Academic Writing',
-//     description: 'Master the essentials of academic writing and composition',
-//     icon: 'book',
-//     color: 'from-blue-500 to-cyan-500',
-//     questionsCount: 10,
-//     groupsCount: 1,
-//   },
+  {
+    id: 'academic-writing',
+    name: 'Academic Writing',
+    description: 'Master the essentials of academic writing and composition',
+    icon: 'book',
+    color: 'from-blue-500 to-cyan-500',
+    questionsCount: 200,
+    groupsCount: 8,
+  },
   {
     id: 'information-technology',
     name: 'Information Technology',

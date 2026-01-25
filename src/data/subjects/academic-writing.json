@@ -1,5 +1,5 @@
- {"academic-writing": {
-    "questions": [
+{
+  "questions": [
       {
         "text": "Akademik yozuv fani nimani oʻrgatadi?",
         "options": [
@@ -1800,5 +1800,5 @@
           "uslubiy"
         ]
       }
-    ]
-  }}
+  ]
+}
