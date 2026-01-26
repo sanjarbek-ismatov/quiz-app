@@ -61,6 +61,14 @@ export interface Translations {
   // Footer
   copyright: string
   builtFor: string
+  
+  // Disclaimer Modal
+  disclaimerTitle: string
+  disclaimerContent: string
+  disclaimerWarning: string
+  disclaimerReport: string
+  disclaimerAgree: string
+  disclaimerQuit: string
 }
 
 export const translations: Record<Language, Translations> = {
@@ -116,6 +124,13 @@ export const translations: Record<Language, Translations> = {
     
     copyright: '© 2026 Quiz Master. Built by Sanjarbek. Telegram: Sanjarbek_Ismatov.',
     builtFor: 'Built for learning excellence.',
+    
+    disclaimerTitle: 'Important Disclaimer',
+    disclaimerContent: 'Welcome to Quiz Master! Please read the following disclaimer before using this application.',
+    disclaimerWarning: 'Sanjarbek (the creator of this website) is not responsible for any inaccuracies, errors, or outdated information in the quiz questions and answers. While every effort has been made to ensure accuracy, the content may contain mistakes or may not reflect the most current information.',
+    disclaimerReport: 'If you find any mistakes, inaccuracies, or have suggestions for improvement, please report them via Telegram: @Sanjarbek_Ismatov. Your feedback helps improve the quality of this educational resource.',
+    disclaimerAgree: 'I Agree',
+    disclaimerQuit: 'Quit',
   },
   uz: {
     quizMaster: 'Quiz Master',
@@ -169,6 +184,13 @@ export const translations: Record<Language, Translations> = {
     
     copyright: '© 2026 Quiz Master. Sanjarbek tomonidan qurilgan. Telegram: Sanjarbek_Ismatov.',
     builtFor: 'Oʻqish takomillashtirishligi uchun qurilgan.',
+    
+    disclaimerTitle: 'Muhim Ogohlantirish',
+    disclaimerContent: 'Quiz Master ga xush kelibsiz! Ilovadan foydalanishdan oldin quyidagi ogohlantirishni oʻqing.',
+    disclaimerWarning: 'Sanjarbek (bu veb-saytning yaratuvchisi) viktorina savollari va javoblaridagi har qanday notoʻgʻriliklar, xatolar yoki eskirgan maʼlumotlar uchun javobgar emas. Toʻgʻrilikka erishish uchun har qanday harakat qilingan boʻlsa-da, kontentda xatolar boʻlishi yoki eng dolzarb maʼlumotlarni aks ettirmasligi mumkin.',
+    disclaimerReport: 'Agar siz har qanday xatolar, notoʻgʻriliklar topgan boʻlsangiz yoki yaxshilash uchun takliflar boʻlsa, iltimos, Telegram orqali xabar bering: @Sanjarbek_Ismatov. Sizning fikr-mulohazalaringiz ushbu taʼlim resursining sifatini yaxshilashga yordam beradi.',
+    disclaimerAgree: 'Men Roziman',
+    disclaimerQuit: 'Chiqish',
   },
   ru: {
     quizMaster: 'Quiz Master',
@@ -222,6 +244,13 @@ export const translations: Record<Language, Translations> = {
 
     copyright: '© 2026 Quiz Master. Создано Sanjarbek. Telegram: Sanjarbek_Ismatov.',
     builtFor: 'Создано для совершенства в обучении.',
+    
+    disclaimerTitle: 'Важное предупреждение',
+    disclaimerContent: 'Добро пожаловать в Quiz Master! Пожалуйста, прочитайте следующее предупреждение перед использованием этого приложения.',
+    disclaimerWarning: 'Sanjarbek (создатель этого веб-сайта) не несет ответственности за любые неточности, ошибки или устаревшую информацию в вопросах и ответах викторины. Хотя были приложены все усилия для обеспечения точности, контент может содержать ошибки или может не отражать самую актуальную информацию.',
+    disclaimerReport: 'Если вы обнаружите какие-либо ошибки, неточности или у вас есть предложения по улучшению, пожалуйста, сообщите об этом через Telegram: @Sanjarbek_Ismatov. Ваши отзывы помогают улучшить качество этого образовательного ресурса.',
+    disclaimerAgree: 'Я Согласен',
+    disclaimerQuit: 'Выход',
   },
 }
 

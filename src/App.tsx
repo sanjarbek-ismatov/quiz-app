@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Routes, Route, Link } from 'react-router-dom'
 import { FiBookOpen, FiGithub, FiGlobe, FiSun, FiMoon, FiChevronDown, FiMessageCircle } from 'react-icons/fi'
 import { useLanguage } from './contexts/LanguageContext'
@@ -7,11 +7,33 @@ import Home from './pages/Home'
 import Subject from './pages/Subject'
 import Quiz from './pages/Quiz'
 import Importer from './pages/Importer'
+import DisclaimerModal from './components/DisclaimerModal'
+
+const DISCLAIMER_AGREED_KEY = 'quiz-master-disclaimer-agreed'
 
 export default function App(){
   const { language, setLanguage, t } = useLanguage()
   const { theme, toggleTheme } = useTheme()
   const [isLanguageDropdownOpen, setIsLanguageDropdownOpen] = useState(false)
+  const [showDisclaimer, setShowDisclaimer] = useState(false)
+
+  // Check if user has agreed to disclaimer on first visit
+  useEffect(() => {
+    const hasAgreed = localStorage.getItem(DISCLAIMER_AGREED_KEY)
+    if (!hasAgreed) {
+      setShowDisclaimer(true)
+    }
+  }, [])
+
+  const handleAgree = () => {
+    localStorage.setItem(DISCLAIMER_AGREED_KEY, 'true')
+    setShowDisclaimer(false)
+  }
+
+  const handleQuit = () => {
+    // Redirect to blank page - browsers don't allow closing user-opened tabs via script
+    window.location.href = 'about:blank'
+  }
 
   return (
     <div className={`min-h-screen flex flex-col ${theme === 'dark' ? 'dark' : ''} bg-gradient-to-br from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-800`}>
@@ -116,6 +138,11 @@ export default function App(){
           <p>{t.copyright}</p>
         </div>
       </footer>
+
+      {/* Disclaimer Modal */}
+      {showDisclaimer && (
+        <DisclaimerModal onAgree={handleAgree} onQuit={handleQuit} />
+      )}
     </div>
   )
 }
