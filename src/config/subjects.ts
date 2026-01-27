@@ -41,8 +41,8 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Understand fundamental economic principles and theories',
     icon: 'award',
     color: 'from-orange-500 to-red-500',
-    questionsCount: 150,
-    groupsCount: 6,
+    questionsCount: 151,
+    groupsCount: 7,
   },
   {
     id: 'programming',
