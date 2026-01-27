@@ -3,7 +3,9 @@
  * 
  * Define all available subjects here. This is the single source of truth
  * for subject metadata. Adding a new subject is as simple as adding an
- * entry here and the corresponding questions to sample-data.json
+ * entry here and creating a corresponding JSON file in src/data/subjects/
+ * 
+ * See ADDING_SUBJECTS.md for detailed instructions.
  */
 
 export interface SubjectConfig {

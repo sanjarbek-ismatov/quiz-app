@@ -16,34 +16,35 @@ Add your new subject to the `SUBJECTS` array:
   icon: 'book',                  // Icon type: book, zap, award, globe, brain, target
   color: 'from-indigo-500 to-blue-500',  // Tailwind gradient colors
   questionsCount: 200,           // Total questions
-  groupsCount: 10,               // Number of groups (20 questions each)
+  groupsCount: 8,                // Number of groups (25 questions per group)
 }
 ```
 
-### 2. **Add Questions to `src/data/sample-data.json`**
+### 2. **Create Subject Data File**
 
-Add your subject's questions with the ID as the key:
+Create a new JSON file: `src/data/subjects/my-subject.json`
 
 ```json
 {
-  "my-subject": {
-    "questions": [
-      {
-        "text": "Question text?",
-        "options": [
-          "#Correct answer",
-          "Wrong answer 1",
-          "Wrong answer 2",
-          "Wrong answer 3"
-        ]
-      },
-      ...
-    ]
-  }
+  "questions": [
+    {
+      "text": "Question text?",
+      "options": [
+        "#Correct answer",
+        "Wrong answer 1",
+        "Wrong answer 2",
+        "Wrong answer 3"
+      ]
+    },
+    ...
+  ]
 }
 ```
 
-**Note:** Mark the correct answer with `#` prefix.
+**Note:** 
+- Mark the correct answer with `#` prefix
+- The file must be named exactly `{subject-id}.json` and placed in `src/data/subjects/`
+- Each subject file should have a `questions` array at the root level
 
 ### 3. **Done!** 🎉
 
@@ -87,24 +88,22 @@ Use any Tailwind gradient:
 }
 ```
 
-### Step 2: Add to `src/data/sample-data.json`
+### Step 2: Create `src/data/subjects/biology.json`
 
 ```json
 {
-  "biology": {
-    "questions": [
-      {
-        "text": "What is the powerhouse of the cell?",
-        "options": [
-          "#Mitochondria",
-          "Nucleus",
-          "Chloroplast",
-          "Ribosome"
-        ]
-      },
-      ...
-    ]
-  }
+  "questions": [
+    {
+      "text": "What is the powerhouse of the cell?",
+      "options": [
+        "#Mitochondria",
+        "Nucleus",
+        "Chloroplast",
+        "Ribosome"
+      ]
+    },
+    ...
+  ]
 }
 ```
 
@@ -132,8 +131,15 @@ src/
 │   └── icons.ts         ← Icon mappings
 ├── hooks/
 │   └── useSubjects.ts   ← Custom hook for accessing subjects
+├── utils/
+│   └── dataLoader.ts   ← Dynamic data loader
 └── data/
-    └── sample-data.json ← Add questions here
+    └── subjects/        ← Add question files here
+        ├── academic-writing.json
+        ├── information-technology.json
+        ├── economic-theories.json
+        ├── programming.json
+        └── my-subject.json ← Your new subject file
 ```
 
 ## Tips

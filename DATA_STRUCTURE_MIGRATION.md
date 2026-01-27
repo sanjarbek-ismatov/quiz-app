@@ -7,7 +7,7 @@ The quiz app has been refactored from a **single monolithic JSON file** to a **m
 ### Before ❌
 ```
 src/data/
-└── sample-data.json (500KB, all subjects mixed)
+└── sample-data.json (500KB, all subjects mixed - DEPRECATED)
 ```
 
 ### After ✅
@@ -93,10 +93,11 @@ quiz-app/
 │   │   └── icons.ts             ← Icon mappings (DO NOT EDIT)
 │   │
 │   ├── data/
-│   │   ├── sample-data.json     ← DEPRECATED (old file, can delete)
 │   │   └── subjects/            ← YOUR DATA GOES HERE
 │   │       ├── academic-writing.json
 │   │       ├── information-technology.json
+│   │       ├── economic-theories.json
+│   │       ├── programming.json
 │   │       └── ...
 │   │
 │   ├── utils/
@@ -114,16 +115,18 @@ quiz-app/
 - All subject metadata is in one place (`subjects.ts`)
 - Questions are loaded on-demand (faster initial load!)
 
-## Next Steps (Optional)
+## Current Subjects
 
-1. **Delete old file** (when confident new system works):
-   ```bash
-   rm src/data/sample-data.json
-   ```
+- **Academic Writing** - 200 questions, 8 groups
+- **Information Technology** - 131 questions, 6 groups  
+- **Economic Theories** - 151 questions, 7 groups
+- **Programming** - 146 questions, 6 groups
 
-2. **Add more subjects** following the pattern shown
+## Next Steps
 
-3. **Optimize images/assets** per subject if needed
+1. **Add more subjects** following the pattern shown in ADDING_SUBJECTS.md
+2. **Update question counts** as you add more questions to existing subjects
+3. **Report issues** via Telegram: @Sanjarbek_Ismatov
 
 ## FAQ
 
