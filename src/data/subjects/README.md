@@ -86,7 +86,7 @@ Edit `src/config/subjects.ts`:
   icon: 'brain',
   color: 'from-green-500 to-teal-500',
   questionsCount: 200,
-  groupsCount: 10,
+  groupsCount: 8,  // Math.ceil(200 / 25) = 8 groups
 }
 ```
 
@@ -129,7 +129,7 @@ The subject automatically appears everywhere:
 3. **Question Processing**
    - Questions are shuffled
    - Options within questions are shuffled
-   - Questions are split into groups of 20
+   - Questions are split into groups of 25
 
 4. **Rendering**
    - Questions display with full interactivity
@@ -168,10 +168,10 @@ You can further extend this by:
 
 ```
 src/data/subjects/
-├── academic-writing.json      (200 questions)
-├── information-technology.json (200 questions)
-├── economic-theories.json      (200 questions)
-├── programming.json            (200 questions)
+├── academic-writing.json      (200 questions, 8 groups)
+├── information-technology.json (131 questions, 6 groups)
+├── economic-theories.json      (151 questions, 7 groups)
+├── programming.json            (146 questions, 6 groups)
 └── README.md                   (this file)
 ```
 
