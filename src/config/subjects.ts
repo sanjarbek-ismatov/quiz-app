@@ -55,6 +55,15 @@ export const SUBJECTS: SubjectConfig[] = [
     questionsCount: 146,
     groupsCount: 6,
   },
+  {
+    id: 'history-uzbekistan',
+    name: 'History of Uzbekistan',
+    description: 'Learn the history and development of Uzbekistan',
+    icon: 'globe',
+    color: 'from-amber-500 to-orange-500',
+    questionsCount: 150,
+    groupsCount: 6,
+  },
 ]
 
 /**
