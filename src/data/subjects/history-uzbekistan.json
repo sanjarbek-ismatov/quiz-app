@@ -1,0 +1,754 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "text": "Ozbekistonda yoshlar masalalari bilan shugullanuvchi jamoat tashkiloti qanday nomlanadi? [cite: 127]",
+        "options": ["#\"Yoshlar ittifoqi\"", "Kamolot", "\"Kamalak\"", "\"Yoshlar qanoti\""]
+      },
+      {
+        "id": 2,
+        "text": "Ozbekiston Respublikasining Harakatlar strategiyasi qachon qabul qilingan? [cite: 128]",
+        "options": ["#2017 yil fevral", "2018 yil fevral", "2016 yil fevral", "2019 yil fevral"]
+      },
+      {
+        "id": 3,
+        "text": "Ozbekiston Respublikasi fuqarosi necha yoshdan Oliy Majlis deputatligiga saylanishi mumkin? [cite: 129]",
+        "options": ["#25 yoshdan boshlab", "30 yoshdan boshlab", "35 yoshdan boshlab", "21 yoshdan boshlab"]
+      },
+      {
+        "id": 4,
+        "text": "XIX asr oxiri va XX asr boshlarida Turkiston hududi uchun qaysi davlatlarning raqobat maydoniga aylandi? [cite: 130]",
+        "options": ["#Rossiya va Angliya", "Rossiya va Xitoy", "Rossiya va Afg'oniston", "Rossiya va Hindiston"]
+      },
+      {
+        "id": 5,
+        "text": "Mustaqillik yillarida Jaloliddin Manguberdi xotirasini asrab-avaylash va abadiylashtirish uchun qilingan ishlar haqiqatga muvofiq emas? [cite: 131]",
+        "options": ["#Toshkentda haykali bunyod etildi", "Jaloliddin Manguberdi ordeni tasdiqlandi", "1999 yilda buyuk sarkardaning 800 yilligi nishonlandi", "Jaloliddin Manguberdiga haykal ornatildi"]
+      },
+      {
+        "id": 6,
+        "text": "Jumlani to'ldiring: \"Kuchli davlatdan - ...\"",
+        "options": ["#\"kuchli fuqarolik jamiyati sari\"", "Kuchli davlat va fuqarolik huquqiy jamiyati sari", "\"kuchli jamiyat va bozor sari", "Kuchli davlat va xalq sari"]
+      },
+      {
+        "id": 7,
+        "text": "Ozbekiston Respublikasi Konstitutsiyasiga kora Ozbekiston xalqi nomidan kim ish yurita oladi?",
+        "options": ["#Prezident va Oliy Majlis", "Prezident va Vazirlar Mahkamasi", "Vazirlar Mahkamasi va Oliy Majlis", "Oliy Majlis"]
+      },
+      {
+        "id": 8,
+        "text": "O‘zbekistonda davlat hokimiyatining yagona manbai...",
+        "options": ["#Xalq", "Vazirlar Mahkamasi", "Senat", "Oliy Majlis"]
+      },
+      {
+        "id": 9,
+        "text": "O‘zbekiston Respublikasida barcha .... (gapni tugallang)",
+        "options": ["#Har qanday dinga eʼtiqod qilish yoki hech qaysi dinga eʼtiqod qilmaslik huquqiga ega", "har qanday dinga e'tiqod qilishga majburdir", "faqat davlat ruxsat bergan dinga e'tiqod qilish huquqiga ega", "ateist bo'lishga majbur"]
+      },
+      {
+        "id": 10,
+        "text": "“O‘zbek modeli”dagi besh tamoyilda keltirilgan islohotlarning qaysi birida evolyutsion xarakter mohiyati korsatilgan? [cite: 132]",
+        "options": ["#Bozor munosabatlariga bosqichma-bosqich o'tish", "Davlat asosiy islohotchi bolishi va bozor munosabatlariga bosqichma-bosqich otish", "Bozor munosabatlariga bosqichma-bosqich otish va asosiy islohotchi sifatida davlatning rolining ustunligi", "Jamiyat hayotining barcha jabhalarida qonun ustuvorligiga erishish"]
+      },
+      {
+        "id": 11,
+        "text": "Referendum bu...",
+        "options": ["#Davlat va jamiyat hayotidagi muhim masalani hal etish uchun umumxalq ovoz berishi", "Mahalliy vakillik organlariga xalq saylovlari", "Davlat dasturlarini umumxalq ovoz berish yoli bilan qabul qilish", "Davlat tashqi siyosati masalalarini umumiy ovoz berish yo'li bilan hal qilish"]
+      },
+      {
+        "id": 12,
+        "text": "Quyidagi huquqlardan qaysi biri shaxsiy huquq va erkinliklarga kiradi? [cite: 133]",
+        "options": ["#yashash va shaxsiy daxlsizlik huquqi", "mehnat qilish, mulkchilik va erkin kasb tanlash huquqi", "siyosiy jarayonlarda, jamiyat va davlat ishlarini boshqarishda ishtirok etish huquqi", "Mitinglarda ishtirok etish"]
+      },
+      {
+        "id": 13,
+        "text": "Muayyan ijtimoiy guruhlar yoki qatlamlar manfaatlarini ifodalovchi, hokimiyatga intiladigan ixtiyoriy siyosiy tashkilot bu...",
+        "options": ["#Siyosiy partiya", "Ijtimoiy harakat", "Prezident va Oliy Majlis", "Siyosiy uyushma"]
+      },
+      {
+        "id": 14,
+        "text": "Mahalliy o'zini o'zi boshqarish organlari ...",
+        "options": ["#Fuqarolar yigʻinlari rais (oqsoqoli) va uning maslahatchilarini besh yil muddatga saylaydi", "Hokimni besh yilga saylaydi", "Vazirlar va prezidentni besh yilga saylaydi", "Hokim tomonidan besh yil muddatga tayinlanadi"]
+      },
+      {
+        "id": 15,
+        "text": "Xiva xonligi qashon Rossiya imperiyasi tomonidan bosib olingan? [cite: 134]",
+        "options": ["#1873 yilda", "1875 yilda", "1880 yilda", "1849 yilda"]
+      },
+      {
+        "id": 16,
+        "text": "Qadimgi Baqtriya hududi qayerda joylashgan? [cite: 135]",
+        "options": ["#O’zbekistonning janubi, janubiy g’arbiy Tojikiston va Afgʻonistonning shimoli", "Shimoliy-Sharqiy Afgʻoniston, Xorazm, Qoraqalpogʻiston va Turkmaniston hududi", "Toshkent vohasi, Zarafshon vodiysi, Tojikistonning janubi, Afgʻonistonning shimoli-sharqi hududi", "Toshkent vohasi, Sirdaryo sohillari, Janubiy Qozogʻiston va Afgʻonistonning shimoli-sharqida"]
+      },
+      {
+        "id": 17,
+        "text": "Samarqand nechanchi yilda Temuriylar davlatining poytaxti deb e’lon qilingan? [cite: 136]",
+        "options": ["#1370 yilda", "1379 yilda", "1372 yilda", "1365 yilda"]
+      },
+      {
+        "id": 18,
+        "text": "XVIII asrning ikkinchi yarmida Xiva xonligida yangi hukmron sulolani vujudga keltirgan oʻzbek urug’i qaysi? [cite: 137]",
+        "options": ["#Qo'ng'irotlar", "Ming", "Mang'itlar", "qipchoqlar"]
+      },
+      {
+        "id": 19,
+        "text": "Buxoro amirligi qashon Rossiya imperiyasi tomonidan bosib olingan?",
+        "options": ["#1868 yil", "1848 yil", "1835 yil", "1846 yil"]
+      },
+      {
+        "id": 20,
+        "text": "Qoʻqon xonligiga asos solgan hukmron sulola hisoblangan oʻzbek urug’i qanday ataladi? [cite: 138]",
+        "options": ["#Minglar", "qipchoqlar", "Jaloyirlar", "Mang'itlar"]
+      },
+      {
+        "id": 21,
+        "text": "O‘zbekiston Respublikasi yangi Konstitutsiyasining 1-moddasida nima deyilgan?",
+        "options": ["#Oʻzbekiston suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlatdir", "Ozbekiston qonunlarga muvofiq iqtisodiy, demokratik, siyosiy va dunyoviy davlatdir", "Ozbekiston ijtimoiy, demokratik, siyosiy-iqtisodiy va dunyoviy, davlatdir", "Ozbekiston demokratik, siyosiy, diniy, ijtimoiy va suveren davlatdir"]
+      },
+      {
+        "id": 22,
+        "text": "Yangi tahrirdagi Konstitutsiya kora, senatorlarning umumiy soni va Prezident tomonidan tayinlanadigan senatorlar soni qancha? [cite: 139]",
+        "options": ["#mos ravishda 65 va 9 ta", "mos ravishda 69 va 12 ta", "mos ravishda 84 va 16 ta", "mos ravishda 70 va 15 ta"]
+      },
+      {
+        "id": 23,
+        "text": "2022-2026-yillarga moljallangan Yangi O'zbekistonni rivojlantirish strategiyasi qaysi yilda qabul qilingan? [cite: 140]",
+        "options": ["#2022 yilda", "2023 yilda", "2017 yilda", "2018 yilda"]
+      },
+      {
+        "id": 24,
+        "text": "Ozbekiston 2030 strategiyasining qaysi yonalishida har bir inson salohiyatini royobga chiqarish maqsadlari belgilangan? [cite: 141]",
+        "options": ["#Birinchi yonalishida", "Beshinchi yonalishida", "Ikkinchi yonalishida", "Uchinchi yonalishida"]
+      },
+      {
+        "id": 25,
+        "text": "Ozbekiston 2030 strategiyasining qaysi ustuvor yonalishida qonun ustuvorligi masalalari oz aksini topgan? [cite: 142]",
+        "options": ["#To'rtinchi yo'nalishda", "Uchinchi yo'nalishda", "Beshinchi yo'nalishda", "Birinchi yo'nalishda"]
+      },
+      {
+        "id": 26,
+        "text": "O'zbekiston 2030 strategiyasi nechta ustuvor yonalishdan iborat? [cite: 143]",
+        "options": ["#5 ta ustuvor yo'nalishdan iborat", "4 ta ustuvor yo'nalishdan iborat", "7 ta ustuvor yoʻnalishdan iborat", "6 ta ustuvor yo'nalishdan iborat"]
+      },
+      {
+        "id": 27,
+        "text": "Prezidentning “O‘zbekiston – 2030” strategiyasi to‘g‘risidagi farmoni qachon qabul qilingan? [cite: 144]",
+        "options": ["#2023 yil 11-sentabr", "2022 yil 23 sentyabr", "2024 yil 12 avgust", "2021 yil 10 sentyabr"]
+      },
+      {
+        "id": 28,
+        "text": "1916-yil Turkistonda Rossiya mustamlakachiligiga qarshi qayerda eng yirik qo’zg’olon bo’lib o’tdi? [cite: 145]",
+        "options": ["#Jizzax qoʻzgʻoloni", "Toshkent qoʻzgʻoloni", "Buxoro qoʻzgʻoloni", "Samarqand qoʻzgʻoloni"]
+      },
+      {
+        "id": 29,
+        "text": "IX-XII asrlar Oʻrta Osiyoda tarixida qanday davr hisoblanadi? [cite: 146]",
+        "options": ["#Birinchi Uyg'onish davri", "Ikkinchi Uyg'onish davri", "Uchinchi Uyg'onish davri", "Jadidlar va ma’rifatparvarlik davri"]
+      },
+      {
+        "id": 30,
+        "text": "Sharq va G‘arb o‘rtasidagi tarixiy-madaniy aloqalarda ulkan rol oynagan Buyuk Ipak yoli nechanchi asrgacha mavjud bolgan? [cite: 147]",
+        "options": ["#XVI asrgacha", "XVIII asrgacha", "XIX asrgacha", "XX asrgacha"]
+      },
+      {
+        "id": 31,
+        "text": "Xumo qushi qanday ramzni ifodalaydi ... ? [cite: 148]",
+        "options": ["#Baxt va boylik ramzi", "Baxt, g'alaba va kuch ramzi", "Baxt va unumdorlik ramzi", "Kuch va g'alaba ramzi"]
+      },
+      {
+        "id": 32,
+        "text": "\"Islom\" so'zi nimani anglatadi? [cite: 149]",
+        "options": ["#Boysunish", "Etiqod", "Imon", "Ogohlik"]
+      },
+      {
+        "id": 33,
+        "text": "Muhammad (s.a.v.) Paygambarning yashagan yillarini korsating?",
+        "options": ["#570-632 yillar", "632-694 yillar", "470-529 yillar", "575-634 yillar"]
+      },
+      {
+        "id": 34,
+        "text": "Musulmon olamida birinchi hijriy yil qachon boshlangan? [cite: 150]",
+        "options": ["#622 y", "640 y", "630 y", "625 y"]
+      },
+      {
+        "id": 35,
+        "text": "VIII asrning 70-80-yillarida Oʻrta Osiyoda boshlangan arablarga qarshi eng yirik qoʻzgʻolon rahbari kim edi? [cite: 151]",
+        "options": ["#Muqanna", "Mahmud Torobiy", "Rofe ibn Lays", "Mazdak"]
+      },
+      {
+        "id": 36,
+        "text": "Hadislarni jamlagan buyuk muhaddis, Al-Jome as-sahih asari muallifini aniqlang? [cite: 152]",
+        "options": ["#Imom Al-Buxoriy", "Imom at-Termiziy", "Ahmad Yassaviy", "Bahovuddin Naqshband"]
+      },
+      {
+        "id": 37,
+        "text": "Fashizmga qarshi kurashib jasorat korsatgan birinchi ozbek generalini aniqlang? [cite: 153]",
+        "options": ["#Sobir Rahimov", "Sharof Rashidov", "Zebo G'aniyeva", "Fayzulla Xojayev"]
+      },
+      {
+        "id": 38,
+        "text": "1991-yil 31-avgustda qanday tarixiy hujjat qabul qilingan? [cite: 154]",
+        "options": ["#Ozbekiston Respublikasining davlat mustaqilligi asoslari togrisidagi Qonun", "Ozbekiston Respublikasi Konstitutsiyasini qabul qilish togrisidagi qonun", "Ozbekiston Respublikasi Oliy Majlisini tasis etish togrisidagi Qonun", "Ozbekiston Respublikasining suvereniteti togrisidagi deklaratsiyani qabul qilish togrisidagi qonun."]
+      },
+      {
+        "id": 39,
+        "text": "Ozbekiston Respublikasi Oliy talim tizimini 2030-yilgacha rivojlantirish konsepsiyasi qachon tasdiqlangan? [cite: 156]",
+        "options": ["#2019-yil 8-oktabr", "1997 yil 29 may", "2021 yil 25 oktyabr", "2023 yil 30 aprel"]
+      },
+      {
+        "id": 40,
+        "text": "Ozbekistonda qancha diniy konfessiya faoliyat yuritmoqda? [cite: 157]",
+        "options": ["#16", "18", "20", "19"]
+      },
+      {
+        "id": 41,
+        "text": "Jamiyatimiz uchun oziga xos tarbiya ochogi, fuqarolarni goyaviy, mafkuraviy jihatdan birlashtiradigan oziga xos maskan bu -? [cite: 158]",
+        "options": ["#mahalla", "konstitutsiya", "universitet", "Partiya"]
+      },
+      {
+        "id": 42,
+        "text": "1996-yil yanvarda Respublika Manaviyat va marifat jamoatchilik markazi huzurida qanday xalqaro xayriya jamgarmasi tuzildi? [cite: 159]",
+        "options": ["#Oltin meros", "Qizil yarim oy", "Sen yolgiz emassan", "Navroz"]
+      },
+      {
+        "id": 43,
+        "text": "Imom Buxoriy xalqaro jamgarmasi qachon tashkil etildi? [cite: 160]",
+        "options": ["#1998 yil", "2005 yil", "2024 yil", "1990 yil"]
+      },
+      {
+        "id": 44,
+        "text": "Qayta qurish siyosati qachon boshlangan?",
+        "options": ["#1985-yil", "1982-yil", "1988-yil", "1981-yil"]
+      },
+      {
+        "id": 45,
+        "text": "Qaysi davlatda mahalla yettiligi tizimi joriy etilgan? [cite: 161]",
+        "options": ["#Ozbekiston", "Rossiya", "Ispaniya", "Angliya"]
+      },
+      {
+        "id": 46,
+        "text": "Inson qadri uchun tamoyili qaysi konsepsiyada oz aksini topgan?",
+        "options": ["#Yangi Ozbekiston konsepsiyasida", "Milliy uygonish konsepsiyasida", "Ozbekiston 2030 strategiyasida", "Faqat tashqi siyosiy strategiyada"]
+      },
+      {
+        "id": 47,
+        "text": "Shavkat Mirziyoyev qachon ilk bor Ozbekiston Prezidenti etib saylangan edi? [cite: 162]",
+        "options": ["#2016-yil 4-dekabr", "2017-yil 1-janvar", "2015-yil 8-dekabr", "2017-yil 1-sentabr"]
+      },
+      {
+        "id": 48,
+        "text": "Ozbekiston Respublikasi Mustaqillik deklaratsiyasi necha moddadan iborat? [cite: 163]",
+        "options": ["#12 modda", "modda", "modda", "36 modda"]
+      },
+      {
+        "id": 49,
+        "text": "O’zbekiston Liberal-demokratik partiyasining nashri qaysi ?",
+        "options": ["#XXI asr gazetasi", "“O’zbekiston ovozi” gazetasi", "“Muloqot” jurnali", "“Tafakkur” jurnali"]
+      },
+      {
+        "id": 50,
+        "text": "О’zbekiston Ekologik partiyasi qachon tashkil etilgan? [cite: 164]",
+        "options": ["#2019 yil yanvarda", "yil mayda", "2001 yil martda", "1997 yil dekabrda"]
+      },
+      {
+        "id": 51,
+        "text": "Ozbekistonning eng yangi tarixi fanini organishdan maqsad nima? [cite: 165]",
+        "options": ["#talabalarga Ozbekistonning mustaqillik davri tarixi va bugungi kundagi islohotlari haqida bilim berish", "talabalarga sovet davri tarixi va mustaqillikgacha bolgan islohotlar haqida bilim berish", "XX asr sovet davri va hozirgi Ozbekiston davri tarixi boyicha talabalarga bilim berish", "talabalarga XX asr sovet davri tarixi va hozirgi Ozbekistondagi tarixy jarayonlar haqida bilim berish."]
+      },
+      {
+        "id": 52,
+        "text": "Ozbekistonning eng qadimgi shaharlaridan biri Afrosiyob qachon tashkil topgan?",
+        "options": ["#Miloddan avvalgi 87-asrlar", "Miloddan avvalgi 65-asrlar", "Miloddan avvalgi 64-asrlar", "Miloddan avvalgi 42-asrlar"]
+      },
+      {
+        "id": 53,
+        "text": "Ozbekistonda 1980-yillardagi Paxta ishi boyicha Markazdan yuborilgan tergovchilar kimlar edi? [cite: 167]",
+        "options": ["#Gdlyan va Ivanov", "Morozov va Sorokin", "Ivanov va Kisilyov", "Vladimirov va Kochnyov"]
+      },
+      {
+        "id": 54,
+        "text": "Ozbekiston Respublikasining Davlat bayrogi togrisidagi qonun qachon qabul qilingan? [cite: 168]",
+        "options": ["#1991 yil 18-noyabr", "1991 yil 20 iyun", "1990 yil 20 iyun", "1991 yil 29 dekabr"]
+      },
+      {
+        "id": 55,
+        "text": "Ozbekistonning ilk Konstitutsiyasi loyihasini ishlab chiqish goyasi qachon birinchi marta ilgari surilgan? [cite: 169]",
+        "options": ["#1990 yil iyun oyida", "1991 yil mart oyida", "1992 yil mart oyida", "1993 yil avgustda"]
+      },
+      {
+        "id": 56,
+        "text": "Ozbekistonda qachon prezidentlik boshqaruvi joriy qilindi? [cite: 170]",
+        "options": ["#1990 yil 24 mart", "1991 yil 20 may", "1991 yil 25 iyun", "1991 yil 24 aprel"]
+      },
+      {
+        "id": 57,
+        "text": "Mustaqil Ozbekiston Respublikasi tarixida birinchi Prezident saylovi qachon bolib otgan edi? [cite: 171]",
+        "options": ["#1991 yil 29 dekabr", "1990 yil 24 mart", "1991 yil 31 avgust", "1992 yil 2 mart"]
+      },
+      {
+        "id": 58,
+        "text": "O'zbekiston Respublikasi nechta davlat bilan chegaradosh? [cite: 172]",
+        "options": ["#5 та", "4 та", "6 та", "7 та"]
+      },
+      {
+        "id": 59,
+        "text": "O‘zbekistonning davlat mustaqilligi to‘g‘risidagi birinchi umumxalq referendumi qachon o‘tkazilgan? [cite: 173]",
+        "options": ["#1991 yil 29 dekabr", "1990 yil 24 mart", "1991 yil 31 avgust", "1992 yil 2 mart"]
+      },
+      {
+        "id": 60,
+        "text": "O‘zbek tiliga davlat tili maqomini bergan Davlat tili togrisidagi qonun qachon qabul qilingan? [cite: 174]",
+        "options": ["#1989 yil 21-oktabr", "1991 yil 18 noyabr", "1990 yil 20 iyun", "1990 yil 24 mart"]
+      },
+      {
+        "id": 61,
+        "text": "Ozbekistonda davlat hokimiyat tizimi nechta bolinish prinsipiga asoslanadi? [cite: 175]",
+        "options": ["#3", "2", "5", "4"]
+      },
+      {
+        "id": 62,
+        "text": "1992-yil 10-dekabrda Ozbekiston Respublikasining qaysi davlat ramzi qabul qilingan?",
+        "options": ["#davlat madhiyasi", "davlat gerbi", "Konstitutsiya", "davlat bayrog'i"]
+      },
+      {
+        "id": 63,
+        "text": "Ozbekiston Respublikasida milliy valyuta so‘m qachon muomalaga kiritilgan? [cite: 176]",
+        "options": ["#1994 yil 1-iyul", "1992 yil 8 dekabr", "1991 yil 18 noyabr", "1992 yil 2 iyul"]
+      },
+      {
+        "id": 64,
+        "text": "Oʻzbekiston qachon BMTga aʼzo boʻlgan? [cite: 177]",
+        "options": ["#1992 yil 2 mart", "1991 yil 18 noyabr", "1992 yil 2 iyun", "1992 yil 8 dekabr"]
+      },
+      {
+        "id": 65,
+        "text": "Ozbekistonda qaysi davlat organining roziligi bilan qonunlarga tegishli ozgartirishlar kiritiladi? [cite: 178]",
+        "options": ["#Oliy Majlis", "Vazirlar Mahkamasi", "Ichki ishlar vazirligi", "Respublika prokuraturasi"]
+      },
+      {
+        "id": 66,
+        "text": "Ozbekiston Xalq demokratik partiyasi qachon tashkil etilgan? [cite: 179]",
+        "options": ["#1991 yil noyabr", "1992 yil fevral", "1994 yil may", "1996 yil sentyabr"]
+      },
+      {
+        "id": 67,
+        "text": "Ozbekistonda fuqarolar necha yoshdan saylash huquqiga ega? [cite: 180]",
+        "options": ["#18", "20", "22", "24"]
+      },
+      {
+        "id": 68,
+        "text": "2022-2026-yillarga moljallangan yangi Ozbekistonni rivojlantirish strategiyasi necha maqsad va ustuvor yonalishlarni oz ichiga olgan? [cite: 181]",
+        "options": ["#7 ta ustuvor yo'nalish bo'yicha 100 ta maqsad", "5 ta ustuvor yo'nalish bo'yicha 100 ta maqsad", "5 ta ustuvor yo'nalish bo'yicha 50 ta maqsad", "7 ta ustuvor yo'nalish bo'yicha 50 ta maqsad"]
+      },
+      {
+        "id": 69,
+        "text": "O'zbekiston qaysi xalqaro tashkilotga a'zo emas? [cite: 182]",
+        "options": ["#NATO", "BMT", "ShHT", "MDH"]
+      },
+      {
+        "id": 70,
+        "text": "2024 yilda Parij olimpiadsida dzyudo boyicha ayollar ortasida olimpiada chempioni kim edi? [cite: 183]",
+        "options": ["#Diyora Keldiyorova", "Dilfuza Inoyatova", "Laylo Abdiyeva", "Nilufar Raxmatova"]
+      },
+      {
+        "id": 71,
+        "text": "1989 yil may iyun oylarida Fargonada ozbeklar va qaysi millat vakillari ortasida toqnashuv sodir boldi? [cite: 184]",
+        "options": ["#Ozbeklar va mesxeti turklari ortasida", "Ozbeklar va qirgizlar ortasida", "Ozbeklar va tatarlar ortasida", "Togri javob yoq"]
+      },
+      {
+        "id": 72,
+        "text": "Taraqqiyotning Ozbek modeli asoschisi kim edi? [cite: 185]",
+        "options": ["#I. Karimov", "Sh. Rashidov", "Sh. Mirziyoyev", "A. Qodiriy"]
+      },
+      {
+        "id": 73,
+        "text": "Ozbekistonning YUNESKO bilan hamkorligining asosiy yonalishi. [cite: 186]",
+        "options": ["#ta'lim, fan va madaniyat", "sog'liqni saqlash va ekologiya", "inson huquqlarini himoya qilish", "turizm"]
+      },
+      {
+        "id": 74,
+        "text": "Shanxay hamkorlik tashkiloti qachon tashkil topgan? [cite: 187]",
+        "options": ["#2001 yilda", "1996 yilda", "1997 yilda", "2003 yilda"]
+      },
+      {
+        "id": 75,
+        "text": "ShHTning Samarqand sammiti Ozbekistonda qachon bolib otgan? [cite: 188]",
+        "options": ["#2022 yilda", "2010 yilda", "2021 yilda", "2020 yilda"]
+      },
+      {
+        "id": 76,
+        "text": "Harakatlar strategiyasining qaysi ustuvor yonalishi davlat boshqaruvi tizimini takomillashtirishdan iborat? [cite: 189]",
+        "options": ["#Davlat va jamiyat qurilishi tizimini takomillashtirishning ustuvor yonalishlari", "Ijtimoiy sohani rivojlantirish va Vazirlar Mahkamasi va Prezidentlik boshqaruvi", "Qonun ustuvorligini taminlash hamda sud-huquq tizimi va Oliy Majlisni yanada isloh qilish", "Xavfsizlik, millatlararo totuvlik va diniy bagrikenglikni taminlash, mutanosib, ozaro manfaatli va amaliy tashqi siyosat yuritish"]
+      },
+      {
+        "id": 77,
+        "text": "“Tarixiy xotirasiz kelajak yo‘q” risolasi qaysi yilda nashr etilgan?",
+        "options": ["#1998 y", "1999 y", "2000 y", "2001 y"]
+      },
+      {
+        "id": 78,
+        "text": "Nizolarni Konstitutsiyaga muvofiq tinch yo‘l bilan hal etish va boshqa davlatlarning ichki ishlariga aralashmaslik....",
+        "options": ["#Bu tamoyil Oʻzbekiston tashqi siyosatining tamoyilidir", "Bu O‘zbekiston tashqi siyosatining tamoyili emas", "Bu tamoyil O‘zbekistonning Markaziy Osiyo mintaqasidagi rolini aks ettiradi", "Bu tamoyil O’zbekistonning ichki siyosati tamoyili hisoblanadi"]
+      },
+      {
+        "id": 79,
+        "text": "Yangi O'zbekistonning Talim to'g'risidagi qonuniga ko'ra ta'limning nechta turi mavjud? [cite: 190]",
+        "options": ["#7", "5", "6", "4"]
+      },
+      {
+        "id": 80,
+        "text": "Ozbekiston Respublikasining yangi tahrirdagi Konstitutsiyasini qabul qilish boyicha referendum qachon bolib otdi? [cite: 191]",
+        "options": ["#2023-yil 30-aprel", "2023 yil 24 sentyabr", "2023 yil 8 dekabr", "2023 yil 1 yanvar"]
+      },
+      {
+        "id": 81,
+        "text": "Demokratik fuqarolik jamiyat qurishda siyosiy partiyalarning asosiy vazifasi nimalardan iborat? [cite: 192]",
+        "options": ["#Fuqarolarning manfaatlarini ifodalash va himoya qilish", "Faqat saylovlarda qatnashish", "Faqat iqtisodiy masalalarni hal etish", "Faqat davlat hokimiyatini boshqarish"]
+      },
+      {
+        "id": 82,
+        "text": "Ozbekiston Respublikasining yangi Talim togrisidagi qonuni qachon qabul qilingan? [cite: 193]",
+        "options": ["#2020-yil 23-sentyabr", "1997 yil 29 may", "2021 yil 25 oktyabr", "2023 yil 30 aprel"]
+      },
+      {
+        "id": 83,
+        "text": "Sharq taronalari ananaviy xalqaro musiqa festivali qaysi shaharda otkaziladi? [cite: 194]",
+        "options": ["#Samarqandda", "Andijonda", "Toshkentda", "Shahrisabzda"]
+      },
+      {
+        "id": 84,
+        "text": "Turkiston general-gubernatorligi qachon tashkil etilgan?",
+        "options": ["#1867 yil", "1865 yil", "1876 ​​yil", "1886 yil"]
+      },
+      {
+        "id": 85,
+        "text": "\"Fozil odamlar shahri\" asarining muallifi kim? [cite: 195]",
+        "options": ["#Abu Nasr Forobiy", "Alisher Navoiy", "Abu Ali ibn Sino", "Abu Rayhon Beruniy"]
+      },
+      {
+        "id": 86,
+        "text": "Qaysi davrda tarix fani o‘tmishni soxtalashtirdi? [cite: 196]",
+        "options": ["#Sovet davrida", "Antik davrda", "O‘rta asrlarda", "Mustaqillik davrida"]
+      },
+      {
+        "id": 87,
+        "text": "I.Usmonxo‘jayev va R.Abdullayevaning “mafkuraviy bo‘shliqni” yuzaga keltirmaslik borasidagi saʼyi-harakatlari natijasida 1986-yilga kelib, qaysi bayram bekor etildi? [cite: 197]",
+        "options": ["#Navro’z bayrami", "G‘alaba bayrami", "Hayit bayrami", "Mustaqillik bayrami"]
+      },
+      {
+        "id": 88,
+        "text": "O‘zbekistonda sud tizimi ....",
+        "options": ["#qonun chiqaruvchi va ijro etuvchi hokimiyatlardan mustaqil ravishda faoliyat yuritadi", "qonun chiqaruvchi hokimiyat va mahalliy davlat hokimiyatidan mustaqil ravishda ishlaydi", "mustaqil faoliyat yuritadi va siyosiy partiyalarga bogliqdir", "Mahalliy davlat hokimiuatidan mustaqil ravishda faoliyat yuritadi"]
+      },
+      {
+        "id": 89,
+        "text": "Ozbekiston Respublikasining Davlat mustaqilligi togrisidagi Qonun nechta moddadan iborat? [cite: 198]",
+        "options": ["#17 ta", "19 ta", "21 ta", "24 ta"]
+      },
+      {
+        "id": 90,
+        "text": "Islomda Qur'ondan keyingi turuvchi muqaddas manba bu ....",
+        "options": ["#Hadis", "Fiqh", "Ogitlar", "Hikmatlar"]
+      },
+      {
+        "id": 91,
+        "text": "Ozbekistonning qaysi shaharlarida Amir Temurga haykal ornatilgan? [cite: 199]",
+        "options": ["#Samarqand, Toshkent va Shahrisabzda", "Samrqand, Toshkent va Termizda", "Samarqand, Toshkent va Kitobda", "Samarqand, Termiz va Shahrisabzda"]
+      },
+      {
+        "id": 92,
+        "text": "Hokimiyatning bolinish tamoyili Konstitutsiya va qonunlarga muvofiq qanday organlardan tashkil topgan? [cite: 200]",
+        "options": ["#qonun chiqaruvchi, ijro hokimiyati va sud hokimiyati", "mahalliy hokimiyat, sud hokimiyati", "sud hokimiyati, qonun chiqaruvchi", "Davlat Dumasi, mahalliy hokimiyat"]
+      },
+      {
+        "id": 93,
+        "text": "Qachon umumxalq ovozi (referendumi) bilan I.Karimovning Prezidentlik vakolati 1997-yildan 2000-yilgacha uzaytirildi? [cite: 201]",
+        "options": ["#1995-yil 26-martda", "1995-yil 26-dekabrda", "1996-yil 11-martda", "1997-yil 12-yanvarda"]
+      },
+      {
+        "id": 94,
+        "text": "Parlament turli davlatlarda turlicha nomlanadi. [cite_start]Ozbekistonda u qanday nomlanadi? [cite: 202]",
+        "options": ["#Oliy majlis", "Rada", "Skupshina", "Reyxstag"]
+      },
+      {
+        "id": 95,
+        "text": "1917 yil noyabrda tashkil etilgan, milliy ozodlik goyalarini ifoda etgan milliy hukumatni toping ? [cite: 203]",
+        "options": ["#Turkiston muxtoriyati", "Shoroi ulamo", "Ittihod va taraqqiy", "Shoroi islom"]
+      },
+      {
+        "id": 96,
+        "text": "Ozbekistonda qaysi organ ijro etuvchi hokimiyatni amalga oshiradi? [cite: 204]",
+        "options": ["#Vazirlar mahkamasi", "Hokimliklar", "Oliy Majlis", "Senat"]
+      },
+      {
+        "id": 97,
+        "text": "Jahonda birinchi bor Prezidentlik boshqaruvi qayerda joriy qilingan? [cite: 205]",
+        "options": ["#AQSH", "Kanada", "Fransiya", "Yaponiya"]
+      },
+      {
+        "id": 98,
+        "text": "1989-yil 23-iyunida Ozbekiston Kompartiyasining birinchi kotibi lavozimiga kim saylangan edi? [cite: 206]",
+        "options": ["#Islom Karimov", "Shavkat Mirziyoyev", "Sharof Rashidov", "Rafiq Nishonov"]
+      },
+      {
+        "id": 99,
+        "text": "Xalq davlat idoralariga emas, balki davlat idoralari xalqimizga xizmat qilishi kerakdegan goya muallifi kim? [cite: 207]",
+        "options": ["#Shavkat Mirziyoyev", "Islom Karimov", "Sharof Rashidov", "Rafiq Nishonov"]
+      },
+      {
+        "id": 100,
+        "text": "2023-yil 30-aprelda bolib otgan umumxalq referendumi natijalariga kora..",
+        "options": ["#Yangi tahrirdagi Ozbekiston Respublikasi Konstitutsiyasi qabul qilindi", "Yangi Ozbekistonning Talim togrisidagi qonuni qabul qilindi", "Yangi Ozbekistonning Mehnat kodeksi qabul qilindi", "Yangi Ozbekistonning Siyosiy partiyalar togrisidagi qonuni qabul qilindi"]
+      },
+      {
+        "id": 101,
+        "text": "2022-2026 yillarga moljallangan yangi Ozbekistonning Taraqqiyot strategiyasining necanchi maqsadida Ozbekiston tarixini organish va targib qilishni yanada rivojlantirish belgilangan? [cite: 208]",
+        "options": ["#77- maqsadida", "75 - maqsadida", "70 - maqsadida", "65 - maqsadida"]
+      },
+      {
+        "id": 102,
+        "text": "2017-2021-yillarda Ozbekiston Respublikasini yanada rivojlantirish boyicha Harakatlar strategiyasining qaysi ustuvor yonalishida demokratik islohotlarni chuqurlashtirish va mamlakatni modernizatsiya qilishda Oliy Majlis va siyosiy partiyalarning rolini kuchaytirish belgilangan? [cite: 209]",
+        "options": ["#Davlat va jamiyat taraqqiyoti tizimini takomillashtirishning ustuvor yonalishlari", "Mamlakatda va Oliy Majlisda barqarorlikni taminlashning siyosiy rivojlanishining ustuvor yonalishlari", "Qonun ustuvorligini taminlash va sud-huquq tizimini yanada isloh qilishning ustuvor yonalishlari", "Siyosiy partiyalar faoliyatining ustuvor yonalishlari, iqtisodiyotni rivojlantirish va liberallashtirish"]
+      },
+      {
+        "id": 103,
+        "text": "Ozbekiston Liberal-Demokratik partiyasi (OzLiDeP) qachon tashkil topgan? [cite: 210]",
+        "options": ["#2003-yil", "1995-yil", "2000-yil", "1996-yil"]
+      },
+      {
+        "id": 104,
+        "text": "Ozbekiston Prezidenti Shavkat Mirziyoyev 2020-yil 23-sentabr kuni BMT Bosh Assambleyasining 75-sessiyasidagi nutqida qanday tashabbuslarni ilgari surdi? [cite: 211]",
+        "options": ["#mintaqa va dunyoda tinchlik va barqarorlikni mustahkamlash, progressiv rivojlanish, inson huquqlari va erkinliklarini taʼminlash boʻyicha tashabbuslarni", "Mintaqada izchil taraqqiyot, inson huquq va erkinliklari, barqarorlikni ta’minlash tashabbuslarini", "mintaqa va jahonda tinchlik va barqarorlikni mustahkamlash, jahonning izchil rivojlanishi tashabbuslarini", "Markaziy Osiyoda atrof-muhitni yaxshilash bo'yicha tashabbuslarni"]
+      },
+      {
+        "id": 105,
+        "text": "Javoblarning qaysi biri O'zbekiston tashqi siyosatining tamoyiliga kirmaydi? [cite: 212]",
+        "options": ["#Harbiy bloklar va ittifoqlarga qo'shilish", "Suveren tenglik", "boshqa davlatlarning ichki ishlariga aralashmaslik", "nizolarni tinch yo'l bilan hal qilish"]
+      },
+      {
+        "id": 106,
+        "text": "Otish davrida davlatning iqtisodiy islohotlardagi orni qanday? [cite: 213]",
+        "options": ["#demokratik islohotlarni chuqurlashtirish va iqtisodiyotni yanada erkinlashtirish", "davlatning iqtisodiy faoliyatga bevosita aralashuvini kuchaytirish", "iqtisodiyotni davlat tomonidan tartibga solishni rad etish va xo'jalik boshqaruvini kuchaytirish", "xo'jalik boshqaruvini mahalliy hokimiyatlarga o'tkazish va boshqaruvini kuchaytirish"]
+      },
+      {
+        "id": 107,
+        "text": "2017-2021-yillarda Ozbekistonni rivojlantirishning beshta ustuvor yonalishi boyicha Harakatlar strategiyasining tortinchi yonalishi qanday nomlanadi? [cite: 214]",
+        "options": ["#ijtimoiy sohani rivojlantirishning ustuvor yo'nalishlari", "iqtisodiyotni rivojlantirish va liberallashtirishning ustuvor yonalishlari", "davlat va jamiyat qurilishi tizimini takomillashtirishning ustuvor yo'nalishlari", "qonun ustuvorligini taminlash va sud-huquq tizimini yanada isloh qilishning ustuvor yonalishlari"]
+      },
+      {
+        "id": 108,
+        "text": "Ozbekiston quyidagi qaysi davlat bilan chegaradosh emas? [cite: 215]",
+        "options": ["#Eron", "Qirgiziston", "Afgoniston", "Turkmaniston"]
+      },
+      {
+        "id": 109,
+        "text": "Nima uchun Toshkentning Rossiya imperiyasi tomonidan bosib olinishi zarur deb hisoblangan? [cite: 216]",
+        "options": ["#Bu shahar Oʻrta Osiyoni zabt etish uchun asosiy oʻtish joyi boʻlib, Rossiyaning keyingi harbiy amaliyotlari uchun baza vazifasini oʻtaganligi sababli.", "Bu shahar Qoʻqon xonligining harbiy markazi boʻlib, agar u qoʻlga kiritilsa, barcha xonliklar harbiy jihatdan zaiflashgan boʻlar edi.", "Bu shahar Qoʻqon xonligi va Buxoro amirligi chegarasida, Xiva xonligiga olib boradigan katta yoʻl ustida joylashgan edi.", "Bu shahar Xiva xonligiga suv orqali olib boradigan qulay joyda joylashgan edi."]
+      },
+      {
+        "id": 110,
+        "text": "Ozbek modeli nechta tamoyildan iborat? [cite: 220]",
+        "options": ["#5 ta", "7 ta", "3 ta", "4 ta"]
+      },
+      {
+        "id": 111,
+        "text": "Ozbekiston-2030 strategiyasida yalpi ichki mahsulot hajmini milliard AQSH dollariga va aholi jon boshiga daromadlarni ming AQSH dollariga yetkazish belgilandi. [cite: 221]",
+        "options": ["#160/4", "200/6", "250/8", "180/5"]
+      },
+      {
+        "id": 112,
+        "text": "2023/2024 oquv yilidan boshlab umumiy orta talim muassasalari uchun tayanch maktab etib belgilandi. [cite: 222]",
+        "options": ["#Prezident maktablari va ixtisoslashtirilgan maktablar", "Kasb-hunar texnikumlari", "Nodavlat maktab muassasalari", "Litseylar"]
+      },
+      {
+        "id": 113,
+        "text": "Ozbekistonda olib borilayotgan kuchli ijtimoiy siyosatning pirovard maqsadi nimadan iborat? [cite: 223]",
+        "options": ["#bozor iqtisodiyotiga o'tish davrida aholinig zaif qatlamlarni ijtimoiy himoya qilish", "bozor iqtisodiyotiga o'tish davrida aholining barcha a'zolarining kafolatlangan ijtimoiy huquqlarini ta'minlash", "bozor iqtisodiyotiga o'tish davrida jamiyatda fuqarolar totuvligini saqlash", "bozor iqtisodiyotiga o'tish davrida milliy istiqlol mafkurasini xalq ongiga singdirish"]
+      },
+      {
+        "id": 114,
+        "text": "Qaysi huquqiy hujjatning ustuvor yonalishlaridan biri Suv resurslarini tejash vaatrof-muhitni muhofaza qilish deb nomlanadi? [cite: 224]",
+        "options": ["#Ozbekiston-2030 strategiyasi", "Yangi Ozbekiston taraqqiyot strategiyasi", "Harakatlar strategiyasi", "Ozbekiston Ekologik Kodeksi"]
+      },
+      {
+        "id": 115,
+        "text": "2024-yil 22 iyunda Toshkent shahrida ga ixtisoslashtirilgan sport maktablari faoliyati tashkil etildi. [cite: 225]",
+        "options": ["#boks va gimnastika", "Boks va futbol", "Changi va xokkey", "Golf va badminton"]
+      },
+      {
+        "id": 116,
+        "text": "Qachon Ozbekistonda Korrupsiyaga qarshi kurash togrisida Qonun qabul qilindi? [cite: 226]",
+        "options": ["#2017-yil", "2018-yil", "2019-yil", "2020-yil"]
+      },
+      {
+        "id": 117,
+        "text": "Ozbekiston Respublikasi yangi Konstitutsiyaning nechanchi moddasida davlatning ijtimoiy maqomi belgilangan ?",
+        "options": ["#1-modda", "5-modda", "11-modda", "17-modda"]
+      },
+      {
+        "id": 118,
+        "text": "1991 yilda yurtimizda qaysi allomaning 550 yilligi nishonlangan edi? [cite: 227]",
+        "options": ["#Alisher Navoiy", "Bobur", "Mirzo Ulugbek", "Al Fargoniy"]
+      },
+      {
+        "id": 119,
+        "text": "Toshkent shahridagi Turin politexnika universiteti qaysi mamlakat bilan hamkorlikda tashkil etilgan? [cite: 228]",
+        "options": ["#Italiya", "Buyuk Britaniya", "Fransiya", "AQSH"]
+      },
+      {
+        "id": 120,
+        "text": "Ozbekistonda qancha millatlar istiqomat qiladi?",
+        "options": ["#130 dan ortiq millatlar", "110 ta millatlar", "90 ta millatlar", "100 dan ortiq millatlar"]
+      },
+      {
+        "id": 121,
+        "text": "1992 yil 8 dekabrda qabul qilingan Ozbekiston Respublikasi Konstitutsiyasi necha bolimdan iborat edi ? [cite: 229]",
+        "options": ["#6 ta bolim", "10 ta bolim", "12 ta bolim", "8 ta bolim"]
+      },
+      {
+        "id": 122,
+        "text": "Movaraunnahr geografik atamasining lugaviy manosi nima? [cite: 230]",
+        "options": ["#daryoning narigi tomoni", "Qumloq yer", "Sahroning markazi", "Chegara hudud"]
+      },
+      {
+        "id": 123,
+        "text": "Tarixda Loy jangi nomi bilan mashhur bolgan 1365 yilgi jang qayerda bolib otgan? [cite: 231]",
+        "options": ["#Chinoz va Toshkent oraligida", "Chinoz va Turkiston oʻrtasida", "Chinoz va Sirdaryo oralig‘ida", "Chinoz va Jizzax o'rtasida"]
+      },
+      {
+        "id": 124,
+        "text": "Jadidlar madaniy-ma’rifiy harakatining asoschisi va tashabbuskori kim edi ? [cite: 232]",
+        "options": ["#Ismoil Gasprinskiy", "Dukchi Eshon", "Said Olimxon", "Namoz Pirimqulov"]
+      },
+      {
+        "id": 125,
+        "text": "XX asr 20-yillarida “Qoʻshchi” dehqonlar ittifoqiga kim rahbarlik qilgan? [cite: 233]",
+        "options": ["#Yo'ldosh Oxunboboev", "Fayzulla Xodjaev", "Usmon Yusupov", "Turar Risqulov"]
+      },
+      {
+        "id": 126,
+        "text": "O’zbekiston Shanxay Hamkorlik tashkiloti (SHHT)ga qachon a’zo boldi?",
+        "options": ["#2001 yil.", "1998 yil.", "2011 yil.", "2005 yil."]
+      },
+      {
+        "id": 127,
+        "text": "Ozbekiston SSR Oliy Kengashi, 1990 yil 24 martda [cite: 235]",
+        "options": ["#Prezidentlik lavozimini joriy etgan", "Ozbekiston SSR Mustaqillik Deklaratsiyasini qabul qildi", "Ozbekiston Respublikasi suvereniteti dasturini qabul qildi", "Oʻzbekiston SSR Ittifoq shartnomasini qabul qildi"]
+      },
+      {
+        "id": 128,
+        "text": "“Tanqidiy tahlil, qat’iy tartib-intizom, har bir rahbarning shaxsiy mas’uliyati har bir rahbarning kundalik me’yoriga aylanishi kerak” degan iborani kim yaratgan? [cite: 236]",
+        "options": ["#Shavkat Mirziyoyev", "Islom Karimov", "Amir Temur", "Alisher Navoiy"]
+      },
+      {
+        "id": 129,
+        "text": "Ozbekiston Respublikasini yanada rivojlantirish boyicha Harakatlar strategiyasi togrisidagi farmon qachon elon qilingan? [cite: 237]",
+        "options": ["#2017-yil 7-fevral.", "2018 yil 24 may", "2016 yil 30 iyun", "2016 yil 7 fevral"]
+      },
+      {
+        "id": 130,
+        "text": "Ozbekistonda Amir Temur yili qachon nishonlangan? [cite: 238]",
+        "options": ["#1996 yil", "1992 yil", "1998 yil", "2000 yil"]
+      },
+      {
+        "id": 131,
+        "text": "Ozbekistonda qaysi siyosiy partiya ijtimoiy adolatga erishishni asosiy maqsad qilib olgan? [cite: 239]",
+        "options": ["#Adolat sotsial-demokratik partiyasi", "Xalq demokratik partiyasi", "Liberal-demokratik partiyasi", "Milliy tiklanish partiyasi"]
+      },
+      {
+        "id": 132,
+        "text": "2007 yilda Ozbekistonda qaysi shahar Islom madaniyati poytaxti deb elon qilindi ? [cite: 240]",
+        "options": ["#Toshkent", "Samarqand", "Xiva", "Qoqon"]
+      },
+      {
+        "id": 133,
+        "text": "Norasmiy \"to'rtinchi hokimiyat\" bu ..",
+        "options": ["#ommaviy axborot vositalari", "siyosiy partiyalar", "mahalliy davlat hokimiyati organlari", "fuqarolik birlashmalari"]
+      },
+      {
+        "id": 134,
+        "text": "Qachon Ozbekiston Respublikasi Prezidentining tashabbusi bilan BMT Bosh Аssambleyasining maxsus “Maʼrifat va diniy bag‘rikenglik” rezolyutsiyasi qabul qilindi. [cite: 241]",
+        "options": ["#2018-yil", "2005 yil", "2001 yil", "2003 yil"]
+      },
+      {
+        "id": 135,
+        "text": "Konstitutsiyaning yangilanishi natijasida, bosh qomusdagi moddalar soni tadan taga, undagi normalar esa tadan taga oshdi. [cite: 242]",
+        "options": ["#128/155, 275/434", "155/135, 250/356", "127/172, 134/245", "180/192, 175/289"]
+      },
+      {
+        "id": 136,
+        "text": "Ozbekiston Respublikasining yangi tahrirdagi Konstitutsiyasi...",
+        "options": ["#6 bo'lim, 27 bob va 155 moddadan iborat", "6 bo'lim, 26 bob va 100 ta moddadan iborat", "6 bo'lim, 28 bob va 150 ta moddadan iborat", "6 bo'lim, 25 bob va 100 ta moddadan iborat"]
+      },
+      {
+        "id": 137,
+        "text": "Qonunlardagi noaniqliklar inson foydasiga hal bolishi, bu borada, Konstitutsiyada shaxsni sudning qarorisiz …soatdan ortiq muddat ushlab turish mumkin emasligi belgilandi. [cite: 243]",
+        "options": ["#48 soat", "28 soat", "37 soat", "24 soat"]
+      },
+      {
+        "id": 138,
+        "text": "Shavkat Mirziyoev “O‘zbekiston Respublikasining xalqaro reyting va indekslardagi oʼrninini yaxshilash zarurligi haqidagi fikrni qachon ilgari surilgan edi ?",
+        "options": ["#Davlatimiz rahbarining 2018-yil Oliy Majlisga yoʻllagan Murojaatnomasida", "Davlatimiz rahbarining O‘zbekiston Respublikasi Konstitusiyaslning 30 yilligi tadbirida", "Davlatimiz rahbarining BMT Bosh assambleyasining 72-sessiyasida", "Davlatimiz rahbarining BMT Bosh assambleyasining 72-sessiyasida"]
+      },
+      {
+        "id": 139,
+        "text": "Andijon viloyatining Asaka shahridagi ilk avtomobil zavodi qaysi davlat bilan hamkorlida tashkil etilgan edi ?",
+        "options": ["#Janubiy Koreya", "Xioy", "Turkiya", "Germaniya"]
+      },
+      {
+        "id": 140,
+        "text": "Ombudsman instituti ilk bor dunyoning qaysi davlatida tashkil etilgan?",
+        "options": ["#Shvetsiyada", "Daniya", "AQSh", "Finlandiya"]
+      },
+      {
+        "id": 141,
+        "text": "Qachondan boshlab, ishlayotgan pensionerlarga toliq miqdorda pensiya tolanishi joriy qilindi?",
+        "options": ["#2019-yil 1 yanvar", "2018-yil 1-sentabr", "2020-yil 1-may", "2022-yil 1-iyun"]
+      },
+      {
+        "id": 142,
+        "text": "Harakatlar strategiyasi qaysi yillarga moljallangan? [cite: 244]",
+        "options": ["#2017-2021-yillga", "2017-2019-yillarga", "2017-2020-yillga", "2017-2022-yilga"]
+      },
+      {
+        "id": 143,
+        "text": "1991-yil 29 dekabrda otkazilgan ilk president saylovlar natijalariga kora saylovchilarning necha foizi Islom Karimov nomzodini yoqlab ovoz berdi? [cite: 245]",
+        "options": ["#86 foizi", "98 foizi", "65 foizi", "80 foizi"]
+      },
+      {
+        "id": 144,
+        "text": "Harakatlar strategiyasi nechta ustuvor yonalishdan iborat? [cite: 246]",
+        "options": ["#5 ta", "3ta", "6ta", "2ta"]
+      },
+      {
+        "id": 145,
+        "text": "Yangi Konstitutsiyaning nechanchi moddalari talim tizimi va oqituvchi maqomiga bagishlanadi? [cite: 247]",
+        "options": ["#50,51,52", "49,53,54", "37,38,39", "60,61,64"]
+      },
+      {
+        "id": 146,
+        "text": "Qaysi yil Xalq bilan muloqot va inson manfaatlari yili deb elon qilingan? [cite: 248]",
+        "options": ["#2017-yil", "2010-yil", "2012-yil", "2019-yil"]
+      },
+      {
+        "id": 147,
+        "text": "Harakatlar strategiyasining qaysi yonalishi Iqtisodiyotni yanada rivojlantirish va liberallashtirish deb nomlangan? [cite: 249]",
+        "options": ["#3 chi", "2 chi", "4 chi", "5 chi"]
+      },
+      {
+        "id": 148,
+        "text": "Ozbekiston Respubikasida Bosh vazirning Virtual qabulxonasi nechanchi yilda tashkil etilgan edi? [cite: 250]",
+        "options": ["#2016 yilda", "yilda", "yilda", "2019 yilda"]
+      },
+      {
+        "id": 149,
+        "text": "Qachon Oliy Kengashning navbatdan tashqari IX sessiyasida Prezident Islom Karimov ilk prezidentlik qasamyodini qabul qildi ? [cite: 251]",
+        "options": ["#1992 yil 4 yanvarda", "1995 yil 10 yanvarda", "1992 yil 2 yanvarda", "1992 yil fevralda"]
+      },
+      {
+        "id": 150,
+        "text": "Ozbekiston Respublikasi Prezidentligiga eng songagi bor saylovlar qachon otkazildi ? [cite: 252]",
+        "options": ["#2023-yil 9 iyulda", "2023 yil 10 yanvarda", "2023 yil 2 yanvarda", "2023 yil 12 yanvarda"]
+      }
+    ]
+  }
