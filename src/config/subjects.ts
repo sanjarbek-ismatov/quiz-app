@@ -64,6 +64,15 @@ export const SUBJECTS: SubjectConfig[] = [
     questionsCount: 150,
     groupsCount: 6,
   },
+  {
+    id: 'study-of-religions',
+    name: 'Study of Religions',
+    description: 'Explore world religions, belief systems, and religious studies',
+    icon: 'brain',
+    color: 'from-indigo-500 to-violet-500',
+    questionsCount: 216,
+    groupsCount: 9,
+  },
 ]
 
 /**
