@@ -9,6 +9,7 @@ import informationTechnology from '../data/subjects/information-technology.json'
 import economicTheories from '../data/subjects/economic-theories.json'
 import programming from '../data/subjects/programming.json'
 import historyUzbekistan from '../data/subjects/history-uzbekistan.json'
+import studyOfReligions from '../data/subjects/study-of-religions.json'
 
 interface QuestionsData {
   questions: Array<{
@@ -29,6 +30,7 @@ const subjectDataMap: Record<string, QuestionsData> = {
   'economic-theories': economicTheories,
   'programming': programming,
   'history-uzbekistan': historyUzbekistan,
+  'study-of-religions': studyOfReligions,
 }
 
 /**
