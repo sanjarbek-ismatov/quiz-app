@@ -100,16 +100,7 @@ export default function App(){
               ) : (
                 <FiSun className="text-lg" aria-hidden="true" />
               )}
-            </button> <a 
-              href="https://t.me/Sanjarbek_Ismatov" 
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="hidden sm:flex items-center gap-1 text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-colors"
-              aria-label="Telegram profile"
-            >
-              <FiMessageCircle className="text-lg" />
-              Developer: Sanjarbek
-            </a><a 
+            </button> <a href="https://t.me/Sanjarbek_Ismatov" target="_blank" rel="noopener noreferrer" className="hidden sm:flex items-center gap-1 text-gray-600 dark:text-gray-400 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-colors" aria-label="Telegram profile"><FiMessageCircle className="text-lg" />{t.developer}</a><a
               href="https://github.com/sanjarbek-ismatov/quiz-app" 
               target="_blank" 
               rel="noopener noreferrer"

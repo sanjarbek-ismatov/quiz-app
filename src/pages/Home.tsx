@@ -35,7 +35,7 @@ export default function Home() {
                     </h3>
                     <p className="text-xs sm:text-sm text-gray-600 dark:text-gray-400 mt-1">{subject.description}</p>
                     <p className="text-xs text-gray-500 dark:text-gray-500 mt-2 font-medium">
-                      {subject.questionsCount} questions across {subject.groupsCount} groups
+                      {subject.questionsCount > 0 ? `${subject.questionsCount} questions across ${subject.groupsCount} groups` : "..."}
                     </p>
                   </div>
                   <div className="flex items-center gap-2 text-primary-600 dark:text-primary-400 font-medium text-xs sm:text-sm group-hover:gap-3 transition-all">
