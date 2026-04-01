@@ -1,0 +1,7 @@
+Summary of changes:
+1. Refactored Quiz project for scalability and dynamic subject loading using Vite's import.meta.glob.
+2. Decoupled quiz logic into a useQuiz hook and split Quiz.tsx into QuestionCard and ResultsModal.
+3. Implemented full localization for EN, UZ, RU.
+4. Replaced all previous subjects with a 100-question/part 'Study of Religions' series (3 parts).
+5. Updated ADDING_SUBJECTS.md and Importer.tsx to reflect the new data structure requirements.
+6. Fixed icon availability issues (FiBrain -> FiActivity).
