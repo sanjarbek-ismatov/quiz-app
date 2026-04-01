@@ -58,10 +58,14 @@ export async function loadSubjectData(subjectId: string): Promise<QuestionsData 
           return stripCitationTags(text);
         });
 
+        const n = options.length
+        const safeIndex =
+          n > 0 ? Math.min(Math.max(0, correctIndex), n - 1) : 0
+
         return {
           text: stripCitationTags(q.text || ''),
           options,
-          correctIndex
+          correctIndex: safeIndex
         };
       }),
     }

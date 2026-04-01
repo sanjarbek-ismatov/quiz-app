@@ -54,7 +54,9 @@ export function useQuiz(subjectId: string | undefined, groupId: string | undefin
       }))
 
       const shuffledOpts = shuffleArray(optsWithOrig)
-      const newCorrectIndex = shuffledOpts.findIndex((o: OptWithOrig) => o.origIndex === q.correctIndex)
+      const lastIdx = Math.max(0, (q.options?.length ?? 1) - 1)
+      const origCorrect = Math.min(Math.max(0, q.correctIndex), lastIdx)
+      const newCorrectIndex = shuffledOpts.findIndex((o: OptWithOrig) => o.origIndex === origCorrect)
 
       return {
         id: start + idx + 1,
