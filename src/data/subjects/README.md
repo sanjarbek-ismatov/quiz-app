@@ -35,8 +35,6 @@ Defines all subject metadata (single source of truth):
   description: 'Subject description',
   icon: 'book',
   color: 'from-blue-500 to-cyan-500',
-  questionsCount: 100,
-  groupsCount: 4,
 }
 ```
 
@@ -133,26 +131,11 @@ The subject automatically appears everywhere:
    - User can answer and see results
    - Progress tracking works normally
 
-## File Size Comparison
-
-**After (Modular):**
-- study-of-religions-part1.json: ~35KB
-- study-of-religions-part2.json: ~35KB
-- study-of-religions-part3.json: ~35KB
-- Total when all loaded: same, but loaded on-demand
-
-## Error Handling
-
-If a subject file is missing or fails to load:
-- User sees: "No questions found for this subject"
-- A "Back to Subjects" button is provided
-- The app doesn't crash
-
 ## Current Subjects
 
 - **Study of Religions (part 1)** - 100 questions, 4 groups
 - **Study of Religions (part 2)** - 100 questions, 4 groups
-- **Study of Religions (part 3)** - 100 questions, 4 groups
+- **Study of Religions (part 3)** - 137 questions, 6 groups
 
 ## Next Steps
 
@@ -166,7 +149,7 @@ If a subject file is missing or fails to load:
 src/data/subjects/
 ├── study-of-religions-part1.json      (100 questions, 4 groups)
 ├── study-of-religions-part2.json      (100 questions, 4 groups)
-├── study-of-religions-part3.json      (100 questions, 4 groups)
+├── study-of-religions-part3.json      (137 questions, 6 groups)
 └── README.md                   (this file)
 ```
 

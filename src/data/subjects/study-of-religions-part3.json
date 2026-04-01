@@ -3,502 +3,1372 @@
     {
       "id": 201,
       "text": "What is the primary characteristic of missionary activity?",
-      "options": ["#Disseminating a specific faith among people of other beliefs", "Studying various religions scientifically", "Engaging only in charitable work", "Focusing on political reforms"]
+      "options": [
+        "#Disseminating a specific faith among people of other beliefs",
+        "Studying various religions scientifically",
+        "Engaging only in charitable work",
+        "Focusing on political reforms"
+      ]
     },
     {
       "id": 202,
       "text": "The term 'proselytism' refers to:",
-      "options": ["#Coercive or manipulative efforts to convert someone to another religion", "A peaceful dialogue between different faiths", "A scientific study of religious texts", "The practice of seasonal religious rituals"]
+      "options": [
+        "#Coercive or manipulative efforts to convert someone to another religion",
+        "A peaceful dialogue between different faiths",
+        "A scientific study of religious texts",
+        "The practice of seasonal religious rituals"
+      ]
     },
     {
       "id": 203,
       "text": "In the Republic of Uzbekistan, missionary and proselytizing activities are:",
-      "options": ["#Prohibited by law", "Encouraged for cultural diversity", "Allowed only for world religions", "Considered a mandatory civic duty"]
+      "options": [
+        "#Prohibited by law",
+        "Encouraged for cultural diversity",
+        "Allowed only for world religions",
+        "Considered a mandatory civic duty"
+      ]
     },
     {
       "id": 204,
       "text": "What is the main goal of the Center for Islamic Civilization in Uzbekistan?",
-      "options": ["#Preserving and studying the rich Islamic heritage of the region", "Establishing a state religious ideology", "Training military personnel for religious defense", "Conducting only international trade negotiations"]
+      "options": [
+        "#Preserving and studying the rich Islamic heritage of the region",
+        "Establishing a state religious ideology",
+        "Training military personnel for religious defense",
+        "Conducting only international trade negotiations"
+      ]
     },
     {
       "id": 205,
       "text": "Who is the author of the famous work 'The Canon of Medicine'?",
-      "options": ["#Abu Ali ibn Sina", "Abu Rayhan al-Biruni", "Al-Khwarizmi", "Imam al-Bukhari"]
+      "options": [
+        "#Abu Ali ibn Sina",
+        "Abu Rayhan al-Biruni",
+        "Al-Khwarizmi",
+        "Imam al-Bukhari"
+      ]
     },
     {
       "id": 206,
       "text": "Which scholar is known as the 'Teacher of the East' (Muallim al-Thani)?",
-      "options": ["#Abu Nasr al-Farabi", "Imam al-Maturidi", "Ahmad al-Fergani", "Ibn Battuta"]
+      "options": [
+        "#Abu Nasr al-Farabi",
+        "Imam al-Maturidi",
+        "Ahmad al-Fergani",
+        "Ibn Battuta"
+      ]
     },
     {
       "id": 207,
       "text": "The school of Maturidiyyah focuses on:",
-      "options": ["#Rational and traditional harmony in Islamic theology", "Only the literal interpretation of texts", "Political governance of the caliphate", "The rejection of logic in faith matters"]
+      "options": [
+        "#Rational and traditional harmony in Islamic theology",
+        "Only the literal interpretation of texts",
+        "Political governance of the caliphate",
+        "The rejection of logic in faith matters"
+      ]
     },
     {
       "id": 208,
       "text": "Where is the tomb of Imam al-Bukhari located?",
-      "options": ["#Near Samarkand", "In Bukhara city center", "In Tashkent", "In Termez"]
+      "options": [
+        "#Near Samarkand",
+        "In Bukhara city center",
+        "In Tashkent",
+        "In Termez"
+      ]
     },
     {
       "id": 210,
       "text": "Religious fanaticism is characterized by:",
-      "options": ["#Extreme intolerance toward other beliefs", "Deep respect for all human values", "A scientific approach to religion", "Active participation in interfaith dialogue"]
+      "options": [
+        "#Extreme intolerance toward other beliefs",
+        "Deep respect for all human values",
+        "A scientific approach to religion",
+        "Active participation in interfaith dialogue"
+      ]
     },
     {
       "id": 209,
       "text": "What does the term 'Halal' mean in the context of economics and food?",
-      "options": ["#Permissible and lawful", "Forbidden and harmful", "Cheap and accessible", "Imported from abroad"]
+      "options": [
+        "#Permissible and lawful",
+        "Forbidden and harmful",
+        "Cheap and accessible",
+        "Imported from abroad"
+      ]
     },
     {
       "id": 211,
       "text": "Secularization is a process where:",
-      "options": ["#Religious influence decreases in public and political life", "A single religion becomes the state law", "Scientific theories are replaced by myths", "The state becomes a religious monarchy"]
+      "options": [
+        "#Religious influence decreases in public and political life",
+        "A single religion becomes the state law",
+        "Scientific theories are replaced by myths",
+        "The state becomes a religious monarchy"
+      ]
     },
     {
       "id": 212,
       "text": "The principle of religious tolerance implies:",
-      "options": ["#Mutual respect and peaceful coexistence between different faiths", "The dominance of one religion over others", "The total abolition of all religious institutions", "Forcing individuals to change their beliefs"]
+      "options": [
+        "#Mutual respect and peaceful coexistence between different faiths",
+        "The dominance of one religion over others",
+        "The total abolition of all religious institutions",
+        "Forcing individuals to change their beliefs"
+      ]
     },
     {
       "id": 213,
       "text": "Which international organization awarded Tashkent the title of 'Capital of Islamic Culture' in 2007?",
-      "options": ["#ISESCO", "UNESCO", "UNICEF", "WTO"]
+      "options": [
+        "#ISESCO",
+        "UNESCO",
+        "UNICEF",
+        "WTO"
+      ]
     },
     {
       "id": 214,
       "text": "What is the purpose of the Imam Bukhari International Scientific Research Center?",
-      "options": ["#Promoting the 'Enlightened Islam' and studying hadith heritage", "Translating only modern European literature", "Coordinating military operations", "Managing the state budget"]
+      "options": [
+        "#Promoting the 'Enlightened Islam' and studying hadith heritage",
+        "Translating only modern European literature",
+        "Coordinating military operations",
+        "Managing the state budget"
+      ]
     },
     {
       "id": 215,
       "text": "In Uzbekistan, the 'Freedom of Conscience' guarantees:",
-      "options": ["#The right to profess any religion or none at all", "The obligation to follow a specific sect", "The state's right to control private thoughts", "A ban on reading religious literature"]
+      "options": [
+        "#The right to profess any religion or none at all",
+        "The obligation to follow a specific sect",
+        "The state's right to control private thoughts",
+        "A ban on reading religious literature"
+      ]
     },
     {
       "id": 216,
       "text": "What is the essence of 'Wasatiyyah' in Islam?",
-      "options": ["#Moderation and balance", "Extremism and violence", "Isolation from the world", "Total secularism"]
+      "options": [
+        "#Moderation and balance",
+        "Extremism and violence",
+        "Isolation from the world",
+        "Total secularism"
+      ]
     },
     {
       "id": 217,
       "text": "The work 'Al-Aqidah al-Maturidiyyah' was written by:",
-      "options": ["#Abu Mansur al-Maturidi", "Imam al-Ash'ari", "Ibn Taymiyyah", "Al-Ghazali"]
+      "options": [
+        "#Abu Mansur al-Maturidi",
+        "Imam al-Ash'ari",
+        "Ibn Taymiyyah",
+        "Al-Ghazali"
+      ]
     },
     {
       "id": 218,
       "text": "What is 'Waqf' in Islamic tradition?",
-      "options": ["#An endowment or trust for charitable purposes", "A type of military tax", "A mandatory business loan", "A religious celebration"]
+      "options": [
+        "#An endowment or trust for charitable purposes",
+        "A type of military tax",
+        "A mandatory business loan",
+        "A religious celebration"
+      ]
     },
     {
       "id": 219,
       "text": "Which of these is considered a 'National Religion' of the Japanese people?",
-      "options": ["#Shintoism", "Buddhism", "Sikhism", "Jainism"]
+      "options": [
+        "#Shintoism",
+        "Buddhism",
+        "Sikhism",
+        "Jainism"
+      ]
     },
     {
       "id": 220,
       "text": "Who are the 'People of the Book' (Ahl al-Kitab) according to Islamic teaching?",
-      "options": ["#Jews and Christians", "Hindus and Buddhists", "Atheists and Agnostics", "Zoroastrians and Pagans"]
+      "options": [
+        "#Jews and Christians",
+        "Hindus and Buddhists",
+        "Atheists and Agnostics",
+        "Zoroastrians and Pagans"
+      ]
     },
     {
       "id": 221,
       "text": "What is the primary role of the International Islamic Academy of Uzbekistan?",
-      "options": ["#Higher education and research in Islamic studies and social sciences", "Regulating international oil prices", "Acting as a supreme court for civil cases", "Managing local agricultural production"]
+      "options": [
+        "#Higher education and research in Islamic studies and social sciences",
+        "Regulating international oil prices",
+        "Acting as a supreme court for civil cases",
+        "Managing local agricultural production"
+      ]
     },
     {
       "id": 222,
       "text": "The concept of 'Ahimsa' (non-violence) is central to which religion?",
-      "options": ["#Jainism and Buddhism", "Zoroastrianism", "Viking Mythology", "Shamanism"]
+      "options": [
+        "#Jainism and Buddhism",
+        "Zoroastrianism",
+        "Viking Mythology",
+        "Shamanism"
+      ]
     },
     {
       "id": 223,
       "text": "Which scholar wrote the 'Sahih al-Bukhari', the most authentic collection of hadiths?",
-      "options": ["#Muhammad ibn Isma'il al-Bukhari", "Abu Dawood", "Muslim ibn al-Hajjaj", "Al-Tirmidhi"]
+      "options": [
+        "#Muhammad ibn Isma'il al-Bukhari",
+        "Abu Dawood",
+        "Muslim ibn al-Hajjaj",
+        "Al-Tirmidhi"
+      ]
     },
     {
       "id": 224,
       "text": "What is the significance of the Khazrati Imam (Hast Imam) complex in Tashkent?",
-      "options": ["#It houses the world's oldest copy of the Quran (Uthman Quran)", "It is the seat of the national parliament", "It was the first university in Central Asia", "It is the center for Olympic training"]
+      "options": [
+        "#It houses the world's oldest copy of the Quran (Uthman Quran)",
+        "It is the seat of the national parliament",
+        "It was the first university in Central Asia",
+        "It is the center for Olympic training"
+      ]
     },
     {
       "id": 225,
       "text": "In the concept of 'Religious Pluralism', religions are viewed as:",
-      "options": ["#Diverse paths that coexist within a society", "Enemies that must destroy one another", "Obsolete myths with no modern value", "Tools for government propaganda"]
+      "options": [
+        "#Diverse paths that coexist within a society",
+        "Enemies that must destroy one another",
+        "Obsolete myths with no modern value",
+        "Tools for government propaganda"
+      ]
     },
     {
       "id": 226,
       "text": "Religious extremism often uses religion to:",
-      "options": ["#Justify violence and political goals", "Encourage universal peace and love", "Build hospitals and schools for all", "Promote scientific discoveries"]
+      "options": [
+        "#Justify violence and political goals",
+        "Encourage universal peace and love",
+        "Build hospitals and schools for all",
+        "Promote scientific discoveries"
+      ]
     },
     {
       "id": 227,
       "text": "Which document protects the rights of religious minorities in Uzbekistan?",
-      "options": ["#The Constitution of the Republic of Uzbekistan", "Internal corporate bylaws", "Foreign travel guides", "Private bank contracts"]
+      "options": [
+        "#The Constitution of the Republic of Uzbekistan",
+        "Internal corporate bylaws",
+        "Foreign travel guides",
+        "Private bank contracts"
+      ]
     },
     {
       "id": 228,
       "text": "The 'Great Schism' of 1054 divided Christianity into:",
-      "options": ["#Roman Catholic and Eastern Orthodox", "Protestant and Baptist", "Lutheran and Anglican", "Mormon and Jesuit"]
+      "options": [
+        "#Roman Catholic and Eastern Orthodox",
+        "Protestant and Baptist",
+        "Lutheran and Anglican",
+        "Mormon and Jesuit"
+      ]
     },
     {
       "id": 229,
       "text": "What is the meaning of the word 'Buddhism'?",
-      "options": ["#The teachings of the Awakened One", "The path of the warrior", "Submission to the sun", "Worship of many gods"]
+      "options": [
+        "#The teachings of the Awakened One",
+        "The path of the warrior",
+        "Submission to the sun",
+        "Worship of many gods"
+      ]
     },
     {
       "id": 230,
       "text": "Which state structure monitors religious affairs in Uzbekistan?",
-      "options": ["#Committee for Religious Affairs", "Ministry of Foreign Trade", "Central Bank", "National Olympic Committee"]
+      "options": [
+        "#Committee for Religious Affairs",
+        "Ministry of Foreign Trade",
+        "Central Bank",
+        "National Olympic Committee"
+      ]
     },
     {
       "id": 231,
       "text": "What does 'Ijtihad' mean in Islamic jurisprudence?",
-      "options": ["#Independent legal reasoning to find a solution", "Blind imitation of ancient rules", "Rejecting the Quran entirely", "Translating texts into Greek"]
+      "options": [
+        "#Independent legal reasoning to find a solution",
+        "Blind imitation of ancient rules",
+        "Rejecting the Quran entirely",
+        "Translating texts into Greek"
+      ]
     },
     {
       "id": 232,
       "text": "The festival of 'Navruz' has historical roots in which religion?",
-      "options": ["#Zoroastrianism", "Buddhism", "Sikhism", "Taoism"]
+      "options": [
+        "#Zoroastrianism",
+        "Buddhism",
+        "Sikhism",
+        "Taoism"
+      ]
     },
     {
       "id": 233,
       "text": "Which term describes a person who denies the existence of God?",
-      "options": ["#Atheist", "Polytheist", "Theist", "Monotheist"]
+      "options": [
+        "#Atheist",
+        "Polytheist",
+        "Theist",
+        "Monotheist"
+      ]
     },
     {
       "id": 234,
       "text": "Who is the author of 'Tahdhib al-Akhlaq' (Refinement of Character)?",
-      "options": ["#Abu Ali ibn Miskawayh", "Ibn Rushd", "Al-Biruni", "Amir Temur"]
+      "options": [
+        "#Abu Ali ibn Miskawayh",
+        "Ibn Rushd",
+        "Al-Biruni",
+        "Amir Temur"
+      ]
     },
     {
       "id": 235,
       "text": "In Buddhism, the 'Sangha' refers to:",
-      "options": ["#The community of monks and practitioners", "The sacred golden temple", "The act of giving alms", "A specific type of dietary rule"]
+      "options": [
+        "#The community of monks and practitioners",
+        "The sacred golden temple",
+        "The act of giving alms",
+        "A specific type of dietary rule"
+      ]
     },
     {
       "id": 236,
       "text": "The 'Apostles' Creed' is a statement of faith in which religion?",
-      "options": ["#Christianity", "Islam", "Judaism", "Hinduism"]
+      "options": [
+        "#Christianity",
+        "Islam",
+        "Judaism",
+        "Hinduism"
+      ]
     },
     {
       "id": 237,
       "text": "What is the main language of the sacred texts of Hinduism?",
-      "options": ["#Sanskrit", "Pali", "Arabic", "Hebrew"]
+      "options": [
+        "#Sanskrit",
+        "Pali",
+        "Arabic",
+        "Hebrew"
+      ]
     },
     {
       "id": 238,
       "text": "The idea of 'Covenant' (an agreement between God and His people) is most central to:",
-      "options": ["#Judaism", "Animism", "Totemism", "Fetishism"]
+      "options": [
+        "#Judaism",
+        "Animism",
+        "Totemism",
+        "Fetishism"
+      ]
     },
     {
       "id": 239,
       "text": "What is the status of religious education in state schools in Uzbekistan?",
-      "options": ["#State education is secular and separate from religion", "Religious classes are mandatory for all students", "Only one religion is taught as a science", "Students must choose a sect to join"]
+      "options": [
+        "#State education is secular and separate from religion",
+        "Religious classes are mandatory for all students",
+        "Only one religion is taught as a science",
+        "Students must choose a sect to join"
+      ]
     },
     {
       "id": 240,
       "text": "Which city is considered holy by Jews, Christians, and Muslims alike?",
-      "options": ["#Jerusalem", "Rome", "Athens", "Cairo"]
+      "options": [
+        "#Jerusalem",
+        "Rome",
+        "Athens",
+        "Cairo"
+      ]
     },
     {
       "id": 241,
       "text": "What is the literal meaning of 'Islam'?",
-      "options": ["#Submission and Peace", "War and Conquest", "Knowledge and Science", "Art and Beauty"]
+      "options": [
+        "#Submission and Peace",
+        "War and Conquest",
+        "Knowledge and Science",
+        "Art and Beauty"
+      ]
     },
     {
       "id": 242,
       "text": "The 'Hajj' pilgrimage must be performed in which city?",
-      "options": ["#Mecca", "Medina", "Baghdad", "Istanbul"]
+      "options": [
+        "#Mecca",
+        "Medina",
+        "Baghdad",
+        "Istanbul"
+      ]
     },
     {
       "id": 243,
       "text": "In which century did the Protestant Reformation begin?",
-      "options": ["#16th century", "12th century", "20th century", "4th century"]
+      "options": [
+        "#16th century",
+        "12th century",
+        "20th century",
+        "4th century"
+      ]
     },
     {
       "id": 244,
       "text": "What is the 'Torah'?",
-      "options": ["#The first five books of the Hebrew Bible", "The Buddhist book of rules", "The Zoroastrian prayer book", "The modern constitution of Israel"]
+      "options": [
+        "#The first five books of the Hebrew Bible",
+        "The Buddhist book of rules",
+        "The Zoroastrian prayer book",
+        "The modern constitution of Israel"
+      ]
     },
     {
       "id": 245,
       "text": "Who initiated the translation of the Quran into the Uzbek language in the early 20th century?",
-      "options": ["#Jadid scholars", "Foreign colonialists", "Primitive tribes", "Western philosophers"]
+      "options": [
+        "#Jadid scholars",
+        "Foreign colonialists",
+        "Primitive tribes",
+        "Western philosophers"
+      ]
     },
     {
       "id": 246,
       "text": "What is the 'Synagogue'?",
-      "options": ["#A Jewish place of worship", "A Christian monastery", "A Buddhist pagoda", "A Hindu shrine"]
+      "options": [
+        "#A Jewish place of worship",
+        "A Christian monastery",
+        "A Buddhist pagoda",
+        "A Hindu shrine"
+      ]
     },
     {
       "id": 247,
       "text": "What does the term 'Diaspora' historically refer to?",
-      "options": ["#The dispersion of Jews outside of ancient Palestine", "A religious holiday in China", "The expansion of the Roman Empire", "A type of ancient clothing"]
+      "options": [
+        "#The dispersion of Jews outside of ancient Palestine",
+        "A religious holiday in China",
+        "The expansion of the Roman Empire",
+        "A type of ancient clothing"
+      ]
     },
     {
       "id": 248,
       "text": "In Christianity, 'Baptism' is considered:",
-      "options": ["#A rite of initiation and purification", "A political ceremony", "A method of medical treatment", "A form of punishment"]
+      "options": [
+        "#A rite of initiation and purification",
+        "A political ceremony",
+        "A method of medical treatment",
+        "A form of punishment"
+      ]
     },
     {
       "id": 249,
       "text": "What is the 'Guru Granth Sahib'?",
-      "options": ["#The central holy scripture of Sikhism", "A legendary king of India", "A mountain in Tibet", "A festival of lights"]
+      "options": [
+        "#The central holy scripture of Sikhism",
+        "A legendary king of India",
+        "A mountain in Tibet",
+        "A festival of lights"
+      ]
     },
     {
       "id": 250,
       "text": "Which concept describes the belief that there is no absolute truth in religion?",
-      "options": ["#Religious Relativism", "Fundamentalism", "Totalitarianism", "Dogmatism"]
+      "options": [
+        "#Religious Relativism",
+        "Fundamentalism",
+        "Totalitarianism",
+        "Dogmatism"
+      ]
     },
     {
       "id": 251,
       "text": "What is 'Sufism' often described as?",
-      "options": ["#The mystical or inner dimension of Islam", "The political structure of the caliphate", "A sect that rejects the Prophet", "A movement focused on materialism"]
+      "options": [
+        "#The mystical or inner dimension of Islam",
+        "The political structure of the caliphate",
+        "A sect that rejects the Prophet",
+        "A movement focused on materialism"
+      ]
     },
     {
       "id": 252,
       "text": "Which scholar is credited with founding the Maturidi school of theology?",
-      "options": ["#Abu Mansur al-Maturidi", "Imam al-Sharafi", "Al-Zamakhshari", "Ibn Sina"]
+      "options": [
+        "#Abu Mansur al-Maturidi",
+        "Imam al-Sharafi",
+        "Al-Zamakhshari",
+        "Ibn Sina"
+      ]
     },
     {
       "id": 253,
       "text": "The 'Avesta' consists of several parts. Which is the most ancient?",
-      "options": ["#The Gathas (hymns of Zoroaster)", "The Vendidad", "The Yasna", "The Khordeh Avesta"]
+      "options": [
+        "#The Gathas (hymns of Zoroaster)",
+        "The Vendidad",
+        "The Yasna",
+        "The Khordeh Avesta"
+      ]
     },
     {
       "id": 254,
       "text": "What is the 'Vedas'?",
-      "options": ["#Ancient sacred scriptures of Hinduism", "Books of law in ancient Rome", "The writings of Confucius", "Egyptian mythological stories"]
+      "options": [
+        "#Ancient sacred scriptures of Hinduism",
+        "Books of law in ancient Rome",
+        "The writings of Confucius",
+        "Egyptian mythological stories"
+      ]
     },
     {
       "id": 255,
       "text": "What is the 'Knesset'?",
-      "options": ["#The legislative body of Israel", "A Jewish temple", "A religious fast", "A type of sacred bread"]
+      "options": [
+        "#The legislative body of Israel",
+        "A Jewish temple",
+        "A religious fast",
+        "A type of sacred bread"
+      ]
     },
     {
       "id": 256,
       "text": "The word 'Pope' comes from the Latin 'Papa', meaning:",
-      "options": ["#Father", "Leader", "King", "God"]
+      "options": [
+        "#Father",
+        "Leader",
+        "King",
+        "God"
+      ]
     },
     {
       "id": 257,
       "text": "Which branch of Islam emphasizes the leadership of the Imams from the Prophet's family?",
-      "options": ["#Shi'a Islam", "Sunni Islam", "Kharijism", "Wahhabism"]
+      "options": [
+        "#Shi'a Islam",
+        "Sunni Islam",
+        "Kharijism",
+        "Wahhabism"
+      ]
     },
     {
       "id": 258,
       "text": "In which city is the 'Vatican City' located?",
-      "options": ["#Rome", "Paris", "London", "Madrid"]
+      "options": [
+        "#Rome",
+        "Paris",
+        "London",
+        "Madrid"
+      ]
     },
     {
       "id": 259,
       "text": "What is the 'Menorah'?",
-      "options": ["#A seven-branched candelabrum used in Judaism", "A type of Buddhist robe", "A Christian cross variation", "A mosque dome"]
+      "options": [
+        "#A seven-branched candelabrum used in Judaism",
+        "A type of Buddhist robe",
+        "A Christian cross variation",
+        "A mosque dome"
+      ]
     },
     {
       "id": 260,
       "text": "Who is the author of 'Al-Qanun fi al-Tibb'?",
-      "options": ["#Ibn Sina", "Al-Khwarizmi", "Beruni", "Ulughbek"]
+      "options": [
+        "#Ibn Sina",
+        "Al-Khwarizmi",
+        "Beruni",
+        "Ulughbek"
+      ]
     },
     {
       "id": 261,
       "text": "The concept of 'Trinity' in Christianity includes:",
-      "options": ["#The Father, the Son, and the Holy Spirit", "Jesus, Mary, and Joseph", "The Gospel, the Cross, and the Church", "Faith, Hope, and Charity"]
+      "options": [
+        "#The Father, the Son, and the Holy Spirit",
+        "Jesus, Mary, and Joseph",
+        "The Gospel, the Cross, and the Church",
+        "Faith, Hope, and Charity"
+      ]
     },
     {
       "id": 262,
       "text": "What is 'Ramadan'?",
-      "options": ["#The holy month of fasting in Islam", "A traditional wedding ceremony", "The first day of the lunar year", "A type of religious market"]
+      "options": [
+        "#The holy month of fasting in Islam",
+        "A traditional wedding ceremony",
+        "The first day of the lunar year",
+        "A type of religious market"
+      ]
     },
     {
       "id": 263,
       "text": "Which scholar is known for his work in Algebra and Mathematics?",
-      "options": ["#Al-Khwarizmi", "Ibn Sina", "Al-Farabi", "Imam al-Bukhari"]
+      "options": [
+        "#Al-Khwarizmi",
+        "Ibn Sina",
+        "Al-Farabi",
+        "Imam al-Bukhari"
+      ]
     },
     {
       "id": 264,
       "text": "What is the 'Kaaba'?",
-      "options": ["#The sacred cube-shaped building in Mecca", "A historical palace in Baghdad", "The tomb of a famous saint", "A mountain in Saudi Arabia"]
+      "options": [
+        "#The sacred cube-shaped building in Mecca",
+        "A historical palace in Baghdad",
+        "The tomb of a famous saint",
+        "A mountain in Saudi Arabia"
+      ]
     },
     {
       "id": 265,
       "text": "Which religion uses the 'Eightfold Path' as a guide for living?",
-      "options": ["#Buddhism", "Islam", "Judaism", "Zoroastrianism"]
+      "options": [
+        "#Buddhism",
+        "Islam",
+        "Judaism",
+        "Zoroastrianism"
+      ]
     },
     {
       "id": 266,
       "text": "The term 'Ecumenism' refers to:",
-      "options": ["#Promoting unity among different Christian denominations", "The study of religious architecture", "A movement to create a single world religion", "Financial management of churches"]
+      "options": [
+        "#Promoting unity among different Christian denominations",
+        "The study of religious architecture",
+        "A movement to create a single world religion",
+        "Financial management of churches"
+      ]
     },
     {
       "id": 267,
       "text": "What is the 'Talmud'?",
-      "options": ["#A collection of Jewish law and tradition", "A Buddhist book of meditation", "A Christian book of hymns", "An ancient Egyptian map"]
+      "options": [
+        "#A collection of Jewish law and tradition",
+        "A Buddhist book of meditation",
+        "A Christian book of hymns",
+        "An ancient Egyptian map"
+      ]
     },
     {
       "id": 268,
       "text": "Which religious figure is associated with the 'Sermon on the Mount'?",
-      "options": ["#Jesus Christ", "Moses", "Muhammad", "Buddha"]
+      "options": [
+        "#Jesus Christ",
+        "Moses",
+        "Muhammad",
+        "Buddha"
+      ]
     },
     {
       "id": 269,
       "text": "The concept of 'Moksha' in Hinduism refers to:",
-      "options": ["#Liberation from the cycle of rebirth", "The act of daily worship", "The collection of family wealth", "A state of physical strength"]
+      "options": [
+        "#Liberation from the cycle of rebirth",
+        "The act of daily worship",
+        "The collection of family wealth",
+        "A state of physical strength"
+      ]
     },
     {
       "id": 270,
       "text": "What is 'Samsara'?",
-      "options": ["#The cycle of birth, death, and rebirth", "A sacred river in India", "A traditional dance", "A religious dietary law"]
+      "options": [
+        "#The cycle of birth, death, and rebirth",
+        "A sacred river in India",
+        "A traditional dance",
+        "A religious dietary law"
+      ]
     },
     {
       "id": 271,
       "text": "Who wrote the 'Gulzori Ma'rifat'?",
-      "options": ["#Sufi Allahyar", "Alisher Navoi", "Babur", "Mashrab"]
+      "options": [
+        "#Sufi Allahyar",
+        "Alisher Navoi",
+        "Babur",
+        "Mashrab"
+      ]
     },
     {
       "id": 272,
       "text": "What is 'Yom Kippur'?",
-      "options": ["#The Day of Atonement in Judaism", "The Jewish New Year", "A spring harvest festival", "A celebration of a historic victory"]
+      "options": [
+        "#The Day of Atonement in Judaism",
+        "The Jewish New Year",
+        "A spring harvest festival",
+        "A celebration of a historic victory"
+      ]
     },
     {
       "id": 273,
       "text": "Which of these is a world religion?",
-      "options": ["#Christianity", "Shintoism", "Judaism", "Sikhism"]
+      "options": [
+        "#Christianity",
+        "Shintoism",
+        "Judaism",
+        "Sikhism"
+      ]
     },
     {
       "id": 274,
       "text": "The word 'Messiah' means:",
-      "options": ["#The Anointed One", "The Greatest Warrior", "The First Born", "The Wise Teacher"]
+      "options": [
+        "#The Anointed One",
+        "The Greatest Warrior",
+        "The First Born",
+        "The Wise Teacher"
+      ]
     },
     {
       "id": 275,
       "text": "Which religious organization is the most influential in the Catholic world?",
-      "options": ["#The Holy See (Vatican)", "The World Council of Churches", "The Orthodox Patriarchate", "The Baptist Union"]
+      "options": [
+        "#The Holy See (Vatican)",
+        "The World Council of Churches",
+        "The Orthodox Patriarchate",
+        "The Baptist Union"
+      ]
     },
     {
       "id": 276,
       "text": "In Islam, 'Hadith' is used to:",
-      "options": ["#Understand and implement the Quran's teachings", "Replace the Quran entirely", "Write fictional stories", "Control the weather"]
+      "options": [
+        "#Understand and implement the Quran's teachings",
+        "Replace the Quran entirely",
+        "Write fictional stories",
+        "Control the weather"
+      ]
     },
     {
       "id": 277,
       "text": "What is a 'Fatwa'?",
-      "options": ["#A legal opinion or ruling issued by an Islamic scholar", "A mandatory death sentence", "A traditional religious song", "A type of Islamic clothing"]
+      "options": [
+        "#A legal opinion or ruling issued by an Islamic scholar",
+        "A mandatory death sentence",
+        "A traditional religious song",
+        "A type of Islamic clothing"
+      ]
     },
     {
       "id": 278,
       "text": "Which empire was responsible for spreading Buddhism to Central Asia?",
-      "options": ["#Kushan Empire", "Roman Empire", "Ottoman Empire", "British Empire"]
+      "options": [
+        "#Kushan Empire",
+        "Roman Empire",
+        "Ottoman Empire",
+        "British Empire"
+      ]
     },
     {
       "id": 279,
       "text": "The term 'Secular' means:",
-      "options": ["#Not connected with religious or spiritual matters", "Highly religious and dogmatic", "Related to ancient magic", "Exclusively controlled by priests"]
+      "options": [
+        "#Not connected with religious or spiritual matters",
+        "Highly religious and dogmatic",
+        "Related to ancient magic",
+        "Exclusively controlled by priests"
+      ]
     },
     {
       "id": 280,
       "text": "Who is considered the last prophet in Islam?",
-      "options": ["#Muhammad", "Abraham", "Noah", "David"]
+      "options": [
+        "#Muhammad",
+        "Abraham",
+        "Noah",
+        "David"
+      ]
     },
     {
       "id": 281,
       "text": "What is the 'Qibla'?",
-      "options": ["#The direction of the Kaaba in Mecca", "A traditional prayer rug", "The title of a religious leader", "A fasting schedule"]
+      "options": [
+        "#The direction of the Kaaba in Mecca",
+        "A traditional prayer rug",
+        "The title of a religious leader",
+        "A fasting schedule"
+      ]
     },
     {
       "id": 282,
       "text": "The word 'Bible' comes from the Greek 'biblia', meaning:",
-      "options": ["#Books", "Truth", "Faith", "Law"]
+      "options": [
+        "#Books",
+        "Truth",
+        "Faith",
+        "Law"
+      ]
     },
     {
       "id": 283,
       "text": "Which religion has the largest number of followers globally?",
-      "options": ["#Christianity", "Islam", "Hinduism", "Buddhism"]
+      "options": [
+        "#Christianity",
+        "Islam",
+        "Hinduism",
+        "Buddhism"
+      ]
     },
     {
       "id": 284,
       "text": "What is the 'Zabur'?",
-      "options": ["#The Psalms of David", "The Gospel of Jesus", "The Torah of Moses", "The Avesta of Zoroaster"]
+      "options": [
+        "#The Psalms of David",
+        "The Gospel of Jesus",
+        "The Torah of Moses",
+        "The Avesta of Zoroaster"
+      ]
     },
     {
       "id": 285,
       "text": "The 'Golden Rule' (treating others as you wish to be treated) is found in:",
-      "options": ["#Almost all major world religions", "Only in secular law", "Exclusively in Buddhism", "Only in modern philosophy"]
+      "options": [
+        "#Almost all major world religions",
+        "Only in secular law",
+        "Exclusively in Buddhism",
+        "Only in modern philosophy"
+      ]
     },
     {
       "id": 286,
       "text": "What is the 'Iid al-Adha'?",
-      "options": ["#The Festival of Sacrifice in Islam", "The end of the fasting month", "The Prophet's birthday", "The Islamic New Year"]
+      "options": [
+        "#The Festival of Sacrifice in Islam",
+        "The end of the fasting month",
+        "The Prophet's birthday",
+        "The Islamic New Year"
+      ]
     },
     {
       "id": 287,
       "text": "Which city is the burial place of the Prophet Muhammad?",
-      "options": ["#Medina", "Mecca", "Jerusalem", "Damascus"]
+      "options": [
+        "#Medina",
+        "Mecca",
+        "Jerusalem",
+        "Damascus"
+      ]
     },
     {
       "id": 288,
       "text": "What is 'Reincarnation'?",
-      "options": ["#The belief that the soul is reborn in a new body", "The physical resurrection of the dead at the end of time", "The complete destruction of the soul after death", "The act of praying for ancestors"]
+      "options": [
+        "#The belief that the soul is reborn in a new body",
+        "The physical resurrection of the dead at the end of time",
+        "The complete destruction of the soul after death",
+        "The act of praying for ancestors"
+      ]
     },
     {
       "id": 289,
       "text": "The 'Pagoda' is a common architectural feature in:",
-      "options": ["#Buddhist temples", "Islamic mosques", "Jewish synagogues", "Christian cathedrals"]
+      "options": [
+        "#Buddhist temples",
+        "Islamic mosques",
+        "Jewish synagogues",
+        "Christian cathedrals"
+      ]
     },
     {
       "id": 290,
       "text": "What is the 'Shahada'?",
-      "options": ["#The Islamic declaration of faith", "A type of religious headscarf", "A journey to a holy place", "A charity given to the poor"]
+      "options": [
+        "#The Islamic declaration of faith",
+        "A type of religious headscarf",
+        "A journey to a holy place",
+        "A charity given to the poor"
+      ]
     },
     {
       "id": 291,
       "text": "Which language was the New Testament originally written in?",
-      "options": ["#Greek", "Latin", "Hebrew", "Aramaic"]
+      "options": [
+        "#Greek",
+        "Latin",
+        "Hebrew",
+        "Aramaic"
+      ]
     },
     {
       "id": 292,
       "text": "Who founded the 'Society of Jesus' (Jesuits)?",
-      "options": ["#Ignatius of Loyola", "Martin Luther", "John Calvin", "Saint Peter"]
+      "options": [
+        "#Ignatius of Loyola",
+        "Martin Luther",
+        "John Calvin",
+        "Saint Peter"
+      ]
     },
     {
       "id": 293,
       "text": "What is the 'Liturgy'?",
-      "options": ["#A customary public worship performed by a religious group", "A book of religious poetry", "A type of church financing", "The history of a saint's life"]
+      "options": [
+        "#A customary public worship performed by a religious group",
+        "A book of religious poetry",
+        "A type of church financing",
+        "The history of a saint's life"
+      ]
     },
     {
       "id": 294,
       "text": "What is the 'Yin and Yang' concept is most associated with:",
-      "options": ["#Taoism", "Judaism", "Islam", "Christianity"]
+      "options": [
+        "#Taoism",
+        "Judaism",
+        "Islam",
+        "Christianity"
+      ]
     },
     {
       "id": 295,
       "text": "What is the 'Minaret'?",
-      "options": ["#A tower from which the call to prayer is made", "A courtyard for washing", "The pulpit inside a mosque", "The library of a madrasa"]
+      "options": [
+        "#A tower from which the call to prayer is made",
+        "A courtyard for washing",
+        "The pulpit inside a mosque",
+        "The library of a madrasa"
+      ]
     },
     {
       "id": 296,
       "text": "Which religion's name means 'to bind' in Latin?",
-      "options": ["#Religion", "Law", "Philosophy", "History"]
+      "options": [
+        "#Religion",
+        "Law",
+        "Philosophy",
+        "History"
+      ]
     },
     {
       "id": 297,
       "text": "What is 'Polytheism'?",
-      "options": ["#The belief in many gods", "The belief in one God", "The belief that nature is God", "The rejection of all gods"]
+      "options": [
+        "#The belief in many gods",
+        "The belief in one God",
+        "The belief that nature is God",
+        "The rejection of all gods"
+      ]
     },
     {
       "id": 298,
       "text": "Which scholar wrote 'Al-Kitab al-Mukhtasar fi Hisab al-Jabr wal-Muqabala'?",
-      "options": ["#Al-Khwarizmi", "Al-Biruni", "Ibn Sina", "Ibn Battuta"]
+      "options": [
+        "#Al-Khwarizmi",
+        "Al-Biruni",
+        "Ibn Sina",
+        "Ibn Battuta"
+      ]
     },
     {
       "id": 299,
       "text": "The principle of 'Freedom of Conscience' allows a person to:",
-      "options": ["#Change their religion or have no religion", "Follow only the state-mandated religion", "Force others to join their religion", "Ignore all national laws"]
+      "options": [
+        "#Change their religion or have no religion",
+        "Follow only the state-mandated religion",
+        "Force others to join their religion",
+        "Ignore all national laws"
+      ]
     },
     {
       "id": 300,
       "text": "What is the primary objective of religious tolerance in a multi-ethnic state like Uzbekistan?",
-      "options": ["#Ensuring social stability and peace", "Eliminating all cultural differences", "Establishing a single religious party", "Controlling the private lives of citizens"]
+      "options": [
+        "#Ensuring social stability and peace",
+        "Eliminating all cultural differences",
+        "Establishing a single religious party",
+        "Controlling the private lives of citizens"
+      ]
+    },
+    {
+      "id": 301,
+      "text": "What is the primary objective of religious tolerance in a multi-ethnic state?",
+      "options": [
+        "#Ensuring social stability and peace",
+        "Eliminating cultural differences",
+        "Establishing a single religious party",
+        "Controlling private lives"
+      ]
+    },
+    {
+      "id": 302,
+      "text": "The principle of 'Enlightened Islam' promotes:",
+      "options": [
+        "#Knowledge, moderation, and peace",
+        "Isolation from the modern world",
+        "Rejection of scientific progress",
+        "Strict political dominance"
+      ]
+    },
+    {
+      "id": 303,
+      "text": "Which scholar's work 'The Book of Healing' influenced European medicine for centuries?",
+      "options": [
+        "#Ibn Sina",
+        "Al-Biruni",
+        "Al-Khwarizmi",
+        "Imam al-Bukhari"
+      ]
+    },
+    {
+      "id": 304,
+      "text": "What does the term 'Ummah' refer to in a religious context?",
+      "options": [
+        "#The global community of Muslims",
+        "A specific type of prayer",
+        "A historical building",
+        "A religious tax"
+      ]
+    },
+    {
+      "id": 305,
+      "text": "The 'Diamond Sutra' is a sacred text belonging to:",
+      "options": [
+        "#Buddhism",
+        "Judaism",
+        "Islam",
+        "Zoroastrianism"
+      ]
+    },
+    {
+      "id": 306,
+      "text": "Which movement in Islam emphasizes the inner, spiritual dimension of the faith?",
+      "options": [
+        "#Sufism",
+        "Salafism",
+        "Wahhabism",
+        "Kharijism"
+      ]
+    },
+    {
+      "id": 307,
+      "text": "The concept of 'Halal' in Islamic finance primarily prohibits:",
+      "options": [
+        "#Riba (usury/interest)",
+        "Trade in general",
+        "Profit-sharing",
+        "International investment"
+      ]
+    },
+    {
+      "id": 308,
+      "text": "In the Constitution of Uzbekistan, the state and religious organizations are:",
+      "options": [
+        "#Separated from each other",
+        "Unified under one leader",
+        "Opposed to each other",
+        "Merged into one entity"
+      ]
+    },
+    {
+      "id": 309,
+      "text": "Which term describes the attempt to convert people from one religion to another through active mission work?",
+      "options": [
+        "#Proselytism",
+        "Pluralism",
+        "Secularism",
+        "Ecumenism"
+      ]
+    },
+    {
+      "id": 310,
+      "text": "The 'Avesta' is written in which ancient language?",
+      "options": [
+        "#Avestan",
+        "Arabic",
+        "Sanskrit",
+        "Hebrew"
+      ]
+    },
+    {
+      "id": 311,
+      "text": "What is the main purpose of the 'Zakat' pillar in Islam?",
+      "options": [
+        "#Social justice and helping the poor",
+        "Personal wealth accumulation",
+        "Funding military campaigns",
+        "Political campaigning"
+      ]
+    },
+    {
+      "id": 312,
+      "text": "The term 'Nirvana' in Buddhism literally means:",
+      "options": [
+        "#Blowing out or extinguishing",
+        "Heavenly garden",
+        "Eternal life",
+        "Great power"
+      ]
+    },
+    {
+      "id": 313,
+      "text": "Which international organization declared Tashkent the 'Capital of Islamic Culture' in 2007?",
+      "options": [
+        "#ISESCO",
+        "UN",
+        "UNESCO",
+        "OIC"
+      ]
+    },
+    {
+      "id": 314,
+      "text": "The 'Torah' is specifically the first five books of the:",
+      "options": [
+        "#Hebrew Bible",
+        "New Testament",
+        "Qur\u2019an",
+        "Vedas"
+      ]
+    },
+    {
+      "id": 315,
+      "text": "Which architectural monument in Termez is a famous Buddhist site?",
+      "options": [
+        "#Fayaz-tepa",
+        "Registan",
+        "Ark",
+        "Itchan Kala"
+      ]
+    },
+    {
+      "id": 316,
+      "text": "The 'Reformation' in the 16th century led to the rise of:",
+      "options": [
+        "#Protestantism",
+        "Orthodoxy",
+        "Catholicism",
+        "Islam"
+      ]
+    },
+    {
+      "id": 317,
+      "text": "In Zoroastrianism, 'Ahura Mazda' represents:",
+      "options": [
+        "#The Wise Lord of Light and Truth",
+        "The Spirit of Darkness",
+        "The God of War",
+        "The Messenger of Fire"
+      ]
+    },
+    {
+      "id": 318,
+      "text": "The term 'Sharia' literally means:",
+      "options": [
+        "#The path to the watering hole",
+        "A strict law book",
+        "The king's decree",
+        "A collection of stories"
+      ]
+    },
+    {
+      "id": 319,
+      "text": "Which branch of Christianity is the primary religion in Vatican City?",
+      "options": [
+        "#Catholicism",
+        "Protestantism",
+        "Orthodoxy",
+        "Anglicanism"
+      ]
+    },
+    {
+      "id": 320,
+      "text": "The principle of 'Freedom of Conscience' includes:",
+      "options": [
+        "#The right to profess any religion or none at all",
+        "Mandatory religious education",
+        "The state choosing a religion for citizens",
+        "Banning all religious symbols"
+      ]
+    },
+    {
+      "id": 321,
+      "text": "Which scholar is known for the work 'Al-Qanun fi al-Tibb' (The Canon of Medicine)?",
+      "options": [
+        "#Ibn Sina",
+        "Al-Khwarizmi",
+        "Imam al-Maturidi",
+        "Ahmad al-Farghani"
+      ]
+    },
+    {
+      "id": 322,
+      "text": "In Hinduism, 'Moksha' refers to:",
+      "options": [
+        "#Liberation from the cycle of rebirth",
+        "A religious tax",
+        "A specific deity",
+        "The act of prayer"
+      ]
+    },
+    {
+      "id": 323,
+      "text": "The 'OIC' stands for:",
+      "options": [
+        "#Organization of Islamic Cooperation",
+        "Office of International Culture",
+        "Order of Independent Communities",
+        "Organization of Islamic Countries"
+      ]
+    },
+    {
+      "id": 324,
+      "text": "Which religious text contains the 'Sermon on the Mount'?",
+      "options": [
+        "#The New Testament",
+        "The Torah",
+        "The Bhagavad Gita",
+        "The Avesta"
+      ]
+    },
+    {
+      "id": 325,
+      "text": "What is the primary focus of the 'Hanafi' school of law?",
+      "options": [
+        "#Reason and community consensus",
+        "Strict literalism only",
+        "Rejection of traditions",
+        "Military hierarchy"
+      ]
+    },
+    {
+      "id": 326,
+      "text": "The term 'Kosher' refers to dietary laws in which religion?",
+      "options": [
+        "#Judaism",
+        "Buddhism",
+        "Sikhism",
+        "Shintoism"
+      ]
+    },
+    {
+      "id": 327,
+      "text": "In Daoism, 'Wu Wei' means:",
+      "options": [
+        "#Effortless action / Non-doing",
+        "Strict discipline",
+        "Constant struggle",
+        "Political activism"
+      ]
+    },
+    {
+      "id": 328,
+      "text": "The 'Shahidlar xotirasi' complex commemorates:",
+      "options": [
+        "#Victims of political repression",
+        "Ancient kings",
+        "Religious founders",
+        "Famous scientists"
+      ]
+    },
+    {
+      "id": 329,
+      "text": "Which religion uses the 'Wheel of Dharma' as its primary symbol?",
+      "options": [
+        "#Buddhism",
+        "Islam",
+        "Christianity",
+        "Judaism"
+      ]
+    },
+    {
+      "id": 330,
+      "text": "The main goal of 'Ecumenism' is to promote:",
+      "options": [
+        "#Unity among Christian denominations",
+        "The conversion of other faiths",
+        "The banning of religion",
+        "Scientific supremacy over faith"
+      ]
+    },
+    {
+      "id": 331,
+      "text": "Which city is considered the third holiest in Islam after Mecca and Medina?",
+      "options": [
+        "#Jerusalem",
+        "Cairo",
+        "Tashkent",
+        "Istanbul"
+      ]
+    },
+    {
+      "id": 332,
+      "text": "What is the primary role of a 'Mufti' in Islamic society?",
+      "options": [
+        "#Issuing legal opinions (Fatwas)",
+        "Leading the military",
+        "Managing state finances",
+        "Conducting scientific research"
+      ]
+    },
+    {
+      "id": 333,
+      "text": "The concept of 'Karma' is found in which of the following?",
+      "options": [
+        "#Hinduism and Buddhism",
+        "Islam and Christianity",
+        "Judaism and Zoroastrianism",
+        "Shintoism and Totemism"
+      ]
+    },
+    {
+      "id": 334,
+      "text": "What is 'Religious Pluralism'?",
+      "options": [
+        "#Recognition of diverse religions",
+        "Dominance of a single religion",
+        "Complete denial of religion",
+        "Rule by religious authority"
+      ]
+    },
+    {
+      "id": 335,
+      "text": "The main essence of tolerance is:",
+      "options": [
+        "#Respect toward different views",
+        "Denial of others",
+        "Coercion",
+        "Political pressure"
+      ]
+    },
+    {
+      "id": 336,
+      "text": "How has secularization affected world religions?",
+      "options": [
+        "#Adapted religious institutions to new social conditions",
+        "Completely eliminated religion",
+        "Banned all religions",
+        "Caused only economic change"
+      ]
+    },
+    {
+      "id": 337,
+      "text": "The role of spiritual values in ensuring sustainable development:",
+      "options": [
+        "#Strengthens social responsibility and justice",
+        "Insignificant",
+        "Only a personal matter",
+        "Only an economic factor"
+      ]
     }
   ]
 }
