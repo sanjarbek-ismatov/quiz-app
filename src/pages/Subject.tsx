@@ -21,9 +21,9 @@ export default function Subject(){
   const { subjectId } = useParams()
   const navigate = useNavigate()
   const { t } = useLanguage()
-  const subject = useSubject(subjectId)
+  const { subject, isLoading } = useSubject(subjectId)
   
-  if (!subject) {
+  if (!isLoading && !subject) {
     return (
       <div className="text-center py-12 fade-in">
         <p className="text-gray-600 dark:text-gray-400 mb-4">{t.subjectNotFound}</p>
@@ -36,8 +36,6 @@ export default function Subject(){
       </div>
     )
   }
-
-  const isLoading = subject.questionsCount === 0
 
   if (isLoading) {
     return (
@@ -52,7 +50,7 @@ export default function Subject(){
     )
   }
 
-  const groups = groupsForSubject(subject.questionsCount)
+  const groups = subject ? groupsForSubject(subject.questionsCount) : []
 
   return (
     <div className="app-container space-y-6 sm:space-y-8 fade-in">
@@ -66,15 +64,15 @@ export default function Subject(){
           <FiArrowLeft className="text-xl sm:text-2xl text-gray-600 dark:text-gray-400" aria-hidden="true" />
         </button>
         <div className="flex-1 min-w-0">
-          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">{subject.name}</h1>
-          <p className="text-gray-600 dark:text-gray-400 text-sm sm:text-base mt-2">{subject.description}</p>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 dark:text-white">{subject?.name}</h1>
+          <p className="text-gray-600 dark:text-gray-400 text-sm sm:text-base mt-2">{subject?.description}</p>
         </div>
       </div>
 
       {/* Statistics */}
       <div className="grid gap-2 sm:gap-4 grid-cols-2 sm:grid-cols-4">
         <div className="card p-3 sm:p-4 text-center">
-          <div className="text-xl sm:text-2xl font-bold text-primary-600 dark:text-primary-400">{subject.questionsCount}</div>
+          <div className="text-xl sm:text-2xl font-bold text-primary-600 dark:text-primary-400">{subject?.questionsCount}</div>
           <p className="text-xs sm:text-sm text-gray-600 dark:text-gray-400 mt-1">{t.totalQuestions}</p>
         </div>
         <div className="card p-3 sm:p-4 text-center">
@@ -111,9 +109,6 @@ export default function Subject(){
           ))}
         </div>
       </div>
-
-      {/* Tips */}
-  
     </div>
   )
 }

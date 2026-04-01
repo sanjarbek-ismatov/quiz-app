@@ -1,18 +1,13 @@
-/**
- * UI Translations for multiple languages
- */
-
-export type Language = 'en' | 'uz' | 'ru'
+import { Language } from '../contexts/LanguageContext'
 
 export interface Translations {
-  // Header
   quizMaster: string
   learnAndPractice: string
   home: string
   code: string
   developer: string
 
-  // Home Page
+  // Hero
   masterYourSkills: string
   chooseSubject: string
   interactiveQuestions: string
@@ -80,6 +75,30 @@ export interface Translations {
   disclaimerReport: string
   disclaimerAgree: string
   disclaimerQuit: string
+
+  // Admin
+  adminAccess: string
+  adminLogin: string
+  adminPassword: string
+  adminLoginBtn: string
+  adminInvalid: string
+  adminWelcome: string
+  adminLogout: string
+  adminOveralls: string
+  adminManage: string
+  adminParser: string
+  adminTotalSubjects: string
+  adminTotalQuestions: string
+  adminAvgQuestions: string
+  adminSubjectName: string
+  adminStatus: string
+  adminActive: string
+  adminRawInput: string
+  adminParseBtn: string
+  adminPreview: string
+  adminDownloadJson: string
+  adminDetected: string
+  adminNoData: string
 }
 
 export const translations: Record<Language, Translations> = {
@@ -153,6 +172,29 @@ export const translations: Record<Language, Translations> = {
     disclaimerReport: 'If you find any mistakes, inaccuracies, or have suggestions for improvement, please report them via Telegram: @Sanjarbek_Ismatov. Your feedback helps improve the quality of this educational resource.',
     disclaimerAgree: 'I Agree',
     disclaimerQuit: 'Quit',
+
+    adminAccess: 'Admin Access',
+    adminLogin: 'Login',
+    adminPassword: 'Password',
+    adminLoginBtn: 'Login',
+    adminInvalid: 'Invalid credentials',
+    adminWelcome: 'Welcome back, Sanjarbek',
+    adminLogout: 'Logout',
+    adminOveralls: 'Overalls',
+    adminManage: 'Manage Tests',
+    adminParser: 'Parser',
+    adminTotalSubjects: 'Total Subjects',
+    adminTotalQuestions: 'Total Questions',
+    adminAvgQuestions: 'Avg Qs per Subject',
+    adminSubjectName: 'Subject Name',
+    adminStatus: 'Status',
+    adminActive: 'Active',
+    adminRawInput: 'Raw Input',
+    adminParseBtn: 'Parse Content',
+    adminPreview: 'Preview & Result',
+    adminDownloadJson: 'Download JSON',
+    adminDetected: 'Detected {count} questions.',
+    adminNoData: 'No data parsed yet. Paste some content on the left.',
   },
   uz: {
     quizMaster: 'Quiz Master',
@@ -224,6 +266,29 @@ export const translations: Record<Language, Translations> = {
     disclaimerReport: 'Agar siz har qanday xatolar, notoʻgʻriliklar topgan boʻlsangiz yoki yaxshilash uchun takliflar boʻlsa, iltimos, Telegram orqali xabar bering: @Sanjarbek_Ismatov. Sizning fikr-mulohazalaringiz ushbu taʼlim resursining sifatini yaxshilashga yordam beradi.',
     disclaimerAgree: 'Men Roziman',
     disclaimerQuit: 'Chiqish',
+
+    adminAccess: 'Admin Kirish',
+    adminLogin: 'Login',
+    adminPassword: 'Parol',
+    adminLoginBtn: 'Kirish',
+    adminInvalid: 'Login yoki parol notoʻgʻri',
+    adminWelcome: 'Xush kelibsiz, Sanjarbek',
+    adminLogout: 'Chiqish',
+    adminOveralls: 'Umumiy',
+    adminManage: 'Testlarni boshqarish',
+    adminParser: 'Parser',
+    adminTotalSubjects: 'Jami Mavzular',
+    adminTotalQuestions: 'Jami Savollar',
+    adminAvgQuestions: 'Har bir mavzuga oʻrtacha savollar',
+    adminSubjectName: 'Mavzu nomi',
+    adminStatus: 'Holati',
+    adminActive: 'Faol',
+    adminRawInput: 'Xom maʼlumotlar',
+    adminParseBtn: 'Tahlil qilish',
+    adminPreview: 'Koʻrib chiqish va natija',
+    adminDownloadJson: 'JSON yuklab olish',
+    adminDetected: '{count} ta savol aniqlandi.',
+    adminNoData: 'Hali hech qanday maʼlumot tahlil qilinmadi. Chap tomonga kontentni joylashtiring.',
   },
   ru: {
     quizMaster: 'Quiz Master',
@@ -295,6 +360,29 @@ export const translations: Record<Language, Translations> = {
     disclaimerReport: 'Если вы обнаружите какие-либо ошибки, неточности или у вас есть предложения по улучшению, пожалуйста, сообщите об этом через Telegram: @Sanjarbek_Ismatov. Ваши отзывы помогают улучшить качество этого образовательного ресурса.',
     disclaimerAgree: 'Я Согласен',
     disclaimerQuit: 'Выход',
+
+    adminAccess: 'Доступ администратора',
+    adminLogin: 'Логин',
+    adminPassword: 'Пароль',
+    adminLoginBtn: 'Войти',
+    adminInvalid: 'Неверный логин или пароль',
+    adminWelcome: 'С возвращением, Sanjarbek',
+    adminLogout: 'Выйти',
+    adminOveralls: 'Общее',
+    adminManage: 'Управление тестами',
+    adminParser: 'Парсер',
+    adminTotalSubjects: 'Всего предметов',
+    adminTotalQuestions: 'Всего вопросов',
+    adminAvgQuestions: 'Среднее кол-во вопросов на предмет',
+    adminSubjectName: 'Название предмета',
+    adminStatus: 'Статус',
+    adminActive: 'Активен',
+    adminRawInput: 'Исходные данные',
+    adminParseBtn: 'Проанализировать',
+    adminPreview: 'Предпросмотр и результат',
+    adminDownloadJson: 'Скачать JSON',
+    adminDetected: 'Обнаружено вопросов: {count}',
+    adminNoData: 'Данные еще не проанализированы. Вставьте контент слева.',
   },
 }
 

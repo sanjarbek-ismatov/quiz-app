@@ -73,7 +73,7 @@ export function useQuiz(subjectId: string | undefined, groupId: string | undefin
     setShowModal(false)
     setCurrentQuestion(0)
     setShuffleKey(Date.now())
-  }, [groupId])
+  }, [groupId, subjectId])
 
   // Auto-open modal when all questions are answered
   useEffect(() => {

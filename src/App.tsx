@@ -7,6 +7,7 @@ import Home from './pages/Home'
 import Subject from './pages/Subject'
 import Quiz from './pages/Quiz'
 import Importer from './pages/Importer'
+import Admin from './pages/Admin'
 import DisclaimerModal from './components/DisclaimerModal'
 
 const DISCLAIMER_AGREED_KEY = 'quiz-master-disclaimer-agreed'
@@ -121,12 +122,13 @@ export default function App(){
             <Route path="/subject/:subjectId" element={<Subject/>} />
             <Route path="/subject/:subjectId/group/:groupId" element={<Quiz/>} />
             <Route path="/import" element={<Importer/>} />
+            <Route path="/admin" element={<Admin/>} />
           </Routes>
         </div>
       </main>
       <footer className="border-t border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 mt-12">
         <div className="app-container py-6 text-center text-sm text-gray-600 dark:text-gray-400">
-          <p>{t.copyright}</p>
+          <p>{t.copyright} | <Link to="/admin" className="hover:text-primary-600 transition-colors">Admin</Link></p>
         </div>
       </footer>
 
