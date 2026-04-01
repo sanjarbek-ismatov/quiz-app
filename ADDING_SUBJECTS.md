@@ -2,7 +2,7 @@
 
 The app now uses a **modular subject system** that makes adding new subjects incredibly easy!
 
-## Quick Start: 3 Steps
+## Quick Start: 2 Steps
 
 ### 1. **Update `src/config/subjects.ts`**
 
@@ -15,10 +15,9 @@ Add your new subject to the `SUBJECTS` array:
   description: 'What you learn here',
   icon: 'book',                  // Icon type: book, zap, award, globe, brain, target
   color: 'from-indigo-500 to-blue-500',  // Tailwind gradient colors
-  questionsCount: 200,           // Total questions
-  groupsCount: 8,                // Number of groups (25 questions per group)
 }
 ```
+*Note: `questionsCount` and `groupsCount` are now automatically calculated from the data file.*
 
 ### 2. **Create Subject Data File**
 
@@ -41,16 +40,16 @@ Create a new JSON file: `src/data/subjects/my-subject.json`
 }
 ```
 
-**Note:** 
+**Note:**
 - Mark the correct answer with `#` prefix
 - The file must be named exactly `{subject-id}.json` and placed in `src/data/subjects/`
 - Each subject file should have a `questions` array at the root level
+- You can use the built-in [Importer](/import) tool to generate this file.
 
 ### 3. **Done!** 🎉
 
 The subject will automatically appear in:
 - ✅ Home page subject list
-- ✅ Subject dropdown in Importer
 - ✅ All navigation throughout the app
 
 ## Available Icons
@@ -62,91 +61,13 @@ The subject will automatically appear in:
 - `brain` - FiBrain
 - `target` - FiTarget
 
-## Available Gradient Colors
-
-Use any Tailwind gradient:
-- `from-blue-500 to-cyan-500`
-- `from-purple-500 to-pink-500`
-- `from-orange-500 to-red-500`
-- `from-green-500 to-emerald-500`
-- `from-rose-500 to-pink-500`
-- etc.
-
-## Example: Adding Biology Subject
-
-### Step 1: Update `src/config/subjects.ts`
-
-```typescript
-{
-  id: 'biology',
-  name: 'Biology Fundamentals',
-  description: 'Master cell biology, genetics, and ecology',
-  icon: 'brain',
-  color: 'from-green-500 to-teal-500',
-  questionsCount: 200,
-  groupsCount: 10,
-}
-```
-
-### Step 2: Create `src/data/subjects/biology.json`
-
-```json
-{
-  "questions": [
-    {
-      "text": "What is the powerhouse of the cell?",
-      "options": [
-        "#Mitochondria",
-        "Nucleus",
-        "Chloroplast",
-        "Ribosome"
-      ]
-    },
-    ...
-  ]
-}
-```
-
-### Step 3: Visit the app ✅
-
-Biology will now appear on the home page and everywhere else!
-
 ## Architecture Benefits
 
-The modular approach means:
-
-✅ **No hardcoding** - All subjects in one config file  
-✅ **Type-safe** - TypeScript prevents mistakes  
-✅ **DRY** - Don't repeat yourself  
-✅ **Scalable** - Add 10 more subjects without code changes  
-✅ **Flexible** - Each subject can have different question counts  
-✅ **Maintainable** - One place to manage all subjects  
-
-## File Structure
-
-```
-src/
-├── config/
-│   ├── subjects.ts      ← Add subjects here
-│   └── icons.ts         ← Icon mappings
-├── hooks/
-│   └── useSubjects.ts   ← Custom hook for accessing subjects
-├── utils/
-│   └── dataLoader.ts   ← Dynamic data loader
-└── data/
-    └── subjects/        ← Add question files here
-        ├── academic-writing.json
-        ├── information-technology.json
-        ├── economic-theories.json
-        ├── programming.json
-        └── my-subject.json ← Your new subject file
-```
+✅ **No hardcoding** - Subject counts and group mapping is dynamic
+✅ **Scalable** - Add any number of subjects without code changes
+✅ **Lazy Loading** - Questions only load when needed
 
 ## Tips
 
 1. **Question Format** - Prefix correct answer with `#`, others without
-2. **Always 200 Questions** - The importer will pad with placeholders if needed
-3. **Question Count** - Dynamically groups 200 questions into chunks of 20
-4. **Metadata** - The app displays question counts and descriptions from config
-
-Happy adding! 🚀
+2. **Question Count** - Any number of questions is supported; they are automatically grouped into sets of 25.

@@ -1,9 +1,9 @@
 /**
  * Subject Configuration
  * 
- * Define all available subjects here. This is the single source of truth
- * for subject metadata. Adding a new subject is as simple as adding an
- * entry here and creating a corresponding JSON file in src/data/subjects/
+ * Define all available subjects here. This is the source of truth
+ * for UI metadata like name, description, icon, and color.
+ * The question and group counts are now dynamically calculated.
  * 
  * See ADDING_SUBJECTS.md for detailed instructions.
  */
@@ -14,8 +14,6 @@ export interface SubjectConfig {
   description: string
   icon: 'book' | 'zap' | 'award' | 'globe' | 'brain' | 'target'
   color: string
-  questionsCount: number
-  groupsCount: number
 }
 
 export const SUBJECTS: SubjectConfig[] = [
@@ -25,8 +23,6 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Master the essentials of academic writing and composition',
     icon: 'book',
     color: 'from-blue-500 to-cyan-500',
-    questionsCount: 200,
-    groupsCount: 8,
   },
   {
     id: 'information-technology',
@@ -34,8 +30,6 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Test your IT knowledge across all major domains',
     icon: 'zap',
     color: 'from-purple-500 to-pink-500',
-    questionsCount: 131,
-    groupsCount: 6,
   },
   {
     id: 'economic-theories',
@@ -43,8 +37,6 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Understand fundamental economic principles and theories',
     icon: 'award',
     color: 'from-orange-500 to-red-500',
-    questionsCount: 151,
-    groupsCount: 7,
   },
   {
     id: 'programming',
@@ -52,8 +44,6 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Master programming concepts and C++ fundamentals',
     icon: 'target',
     color: 'from-green-500 to-emerald-500',
-    questionsCount: 146,
-    groupsCount: 6,
   },
   {
     id: 'history-uzbekistan',
@@ -61,8 +51,6 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Learn the history and development of Uzbekistan',
     icon: 'globe',
     color: 'from-amber-500 to-orange-500',
-    questionsCount: 150,
-    groupsCount: 6,
   },
   {
     id: 'study-of-religions',
@@ -70,8 +58,6 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Explore world religions, belief systems, and religious studies',
     icon: 'brain',
     color: 'from-indigo-500 to-violet-500',
-    questionsCount: 216,
-    groupsCount: 9,
   },
 ]
 
@@ -90,7 +76,7 @@ export function getSubjectIds(): string[] {
 }
 
 /**
- * Format subject name for display (e.g., 'academic-writing' -> 'Academic Writing')
+ * Format subject name for display
  */
 export function formatSubjectName(id: string): string {
   const subject = getSubject(id)

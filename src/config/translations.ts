@@ -10,7 +10,8 @@ export interface Translations {
   learnAndPractice: string
   home: string
   code: string
-  
+  developer: string
+
   // Home Page
   masterYourSkills: string
   chooseSubject: string
@@ -25,7 +26,7 @@ export interface Translations {
   instantResults: string
   immediatelyFeedback: string
   startPractice: string
-  
+
   // Subject Page
   selectLanguage: string
   totalQuestions: string
@@ -40,7 +41,7 @@ export interface Translations {
   practiceMultipleTimes: string
   backToSubjects: string
   subjectNotFound: string
-  
+
   // Quiz Page
   question: string
   of: string
@@ -57,11 +58,21 @@ export interface Translations {
   questionsLoading: string
   loadingQuestions: string
   errorLoading: string
-  
+  progress: string
+  answered: string
+  correctLabel: string
+  wrongLabel: string
+  resultsSummary: string
+  excellentWork: string
+  back: string
+  retry: string
+  prev: string
+  next: string
+
   // Footer
   copyright: string
   builtFor: string
-  
+
   // Disclaimer Modal
   disclaimerTitle: string
   disclaimerContent: string
@@ -77,13 +88,14 @@ export const translations: Record<Language, Translations> = {
     learnAndPractice: 'Learn & Practice',
     home: 'Home',
     code: 'Code',
-    
+    developer: 'Developer: Sanjarbek',
+
     masterYourSkills: 'Master Your Skills',
     chooseSubject: 'Choose a Subject',
     interactiveQuestions: 'Interactive questions',
     instantFeedback: 'Instant feedback',
     progressTracking: 'Progress tracking',
-    whyChooseQuizMaster: "Why Choose Quiz Master?",
+    whyChooseQuizMaster: 'Why Choose Quiz Master?',
     subjectsAvailable: 'Subjects available',
     comprehensiveCoverage: 'Comprehensive coverage of all topics',
     questionsPerSubject: 'Questions per subject',
@@ -91,7 +103,7 @@ export const translations: Record<Language, Translations> = {
     instantResults: 'Instant results',
     immediatelyFeedback: 'Get immediate feedback',
     startPractice: 'Start Practice',
-    
+
     selectLanguage: 'Select Language',
     totalQuestions: 'Total Questions',
     groups: 'Groups',
@@ -105,7 +117,7 @@ export const translations: Record<Language, Translations> = {
     practiceMultipleTimes: 'Practice multiple times to improve',
     backToSubjects: 'Back to Subjects',
     subjectNotFound: 'Subject not found',
-    
+
     question: 'Question',
     of: 'of',
     correct: 'Correct!',
@@ -121,10 +133,20 @@ export const translations: Record<Language, Translations> = {
     questionsLoading: 'Loading questions...',
     loadingQuestions: 'Loading questions',
     errorLoading: 'Error loading questions',
-    
+    progress: 'Progress',
+    answered: 'Answered',
+    correctLabel: 'Correct',
+    wrongLabel: 'Wrong',
+    resultsSummary: "Here's how you performed",
+    excellentWork: 'Excellent work!',
+    back: 'Back',
+    retry: 'Retry',
+    prev: 'Prev',
+    next: 'Next',
+
     copyright: '© 2026 Quiz Master. Built by Sanjarbek. Telegram: Sanjarbek_Ismatov.',
     builtFor: 'Built for learning excellence.',
-    
+
     disclaimerTitle: 'Important Disclaimer',
     disclaimerContent: 'Welcome to Quiz Master! Please read the following disclaimer before using this application.',
     disclaimerWarning: 'Sanjarbek (the creator of this website) is not responsible for any inaccuracies, errors, or outdated information in the quiz questions and answers. While every effort has been made to ensure accuracy, the content may contain mistakes or may not reflect the most current information.',
@@ -137,13 +159,14 @@ export const translations: Record<Language, Translations> = {
     learnAndPractice: 'Oʻqing va Amaliyot Qiling',
     home: 'Bosh sahifa',
     code: 'Kod',
-    
+    developer: 'Dasturchi: Sanjarbek',
+
     masterYourSkills: 'Koʻnikmalangizni Yuzaga Chiqaring',
     chooseSubject: 'Mavzuni Tanlang',
     interactiveQuestions: 'Interaktiv savollar',
     instantFeedback: 'Tezkor javob',
     progressTracking: 'Taraqqiyot kuzatish',
-    whyChooseQuizMaster: "Nega Quiz Master ni Tanlaysiz?",
+    whyChooseQuizMaster: 'Nega Quiz Master ni Tanlaysiz?',
     subjectsAvailable: 'Mavzular mavjud',
     comprehensiveCoverage: 'Barcha mavzularni toʻla qamrab oladi',
     questionsPerSubject: 'Mavzu boʻyicha savollar',
@@ -151,7 +174,7 @@ export const translations: Record<Language, Translations> = {
     instantResults: 'Tezkor natijalar',
     immediatelyFeedback: 'Darhol javob oling',
     startPractice: 'Amaliyotni Boshlang',
-    
+
     selectLanguage: 'Tilni Tanlang',
     totalQuestions: 'Jami Savollar',
     groups: 'Guruhlar',
@@ -165,7 +188,7 @@ export const translations: Record<Language, Translations> = {
     practiceMultipleTimes: 'Yaxshilash uchun bir necha marta amaliyot qiling',
     backToSubjects: 'Mavzularga qaytish',
     subjectNotFound: 'Mavzu topilmadi',
-    
+
     question: 'Savol',
     of: 'dan',
     correct: 'Toʻgʻri!',
@@ -181,10 +204,20 @@ export const translations: Record<Language, Translations> = {
     questionsLoading: 'Savollar yuklanmoqda...',
     loadingQuestions: 'Savollar yuklanmoqda',
     errorLoading: 'Savollarni yuklashda xato',
-    
+    progress: 'Jarayon',
+    answered: 'Javob berildi',
+    correctLabel: 'Toʻgʻri',
+    wrongLabel: 'Notoʻgʻri',
+    resultsSummary: 'Sizning natijalaringiz',
+    excellentWork: 'Ajoyib ish!',
+    back: 'Orqaga',
+    retry: 'Qayta urinish',
+    prev: 'Oldingi',
+    next: 'Keyingi',
+
     copyright: '© 2026 Quiz Master. Sanjarbek tomonidan qurilgan. Telegram: Sanjarbek_Ismatov.',
     builtFor: 'Oʻqish takomillashtirishligi uchun qurilgan.',
-    
+
     disclaimerTitle: 'Muhim Ogohlantirish',
     disclaimerContent: 'Quiz Master ga xush kelibsiz! Ilovadan foydalanishdan oldin quyidagi ogohlantirishni oʻqing.',
     disclaimerWarning: 'Sanjarbek (bu veb-saytning yaratuvchisi) viktorina savollari va javoblaridagi har qanday notoʻgʻriliklar, xatolar yoki eskirgan maʼlumotlar uchun javobgar emas. Toʻgʻrilikka erishish uchun har qanday harakat qilingan boʻlsa-da, kontentda xatolar boʻlishi yoki eng dolzarb maʼlumotlarni aks ettirmasligi mumkin.',
@@ -197,13 +230,14 @@ export const translations: Record<Language, Translations> = {
     learnAndPractice: 'Учитесь и Практикуйтесь',
     home: 'Главная',
     code: 'Код',
-    
+    developer: 'Разработчик: Sanjarbek',
+
     masterYourSkills: 'Овладейте своими навыками',
     chooseSubject: 'Выберите предмет',
     interactiveQuestions: 'Интерактивные вопросы',
     instantFeedback: 'Мгновенная обратная связь',
     progressTracking: 'Отслеживание прогресса',
-    whyChooseQuizMaster: "Почему выбрать Quiz Master?",
+    whyChooseQuizMaster: 'Почему выбрать Quiz Master?',
     subjectsAvailable: 'Доступные предметы',
     comprehensiveCoverage: 'Полное охватывание всех тем',
     questionsPerSubject: 'Вопросов по предмету',
@@ -211,7 +245,7 @@ export const translations: Record<Language, Translations> = {
     instantResults: 'Мгновенные результаты',
     immediatelyFeedback: 'Получите немедленную обратную связь',
     startPractice: 'Начать Практику',
-    
+
     selectLanguage: 'Выберите язык',
     totalQuestions: 'Всего вопросов',
     groups: 'Группы',
@@ -225,7 +259,7 @@ export const translations: Record<Language, Translations> = {
     practiceMultipleTimes: 'Практикуйтесь несколько раз для улучшения',
     backToSubjects: 'Вернуться к предметам',
     subjectNotFound: 'Предмет не найден',
-    
+
     question: 'Вопрос',
     of: 'из',
     correct: 'Правильно!',
@@ -241,10 +275,20 @@ export const translations: Record<Language, Translations> = {
     questionsLoading: 'Загрузка вопросов...',
     loadingQuestions: 'Загрузка вопросов',
     errorLoading: 'Ошибка при загрузке вопросов',
+    progress: 'Прогресс',
+    answered: 'Отвечено',
+    correctLabel: 'Правильно',
+    wrongLabel: 'Неправильно',
+    resultsSummary: 'Ваши результаты',
+    excellentWork: 'Отличная работа!',
+    back: 'Назад',
+    retry: 'Повторить',
+    prev: 'Пред',
+    next: 'След',
 
     copyright: '© 2026 Quiz Master. Создано Sanjarbek. Telegram: Sanjarbek_Ismatov.',
     builtFor: 'Создано для совершенства в обучении.',
-    
+
     disclaimerTitle: 'Важное предупреждение',
     disclaimerContent: 'Добро пожаловать в Quiz Master! Пожалуйста, прочитайте следующее предупреждение перед использованием этого приложения.',
     disclaimerWarning: 'Sanjarbek (создатель этого веб-сайта) не несет ответственности за любые неточности, ошибки или устаревшую информацию в вопросах и ответах викторины. Хотя были приложены все усилия для обеспечения точности, контент может содержать ошибки или может не отражать самую актуальную информацию.',

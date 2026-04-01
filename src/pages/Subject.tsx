@@ -37,6 +37,21 @@ export default function Subject(){
     )
   }
 
+  const isLoading = subject.questionsCount === 0
+
+  if (isLoading) {
+    return (
+      <div className="flex items-center justify-center py-12 fade-in">
+        <div className="text-center space-y-4">
+          <div className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-primary-100 animate-pulse">
+            <div className="w-6 h-6 rounded-full bg-primary-600"></div>
+          </div>
+          <p className="text-gray-600 font-medium">{t.loadingQuestions}...</p>
+        </div>
+      </div>
+    )
+  }
+
   const groups = groupsForSubject(subject.questionsCount)
 
   return (
