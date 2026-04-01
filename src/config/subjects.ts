@@ -18,46 +18,25 @@ export interface SubjectConfig {
 
 export const SUBJECTS: SubjectConfig[] = [
   {
-    id: 'academic-writing',
-    name: 'Academic Writing',
-    description: 'Master the essentials of academic writing and composition',
-    icon: 'book',
+    id: 'study-of-religions-part1',
+    name: 'Study of Religions (part 1)',
+    description: 'Explore world religions, belief systems, and religious studies - Part 1',
+    icon: 'brain',
+    color: 'from-indigo-500 to-violet-500',
+  },
+  {
+    id: 'study-of-religions-part2',
+    name: 'Study of Religions (part 2)',
+    description: 'Explore world religions, belief systems, and religious studies - Part 2',
+    icon: 'brain',
     color: 'from-blue-500 to-cyan-500',
   },
   {
-    id: 'information-technology',
-    name: 'Information Technology',
-    description: 'Test your IT knowledge across all major domains',
-    icon: 'zap',
-    color: 'from-purple-500 to-pink-500',
-  },
-  {
-    id: 'economic-theories',
-    name: 'Economic Theories',
-    description: 'Understand fundamental economic principles and theories',
-    icon: 'award',
-    color: 'from-orange-500 to-red-500',
-  },
-  {
-    id: 'programming',
-    name: 'Programming',
-    description: 'Master programming concepts and C++ fundamentals',
-    icon: 'target',
-    color: 'from-green-500 to-emerald-500',
-  },
-  {
-    id: 'history-uzbekistan',
-    name: 'History of Uzbekistan',
-    description: 'Learn the history and development of Uzbekistan',
-    icon: 'globe',
-    color: 'from-amber-500 to-orange-500',
-  },
-  {
-    id: 'study-of-religions',
-    name: 'Study of Religions',
-    description: 'Explore world religions, belief systems, and religious studies',
+    id: 'study-of-religions-part3',
+    name: 'Study of Religions (part 3)',
+    description: 'Explore world religions, belief systems, and religious studies - Part 3',
     icon: 'brain',
-    color: 'from-indigo-500 to-violet-500',
+    color: 'from-purple-500 to-pink-500',
   },
 ]
 

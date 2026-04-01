@@ -13,10 +13,9 @@ src/
 │   └── icons.ts             ← Icon mappings
 ├── data/
 │   └── subjects/            ← Individual subject data files
-│       ├── academic-writing.json
-│       ├── information-technology.json
-│       ├── economic-theories.json
-│       ├── programming.json
+│       ├── study-of-religions-part1.json
+│       ├── study-of-religions-part2.json
+│       ├── study-of-religions-part3.json
 │       └── ...
 ├── utils/
 │   └── dataLoader.ts        ← Dynamic data loader
@@ -36,8 +35,8 @@ Defines all subject metadata (single source of truth):
   description: 'Subject description',
   icon: 'book',
   color: 'from-blue-500 to-cyan-500',
-  questionsCount: 200,
-  groupsCount: 10,
+  questionsCount: 100,
+  groupsCount: 4,
 }
 ```
 
@@ -68,11 +67,11 @@ export function getQuestionsFromData(data: QuestionsData | null)
 
 ## Benefits
 
-✅ **Smaller Bundle Size** - Only loaded questions are included, not all subjects upfront  
-✅ **Better Performance** - Asynchronous loading doesn't block the UI  
-✅ **Easy Scalability** - Add a new subject file without touching existing code  
-✅ **Cleaner Codebase** - Separation of concerns (config vs data)  
-✅ **Lazy Loading** - Questions only load when needed  
+✅ **Smaller Bundle Size** - Only loaded questions are included, not all subjects upfront
+✅ **Better Performance** - Asynchronous loading doesn't block the UI
+✅ **Easy Scalability** - Add a new subject file without touching existing code
+✅ **Cleaner Codebase** - Separation of concerns (config vs data)
+✅ **Lazy Loading** - Questions only load when needed
 
 ## Adding a New Subject
 
@@ -85,8 +84,6 @@ Edit `src/config/subjects.ts`:
   description: 'Master cell biology, genetics, and ecology',
   icon: 'brain',
   color: 'from-green-500 to-teal-500',
-  questionsCount: 200,
-  groupsCount: 8,  // Math.ceil(200 / 25) = 8 groups
 }
 ```
 
@@ -120,7 +117,7 @@ The subject automatically appears everywhere:
 1. **Quiz Page Initialization**
    - User navigates to `/subject/{subjectId}/group/{groupId}`
    - Quiz component mounts with loading state
-   
+
 2. **Data Loading**
    - `useEffect` triggers `loadSubjectData(subjectId)`
    - Questions are fetched from `src/data/subjects/{subjectId}.json`
@@ -138,14 +135,10 @@ The subject automatically appears everywhere:
 
 ## File Size Comparison
 
-**Before (Single File):**
-- sample-data.json: ~500KB (all subjects)
-
 **After (Modular):**
-- academic-writing.json: ~40KB
-- information-technology.json: ~50KB
-- economic-theories.json: ~35KB
-- programming.json: ~45KB
+- study-of-religions-part1.json: ~35KB
+- study-of-religions-part2.json: ~35KB
+- study-of-religions-part3.json: ~35KB
 - Total when all loaded: same, but loaded on-demand
 
 ## Error Handling
@@ -155,23 +148,25 @@ If a subject file is missing or fails to load:
 - A "Back to Subjects" button is provided
 - The app doesn't crash
 
-## Future Enhancements
+## Current Subjects
 
-You can further extend this by:
-- **Caching** - Store loaded data in localStorage
-- **Compression** - Compress JSON files
-- **Pagination** - Load questions in chunks
-- **Remote Storage** - Load from API instead of local files
-- **Versioning** - Add version field to track updates
+- **Study of Religions (part 1)** - 100 questions, 4 groups
+- **Study of Religions (part 2)** - 100 questions, 4 groups
+- **Study of Religions (part 3)** - 100 questions, 4 groups
+
+## Next Steps
+
+1. **Add more subjects** following the pattern shown in ADDING_SUBJECTS.md
+2. **Update question counts** as you add more questions to existing subjects
+3. **Report issues** via Telegram: @Sanjarbek_Ismatov
 
 ## Example Directory Tree
 
 ```
 src/data/subjects/
-├── academic-writing.json      (200 questions, 8 groups)
-├── information-technology.json (131 questions, 6 groups)
-├── economic-theories.json      (151 questions, 7 groups)
-├── programming.json            (146 questions, 6 groups)
+├── study-of-religions-part1.json      (100 questions, 4 groups)
+├── study-of-religions-part2.json      (100 questions, 4 groups)
+├── study-of-religions-part3.json      (100 questions, 4 groups)
 └── README.md                   (this file)
 ```
 
