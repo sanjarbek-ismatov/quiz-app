@@ -3,7 +3,7 @@
  * 
  * Define all available subjects here. This is the source of truth
  * for UI metadata like name, description, icon, and color.
- * The question and group counts are now dynamically calculated.
+ * The question and group counts are now statically defined for performance.
  * 
  * See ADDING_SUBJECTS.md for detailed instructions.
  */
@@ -14,6 +14,8 @@ export interface SubjectConfig {
   description: string
   icon: 'book' | 'zap' | 'award' | 'globe' | 'brain' | 'target'
   color: string
+  questionsCount: number
+  groupsCount: number
 }
 
 export const SUBJECTS: SubjectConfig[] = [
@@ -23,6 +25,8 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Explore world religions, belief systems, and religious studies - Part 1',
     icon: 'brain',
     color: 'from-indigo-500 to-violet-500',
+    questionsCount: 103,
+    groupsCount: 5,
   },
   {
     id: 'study-of-religions-part2',
@@ -30,6 +34,8 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Explore world religions, belief systems, and religious studies - Part 2',
     icon: 'brain',
     color: 'from-blue-500 to-cyan-500',
+    questionsCount: 104,
+    groupsCount: 5,
   },
   {
     id: 'study-of-religions-part3',
@@ -37,6 +43,8 @@ export const SUBJECTS: SubjectConfig[] = [
     description: 'Explore world religions, belief systems, and religious studies - Part 3',
     icon: 'brain',
     color: 'from-purple-500 to-pink-500',
+    questionsCount: 130,
+    groupsCount: 6,
   },
 ]
 

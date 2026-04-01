@@ -1,504 +1,1044 @@
 {
   "questions": [
-  {
-    "id": 101,
-    "text": "Who is considered the founder of Protestantism?",
-    "options": ["#Martin Luther", "Augustine", "Paul", "Constantine"]
-  },
-  {
-    "id": 102,
-    "text": "Who is the supreme religious leader in Catholicism?",
-    "options": ["#The Pope", "Patriarch", "Archbishop", "Emperor"]
-  },
-  {
-    "id": 103,
-    "text": "In Orthodoxy, in which languages can worship be conducted?",
-    "options": ["#In national languages", "Only in Latin", "Only in Greek", "Only in English"]
-  },
-  {
-    "id": 104,
-    "text": "A distinctive feature of Protestantism:",
-    "options": ["#Independent interpretation of the Bible", "Veneration of icons and saints", "Use only of Latin", "Recognition of papal authority"]
-  },
-  {
-    "id": 105,
-    "text": "In which centuries did Christianity enter Central Asia?",
-    "options": ["#1st–3rd centuries", "6th-7th century", "14th-15th century", "19th century"]
-  },
-  {
-    "id": 106,
-    "text": "Which Christian branch existed in Central Asia in ancient times?",
-    "options": ["#Nestorianism", "Catholicism", "Protestantism", "Lutheranism"]
-  },
-  {
-    "id": 107,
-    "text": "During the Russian Empire, which branch spread widely in the territory of Uzbekistan?",
-    "options": ["#Orthodoxy", "Catholicism", "Protestantism", "Nestorianism"]
-  },
-  {
-    "id": 108,
-    "text": "The Orthodox Church in Tashkent belongs to which Patriarchate?",
-    "options": ["#Moscow", "Rome", "Jerusalem", "Athens"]
-  },
-  {
-    "id": 109,
-    "text": "How is religion defined in the Constitution of Uzbekistan?",
-    "options": ["#Religion is separated from the state", "There is one state religion", "Only one religion is allowed", "Religion is prohibited"]
-  },
-  {
-    "id": 110,
-    "text": "On what basis do Christian communities operate in Uzbekistan?",
-    "options": ["#On the basis of legislation", "Without state oversight", "Only secretly", "As a political party"]
-  },
-  {
-    "id": 111,
-    "text": "The oldest Christian monuments in Central Asia belong to which period?",
-    "options": ["#Early Middle Ages", "Soviet period", "Timurid period", "20th century"]
-  },
-  {
-    "id": 112,
-    "text": "What does the policy of religious tolerance in Uzbekistan aim at today?",
-    "options": ["#Equal treatment of all confessions", "Favoring one religion", "Restricting religion", "Banning religion"]
-  },
-  {
-    "id": 113,
-    "text": "When did the major division in Christianity occur?",
-    "options": ["#1054", "451", "325", "1526"]
-  },
-  {
-    "id": 114,
-    "text": "Select the correct chief cleric of the Catholic Church:",
-    "options": ["#Pope", "Cardinal", "Saint", "Monk"]
-  },
-  {
-    "id": 115,
-    "text": "Which are the main branches of Christianity?",
-    "options": ["#Catholicism, Orthodoxy, Protestantism", "Baptism, Orthodoxy, Fetishism", "Lutheranism, Orthodoxy, Catholicism", "Judaism, Shintoism, Shamanism"]
-  },
-  {
-    "id": 116,
-    "text": "What does the term “Christianity” mean?",
-    "options": ["#Savior", "Enlightened", "Camel driver", "Struggle against evil"]
-  },
-  {
-    "id": 117,
-    "text": "In which part of the Bible is the life and activity of Jesus Christ described?",
-    "options": ["#The New Testament", "The Old Testament", "The Torah", "The Avesta"]
-  },
-  {
-    "id": 118,
-    "text": "What is the name of Jesus Christ’s mother?",
-    "options": ["#Mary", "Hagar", "Asiya", "Fatima"]
-  },
-  {
-    "id": 119,
-    "text": "What are Jesus’s 12 disciples called?",
-    "options": ["#Apostles", "Qadariyyah", "Magians", "Catholics"]
-  },
-  {
-    "id": 120,
-    "text": "Where did Jesus first begin preaching his religious teachings?",
-    "options": ["#Capernaum in Palestine", "Cairo, Egypt", "Greece", "Arabia"]
-  },
-  {
-    "id": 121,
-    "text": "In the Christian rite of anointing with holy oil (chrismation), which oil is used?",
-    "options": ["#Olive oil", "Pistachio oil", "Rosehip oil", "Almond oil"]
-  },
-  {
-    "id": 122,
-    "text": "What is the highest rank of clergy in Christianity?",
-    "options": ["#Bishop (overseer)", "Presbyter (elder)", "Deacon (servant)", "Feudal lord"]
-  },
-  {
-    "id": 123,
-    "text": "Which name refers to the Eastern branch of Christianity meaning “true faith”?",
-    "options": ["#Orthodoxy", "Lutheranism", "Catholicism", "Protestantism"]
-  },
-  {
-    "id": 124,
-    "text": "Identify the sacred sources of Christianity:",
-    "options": ["#The Bible", "Avesta", "Psalms", "Kalom"]
-  },
-  {
-    "id": 125,
-    "text": "According to Christianity, how many apostles were there?",
-    "options": ["#12", "13", "4", "16"]
-  },
-  {
-    "id": 126,
-    "text": "What does Christmas celebrate in Christianity?",
-    "options": ["#The birth of Jesus Christ", "Restoration of the Cross", "Baptism of Jesus", "Revelation of the Gospel"]
-  },
-  {
-    "id": 127,
-    "text": "According to the Gospel, Jesus is…",
-    "options": ["#The Son of God", "An apostle", "A saint", "Founder of Buddhism"]
-  },
-  {
-    "id": 128,
-    "text": "Which sacred book was revealed to Jesus Christ?",
-    "options": ["#Injil", "Avesta", "Vedas", "Psalms"]
-  },
-  {
-    "id": 129,
-    "text": "Which articles of the Constitution of Uzbekistan are devoted to religious matters?",
-    "options": ["#Articles 19, 35, and 71", "Articles 37, 44, and 20", "Articles 52, 32, and 117", "Articles 14, 27, and 64"]
-  },
-  {
-    "id": 130,
-    "text": "Where did Islam emerge in the 7th century?",
-    "options": ["#On the Arabian Peninsula", "In Persia", "In Byzantium", "In Egypt"]
-  },
-  {
-    "id": 131,
-    "text": "What type of system prevailed in Arabia at the time Islam emerged?",
-    "options": ["#Tribal system", "Centralized monarchy", "Republic", "Empire"]
-  },
-  {
-    "id": 132,
-    "text": "What is pre-Islamic Arab society called?",
-    "options": ["#Jahiliyyah (Age of Ignorance)", "Renaissance", "Caliphate", "Futuhat"]
-  },
-  {
-    "id": 133,
-    "text": "In which city did Islam originate?",
-    "options": ["#Mecca", "Medina", "Taif", "Jerusalem"]
-  },
-  {
-    "id": 134,
-    "text": "Who is the founder of Islam?",
-    "options": ["#Muhammad (peace be upon him)", "Jesus (peace be upon him)", "Moses (peace be upon him)", "Abraham (peace be upon him)"]
-  },
-  {
-    "id": 135,
-    "text": "What was the main belief in Arabia before Islam?",
-    "options": ["#Polytheism", "Monotheism", "Buddhism", "Zoroastrianism"]
-  },
-  {
-    "id": 136,
-    "text": "What is the first pillar of Islam?",
-    "options": ["#Shahada", "Prayer", "Fasting", "Almsgiving"]
-  },
-  {
-    "id": 137,
-    "text": "Which of the following is NOT one of the Five Pillars of Islam?",
-    "options": ["#Jihad", "Hajj", "Prayer", "Zakat"]
-  },
-  {
-    "id": 138,
-    "text": "How many daily prayers are obligatory in Islam?",
-    "options": ["#Five times", "Three times", "Four times", "Six times"]
-  },
-  {
-    "id": 139,
-    "text": "Which act of worship is performed during the month of Ramadan?",
-    "options": ["#Fasting", "Hajj", "Zakat", "Charity"]
-  },
-  {
-    "id": 140,
-    "text": "What is the obligatory charity given from wealth called?",
-    "options": ["#Zakat", "Fitr", "Vow (Nazr)", "Hajj"]
-  },
-  {
-    "id": 141,
-    "text": "Which act must a capable Muslim perform at least once in a lifetime?",
-    "options": ["#Hajj", "Prayer", "Fasting", "Zakat"]
-  },
-  {
-    "id": 142,
-    "text": "After the death of Muhammad (peace be upon him), the issue of leadership led to the formation of which groups?",
-    "options": ["#Sunnis and Shiites", "Sufis and Salafis", "Maturidis and Ash‘aris", "Kharijites and Mu‘tazilites"]
-  },
-  {
-    "id": 143,
-    "text": "Which is the largest branch in Islam?",
-    "options": ["#Sunni Islam", "Shiite Islam", "Kharijism", "Ismailism"]
-  },
-  {
-    "id": 144,
-    "text": "Whom do Shiites consider the rightful successor?",
-    "options": ["#Ali", "Abu Bakr", "Umar", "Uthman"]
-  },
-  {
-    "id": 145,
-    "text": "Which movement was the first political-religious group in Islamic history?",
-    "options": ["#Kharijites", "Mu‘tazilites", "Sufis", "Ash‘aris"]
-  },
-  {
-    "id": 146,
-    "text": "Which of the following is one of the four Sunni legal schools?",
-    "options": ["#Hanafi", "Ja‘fari", "Zaydi", "Ismaili"]
-  },
-  {
-    "id": 147,
-    "text": "Which Sunni school is most widespread in Central Asia?",
-    "options": ["#Hanafi", "Maliki", "Shafi‘i", "Hanbali"]
-  },
-  {
-    "id": 148,
-    "text": "When did Islam emerge?",
-    "options": ["#In the 7th century CE", "5th century BCE", "6th century CE", "4th century CE"]
-  },
-  {
-    "id": 149,
-    "text": "What is a Hadith?",
-    "options": ["#A report, statement, or tradition of the Prophet", "A moral treatise", "A scientific work", "A collection of legends"]
-  },
-  {
-    "id": 150,
-    "text": "What is the sacred book of Islam called?",
-    "options": ["#The Qur’an", "Ijma", "Hadith", "Qiyas"]
-  },
-  {
-    "id": 151,
-    "text": "What is the essence of Sharia?",
-    "options": ["#Islamic law", "Collection of hadiths", "Sacred book of Islam", "Ritual practice of Islam"]
-  },
-  {
-    "id": 152,
-    "text": "Sources of Sharia in Islamic jurisprudence:",
-    "options": ["#Qur’an, Hadith, Ijma, Qiyas", "Hadith, Ijma, Talmud", "Qur’an, Hadith, Reports", "Ijma, Qiyas, Reports"]
-  },
-  {
-    "id": 153,
-    "text": "How many days is fasting observed in Islam?",
-    "options": ["#30 days", "38 days", "70 days", "40 days"]
-  },
-  {
-    "id": 154,
-    "text": "What is Islamic jurisprudence called?",
-    "options": ["#Fiqh", "Kalam", "Tafsir", "Sharia"]
-  },
-  {
-    "id": 155,
-    "text": "What does Marghinani’s work “Hidaya” mean?",
-    "options": ["#Guidance", "Long path", "Necessary advice", "Treasure of meanings"]
-  },
-  {
-    "id": 156,
-    "text": "Which of Marghinani’s works has remained an authoritative legal source since the 12th century?",
-    "options": ["#Hidaya", "Walidiya", "Sab’ai Sayyor", "Gulistan"]
-  },
-  {
-    "id": 157,
-    "text": "Who said: “Let your heart be with Allah and your hands in work”?",
-    "options": ["#Bahauddin Naqshband", "Alisher Navoi", "Ahmad Yassavi", "Isa at-Tirmidhi"]
-  },
-  {
-    "id": 158,
-    "text": "“Education for us is a matter of life or death, salvation or destruction…” — whose words are these?",
-    "options": ["#Abdulla Avloniy", "Usmon Nosir", "Alisher Navoi", "Abdurauf Fitrat"]
-  },
-  {
-    "id": 159,
-    "text": "What is the literal meaning of the word “Riba”?",
-    "options": ["#“Excess”", "Limit", "Blessing", "Right"]
-  },
-  {
-    "id": 160,
-    "text": "Which method is used in Islamic finance for external trade?",
-    "options": ["#Murabaha", "Istisna", "Musharaka or Mudaraba", "Deferred payment (Nasiya)"]
-  },
-  {
-    "id": 161,
-    "text": "Who became the first caliph after the Prophet’s death?",
-    "options": ["#Abu Bakr", "Umar ibn al-Khattab", "Uthman ibn Affan", "Ali ibn Abi Talib"]
-  },
-  {
-    "id": 162,
-    "text": "What does the word “Din” mean in Arabic?",
-    "options": ["#To believe / faith", "Purity", "Freedom", "Doctrine"]
-  },
-  {
-    "id": 163,
-    "text": "Who was elected as the fourth leader of the Muslim state?",
-    "options": ["#Ali ibn Abu Talib", "Uthman ibn Affan", "Umar ibn al-Khattab", "Abu Bakr"]
-  },
-  {
-    "id": 164,
-    "text": "What does the word “Fiqh” mean?",
-    "options": ["#“deep understanding,” “knowledge”", "“to feel,” “learning”", "“to comprehend,” “to sense with the heart”", "“to understand,” “to respect”"]
-  },
-  {
-    "id": 165,
-    "text": "Which of the following sets includes the primary sources of Fiqh?",
-    "options": ["#The Qur’an, the Sunnah, Ijma‘, and Qiyas", "The Qur’an, the Sunnah, and Ijma‘", "The Qur’an, the Sunnah, and Qiyas", "The Sunnah, Ijma‘, and Qiyas"]
-  },
-  {
-    "id": 166,
-    "text": "Where is the Sacred Ka‘bah located?",
-    "options": ["#In Mecca", "In Medina", "In Baghdad", "In Urgench"]
-  },
-  {
-    "id": 167,
-    "text": "What is Qurbān (sacrificial offering)?",
-    "options": ["#A ritual dedicated for the sake of God", "Fetish", "Tradition", "Game"]
-  },
-  {
-    "id": 168,
-    "text": "A prophet is…?",
-    "options": ["#A messenger of Allah", "The founder of Confucianism", "A servant of various rituals", "A fire-worshipper"]
-  },
-  {
-    "id": 169,
-    "text": "The ancient belief of the Turkic peoples was…?",
-    "options": ["#Tengri", "Allah", "Umay", "Fire-worship"]
-  },
-  {
-    "id": 170,
-    "text": "How many surahs are there in the Qur’an?",
-    "options": ["#114", "6236", "286", "3334"]
-  },
-  {
-    "id": 171,
-    "text": "Where did Islam originate?",
-    "options": ["#On the Arabian Peninsula", "In Egypt", "In Turkey", "In Asia Minor"]
-  },
-  {
-    "id": 172,
-    "text": "What does the word “Ayah” mean?",
-    "options": ["#A divine sign, a miracle", "Section, parts of Quran", "Book, holy information", "Legend, stories"]
-  },
-  {
-    "id": 173,
-    "text": "Where was Muhammad (peace be upon him) born?",
-    "options": ["#In Mecca", "In Medina", "In Mashhad", "In Hijaz"]
-  },
-  {
-    "id": 174,
-    "text": "What is the meaning of the word “Sufism”?",
-    "options": ["#Thick, coarse cloth", "Everyday clothing", "An indifferent person", "A dervish"]
-  },
-  {
-    "id": 175,
-    "text": "What is the foundation of Sufi teaching?",
-    "options": ["#Love for Allah", "Self-love of the individual", "Knowing what God has forbidden", "Sharing grief"]
-  },
-  {
-    "id": 176,
-    "text": "What are the individuals who collect, comment on, and promote hadiths called?",
-    "options": ["#Muhaddith", "Imam", "Mufti", "Shaykh"]
-  },
-  {
-    "id": 177,
-    "text": "The two main branches in Islam are…",
-    "options": ["#Sunni Islam and Shi‘a Islam", "Mahayana and Hinayana", "Mithraism and Mazdakism", "Orthodoxy and Catholicism"]
-  },
-  {
-    "id": 178,
-    "text": "The last prophet is…",
-    "options": ["#Muhammad", "Moses", "Jesus the Messiah", "David"]
-  },
-  {
-    "id": 179,
-    "text": "How many pillars (arkan) of Islam are there?",
-    "options": ["#5", "3", "7", "9"]
-  },
-  {
-    "id": 180,
-    "text": "Who are Abu Bakr, Umar, Uthman, and Ali known as in Islamic history?",
-    "options": ["#Caliphs", "The Ansar", "Commanders", "Soldiers"]
-  },
-  {
-    "id": 181,
-    "text": "What is the Sufi doctrine in Islam called?",
-    "options": ["#Sufism", "Yoga", "Tantrism", "Magic"]
-  },
-  {
-    "id": 182,
-    "text": "What does the word “Tafsir” mean?",
-    "options": ["#Interpretation (exegesis) of the Qur’an", "Interpretation of Hadith", "The Arabic form of the Qur’an", "Arabic poetry"]
-  },
-  {
-    "id": 183,
-    "text": "Which period is referred to as the “Golden Age of Hadith Studies” in the Islamic world?",
-    "options": ["#9th–10th centuries", "7th century", "13th century", "11th century"]
-  },
-  {
-    "id": 184,
-    "text": "Who is the author of the work “Al-Jāmiʿ as-Saḥīḥ”?",
-    "options": ["#Imam al-Bukhari", "Imam at-Tirmidhi", "G‘ijduvani", "Ahmad Yassawi"]
-  },
-  {
-    "id": 185,
-    "text": "Which scholar was given the honorary title “Amir of Hadith Science”?",
-    "options": ["#Imam al-Bukhari", "Imam at-Tirmidhi", "G‘ijduvani", "Ahmad Yassawi"]
-  },
-  {
-    "id": 186,
-    "text": "Which is the most widespread form of evil ideas and ideologies?",
-    "options": ["#Religious fanaticism", "Aggression", "Fetishism", "Animism"]
-  },
-  {
-    "id": 187,
-    "text": "In 2007, by which organization was Tashkent awarded the title “Capital of Islamic Culture”?",
-    "options": ["#ISESCO", "NATO", "UN", "UNESCO"]
-  },
-  {
-    "id": 188,
-    "text": "Which resolution did President Sh. Mirziyoyev present at the UN General Assembly on September 20, 2017?",
-    "options": ["#“Enlightenment and Religious Tolerance”", "“Spirituality and Enlightenment”", "“Religious Tolerance”", "“Culture and Development”"]
-  },
-  {
-    "id": 189,
-    "text": "In Uzbekistan, which organization is responsible for holding events related to Islam?",
-    "options": ["#The Muslim Board of Uzbekistan", "Islamic Academy", "Kokaldosh Madrasa", "Oliy Majlis (Parliament)"]
-  },
-  {
-    "id": 190,
-    "text": "When was the resolution proposed by President Sh. Mirziyoyev on September 20, 2017 adopted by the UN?",
-    "options": ["#December 12, 2018", "December 12, 2017", "December 12, 2019", "October 12, 2018"]
-  },
-  {
-    "id": 191,
-    "text": "In which year was the Martyrs’ Memorial Complex (Shahidlar xotirasi xiyoboni) established?",
-    "options": ["#In 2000", "In 2001", "In 2002", "In 2003"]
-  },
-  {
-    "id": 192,
-    "text": "What is fundamentalism?",
-    "options": ["#A religious movement based on strict adherence to the fundamental principles of faith", "A political movement aimed at establishing a religious dictatorship", "A form of extremism based on violence and terror", "A form of religious tradition that preserves historical practices and teachings"]
-  },
-  {
-    "id": 193,
-    "text": "What is terrorism?",
-    "options": ["#The use of violence and threats to achieve political goals", "A religious movement fighting for religious freedom", "A form of extremism based on fanaticism and hatred", "A political movement supporting deep social reforms"]
-  },
-  {
-    "id": 194,
-    "text": "In which religion did the first fundamentalist ideas appear?",
-    "options": ["#Christianity", "Islam", "Judaism", "Buddhism"]
-  },
-  {
-    "id": 195,
-    "text": "Which countries are centers of terrorist activity?",
-    "options": ["#Iraq, Afghanistan, Syria", "USA, Russia, France", "Iran, Egypt, Pakistan", "United Kingdom, Germany, Japan"]
-  },
-  {
-    "id": 196,
-    "text": "What is an “extremist organization”?",
-    "options": ["#A group of people promoting violence and extremist ideas", "A political party contrary to the basic principles of democracy", "A religious movement calling for establishing a religious dictatorship", "An organization engaged in terrorist activities"]
-  },
-  {
-    "id": 197,
-    "text": "What is a “terrorist group”?",
-    "options": ["#A group that uses violence and threats to achieve political goals", "A group of activists fighting for the rights of national minorities", "A religious movement promoting violence and extremism", "A political party opposing the government and its policy"]
-  },
-  {
-    "id": 198,
-    "text": "How many religious denominations (confessions) exist in Uzbekistan today?",
-    "options": ["#16", "14", "15", "17"]
-  },
-  {
-    "id": 199,
-    "text": "What teaching is Krishnaism based on?",
-    "options": ["#Monotheism—recognition of one absolute God, Krishna", "A doctrine based on polytheism", "Monotheism—recognition of one absolute God, Shiva", "A doctrine based on the Vedas and Vedic sources"]
-  },
-  {
-    "id": 200,
-    "text": "When did missionary activity begin among Krishna followers?",
-    "options": ["#In the 1970s", "In the 1920s", "In the 1940s", "In the 1950s"]
-  }
+    {
+      "text": "Who is considered the founder of Protestantism?",
+      "options": [
+        "#Martin Luther",
+        "Augustine",
+        "Paul",
+        "Constantine"
+      ],
+      "id": 1
+    },
+    {
+      "text": "Who is the supreme religious leader in Catholicism?",
+      "options": [
+        "#The Pope",
+        "Patriarch",
+        "Archbishop",
+        "Emperor"
+      ],
+      "id": 2
+    },
+    {
+      "text": "In Orthodoxy, in which languages can worship be conducted?",
+      "options": [
+        "#In national languages",
+        "Only in Latin",
+        "Only in Greek",
+        "Only in English"
+      ],
+      "id": 3
+    },
+    {
+      "text": "A distinctive feature of Protestantism:",
+      "options": [
+        "#Independent interpretation of the Bible",
+        "Veneration of icons and saints",
+        "Use only of Latin",
+        "Recognition of papal authority"
+      ],
+      "id": 4
+    },
+    {
+      "text": "In which centuries did Christianity enter Central Asia?",
+      "options": [
+        "#1st\u20133rd centuries",
+        "6th-7th century",
+        "14th-15th century",
+        "19th century"
+      ],
+      "id": 5
+    },
+    {
+      "text": "Which Christian branch existed in Central Asia in ancient times?",
+      "options": [
+        "#Nestorianism",
+        "Catholicism",
+        "Protestantism",
+        "Lutheranism"
+      ],
+      "id": 6
+    },
+    {
+      "text": "During the Russian Empire, which branch spread widely in the territory of Uzbekistan?",
+      "options": [
+        "#Orthodoxy",
+        "Catholicism",
+        "Protestantism",
+        "Nestorianism"
+      ],
+      "id": 7
+    },
+    {
+      "text": "The Orthodox Church in Tashkent belongs to which Patriarchate?",
+      "options": [
+        "#Moscow",
+        "Rome",
+        "Jerusalem",
+        "Athens"
+      ],
+      "id": 8
+    },
+    {
+      "text": "How is religion defined in the Constitution of Uzbekistan?",
+      "options": [
+        "#Religion is separated from the state",
+        "There is one state religion",
+        "Only one religion is allowed",
+        "Religion is prohibited"
+      ],
+      "id": 9
+    },
+    {
+      "text": "On what basis do Christian communities operate in Uzbekistan?",
+      "options": [
+        "#On the basis of legislation",
+        "Without state oversight",
+        "Only secretly",
+        "As a political party"
+      ],
+      "id": 10
+    },
+    {
+      "text": "The oldest Christian monuments in Central Asia belong to which period?",
+      "options": [
+        "#Early Middle Ages",
+        "Soviet period",
+        "Timurid period",
+        "20th century"
+      ],
+      "id": 11
+    },
+    {
+      "text": "What does the policy of religious tolerance in Uzbekistan aim at today?",
+      "options": [
+        "#Equal treatment of all confessions",
+        "Favoring one religion",
+        "Restricting religion",
+        "Banning religion"
+      ],
+      "id": 12
+    },
+    {
+      "text": "When did the major division in Christianity occur?",
+      "options": [
+        "#1054",
+        "451",
+        "325",
+        "1526"
+      ],
+      "id": 13
+    },
+    {
+      "text": "Select the correct chief cleric of the Catholic Church:",
+      "options": [
+        "#Pope",
+        "Cardinal",
+        "Saint",
+        "Monk"
+      ],
+      "id": 14
+    },
+    {
+      "text": "Which are the main branches of Christianity?",
+      "options": [
+        "#Catholicism, Orthodoxy, Protestantism",
+        "Baptism, Orthodoxy, Fetishism",
+        "Lutheranism, Orthodoxy, Catholicism",
+        "Judaism, Shintoism, Shamanism"
+      ],
+      "id": 15
+    },
+    {
+      "text": "What does the term \u201cChristianity\u201d mean?",
+      "options": [
+        "#Savior",
+        "Enlightened",
+        "Camel driver",
+        "Struggle against evil"
+      ],
+      "id": 16
+    },
+    {
+      "text": "In which part of the Bible is the life and activity of Jesus Christ described?",
+      "options": [
+        "#The New Testament",
+        "The Old Testament",
+        "The Torah",
+        "The Avesta"
+      ],
+      "id": 17
+    },
+    {
+      "text": "What is the name of Jesus Christ\u2019s mother?",
+      "options": [
+        "#Mary",
+        "Hagar",
+        "Asiya",
+        "Fatima"
+      ],
+      "id": 18
+    },
+    {
+      "text": "What are Jesus\u2019s 12 disciples called?",
+      "options": [
+        "#Apostles",
+        "Qadariyyah",
+        "Magians",
+        "Catholics"
+      ],
+      "id": 19
+    },
+    {
+      "text": "Where did Jesus first begin preaching his religious teachings?",
+      "options": [
+        "#Capernaum in Palestine",
+        "Cairo, Egypt",
+        "Greece",
+        "Arabia"
+      ],
+      "id": 20
+    },
+    {
+      "text": "In the Christian rite of anointing with holy oil (chrismation), which oil is used?",
+      "options": [
+        "#Olive oil",
+        "Pistachio oil",
+        "Rosehip oil",
+        "Almond oil"
+      ],
+      "id": 21
+    },
+    {
+      "text": "What is the highest rank of clergy in Christianity?",
+      "options": [
+        "#Bishop (overseer)",
+        "Presbyter (elder)",
+        "Deacon (servant)",
+        "Feudal lord"
+      ],
+      "id": 22
+    },
+    {
+      "text": "Which name refers to the Eastern branch of Christianity meaning \u201ctrue faith\u201d?",
+      "options": [
+        "#Orthodoxy",
+        "Lutheranism",
+        "Catholicism",
+        "Protestantism"
+      ],
+      "id": 23
+    },
+    {
+      "text": "Identify the sacred sources of Christianity:",
+      "options": [
+        "# The Bible",
+        "Avesta",
+        "Psalms",
+        "Kalom"
+      ],
+      "id": 24
+    },
+    {
+      "text": "According to Christianity, how many apostles were there?",
+      "options": [
+        "#12",
+        "13",
+        "4",
+        "16"
+      ],
+      "id": 25
+    },
+    {
+      "text": "What does Christmas celebrate in Christianity?",
+      "options": [
+        "#The birth of Jesus Christ",
+        "Restoration of the Cross",
+        "Baptism of Jesus",
+        "Revelation of the Gospel"
+      ],
+      "id": 26
+    },
+    {
+      "text": "According to the Gospel, Jesus is\u2026",
+      "options": [
+        "#The Son of God",
+        "An apostle",
+        "A saint",
+        "Founder of Buddhism"
+      ],
+      "id": 27
+    },
+    {
+      "text": "Which sacred book was revealed to Jesus Christ?",
+      "options": [
+        "#Injil",
+        "Avesta",
+        "Vedas",
+        "Psalms"
+      ],
+      "id": 28
+    },
+    {
+      "text": "Which articles of the Constitution of Uzbekistan are devoted to religious matters?",
+      "options": [
+        "#Articles 19, 35, and 71",
+        "Articles 37, 44, and 20",
+        "Articles 52, 32, and 117",
+        "Articles 14, 27, and 64"
+      ],
+      "id": 29
+    },
+    {
+      "text": "Where did Islam emerge in the 7th century?",
+      "options": [
+        "#On the Arabian Peninsula",
+        "In Persia",
+        "In Byzantium",
+        "In Egypt"
+      ],
+      "id": 30
+    },
+    {
+      "text": "What type of system prevailed in Arabia at the time Islam emerged?",
+      "options": [
+        "#Tribal system",
+        "Centralized monarchy",
+        "Republic",
+        "Empire"
+      ],
+      "id": 31
+    },
+    {
+      "text": "What is pre-Islamic Arab society called?",
+      "options": [
+        "#Jahiliyyah (Age of Ignorance)",
+        "Renaissance",
+        "Caliphate",
+        "Futuhat"
+      ],
+      "id": 32
+    },
+    {
+      "text": "In which city did Islam originate?",
+      "options": [
+        "#Mecca",
+        "Medina",
+        "Taif",
+        "Jerusalem"
+      ],
+      "id": 33
+    },
+    {
+      "text": "Who is the founder of Islam?",
+      "options": [
+        "#Muhammad (peace be upon him)",
+        "Jesus (peace be upon him)",
+        "Moses (peace be upon him)",
+        "Abraham (peace be upon him)"
+      ],
+      "id": 34
+    },
+    {
+      "text": "What was the main belief in Arabia before Islam?",
+      "options": [
+        "#Polytheism",
+        "Monotheism",
+        "Buddhism",
+        "Zoroastrianism"
+      ],
+      "id": 35
+    },
+    {
+      "text": "What is the first pillar of Islam?",
+      "options": [
+        "#Shahada",
+        "Prayer",
+        "Fasting",
+        "Almsgiving"
+      ],
+      "id": 36
+    },
+    {
+      "text": "Which of the following is NOT one of the Five Pillars of Islam?",
+      "options": [
+        "#Jihad",
+        "Hajj",
+        "Prayer",
+        "Zakat"
+      ],
+      "id": 37
+    },
+    {
+      "text": "How many daily prayers are obligatory in Islam?",
+      "options": [
+        "#Five times",
+        "Three times",
+        "Four times",
+        "Six times"
+      ],
+      "id": 38
+    },
+    {
+      "text": "Which act of worship is performed during the month of Ramadan?",
+      "options": [
+        "#Fasting",
+        "Hajj",
+        "Zakat",
+        "Charity"
+      ],
+      "id": 39
+    },
+    {
+      "text": "What is the obligatory charity given from wealth called?",
+      "options": [
+        "#Zakat",
+        "Fitr",
+        "Vow (Nazr)",
+        "Hajj"
+      ],
+      "id": 40
+    },
+    {
+      "text": "Which act must a capable Muslim perform at least once in a lifetime?",
+      "options": [
+        "#Hajj",
+        "Prayer",
+        "Fasting",
+        "Zakat"
+      ],
+      "id": 41
+    },
+    {
+      "text": "After the death of Muhammad (peace be upon him), the issue of leadership led to the formation of which groups?",
+      "options": [
+        "#Sunnis and Shiites",
+        "Sufis and Salafis",
+        "Maturidis and Ash\u2018aris",
+        "Kharijites and Mu\u2018tazilites"
+      ],
+      "id": 42
+    },
+    {
+      "text": "Which is the largest branch in Islam?",
+      "options": [
+        "#Sunni Islam",
+        "Shiite Islam",
+        "Kharijism",
+        "Ismailism"
+      ],
+      "id": 43
+    },
+    {
+      "text": "Whom do Shiites consider the rightful successor?",
+      "options": [
+        "#Ali",
+        "Abu Bakr",
+        "Umar",
+        "Uthman"
+      ],
+      "id": 44
+    },
+    {
+      "text": "Which movement was the first political-religious group in Islamic history?",
+      "options": [
+        "#Kharijites",
+        "Mu\u2018tazilites",
+        "Sufis",
+        "Ash\u2018aris"
+      ],
+      "id": 45
+    },
+    {
+      "text": "Which of the following is one of the four Sunni legal schools?",
+      "options": [
+        "#Hanafi",
+        "Ja\u2018fari",
+        "Zaydi",
+        "Ismaili"
+      ],
+      "id": 46
+    },
+    {
+      "text": "Which Sunni school is most widespread in Central Asia?",
+      "options": [
+        "#Hanafi",
+        "Maliki",
+        "Shafi\u2018i",
+        "Hanbali"
+      ],
+      "id": 47
+    },
+    {
+      "text": "When did Islam emerge?",
+      "options": [
+        "#In the 7th century CE",
+        "5th century BCE",
+        "6th century CE",
+        "4th century CE"
+      ],
+      "id": 48
+    },
+    {
+      "text": "What is a Hadith?",
+      "options": [
+        "#A report, statement, or tradition of the Prophet",
+        "A moral treatise",
+        "A scientific work",
+        "A collection of legends"
+      ],
+      "id": 49
+    },
+    {
+      "text": "What is the sacred book of Islam called?",
+      "options": [
+        "#The Qur\u2019an",
+        "Ijma",
+        "Hadith",
+        "Qiyas"
+      ],
+      "id": 50
+    },
+    {
+      "text": "What is the essence of Sharia?",
+      "options": [
+        "#Islamic law",
+        "Collection of hadiths",
+        "Sacred book of Islam",
+        "Ritual practice of Islam"
+      ],
+      "id": 51
+    },
+    {
+      "text": "Sources of Sharia in Islamic jurisprudence:",
+      "options": [
+        "#Qur\u2019an, Hadith, Ijma, Qiyas",
+        "Hadith, Ijma, Talmud",
+        "Qur\u2019an, Hadith, Reports",
+        "Ijma, Qiyas, Reports"
+      ],
+      "id": 52
+    },
+    {
+      "text": "How many days is fasting observed in Islam?",
+      "options": [
+        "#30 days",
+        "38 days",
+        "70 days",
+        "40 days"
+      ],
+      "id": 53
+    },
+    {
+      "text": "What is Islamic jurisprudence called?",
+      "options": [
+        "#Fiqh",
+        "Kalam",
+        "Tafsir",
+        "Sharia"
+      ],
+      "id": 54
+    },
+    {
+      "text": "What does Marghinani\u2019s work \u201cHidaya\u201d mean?",
+      "options": [
+        "#Guidance",
+        "Long path",
+        "Necessary advice",
+        "Treasure of meanings"
+      ],
+      "id": 55
+    },
+    {
+      "text": "Which of Marghinani\u2019s works has remained an authoritative legal source since the 12th century?",
+      "options": [
+        "#Hidaya",
+        "Walidiya",
+        "Sab\u2019ai Sayyor",
+        "Gulistan"
+      ],
+      "id": 56
+    },
+    {
+      "text": "Who said: \u201cLet your heart be with Allah and your hands in work\u201d?",
+      "options": [
+        "#Bahauddin Naqshband",
+        "Alisher Navoi",
+        "Ahmad Yassavi",
+        "Isa at-Tirmidhi"
+      ],
+      "id": 57
+    },
+    {
+      "text": "\u201cEducation for us is a matter of life or death, salvation or destruction\u2026\u201d \u2014 whose words are these?",
+      "options": [
+        "#Abdulla Avloniy",
+        "Usmon Nosir",
+        "Alisher Navoi",
+        "Abdurauf Fitrat"
+      ],
+      "id": 58
+    },
+    {
+      "text": "What is the literal meaning of the word \u201cRiba\u201d?",
+      "options": [
+        "#\u201cExcess\u201d",
+        "Limit",
+        "Blessing",
+        "Right"
+      ],
+      "id": 59
+    },
+    {
+      "text": "Which method is used in Islamic finance for external trade?",
+      "options": [
+        "#Murabaha",
+        "Istisna",
+        "Musharaka or Mudaraba",
+        "Deferred payment (Nasiya)"
+      ],
+      "id": 60
+    },
+    {
+      "text": "Who became the first caliph after the Prophet\u2019s death?",
+      "options": [
+        "#Abu Bakr",
+        "Umar ibn al-Khattab",
+        "Uthman ibn Affan",
+        "Ali ibn Abi Talib"
+      ],
+      "id": 61
+    },
+    {
+      "text": "What does the word \u201cDin\u201d mean in Arabic?",
+      "options": [
+        "#To believe / faith",
+        "Purity",
+        "Freedom",
+        "Doctrine"
+      ],
+      "id": 62
+    },
+    {
+      "text": "Who was elected as the fourth leader of the Muslim state?",
+      "options": [
+        "#Ali ibn Abu Talib",
+        "Uthman ibn Affan",
+        "Umar ibn al-Khattab",
+        "Abu Bakr"
+      ],
+      "id": 63
+    },
+    {
+      "text": "What does the word \u201cFiqh\u201d mean?",
+      "options": [
+        "#\u201cdeep understanding,\u201d \u201cknowledge\u201d",
+        "\u201c \u201cto feel,\u201d \u201clearning\u201d",
+        "\u201c to comprehend,\u201d \u201cto sense with the heart\u201d",
+        "\u201c to understand,\u201d \u201cto respect\u201d"
+      ],
+      "id": 64
+    },
+    {
+      "text": "Which of the following sets includes the primary sources of Fiqh?",
+      "options": [
+        "#The Qur\u2019an, the Sunnah, Ijma\u2018, and Qiyas",
+        "The Qur\u2019an, the Sunnah, and Ijma\u2018",
+        "The Qur\u2019an, the Sunnah, and Qiyas",
+        "The Sunnah, Ijma\u2018, and Qiyas"
+      ],
+      "id": 65
+    },
+    {
+      "text": "Where is the Sacred Ka\u2018bah located?",
+      "options": [
+        "#In Mecca",
+        "In Medina",
+        "In Baghdad",
+        "In Urgench"
+      ],
+      "id": 66
+    },
+    {
+      "text": "What is Qurb\u0101n (sacrificial offering)?",
+      "options": [
+        "#A ritual dedicated for the sake of God",
+        "Fetish",
+        "Tradition",
+        "Game"
+      ],
+      "id": 67
+    },
+    {
+      "text": "A prophet is\u2026?",
+      "options": [
+        "#A messenger of Allah",
+        "The founder of Confucianism",
+        "A servant of various rituals",
+        "A fire-worshipper"
+      ],
+      "id": 68
+    },
+    {
+      "text": "The ancient belief of the Turkic peoples was\u2026?",
+      "options": [
+        "#Tengri",
+        "Allah",
+        "Umay",
+        "Fire-worship"
+      ],
+      "id": 69
+    },
+    {
+      "text": "How many surahs are there in the Qur\u2019an?",
+      "options": [
+        "#114",
+        "6236",
+        "286",
+        "3334"
+      ],
+      "id": 70
+    },
+    {
+      "text": "Where did Islam originate?",
+      "options": [
+        "#On the Arabian Peninsula",
+        "In Egypt",
+        "In Turkey",
+        "In Asia Minor"
+      ],
+      "id": 71
+    },
+    {
+      "text": "What does the word \u201cAyah\u201d mean?",
+      "options": [
+        "#A divine sign, a miracle",
+        "Section, parts of Quran",
+        "Book, holy information",
+        "Legend, stories"
+      ],
+      "id": 72
+    },
+    {
+      "text": "Where was Muhammad (peace be upon him) born?",
+      "options": [
+        "#In Mecca",
+        "In Medina",
+        "In Mashhad",
+        "In Hijaz"
+      ],
+      "id": 73
+    },
+    {
+      "text": "What is the meaning of the word \u201cSufism\u201d?",
+      "options": [
+        "#Thick, coarse cloth",
+        "Everyday clothing",
+        "An indifferent person",
+        "A dervish"
+      ],
+      "id": 74
+    },
+    {
+      "text": "What is the foundation of Sufi teaching?",
+      "options": [
+        "#Love for Allah",
+        "Self-love of the individual",
+        "Knowing what God has forbidden",
+        "Sharing grief"
+      ],
+      "id": 75
+    },
+    {
+      "text": "What are the individuals who collect, comment on, and promote hadiths called?",
+      "options": [
+        "#Muhaddith",
+        "Imam",
+        "Mufti",
+        "Shaykh"
+      ],
+      "id": 76
+    },
+    {
+      "text": "The two main branches in Islam are\u2026",
+      "options": [
+        "#Sunni Islam and Shi\u2018a Islam",
+        "Mahayana and Hinayana",
+        "Mithraism and Mazdakism",
+        "Orthodoxy and Catholicism"
+      ],
+      "id": 77
+    },
+    {
+      "text": "The last prophet is\u2026",
+      "options": [
+        "#Muhammad",
+        "Moses",
+        "Jesus the Messiah",
+        "David"
+      ],
+      "id": 78
+    },
+    {
+      "text": "How many pillars (arkan) of Islam are there?",
+      "options": [
+        "#5",
+        "3",
+        "7",
+        "9"
+      ],
+      "id": 79
+    },
+    {
+      "text": "Who are Abu Bakr, Umar, Uthman, and Ali known as in Islamic history?",
+      "options": [
+        "#Caliphs",
+        "The Ansar",
+        "Commanders",
+        "Soldiers"
+      ],
+      "id": 80
+    },
+    {
+      "text": "What is the Sufi doctrine in Islam called?",
+      "options": [
+        "#Sufism",
+        "Yoga",
+        "Tantrism",
+        "Magic"
+      ],
+      "id": 81
+    },
+    {
+      "text": "What does the word \u201cTafsir\u201d mean?",
+      "options": [
+        "#Interpretation (exegesis) of the Qur\u2019an",
+        "Interpretation of Hadith",
+        "The Arabic form of the Qur\u2019an",
+        "Arabic poetry"
+      ],
+      "id": 82
+    },
+    {
+      "text": "Which period is referred to as the \u201cGolden Age of Hadith Studies\u201d in the Islamic world?",
+      "options": [
+        "#9th\u201310th centuries",
+        "7th century",
+        "13th century",
+        "11th century"
+      ],
+      "id": 83
+    },
+    {
+      "text": "Who is the author of the work \u201cAl-J\u0101mi\u02bf as-Sa\u1e25\u012b\u1e25\u201d?",
+      "options": [
+        "#Imam al-Bukhari",
+        "Imam at-Tirmidhi",
+        "G\u2018ijduvani",
+        "Ahmad Yassawi"
+      ],
+      "id": 84
+    },
+    {
+      "text": "Which scholar was given the honorary title \u201cAmir of Hadith Science\u201d?",
+      "options": [
+        "#Imam al-Bukhari",
+        "Imam at-Tirmidhi",
+        "G\u2018ijduvani",
+        "Ahmad Yassawi"
+      ],
+      "id": 85
+    },
+    {
+      "text": "Which is the most widespread form of evil ideas and ideologies?",
+      "options": [
+        "#Religious fanaticism",
+        "Aggression",
+        "Fetishism",
+        "Animism"
+      ],
+      "id": 86
+    },
+    {
+      "text": "In 2007, by which organization was Tashkent awarded the title \u201cCapital of Islamic Culture\u201d?\",",
+      "options": [
+        "#ISESCO",
+        "NATO",
+        "UN",
+        "UNESCO"
+      ],
+      "id": 87
+    },
+    {
+      "text": "Which resolution did President Sh. Mirziyoyev present at the UN General Assembly on September 20, 2017?",
+      "options": [
+        "#\u201cEnlightenment and Religious Tolerance\u201d",
+        "\u201cSpirituality and Enlightenment\u201d",
+        "\u201cReligious Tolerance\u201d",
+        "\u201cCulture and Development\u201d"
+      ],
+      "id": 88
+    },
+    {
+      "text": "In Uzbekistan, which organization is responsible for holding events related to Islam?",
+      "options": [
+        "#The Muslim Board of Uzbekistan",
+        "Islamic Academy",
+        "Kokaldosh Madrasa",
+        "Oliy Majlis (Parliament)"
+      ],
+      "id": 89
+    },
+    {
+      "text": "When was the resolution proposed by President Sh. Mirziyoyev on September 20, 2017 adopted by the UN?",
+      "options": [
+        "#December 12, 2018",
+        "December 12, 2017",
+        "December 12, 2019",
+        "October 12, 2018"
+      ],
+      "id": 90
+    },
+    {
+      "text": "In which year was the Martyrs\u2019 Memorial Complex (Shahidlar xotirasi xiyoboni) established?",
+      "options": [
+        "#In 2000",
+        "In 2001",
+        "In 2002",
+        "In 2003"
+      ],
+      "id": 91
+    },
+    {
+      "text": "What is fundamentalism?",
+      "options": [
+        "#A religious movement based on strict adherence to the fundamental principles of faith",
+        "A political movement aimed at establishing a religious dictatorship",
+        "A form of extremism based on violence and terror",
+        "A form of religious tradition that preserves historical practices and teachings"
+      ],
+      "id": 92
+    },
+    {
+      "text": "What is terrorism?",
+      "options": [
+        "#The use of violence and threats to achieve political goals",
+        "A religious movement fighting for religious freedom",
+        "A form of extremism based on fanaticism and hatred",
+        "A political movement supporting deep social reforms"
+      ],
+      "id": 93
+    },
+    {
+      "text": "In which religion did the first fundamentalist ideas appear?",
+      "options": [
+        "#Christianity",
+        "Islam",
+        "Judaism",
+        "Buddhism"
+      ],
+      "id": 94
+    },
+    {
+      "text": "Which countries are centers of terrorist activity?",
+      "options": [
+        "#Iraq, Afghanistan, Syria",
+        "USA, Russia, France",
+        "Iran, Egypt, Pakistan",
+        "United Kingdom, Germany, Japan"
+      ],
+      "id": 95
+    },
+    {
+      "text": "What is an \u201cextremist organization\u201d?",
+      "options": [
+        "#A group of people promoting violence and extremist ideas",
+        "A political party contrary to the basic principles of democracy",
+        "A religious movement calling for establishing a religious dictatorship",
+        "An organization engaged in terrorist activities"
+      ],
+      "id": 96
+    },
+    {
+      "text": "What is a \u201cterrorist group\u201d?",
+      "options": [
+        "#A group that uses violence and threats to achieve political goals",
+        "A group of activists fighting for the rights of national minorities",
+        "A religious movement promoting violence and extremism",
+        "A political party opposing the government and its policy"
+      ],
+      "id": 97
+    },
+    {
+      "text": "How many religious denominations (confessions) exist in Uzbekistan today?",
+      "options": [
+        "#16",
+        "14",
+        "15",
+        "17"
+      ],
+      "id": 98
+    },
+    {
+      "text": "What teaching is Krishnaism based on?",
+      "options": [
+        "#Monotheism\u2014recognition of one absolute God, Krishna",
+        "A doctrine based on polytheism",
+        "Monotheism\u2014recognition of one absolute God, Shiva",
+        "A doctrine based on the Vedas and Vedic sources"
+      ],
+      "id": 99
+    },
+    {
+      "text": "When did missionary activity begin among Krishna followers?",
+      "options": [
+        "#In the 1970s",
+        "In the 1920s",
+        "In the 1940s",
+        "In the 1950s"
+      ],
+      "id": 100
+    },
+    {
+      "text": "Missionary work is\u2026?",
+      "options": [
+        "#(from Latin \u201cmissio\u201d \u2013 \u201csending\u201d, \u201cassignment\u201d) \u2026",
+        "(from Greek \u201cmissio\u201d \u2013 \u201csending\u201d, \u201cinforming\u201d) \u2026",
+        "(from English \u201cmissio\u201d \u2013 \u201csending\u201d, \u201cexplaining\u201d) \u2026",
+        "(from Persian \u201cmissio\u201d \u2013 \u201csending\u201d, \u201cpromoting\u201d) \u2026"
+      ],
+      "id": 101
+    },
+    {
+      "text": "When and where was the Organization of Islamic Cooperation founded?",
+      "options": [
+        "#Founded on September 25, 1969 in Rabat, Morocco",
+        "Founded on September 20, 1969 in Rabat, Morocco",
+        "Founded on September 25, 1959 in Rabat, Morocco",
+        "Founded on September 23, 1971 in Rabat, Morocco"
+      ],
+      "id": 102
+    },
+    {
+      "text": "Where is the headquarters of the Organization of Islamic Cooperation located?",
+      "options": [
+        "#In Jeddah, Saudi Arabia",
+        "In Mecca, Saudi Arabia",
+        "In Riyadh, Saudi Arabia",
+        "In Medina, Saudi Arabia"
+      ],
+      "id": 103
+    },
+    {
+      "text": "When did Uzbekistan join the Organization of Islamic Cooperation?",
+      "options": [
+        "#Joined in 1996",
+        "Joined in 1992",
+        "Joined in 1998",
+        "Joined in 1997"
+      ],
+      "id": 104
+    }
   ]
 }

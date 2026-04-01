@@ -1,504 +1,1033 @@
 {
   "questions": [
     {
-      "id": 1,
       "text": "In what does the essence of religion manifest itself?",
-      "options": ["#In faith and belief in a divine power", "Only in rituals", "Only in moral rules", "Only in ancient customs"]
+      "options": [
+        "#In faith and belief in a divine power",
+        "Only in rituals",
+        "Only in moral rules",
+        "Only in ancient customs"
+      ],
+      "id": 1
     },
     {
-      "id": 2,
       "text": "What function does religion perform in society?",
-      "options": ["#Spiritual and moral regulation", "Only political control", "Only economic management", "Only scientific research"]
+      "options": [
+        "#Spiritual and moral regulation",
+        "Only political control",
+        "Only economic management",
+        "Only scientific research"
+      ],
+      "id": 2
     },
     {
-      "id": 3,
       "text": "What does the integrative function of religion mean?",
-      "options": ["#Uniting social groups", "Dividing society", "Only organizing worship", "Strengthening political struggle"]
+      "options": [
+        "#Uniting social groups",
+        "Dividing society",
+        "Only organizing worship",
+        "Strengthening political struggle"
+      ],
+      "id": 3
     },
     {
-      "id": 4,
       "text": "What does the compensatory function of religion indicate?",
-      "options": ["#Providing spiritual consolation", "Providing material wealth", "Strengthening political power", "Creating a scientific theory"]
+      "options": [
+        "#Providing spiritual consolation",
+        "Providing material wealth",
+        "Strengthening political power",
+        "Creating a scientific theory"
+      ],
+      "id": 4
     },
     {
-      "id": 5,
       "text": "What does the worldview function of religion serve?",
-      "options": ["#Explaining the meaning of human life", "Only economic benefit", "Technological progress", "Sports activity"]
+      "options": [
+        "#Explaining the meaning of human life",
+        "Only economic benefit",
+        "Technological progress",
+        "Sports activity"
+      ],
+      "id": 5
     },
     {
-      "id": 6,
       "text": "What is the subject of Religious Studies (Dinshunoslik)?",
-      "options": ["#The origin, development, and essence of religions", "Only rules of worship", "Political systems", "Only the history of philosophy"]
+      "options": [
+        "#The origin, development, and essence of religions",
+        "Only rules of worship",
+        "Political systems",
+        "Only the history of philosophy"
+      ],
+      "id": 6
     },
     {
-      "id": 7,
       "text": "The main task of Religious Studies is:",
-      "options": ["#To study religions on a scientific basis", "To promote religion", "To deny religion", "To make political decisions"]
+      "options": [
+        "#To study religions on a scientific basis",
+        "To promote religion",
+        "To deny religion",
+        "To make political decisions"
+      ],
+      "id": 7
     },
     {
-      "id": 8,
       "text": "Religious Studies is connected with which disciplines?",
-      "options": ["#Philosophy, history, sociology", "Only mathematics, art, history", "Mathematics, physics, history", "Astronomy, physics, sociology"]
+      "options": [
+        "#Philosophy, history, sociology",
+        "Only mathematics, art, history",
+        "Mathematics, physics, history",
+        "Astronomy, physics, sociology"
+      ],
+      "id": 8
     },
     {
-      "id": 9,
-      "text": "What does the concept of “belief” mean?",
-      "options": ["#Faith", "Doubt", "Only ritual", "Law"]
+      "text": "What does the concept of \u201cbelief\u201d mean?",
+      "options": [
+        "#Faith",
+        "Doubt",
+        "Only ritual",
+        "Law"
+      ],
+      "id": 9
     },
     {
-      "id": 10,
       "text": "In studying religions, what does the comparative method mean?",
-      "options": ["#Comparing different religions", "Studying only one religion", "Memorizing only historical dates", "Studying only rituals"]
+      "options": [
+        "#Comparing different religions",
+        "Studying only one religion",
+        "Memorizing only historical dates",
+        "Studying only rituals"
+      ],
+      "id": 10
     },
     {
-      "id": 11,
       "text": "What is the historical method based on?",
-      "options": ["#Studying the historical development of religion", "Modern politics", "Only economic factors", "Random ideas"]
+      "options": [
+        "#Studying the historical development of religion",
+        "Modern politics",
+        "Only economic factors",
+        "Random ideas"
+      ],
+      "id": 11
     },
     {
-      "id": 12,
       "text": "What does the sociological approach study?",
-      "options": ["#The relationship of religion with society", "Only personal feelings", "Only ancient myths", "Natural phenomena"]
+      "options": [
+        "#The relationship of religion with society",
+        "Only personal feelings",
+        "Only ancient myths",
+        "Natural phenomena"
+      ],
+      "id": 12
     },
     {
-      "id": 13,
       "text": "What is the psychological method focused on?",
-      "options": ["#The psychological foundations of religious belief", "The political system", "Only economic processes", "Geographical factors"]
+      "options": [
+        "#The psychological foundations of religious belief",
+        "The political system",
+        "Only economic processes",
+        "Geographical factors"
+      ],
+      "id": 13
     },
     {
-      "id": 14,
       "text": "What is totemism?",
-      "options": ["#Considering a particular animal or plant as sacred", "Polytheism", "Belief in one God", "Only sorcery"]
+      "options": [
+        "#Considering a particular animal or plant as sacred",
+        "Polytheism",
+        "Belief in one God",
+        "Only sorcery"
+      ],
+      "id": 14
     },
     {
-      "id": 15,
       "text": "What does the concept of animism mean?",
-      "options": ["#Belief in the existence of spirits", "Only worship", "Political power", "Scientific theory"]
+      "options": [
+        "#Belief in the existence of spirits",
+        "Only worship",
+        "Political power",
+        "Scientific theory"
+      ],
+      "id": 15
     },
     {
-      "id": 16,
       "text": "What is fetishism?",
-      "options": ["#Belief that objects possess supernatural power", "Worship of natural forces", "Polytheism", "Monotheism"]
+      "options": [
+        "#Belief that objects possess supernatural power",
+        "Worship of natural forces",
+        "Polytheism",
+        "Monotheism"
+      ],
+      "id": 16
     },
     {
-      "id": 17,
       "text": "In shamanism, who is considered the main figure?",
-      "options": ["#A priest-mediator (shaman)", "A king", "A merchant", "A scholar"]
+      "options": [
+        "#A priest-mediator (shaman)",
+        "A king",
+        "A merchant",
+        "A scholar"
+      ],
+      "id": 17
     },
     {
-      "id": 18,
       "text": "Primitive religious views were mainly connected with what?",
-      "options": ["#Explaining natural phenomena", "Technological progress", "Religious rituals", "Customs"]
+      "options": [
+        "#Explaining natural phenomena",
+        "Technological progress",
+        "Religious rituals",
+        "Customs"
+      ],
+      "id": 18
     },
     {
-      "id": 19,
       "text": "Which of the following are the main historical types of religion?",
-      "options": ["#Tribal (clan-tribal), national, and world religions", "Primitive, current, modern", "Buddhism, Christianity, and Islam", "Monotheistic and polytheistic"]
+      "options": [
+        "#Tribal (clan-tribal), national, and world religions",
+        "Primitive, current, modern",
+        "Buddhism, Christianity, and Islam",
+        "Monotheistic and polytheistic"
+      ],
+      "id": 19
     },
     {
-      "id": 20,
       "text": "Deification of inanimate objects is characteristic of which form of religion?",
-      "options": ["#Fetishism", "Totemism", "Animism", "Buddhism"]
+      "options": [
+        "#Fetishism",
+        "Totemism",
+        "Animism",
+        "Buddhism"
+      ],
+      "id": 20
     },
     {
-      "id": 21,
-      "text": "Worship of the личности (person) of tribal leaders is typical of which religions?",
-      "options": ["#Primitive religions", "National religions", "Secular (world) religions", "Fetishism"]
+      "text": "Worship of the \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u0438 (person) of tribal leaders is typical of which religions?",
+      "options": [
+        "#Primitive religions",
+        "National religions",
+        "Secular (world) religions",
+        "Fetishism"
+      ],
+      "id": 21
     },
     {
-      "id": 22,
-      "text": "The term “totemism” came from which peoples?",
-      "options": ["#From the language of the “Ojibwe” tribe living in North America", "From the Inca tribes in South America", "From ancient Germanic tribes in Europe", "From the language of ancient Assyrian peoples"]
+      "text": "The term \u201ctotemism\u201d came from which peoples?",
+      "options": [
+        "#From the language of the \u201cOjibwe\u201d tribe living in North America",
+        "From the Inca tribes in South America",
+        "From ancient Germanic tribes in Europe",
+        "From the language of ancient Assyrian peoples"
+      ],
+      "id": 22
     },
     {
-      "id": 23,
       "text": "What is the core essence of totemism?",
-      "options": ["#Belief that humans have kinship with animals and plants", "Belief in the existence of souls and spirits in nature", "Belief in the oneness of nature and God", "Worship of various stones, ornaments, and amulets"]
+      "options": [
+        "#Belief that humans have kinship with animals and plants",
+        "Belief in the existence of souls and spirits in nature",
+        "Belief in the oneness of nature and God",
+        "Worship of various stones, ornaments, and amulets"
+      ],
+      "id": 23
     },
     {
-      "id": 24,
-      "text": "What is the meaning of “animism”?",
-      "options": ["#Latin: spirit, soul", "Persian: belief in objects and things", "Greek: nature and God", "Chinese: pure heart"]
+      "text": "What is the meaning of \u201canimism\u201d?",
+      "options": [
+        "#Latin: spirit, soul",
+        "Persian: belief in objects and things",
+        "Greek: nature and God",
+        "Chinese: pure heart"
+      ],
+      "id": 24
     },
     {
-      "id": 25,
-      "text": "From which language is the term “fetishism” derived?",
-      "options": ["#French", "Italian", "Spanish", "English"]
+      "text": "From which language is the term \u201cfetishism\u201d derived?",
+      "options": [
+        "#French",
+        "Italian",
+        "Spanish",
+        "English"
+      ],
+      "id": 25
     },
     {
-      "id": 26,
-      "text": "What does the word “shaman” mean?",
-      "options": ["#A Tungusic word meaning “an ecstatic person”", "A Chinese word meaning “one who looks to the sky”", "A Turkic word meaning “fire-worshipper”", "A Russian word meaning “Blue Tengri”"]
+      "text": "What does the word \u201cshaman\u201d mean?",
+      "options": [
+        "#A Tungusic word meaning \u201can ecstatic person\u201d",
+        "A Chinese word meaning \u201cone who looks to the sky\u201d",
+        "A Turkic word meaning \u201cfire-worshipper\u201d",
+        "A Russian word meaning \u201cBlue Tengri\u201d"
+      ],
+      "id": 26
     },
     {
-      "id": 27,
       "text": "Which is the sacred book of Judaism?",
-      "options": ["#The Torah", "The Bible", "The Qur’an", "The Vedas"]
+      "options": [
+        "#The Torah",
+        "The Bible",
+        "The Qur\u2019an",
+        "The Vedas"
+      ],
+      "id": 27
     },
     {
-      "id": 28,
       "text": "In which region did Judaism take shape?",
-      "options": ["#Ancient Palestine", "India", "Arabia", "China"]
+      "options": [
+        "#Ancient Palestine",
+        "India",
+        "Arabia",
+        "China"
+      ],
+      "id": 28
     },
     {
-      "id": 29,
       "text": "The main idea of Judaism is:",
-      "options": ["#Monotheism", "Polytheism", "Atheism", "Pantheism"]
+      "options": [
+        "#Monotheism",
+        "Polytheism",
+        "Atheism",
+        "Pantheism"
+      ],
+      "id": 29
     },
     {
-      "id": 30,
       "text": "What is a place of worship in Judaism called?",
-      "options": ["#Synagogue", "Church", "Mosque", "Castle"]
+      "options": [
+        "#Synagogue",
+        "Church",
+        "Mosque",
+        "Castle"
+      ],
+      "id": 30
     },
     {
-      "id": 31,
       "text": "Who is recognized as the founder of Judaism?",
-      "options": ["#Moses the prophet", "Jesus the teacher", "Muhammad the messenger", "Buddha the sage"]
+      "options": [
+        "#Moses the prophet",
+        "Jesus the teacher\n====\nMuhammad the messenger",
+        "Buddha the sage"
+      ],
+      "id": 31
     },
     {
-      "id": 32,
       "text": "The Vedas are an ancient sacred heritage of which people?",
-      "options": ["#Indians", "Chinese", "Jews", "Arabs"]
+      "options": [
+        "#Indians",
+        "Chinese",
+        "Jews",
+        "Arabs"
+      ],
+      "id": 32
     },
     {
-      "id": 33,
       "text": "What do the Upanishads mainly address?",
-      "options": ["#Philosophical and metaphysical ideas", "Military laws", "A political program", "Commercial rules"]
+      "options": [
+        "#Philosophical and metaphysical ideas",
+        "Military laws",
+        "A political program",
+        "Commercial rules"
+      ],
+      "id": 33
     },
     {
-      "id": 34,
-      "text": "In Hinduism, what is the concept of “karma”?",
-      "options": ["#Action and its consequence", "Fate", "Law", "Worship"]
+      "text": "In Hinduism, what is the concept of \u201ckarma\u201d?",
+      "options": [
+        "#Fate",
+        "Law",
+        "Action and its consequence",
+        "Worship"
+      ],
+      "id": 34
     },
     {
-      "id": 35,
       "text": "In Hinduism, who are included in the main trinity (Trimurti)?",
-      "options": ["#Brahma, Vishnu, Shiva", "Buddha, Confucius, Laozi", "Moses, Jesus, Muhammad", "Amun, Ra, Osiris"]
+      "options": [
+        "#Brahma, Vishnu, Shiva",
+        "Buddha, Confucius, Laozi",
+        "Moses, Jesus, Muhammad",
+        "Amun, Ra, Osiris"
+      ],
+      "id": 35
     },
     {
-      "id": 36,
       "text": "In Hinduism, what is the rebirth of the soul called?",
-      "options": ["#Samsara", "Nirvana", "Revelation", "Sharia"]
+      "options": [
+        "#Samsara",
+        "Nirvana",
+        "Revelation",
+        "Sharia"
+      ],
+      "id": 36
     },
     {
-      "id": 37,
       "text": "Who is the founder of Confucianism?",
-      "options": ["#Confucius", "Laozi", "Buddha", "Zhuangzi"]
+      "options": [
+        "#Confucius",
+        "Laozi",
+        "Buddha",
+        "Zhuangzi"
+      ],
+      "id": 37
     },
     {
-      "id": 38,
       "text": "In Confucianism, the main emphasis is on:",
-      "options": ["#Moral education and social order", "Secrets of nature", "Magic", "The world of spirits"]
+      "options": [
+        "#Moral education and social order",
+        "Secrets of nature",
+        "Magic",
+        "The world of spirits"
+      ],
+      "id": 38
     },
     {
-      "id": 39,
       "text": "The founder of Daoism is:",
-      "options": ["#Laozi", "Confucius", "Buddha", "Moses"]
+      "options": [
+        "#Laozi",
+        "Confucius",
+        "Buddha",
+        "Moses"
+      ],
+      "id": 39
     },
     {
-      "id": 40,
-      "text": "In Daoism, what does the concept of “Dao” mean?",
-      "options": ["#The universal Way", "Religious legal doctrine", "Formal ritual worship", "Royal governing power"]
+      "text": "In Daoism, what does the concept of \u201cDao\u201d mean?",
+      "options": [
+        "#The universal Way",
+        "Religious legal doctrine",
+        "Formal ritual worship",
+        "Royal governing power"
+      ],
+      "id": 40
     },
     {
-      "id": 41,
-      "text": "What does the Yin–Yang symbol represent?",
-      "options": ["#Harmony of opposing forces", "Only goodness", "A political system", "A religious ritual"]
+      "text": "What does the Yin\u2013Yang symbol represent?",
+      "options": [
+        "#Harmony of opposing forces",
+        "Only goodness",
+        "A political system",
+        "A religious ritual"
+      ],
+      "id": 41
     },
     {
-      "id": 42,
       "text": "Shintoism is the national religion of which country?",
-      "options": ["#Japan", "China", "India", "Korea"]
+      "options": [
+        "#Japan",
+        "China",
+        "India",
+        "Korea"
+      ],
+      "id": 42
     },
     {
-      "id": 43,
-      "text": "In Shintoism, what does the concept of “kami” mean?",
-      "options": ["#Sacred spiritual beings", "Divine imperial authority", "Religious legal system", "Holy canonical scripture"]
+      "text": "In Shintoism, what does the concept of \u201ckami\u201d mean?",
+      "options": [
+        "#Sacred spiritual beings",
+        "Divine imperial authority",
+        "Religious legal system",
+        "Holy canonical scripture"
+      ],
+      "id": 43
     },
     {
-      "id": 44,
       "text": "Shintoism is mainly based on:",
-      "options": ["#Worship of nature and ancestral spirits", "Monotheism", "Atheism", "Only morality"]
+      "options": [
+        "#Worship of nature and ancestral spirits",
+        "Monotheism",
+        "Atheism",
+        "Only morality"
+      ],
+      "id": 44
     },
     {
-      "id": 45,
       "text": "What are Shinto shrines called?",
-      "options": ["#Jinja", "Pagoda", "Church", "Mosque"]
+      "options": [
+        "#Jinja",
+        "Pagoda",
+        "Church",
+        "Mosque"
+      ],
+      "id": 45
     },
     {
-      "id": 46,
       "text": "One of the sacred written sources in Shintoism is:",
-      "options": ["#“Kojiki”", "The Qur’an", "The Bible", "The Vedas"]
+      "options": [
+        "#\u201cKojiki\u201d",
+        "The Qur\u2019an",
+        "The Bible",
+        "The Vedas"
+      ],
+      "id": 46
     },
     {
-      "id": 47,
       "text": "Who is considered the founder of Zoroastrianism?",
-      "options": ["#Zoroaster", "Buddha", "Confucius", "Moses"]
+      "options": [
+        "#Zoroaster",
+        "Buddha",
+        "Confucius",
+        "Moses"
+      ],
+      "id": 47
     },
     {
-      "id": 48,
       "text": "The sacred book of Zoroastrianism is:",
-      "options": ["#The Avesta", "The Torah", "The Vedas", "The Tripitaka"]
+      "options": [
+        "#The Avesta",
+        "The Torah",
+        "The Vedas",
+        "The Tripitaka"
+      ],
+      "id": 48
     },
     {
-      "id": 49,
       "text": "In Zoroastrianism, the struggle between good and evil is between whom?",
-      "options": ["#Ahura Mazda and Ahriman", "Brahma and Shiva", "Yin and Yang", "Kami and the Emperor"]
+      "options": [
+        "#Ahura Mazda and Ahriman",
+        "Brahma and Shiva",
+        "Yin and Yang",
+        "Kami and the Emperor"
+      ],
+      "id": 49
     },
     {
-      "id": 50,
       "text": "In which region was Zoroastrianism widely spread?",
-      "options": ["#Central Asia and Iran", "Japan, Korea", "China, Tibet", "India, Egypt"]
+      "options": [
+        "#Central Asia and Iran",
+        "Japan, Korean",
+        "China, Tibet",
+        "India, Egypt"
+      ],
+      "id": 50
     },
     {
-      "id": 51,
       "text": "In Zoroastrianism, what is revered as the most sacred element?",
-      "options": ["#Fire", "Water", "Earth", "Air"]
+      "options": [
+        "#Fire",
+        "Water",
+        "Earth",
+        "Air"
+      ],
+      "id": 51
     },
     {
-      "id": 52,
       "text": "Which of the following is considered a national religion?",
-      "options": ["#Judaism", "Christianity", "Islam", "Buddhism"]
+      "options": [
+        "#Judaism",
+        "Christianity",
+        "Islam",
+        "Buddhism"
+      ],
+      "id": 52
     },
     {
-      "id": 53,
       "text": "Polytheism is a religion of:",
-      "options": ["#Belief in many gods", "Belief in one God", "Godlessness (atheism)", "Worshipping two religions at the same time"]
+      "options": [
+        "#Belief in many gods",
+        "Belief in one God",
+        "Godlessness (atheism)",
+        "Worshipping two religions at the same time"
+      ],
+      "id": 53
     },
     {
-      "id": 54,
-      "text": "Which term means “the doctrine about God”?",
-      "options": ["#Theology", "Philosophy", "Religious Studies", "Sociology"]
+      "text": "Which term means \u201cthe doctrine about God\u201d?",
+      "options": [
+        "#Theology",
+        "Philosophy",
+        "Religious Studies",
+        "Sociology"
+      ],
+      "id": 54
     },
     {
-      "id": 55,
       "text": "Which of the following are world religions?",
-      "options": ["#Buddhism, Christianity, Islam", "Islam, Judaism, Shintoism", "Christianity, Hinduism, Zoroastrianism", "Buddhism, Baptism, Fetishism"]
+      "options": [
+        "#Buddhism, Christianity, Islam",
+        "Islam, Judaism, Shintoism",
+        "Christianity, Hinduism, Zoroastrianism",
+        "Buddhism, Baptism, Fetishism"
+      ],
+      "id": 55
     },
     {
-      "id": 56,
-      "text": "What is the meaning of the word “Avesta”?",
-      "options": ["#Established sacred teachings", "Collection of hadith reports", "Ancient legendary stories", "Traditional oral folklore"]
+      "text": "What is the meaning of the word \u201cAvesta\u201d?",
+      "options": [
+        "#Established sacred teachings",
+        "Collection of hadith reports",
+        "Ancient legendary stories",
+        "Traditional oral folklore"
+      ],
+      "id": 56
     },
     {
-      "id": 57,
-      "text": "When was the 2700th anniversary of the “Avesta” celebrated?",
-      "options": ["#2001", "1999", "2002", "1998"]
+      "text": "When was the 2700th anniversary of the \u201cAvesta\u201d celebrated?",
+      "options": [
+        "#2001",
+        "1999",
+        "2002",
+        "1998"
+      ],
+      "id": 57
     },
     {
-      "id": 58,
       "text": "Zoroastrianism is based on three principles. Which are they?",
-      "options": ["#Good thoughts, good words, good deeds", "Good thoughts, good words, good sleep", "Good deeds, good actions, clean clothing", "Good words, good deeds, good study"]
+      "options": [
+        "#Good thoughts, good words, good deeds",
+        "Good thoughts, good words, good sleep",
+        "Good deeds, good actions, clean clothing",
+        "Good words, good deeds, good study"
+      ],
+      "id": 58
     },
     {
-      "id": 59,
       "text": "Who is the founder of Buddhism?",
-      "options": ["#Siddhartha Gautama", "Confucius", "Zoroaster", "Laozi"]
+      "options": [
+        "#Siddhartha Gautama",
+        "Confucius",
+        "Zoroaster",
+        "Laozi"
+      ],
+      "id": 59
     },
     {
-      "id": 60,
       "text": "In which centuries did Buddhism emerge?",
-      "options": ["#6th–5th centuries BCE", "1st-2nd centuries CE", "6th-7th centuries CE", "2nd century BCE"]
+      "options": [
+        "#6th\u20135th centuries BCE",
+        "1st-2nd centuries CE",
+        "6th-7th centures CE",
+        "2nd century BCE"
+      ],
+      "id": 60
     },
     {
-      "id": 61,
       "text": "What is the basis of Buddhist teaching?",
-      "options": ["#The Four Noble Truths", "A trinity of gods", "The idea of one God", "Denial of karma"]
+      "options": [
+        "#The Four Noble Truths",
+        "A trinity of gods",
+        "The idea of one God",
+        "Denial of karma"
+      ],
+      "id": 61
     },
     {
-      "id": 62,
-      "text": "What does the concept of “nirvana” mean?",
-      "options": ["#Spiritual liberation state", "Cycle of rebirth process", "Sacred temple structure", "Holy canonical scripture"]
+      "text": "What does the concept of \u201cnirvana\u201d mean?",
+      "options": [
+        "#Spiritual liberation state",
+        "Cycle of rebirth process",
+        "Sacred temple structure",
+        "Holy canonical scripture"
+      ],
+      "id": 62
     },
     {
-      "id": 63,
       "text": "The sacred scripture of Buddhism is:",
-      "options": ["#The Tripitaka", "The Avesta", "The Bible", "The Qur’an"]
+      "options": [
+        "#The Tripitaka",
+        "The Avesta",
+        "The Bible",
+        "The Qur\u2019an"
+      ],
+      "id": 63
     },
     {
-      "id": 64,
-      "text": "In Buddhism, what is “karma”?",
-      "options": ["#Intentional action results", "Religious moral law", "Invisible sacred spirit", "Ritual worship practice"]
+      "text": "In Buddhism, what is \u201ckarma\u201d?",
+      "options": [
+        "#Intentional action results",
+        "Religious moral law",
+        "Invisible sacred spirit",
+        "Ritual worship practice"
+      ],
+      "id": 64
     },
     {
-      "id": 65,
       "text": "The main branches of Buddhism are:",
-      "options": ["#Mahayana and Hinayana", "Sunni and Shi‘a", "Daoism and Confucianism", "Brahmanism and Jainism"]
+      "options": [
+        "#Mahayana and Hinayana",
+        "Sunni and Shi\u2018a",
+        "Daoism and Confucianism",
+        "Brahmanism and Jainism"
+      ],
+      "id": 65
     },
     {
-      "id": 66,
       "text": "What does the Noble Eightfold Path aim at?",
-      "options": ["#Attaining nirvana", "Attaining wealth", "Military victory", "Political power"]
+      "options": [
+        "#Attaining nirvana",
+        "Attaining wealth",
+        "Military victory",
+        "Political power"
+      ],
+      "id": 66
     },
     {
-      "id": 67,
       "text": "Mahayana spread mainly in which regions?",
-      "options": ["#Japan, China, Korea", "Sri Lanka", "Arabia", "Europe"]
+      "options": [
+        "#Japan, China, Korea",
+        "Sri Lanka",
+        "Arabia",
+        "Europe"
+      ],
+      "id": 67
     },
     {
-      "id": 68,
       "text": "Hinayana is widely spread in which countries?",
-      "options": ["#Thailand, Myanmar, Sri Lanka", "Germany, France, Italy", "Russia, Ukraine, Belarus", "Turkey, Iran, Iraq"]
+      "options": [
+        "#Thailand, Myanmar, Sri Lanka",
+        "Germany France Italy",
+        "Russia Ukraine Belarus",
+        "Turkey Iran Iraq"
+      ],
+      "id": 68
     },
     {
-      "id": 69,
       "text": "The Vajrayana tradition is mainly characteristic of which region?",
-      "options": ["#Tibet", "Southern India", "Japan", "Africa"]
+      "options": [
+        "#Tibet",
+        "Southern India",
+        "Japan",
+        "Africa"
+      ],
+      "id": 69
     },
     {
-      "id": 70,
       "text": "Zen Buddhism is associated with which country?",
-      "options": ["#Japan", "India", "Iran", "Egypt"]
+      "options": [
+        "#Japan",
+        "India",
+        "Iran",
+        "Egypt"
+      ],
+      "id": 70
     },
     {
-      "id": 71,
       "text": "The Dalai Lama is regarded as the leader of which tradition?",
-      "options": ["#Vajrayana Tibetan Buddhism", "Theravada southern tradition", "Zen Japanese school", "Hinayana early tradition"]
+      "options": [
+        "#Vajrayana Tibetan Buddhism",
+        "Theravada southern tradition",
+        "Zen Japanese school",
+        "Hinayana early tradition"
+      ],
+      "id": 71
     },
     {
-      "id": 72,
       "text": "A modern feature of global Buddhism is:",
-      "options": ["#It has also spread in Western countries", "It exists only in Asia", "It is based only on worship", "It has become a political party"]
+      "options": [
+        "#It has also spread in Western countries",
+        "It exists only in Asia",
+        "It is based only on worship",
+        "It has become a political party"
+      ],
+      "id": 72
     },
     {
-      "id": 73,
       "text": "Which factor has influenced the modern globalization of Buddhism?",
-      "options": ["#The Internet and cultural exchange", "Ancient clan-based life", "Only military campaigns", "Natural disasters"]
+      "options": [
+        "#The Internet and cultural exchange",
+        "Ancient clan-based life",
+        "Only military campaigns",
+        "Natural disasters"
+      ],
+      "id": 73
     },
     {
-      "id": 74,
       "text": "Buddhism entered the territory of Uzbekistan mainly during which period?",
-      "options": ["#During the Kushan period", "7th century", "1st century BCE", "Timurid period"]
+      "options": [
+        "#During the Kushan period",
+        "7th century",
+        "1st century BCE",
+        "Timurid period"
+      ],
+      "id": 74
     },
     {
-      "id": 75,
       "text": "Which area was one of the centers of Buddhism?",
-      "options": ["#Termez", "Samarkand", "Khiva", "Bukhara"]
+      "options": [
+        "#Termez",
+        "Samarkand",
+        "Khiva",
+        "Bukhara"
+      ],
+      "id": 75
     },
     {
-      "id": 76,
       "text": "In which region is the Kara-Tepe monument located?",
-      "options": ["#Surkhandarya", "Samarkand", "Fergana", "Khorezm"]
+      "options": [
+        "#Surkhandarya",
+        "Samarkand",
+        "Fergana",
+        "Khorezm"
+      ],
+      "id": 76
     },
     {
-      "id": 77,
       "text": "The Fayaztepa monument is associated with which religion?",
-      "options": ["#Buddhism", "Zoroastrianism", "Islam", "Christianity"]
+      "options": [
+        "#Buddhism",
+        "Zoroastrianism",
+        "Islam",
+        "Christianity"
+      ],
+      "id": 77
     },
     {
-      "id": 78,
       "text": "Buddhism spread widely in Central Asia during the rule of which state?",
-      "options": ["#The Kushans", "The Sassanids", "The Timurids", "The Ashtarkhanids"]
+      "options": [
+        "#The Kushans",
+        "The Sassanids",
+        "The Timurids",
+        "The Ashtarkhanids"
+      ],
+      "id": 78
     },
     {
-      "id": 79,
       "text": "What do the Buddhist monuments found in the territory of Uzbekistan indicate?",
-      "options": ["#That Buddhism was widespread", "That there were only trade centers", "That there were only military headquarters", "That it was a political center"]
+      "options": [
+        "#That Buddhism was widespread",
+        "That there were only trade centers",
+        "That there were only military headquarters",
+        "That it was a political center"
+      ],
+      "id": 79
     },
     {
-      "id": 80,
       "text": "The decline of Buddhism in Central Asia is associated with which factor?",
-      "options": ["#The spread of Islam", "The arrival of Christianity", "Natural disasters", "Agriculture"]
+      "options": [
+        "#The spread of Islam",
+        "The arrival of Christianity",
+        "Natural disasters",
+        "Agriculture"
+      ],
+      "id": 80
     },
     {
-      "id": 81,
       "text": "Dalvarzintepa is a monument of which period?",
-      "options": ["#Kushan period", "Ancient Greek", "Timurid period", "Soviet period"]
+      "options": [
+        "#Kushan period",
+        "Ancient Greek",
+        "Timurid period",
+        "Soviet period"
+      ],
+      "id": 81
     },
     {
-      "id": 82,
       "text": "The history of Buddhism in Uzbekistan is studied by which sciences?",
-      "options": ["#Archaeology and history", "Only mathematics", "Only physics", "Biology, physics"]
+      "options": [
+        "#Archaeology and history",
+        "Only mathematics",
+        "Only physics",
+        "Biology, physics"
+      ],
+      "id": 82
     },
     {
-      "id": 83,
       "text": "When did Buddhism originate?",
-      "options": ["#In the 6th century BCE", "In the 4th century BCE", "In the 1st century CE", "In the 13th century BCE"]
+      "options": [
+        "#In the 6th century BCE",
+        "In the 4th century BCE",
+        "In the 1st century CE",
+        "In the 13th century BCE"
+      ],
+      "id": 83
     },
     {
-      "id": 84,
       "text": "Which is the oldest world religion?",
-      "options": ["#Buddhism", "Christianity", "Islam", "Judaism"]
+      "options": [
+        "#Buddhism",
+        "Christianity",
+        "Islam",
+        "Judaism"
+      ],
+      "id": 84
     },
     {
-      "id": 85,
       "text": "What is the chain of rebirth in Buddhism called?",
-      "options": ["#Samsara", "Dharma", "Pancha Shila", "Meditation"]
+      "options": [
+        "#Samsara",
+        "Dharma",
+        "Pancha Shila",
+        "Meditation"
+      ],
+      "id": 85
     },
     {
-      "id": 86,
       "text": "What ideas underlie the teaching of the Buddha?",
-      "options": ["#The ideas that “life is suffering” and “there is a path to salvation”", "The ideas that “life is labor” and “there is a path to salvation”", "The ideas that “life is difficulty” and “there is a path to salvation”", "The ideas that “life is struggle” and “there is a path to salvation”"]
+      "options": [
+        "#The ideas that \u201clife is suffering\u201d and \u201cthere is a path to salvation\u201d",
+        "The ideas that \u201clife is labor\u201d and \u201cthere is a path to salvation\u201d",
+        "The ideas that \u201clife is difficulty\u201d and \u201cthere is a path to salvation\u201d",
+        "The ideas that \u201clife is struggle\u201d and \u201cthere is a path to salvation\u201d"
+      ],
+      "id": 86
     },
     {
-      "id": 87,
       "text": "When did Buddhism spread to Central Asia?",
-      "options": ["#It dates to the 2nd century BCE", "It dates to the 1st century BCE", "It dates to the 5th century CE", "It dates to the 6th century CE"]
+      "options": [
+        "#It dates to the 2nd century BCE",
+        "It dates to the 1st century BCE",
+        "It dates to the 5th century CE",
+        "It dates to the 6th century CE"
+      ],
+      "id": 87
     },
     {
-      "id": 88,
-      "text": "Which religion has a sacred text meaning “Three Baskets”?",
-      "options": ["#Buddhism", "Baptism", "Brahmanism", "Shintoism"]
+      "text": "Which religion has a sacred text meaning \u201cThree Baskets\u201d?",
+      "options": [
+        "#Buddhism",
+        "Baptism",
+        "Brahmanism",
+        "Shintoism"
+      ],
+      "id": 88
     },
     {
-      "id": 89,
-      "text": "Which Buddhist teaching is called the “Great Vehicle”?",
-      "options": ["#Mahayana", "Hinayana", "Lamaism", "Panchen-ertni"]
+      "text": "Which Buddhist teaching is called the \u201cGreat Vehicle\u201d?",
+      "options": [
+        "#Mahayana",
+        "Hinayana",
+        "Lamaism",
+        "Panchen-ertni"
+      ],
+      "id": 89
     },
     {
-      "id": 90,
-      "text": "Which Buddhist teaching is called the “Lesser Vehicle”?",
-      "options": ["#Hinayana", "Dalai Lama", "Panchen Lama", "Mahayana"]
+      "text": "Which Buddhist teaching is called the \u201cLesser Vehicle\u201d?",
+      "options": [
+        "#Hinayana",
+        "Dalai Lama",
+        "Panchen Lama",
+        "Mahayana"
+      ],
+      "id": 90
     },
     {
-      "id": 91,
-      "text": "When was the new edition of the Law of the Republic of Uzbekistan “On Freedom of Conscience and Religious Organizations” adopted?",
-      "options": ["#July 5, 2021", "April 30, 1998", "May 21, 1998", "May 28, 1998"]
+      "text": "When was the new edition of the Law of the Republic of Uzbekistan \u201cOn Freedom of Conscience and Religious Organizations\u201d adopted?",
+      "options": [
+        "#July 5, 2021",
+        "April 30, 1998",
+        "May 21, 1998",
+        "May 28, 1998"
+      ],
+      "id": 91
     },
     {
-      "id": 92,
       "text": "In which century did Christianity emerge?",
-      "options": ["#1st century CE", "5th century BCE", "7th century", "9th century"]
+      "options": [
+        "#1st century CE",
+        "5th century BCE",
+        "7th century",
+        "9th century"
+      ],
+      "id": 92
     },
     {
-      "id": 93,
       "text": "Who is the founder of Christianity?",
-      "options": ["#Jesus Christ", "Moses", "Muhammad (peace be upon him)", "Buddha"]
+      "options": [
+        "#Jesus Christ",
+        "Moses",
+        "Muhammad (peace be upon him)",
+        "Buddha"
+      ],
+      "id": 93
     },
     {
-      "id": 94,
       "text": "The sacred book of Christianity is:",
-      "options": ["#The Bible", "The Qur’an", "The Torah", "The Avesta"]
+      "options": [
+        "#The Bible",
+        "The Qur\u2019an",
+        "The Torah",
+        "The Avesta"
+      ],
+      "id": 94
     },
     {
-      "id": 95,
-      "text": "In Christian doctrine, what is the “Trinity”?",
-      "options": ["#One God in three Persons", "Three prophetic figures", "Three sacred scriptures", "Three heavenly angels"]
+      "text": "In Christian doctrine, what is the \u201cTrinity\u201d?",
+      "options": [
+        "#One God in three Persons",
+        "Three prophetic figures",
+        "Three sacred scriptures",
+        "Three heavenly angels"
+      ],
+      "id": 95
     },
     {
-      "id": 96,
       "text": "Where did Christianity first spread?",
-      "options": ["#Near Eastern Palestine", "Indian subcontinent region", "Ancient Chinese territory", "Central Asian steppes"]
+      "options": [
+        "#Near Eastern Palestine",
+        "Indian subcontinent region",
+        "Ancient Chinese territory",
+        "Central Asian steppes"
+      ],
+      "id": 96
     },
     {
-      "id": 97,
-      "text": "What is the “Gospel” (Injil)?",
-      "options": ["#A book that forms part of the New Testament", "A collection of laws", "A philosophical treatise", "A political program"]
+      "text": "What is the \u201cGospel\u201d (Injil)?",
+      "options": [
+        "#A book that forms part of the New Testament",
+        "A collection of laws",
+        "A philosophical treatise",
+        "A political program"
+      ],
+      "id": 97
     },
     {
-      "id": 100,
-      "text": "The three main branches of Christianity:",
-      "options": ["#Catholicism, Orthodoxy, Protestantism", "Sunnism, Shiism, Ibadiyyah", "Mahayana, Hinayana, Vajrayana", "Daoism, Confucianism, Shintoism"]
-    },
-    {
-      "id": 98,
       "text": "In Christianity, what does the idea of salvation mean?",
-      "options": ["#Deliverance from sins", "Political freedom", "Attaining wealth", "Scientific achievement"]
+      "options": [
+        "#Deliverance from sins",
+        "Political freedom",
+        "Attaining wealth",
+        "Scientific achievement"
+      ],
+      "id": 98
     },
     {
-      "id": 99,
       "text": "The main moral idea of Christian teaching:",
-      "options": ["#Love and forgiveness", "Power", "Fear", "Punishment"]
+      "options": [
+        "#Love and forgiveness",
+        "Power",
+        "Fear",
+        "Punishment"
+      ],
+      "id": 99
+    },
+    {
+      "text": "The three main branches of Christianity:",
+      "options": [
+        "#Catholicism, Orthodoxy, Protestantism",
+        "Sunnism, Shiism, Ibadiyyah",
+        "Mahayana, Hinayana, Vajrayana",
+        "Daoism, Confucianism, Shintoism"
+      ],
+      "id": 100
+    },
+    {
+      "text": "In which city is the center of the Catholic Church located?",
+      "options": [
+        "#Vatican",
+        "Moscow",
+        "London",
+        "Athens"
+      ],
+      "id": 101
+    },
+    {
+      "text": "When did Orthodoxy separate from Catholicism?",
+      "options": [
+        "#In 1054",
+        "In 1517",
+        "In 325",
+        "In 622"
+      ],
+      "id": 102
+    },
+    {
+      "text": "Protestantism formed after which event?",
+      "options": [
+        "#The Reformation movement",
+        "The First World War",
+        "The Crusades",
+        "A revolution"
+      ],
+      "id": 103
     }
   ]
 }
