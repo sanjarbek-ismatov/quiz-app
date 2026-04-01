@@ -3,11 +3,14 @@
  * Loads question data from individual JSON files per subject
  */
 
+export interface QuestionData {
+  text: string
+  options: string[]
+  correctIndex: number
+}
+
 export interface QuestionsData {
-  questions: Array<{
-    text: string
-    options: string[]
-  }>
+  questions: QuestionData[]
 }
 
 // Strip [cite: N] and similar citation tags from text
@@ -39,14 +42,28 @@ export async function loadSubjectData(subjectId: string): Promise<QuestionsData 
     }
 
     // Strip [cite: N] and [cite_start] artifacts from questions for display
-    const sanitized = {
-      questions: data.questions.map((q: any) => ({
-        ...q,
-        text: stripCitationTags(q.text || ''),
-        options: (q.options || []).map((opt: string) =>
-          typeof opt === 'string' ? stripCitationTags(opt) : opt
-        ),
-      })),
+    // Also detect and strip the '#' marker for the correct answer
+    const sanitized: QuestionsData = {
+      questions: data.questions.map((q: any) => {
+        let correctIndex = typeof q.correctIndex === 'number' ? q.correctIndex : 0;
+
+        const options = (q.options || []).map((opt: string, idx: number) => {
+          if (typeof opt !== 'string') return opt;
+
+          let text = opt.trim();
+          if (text.startsWith('#')) {
+            text = text.substring(1).trim();
+            correctIndex = idx;
+          }
+          return stripCitationTags(text);
+        });
+
+        return {
+          text: stripCitationTags(q.text || ''),
+          options,
+          correctIndex
+        };
+      }),
     }
     return sanitized
   } catch (error) {
@@ -59,6 +76,6 @@ export async function loadSubjectData(subjectId: string): Promise<QuestionsData 
  * Get questions from loaded data
  * Falls back to empty array if data is not available
  */
-export function getQuestionsFromData(data: QuestionsData | null): any[] {
+export function getQuestionsFromData(data: QuestionsData | null): QuestionData[] {
   return data?.questions || []
 }

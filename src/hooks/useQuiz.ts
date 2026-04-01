@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo } from 'react'
-import { loadSubjectData } from '../utils/dataLoader'
+import { loadSubjectData, QuestionData } from '../utils/dataLoader'
 
 export interface Question {
   id: number
@@ -22,7 +22,7 @@ function shuffleArray<T>(arr: T[]) {
 
 export function useQuiz(subjectId: string | undefined, groupId: string | undefined) {
   const groupNum = Number(groupId || 1)
-  const [rawQuestions, setRawQuestions] = useState<any[]>([])
+  const [rawQuestions, setRawQuestions] = useState<QuestionData[]>([])
   const [isLoading, setIsLoading] = useState(true)
   const [shuffleKey, setShuffleKey] = useState(() => Date.now())
   const [answers, setAnswers] = useState<Record<number, number | null>>({})
@@ -35,7 +35,7 @@ export function useQuiz(subjectId: string | undefined, groupId: string | undefin
   useEffect(() => {
     async function loadData() {
       setIsLoading(true)
-      const data = await loadSubjectData(subjectId || 'academic-writing')
+      const data = await loadSubjectData(subjectId || 'study-of-religions-part1')
       setRawQuestions(data?.questions || [])
       setIsLoading(false)
     }
@@ -45,22 +45,16 @@ export function useQuiz(subjectId: string | undefined, groupId: string | undefin
   // Process questions for the current group
   const groupQuestions: Question[] = useMemo(() => {
     const raw = rawQuestions.slice(start, start + 25)
-    const processed = raw.map((q: any, idx: number) => {
-      let inferredIndex: number | null = null
+    const processed = raw.map((q: QuestionData, idx: number) => {
       type OptWithOrig = { text: string; origIndex: number }
 
-      const optsWithOrig: OptWithOrig[] = (q.options || []).map((opt: string, i: number) => {
-        const text = (typeof opt === 'string' && opt.trim().startsWith('#')) ? opt.replace(/^\s*#\s*/, '').trim() : opt
-        if (typeof opt === 'string' && opt.trim().startsWith('#')) {
-          if (inferredIndex === null) inferredIndex = i
-        }
-        return { text, origIndex: i }
-      })
-
-      const origCorrect = (inferredIndex !== null) ? inferredIndex : (typeof q.correctIndex === 'number' ? q.correctIndex : 0)
+      const optsWithOrig: OptWithOrig[] = (q.options || []).map((text: string, i: number) => ({
+        text,
+        origIndex: i
+      }))
 
       const shuffledOpts = shuffleArray(optsWithOrig)
-      const newCorrectIndex = shuffledOpts.findIndex((o: OptWithOrig) => o.origIndex === origCorrect)
+      const newCorrectIndex = shuffledOpts.findIndex((o: OptWithOrig) => o.origIndex === q.correctIndex)
 
       return {
         id: start + idx + 1,

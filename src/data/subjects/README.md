@@ -133,9 +133,9 @@ The subject automatically appears everywhere:
 
 ## Current Subjects
 
-- **Study of Religions (part 1)** - 100 questions, 4 groups
-- **Study of Religions (part 2)** - 100 questions, 4 groups
-- **Study of Religions (part 3)** - 137 questions, 6 groups
+- **Study of Religions (part 1)** - 103 Easy questions, 5 groups
+- **Study of Religions (part 2)** - 104 Intermediate questions, 5 groups
+- **Study of Religions (part 3)** - 130 Advanced questions, 6 groups
 
 ## Next Steps
 
@@ -147,9 +147,9 @@ The subject automatically appears everywhere:
 
 ```
 src/data/subjects/
-├── study-of-religions-part1.json      (100 questions, 4 groups)
-├── study-of-religions-part2.json      (100 questions, 4 groups)
-├── study-of-religions-part3.json      (137 questions, 6 groups)
+├── study-of-religions-part1.json      (103 questions, 5 groups)
+├── study-of-religions-part2.json      (104 questions, 5 groups)
+├── study-of-religions-part3.json      (130 questions, 6 groups)
 └── README.md                   (this file)
 ```
 
