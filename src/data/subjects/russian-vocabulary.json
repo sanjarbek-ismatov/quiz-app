@@ -1,0 +1,1004 @@
+{
+  "questions": [
+    {
+      "text": "Tanishuvda 'Tanishganimdan xursandman' deb qanday aytiladi?",
+      "options": [
+        "#Рад(а) познакомиться",
+        "Очень хорошо",
+        "Как дела?",
+        "Кто вы?"
+      ],
+      "id": 1
+    },
+    {
+      "text": "Sizdan 'Как дела?' deb so'rashsa, 'Hammasi joyida, rahmat' deb javob bering:",
+      "options": [
+        "#Всё хорошо, спасибо",
+        "Плохо, извините",
+        "Где vy byli?",
+        "Я не знаю"
+      ],
+      "id": 2
+    },
+    {
+      "text": "Begona odamga murojaat qilishda (Kechirasiz...) qaysi so'z ishlatiladi?",
+      "options": [
+        "#Извините",
+        "Пожалуйста",
+        "Ничего",
+        "Привет"
+      ],
+      "id": 3
+    },
+    {
+      "text": "Sizga rahmat aytishsa, 'Arziydi' yoki 'Marhamat' deb javob bering:",
+      "options": [
+        "#Пожалуйста",
+        "Здравствуйте",
+        "Можно",
+        "Завтра"
+      ],
+      "id": 4
+    },
+    {
+      "text": "Rus tilida 'Tushunmadim' jumlasi qanday bo'ladi?",
+      "options": [
+        "#Я не понял(а)",
+        "Я не знаю",
+        "Я не хочу",
+        "Я не иду"
+      ],
+      "id": 5
+    },
+    {
+      "text": "Kimdandir yordam so'rash uchun eng to'g'ri variant:",
+      "options": [
+        "#Помогите мне, пожалуйста",
+        "Дайте мне это",
+        "Где я нахожусь?",
+        "Вы кто такой?"
+      ],
+      "id": 6
+    },
+    {
+      "text": "'Nima?' va 'Qayerda?' so'zlarining ruscha tarjimasi qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "#Что? и Где?",
+        "Кто? и Когда?",
+        "Как? и Почему?",
+        "Зачем? и Куда?"
+      ],
+      "id": 7
+    },
+    {
+      "text": "Suhbatdoshdan 'Siz ruscha gapirasizmi?' deb so'rang:",
+      "options": [
+        "#Вы говорите по-русски?",
+        "Вы понимаете меня?",
+        "Вы знаете это?",
+        "Вы идете домой?"
+      ],
+      "id": 8
+    },
+    {
+      "text": "'Ha' va 'Yo'q' so'zlaridan tashqari 'Balki' so'zini ham bilish muhim:",
+      "options": [
+        "#Может быть",
+        "Конечно",
+        "Никогда",
+        "Всегда"
+      ],
+      "id": 9
+    },
+    {
+      "text": "Biror narsani so'rashdan oldin 'Mumkinmi?' deb qanday aytiladi?",
+      "options": [
+        "#Можно?",
+        "Надо?",
+        "Будет?",
+        "Есть?"
+      ],
+      "id": 10
+    },
+    {
+      "text": "Ismingizni aytishda qaysi qolipdan foydalanasiz? (Masalan: Mening ismim...)",
+      "options": [
+        "#Меня зовут...",
+        "Моё имя есть...",
+        "Я называюсь...",
+        "Кто я..."
+      ],
+      "id": 11
+    },
+    {
+      "text": "'Qayerdan siz?' (Millatingiz yoki davlatingizni so'rashganda):",
+      "options": [
+        "#Откуда вы?",
+        "Где вы живете?",
+        "Кто вы?",
+        "Как вы здесь?"
+      ],
+      "id": 12
+    },
+    {
+      "text": "Suhbatdoshga 'Yaxshi qoling' (Xayrli tun ma'nosida emas) deb xayrlashish:",
+      "options": [
+        "#Всего доброго",
+        "Доброе утро",
+        "Спокойной ночи",
+        "Приятного аппетита"
+      ],
+      "id": 13
+    },
+    {
+      "text": "Agar biror so'zni tushunmasangiz: 'Bu nima degani?'",
+      "options": [
+        "#Что это значит?",
+        "Что это такое?",
+        "Зачем это?",
+        "Как это сделать?"
+      ],
+      "id": 14
+    },
+    {
+      "text": "O'zbek tilidagi 'Iltimos, sekinroq gapiring' jumlasi:",
+      "options": [
+        "#Говорите медленнее, пожалуйста",
+        "Говорите громче, пожалуйста",
+        "Пишите здесь, пожалуйста",
+        "Слушайте меня, пожалуйста"
+      ],
+      "id": 15
+    },
+    {
+      "text": "Sizdan yoshingizni so'rashsa (Сколько вам лет?), qanday boshlaysiz?",
+      "options": [
+        "#Мне ... лет",
+        "Я имею ... лет",
+        "Мой возраст ...",
+        "Я есть ..."
+      ],
+      "id": 16
+    },
+    {
+      "text": "'Men bilmayman' jumlasi qaysi javobda to'g'ri?",
+      "options": [
+        "#Я не знаю",
+        "Я не понимаю",
+        "Я не помню",
+        "Я не хочу"
+      ],
+      "id": 17
+    },
+    {
+      "text": "Suhbatdoshga 'Omad!' tilash uchun:",
+      "options": [
+        "#Удачи!",
+        "Пока!",
+        "Счастливо!",
+        "Вперед!"
+      ],
+      "id": 18
+    },
+    {
+      "text": "Biror narsaga ruxsat berganda 'Albatta' so'zini ishlating:",
+      "options": [
+        "#Конечно",
+        "Наверное",
+        "Плохо",
+        "Никогда"
+      ],
+      "id": 19
+    },
+    {
+      "text": "'Kechirasiz, men bandman' deb qanday aytiladi?",
+      "options": [
+        "#Извините, я занят(а)",
+        "Извините, я иду",
+        "Извините, я не знаю",
+        "Извините, я здесь"
+      ],
+      "id": 20
+    },
+    {
+      "text": "Yangi joyga kelganda 'Bu qayerda?' deb so'rash:",
+      "options": [
+        "#Где это находится?",
+        "Как это называется?",
+        "Зачем я здесь?",
+        "Что там есть?"
+      ],
+      "id": 21
+    },
+    {
+      "text": "'Iltimos, qaytara olasizmi?' (Tushunmaganda qayta so'rash):",
+      "options": [
+        "#Повторите, пожалуйста",
+        "Скажите, пожалуйста",
+        "Помогите, пожалуйста",
+        "Дайте, пожалуйста"
+      ],
+      "id": 22
+    },
+    {
+      "text": "Sizga yoqqan narsa haqida 'Menga yoqadi' deb ayting:",
+      "options": [
+        "#Мне нравится",
+        "Я хочу",
+        "Я люблю",
+        "Я знаю"
+      ],
+      "id": 23
+    },
+    {
+      "text": "Vaqtni so'rash: 'Hozir soat necha?'",
+      "options": [
+        "#Который час?",
+        "Сколько время?",
+        "Когда это будет?",
+        "Где часы?"
+      ],
+      "id": 24
+    },
+    {
+      "text": "Suhbatni tugatish: 'Keyinroq ko'rishamiz'",
+      "options": [
+        "#Увидимся позже",
+        "До свидания",
+        "Доброй ночи",
+        "Я ухожу"
+      ],
+      "id": 25
+    },
+    {
+      "text": "Bugun nima qilmoqchisiz? (Rejani so'rash)",
+      "options": [
+        "#Что вы собираетесь делать сегодня?",
+        "Где вы были сегодня?",
+        "Как вы это делаете?",
+        "Почему вы здесь сегодня?"
+      ],
+      "id": 26
+    },
+    {
+      "text": "'Men ishga ketyapman' (ayni damda) jumlasi qaysi?",
+      "options": [
+        "#Я иду на работу",
+        "Я ходил на работу",
+        "Я пошел на работу",
+        "Я буду идти на работу"
+      ],
+      "id": 27
+    },
+    {
+      "text": "Ertangi reja haqida gapirganda: 'Men ertaga kelaman'",
+      "options": [
+        "#Я приду завтра",
+        "Я пришел вчера",
+        "Я прихожу сейчас",
+        "Я зашел вчера"
+      ],
+      "id": 28
+    },
+    {
+      "text": "Suhbatdoshdan qayerga ketayotganini so'rang:",
+      "options": [
+        "#Куда вы идёте?",
+        "Где вы стоите?",
+        "Откуда вы идете?",
+        "Зачем вы идете?"
+      ],
+      "id": 29
+    },
+    {
+      "text": "'Men biroz kechikaman' (Vaqt bilan bog'liq harakat):",
+      "options": [
+        "#Я немного опоздаю",
+        "Я уже пришел",
+        "Я иду быстро",
+        "Я не хочу идти"
+      ],
+      "id": 30
+    },
+    {
+      "text": "Biror narsani sotib olish niyati: 'Men buni sotib olmoqchiman'",
+      "options": [
+        "#Я хочу это купить",
+        "Я хочу это продать",
+        "Я хочу это отдать",
+        "Я хочу это взять"
+      ],
+      "id": 31
+    },
+    {
+      "text": "'Men tushlik qilyapman' jumlasi qaysi fe'l orqali ifodalanadi?",
+      "options": [
+        "#Я обедаю",
+        "Я завтракаю",
+        "Я ужинаю",
+        "Я пью чай"
+      ],
+      "id": 32
+    },
+    {
+      "text": "Suhbatdoshga 'Kuting' demoqchi bo'lsangiz:",
+      "options": [
+        "#Подождите, пожалуйста",
+        "Идите, пожалуйста",
+        "Слушайте, пожалуйста",
+        "Смотрите, пожалуйста"
+      ],
+      "id": 33
+    },
+    {
+      "text": "'Men hozir bo'shman' (Vaqtingiz borligini bildirish):",
+      "options": [
+        "#Я сейчас свободен / свободна",
+        "Я сейчас занят / занята",
+        "Я сейчас иду",
+        "Я сейчас сплю"
+      ],
+      "id": 34
+    },
+    {
+      "text": "Harakatni yakunlash: 'Men hammasini qilib bo'ldim'",
+      "options": [
+        "#Я всё сделал(а)",
+        "Я всё делаю",
+        "Я буду делать всё",
+        "Я не сделал ничего"
+      ],
+      "id": 35
+    },
+    {
+      "text": "'Qachon uchrashamiz?' savoli qanday beriladi?",
+      "options": [
+        "#Когда мы встретимся?",
+        "Где мы встретимся?",
+        "Как мы встретимся?",
+        "Зачем мы встретимся?"
+      ],
+      "id": 36
+    },
+    {
+      "text": "Do'stingizga 'Tezroq kel' demoqchi bo'lsangiz:",
+      "options": [
+        "#Приходи быстрее",
+        "Иди медленнее",
+        "Не приходи сегодня",
+        "Жди меня там"
+      ],
+      "id": 37
+    },
+    {
+      "text": "'Men dam olmoqchiman' jumlasi qaysi?",
+      "options": [
+        "#Я хочу отдохнуть",
+        "Я хочу работать",
+        "Я хочу спать",
+        "Я хочу гулять"
+      ],
+      "id": 38
+    },
+    {
+      "text": "Vaqtni aniqlashtirish: 'Dars qachon tugaydi?'",
+      "options": [
+        "#Когда закончится урок?",
+        "Когда начнется урок?",
+        "Где проходит урок?",
+        "Какой сейчас урок?"
+      ],
+      "id": 39
+    },
+    {
+      "text": "'Men uyga boryapman' (transportda emas, piyoda):",
+      "options": [
+        "#Я иду домой",
+        "Я еду домой",
+        "Я пришел домой",
+        "Я выхожу из дома"
+      ],
+      "id": 40
+    },
+    {
+      "text": "Suhbatdoshdan yordam so'rash: 'Menga ko'rsata olasizmi?'",
+      "options": [
+        "#Вы можете мне показать?",
+        "Вы можете мне дать?",
+        "Вы можете мне сказать?",
+        "Вы можете мне помочь?"
+      ],
+      "id": 41
+    },
+    {
+      "text": "'Uxlash vaqti keldi' jumlasi qanday bo'ladi?",
+      "options": [
+        "#Пора спать",
+        "Хочу спать",
+        "Буду спать",
+        "Сплю долго"
+      ],
+      "id": 42
+    },
+    {
+      "text": "Biror joyga kirishda ruxsat so'rash: 'Kirish mumkinmi?'",
+      "options": [
+        "#Можно войти?",
+        "Можно выйти?",
+        "Где вход?",
+        "Куда идти?"
+      ],
+      "id": 43
+    },
+    {
+      "text": "'Men shoshilyapman' jumlasi qanday aytiladi?",
+      "options": [
+        "#Я спешу",
+        "Я жду",
+        "Я иду",
+        "Я стою"
+      ],
+      "id": 44
+    },
+    {
+      "text": "Ertalabki harakat: 'Men nonushta qilyapman'",
+      "options": [
+        "#Я завтракаю",
+        "Я обедаю",
+        "Я ужинаю",
+        "Я сплю"
+      ],
+      "id": 45
+    },
+    {
+      "text": "'Bugun havo juda yaxshi' (Kundalik suhbat mavzusi):",
+      "options": [
+        "#Сегодня очень хорошая погода",
+        "Сегодня плохая погода",
+        "Сегодня холодно",
+        "Сегодня идет дождь"
+      ],
+      "id": 46
+    },
+    {
+      "text": "Suhbatdoshga 'Menga qarang' deb murojaat qilish:",
+      "options": [
+        "#Посмотрите на меня",
+        "Слушайте меня",
+        "Скажите мне",
+        "Помогите мне"
+      ],
+      "id": 47
+    },
+    {
+      "id": 48,
+      "text": "'Men o'zbekcha va ruscha gapiraman' jumlasi qaysi?",
+      "options": [
+        "#Я говорю по-узбекски и по-русски",
+        "Я понимаю по-узбекски и по-русски",
+        "Я учу узбекский и русский",
+        "Я читаю по-узбекски и по-русски"
+      ]
+    },
+    {
+      "text": "Vaqtni ko'rsatish: 'Hozir kech bo'lib qoldi'",
+      "options": [
+        "#Сейчас уже поздно",
+        "Сейчас еще рано",
+        "Сейчас полдень",
+        "Сейчас утро"
+      ],
+      "id": 49
+    },
+    {
+      "text": "Suhbatni yakunlab, ketish: 'Menga ketish kerak'",
+      "options": [
+        "#Мне пора идти",
+        "Я хочу прийти",
+        "Я здесь остаюсь",
+        "Вы идите туда"
+      ],
+      "id": 50
+    },
+    {
+      "text": "Restoranda 'Menga menyuni bera olasizmi?' deb qanday so'raladi?",
+      "options": [
+        "#Можно мне меню, пожалуйста?",
+        "Где моё меню?",
+        "Я хочу есть меню",
+        "Дайте мне еду"
+      ],
+      "id": 51
+    },
+    {
+      "text": "Taomni tatib ko'rgach, 'Juda mazali!' demoqchi bo'lsangiz:",
+      "options": [
+        "#Очень вкусно!",
+        "Очень плохо!",
+        "Очень быстро!",
+        "Очень громко!"
+      ],
+      "id": 52
+    },
+    {
+      "text": "Do'konda 'Kechirasiz, paket kerakmi?' savoliga 'Yo'q, rahmat' deb javob bering:",
+      "options": [
+        "#Нет, спасибо, не нужно",
+        "Да, мне нужен дом",
+        "Где мой пакет?",
+        "Сколько стоит пакет?"
+      ],
+      "id": 53
+    },
+    {
+      "text": "To'lov qilishda: 'Kartada to'lasam bo'ladimi?'",
+      "options": [
+        "#Можно оплатить картой?",
+        "Где моя карта?",
+        "У вас есть деньги?",
+        "Я хочу карту"
+      ],
+      "id": 54
+    },
+    {
+      "text": "Ko'chada 'Eng yaqin dorixona qayerda?' deb so'rash:",
+      "options": [
+        "#Где находится ближайшая аптека?",
+        "Где находится магазин?",
+        "Где находится школа?",
+        "Где находится парк?"
+      ],
+      "id": 55
+    },
+    {
+      "text": "'Menga kvitansiya (chek) bera olasizmi?' jumlasi:",
+      "options": [
+        "#Можно мне чек, пожалуйста?",
+        "Дайте мне сдачу",
+        "Где мои деньги?",
+        "Я всё купил"
+      ],
+      "id": 56
+    },
+    {
+      "text": "Mehmonxonada 'Bo'sh xonalar bormi?' deb so'rash:",
+      "options": [
+        "#У вас есть свободные номера?",
+        "Где моя комната?",
+        "Кто здесь живет?",
+        "Я хочу спать"
+      ],
+      "id": 57
+    },
+    {
+      "text": "Taksi chaqirishda: 'Menga taksi kerak'",
+      "options": [
+        "#Мне нужно такси",
+        "Я иду пешком",
+        "Где автобус?",
+        "Машина приехала"
+      ],
+      "id": 58
+    },
+    {
+      "text": "'Afsuski, men buni qila olmayman' (Rad etish):",
+      "options": [
+        "#К сожалению, я не могу это сделать",
+        "Конечно, я сделаю это",
+        "Я не хочу это видеть",
+        "Зачем мне это делать?"
+      ],
+      "id": 59
+    },
+    {
+      "text": "Suhbatdoshga 'Mening fikrimcha, bu xato' demoqchi bo'lsangiz:",
+      "options": [
+        "#По-моему, это ошибка",
+        "Я думаю, это хорошо",
+        "Кто сделал ошибку?",
+        "Это не моя ошибка"
+      ],
+      "id": 60
+    },
+    {
+      "text": "'Menga yordam bering' so'zining yana bir varianti:",
+      "options": [
+        "#Окажите мне услугу",
+        "Дайте мне помощь",
+        "Идите сюда быстрее",
+        "Что вы делаете?"
+      ],
+      "id": 61
+    },
+    {
+      "text": "Sizga yoqmagan narsa haqida: 'Menga bu yoqmaydi'",
+      "options": [
+        "#Мне это не нравится",
+        "Я это не люблю",
+        "Я это не знаю",
+        "Мне это не нужно"
+      ],
+      "id": 62
+    },
+    {
+      "text": "Suhbatdoshdan 'Sizga nima ko'proq yoqadi?' deb so'rash:",
+      "options": [
+        "#Что вам больше нравится?",
+        "Что вы делаете больше?",
+        "Где вам нравится?",
+        "Почему вам это нравится?"
+      ],
+      "id": 63
+    },
+    {
+      "text": "'Men sizga qo'shilaman' (Fikrga rozilik):",
+      "options": [
+        "#Я с вами согласен / согласна",
+        "Я вас не слышу",
+        "Я иду с вами",
+        "Я вас знаю"
+      ],
+      "id": 64
+    },
+    {
+      "text": "Biror narsadan hayratlanganda: 'Bu ajoyib!'",
+      "options": [
+        "#Это прекрасно!",
+        "Это ужасно!",
+        "Это нормально",
+        "Это скучно"
+      ],
+      "id": 65
+    },
+    {
+      "text": "Tushunishni tasdiqlash: 'Ha, endi tushunib yetdim'",
+      "options": [
+        "#Да, теперь я понимаю",
+        "Нет, я не понял",
+        "Что вы сказали?",
+        "Я все забыл"
+      ],
+      "id": 66
+    },
+    {
+      "text": "Kimningdir ahvolini so'rash: 'O'zingizni qanday his qilyapsiz?'",
+      "options": [
+        "#Как вы себя чувствуете?",
+        "Как ваши дела?",
+        "Что вы чувствуете?",
+        "Где вы болите?"
+      ],
+      "id": 67
+    },
+    {
+      "text": "'Mening boshim og'riyapti' jumlasi:",
+      "options": [
+        "#У меня болит голова",
+        "У меня болит рука",
+        "Моя голова не работает",
+        "Я не хочу думать"
+      ],
+      "id": 68
+    },
+    {
+      "text": "Do'konda 'Bu juda qimmat!' demoqchi bo'lsangiz:",
+      "options": [
+        "#Это очень дорого!",
+        "Это очень дешево!",
+        "Это очень красиво!",
+        "Это очень маленькое"
+      ],
+      "id": 69
+    },
+    {
+      "text": "Narxni pasaytirishni so'rash: 'Chegirma bormi?'",
+      "options": [
+        "#У вас есть скидка?",
+        "Сколько это стоит?",
+        "Где мои деньги?",
+        "Я хочу купить дешево"
+      ],
+      "id": 70
+    },
+    {
+      "text": "Suhbatdoshga 'Sizga omad tilayman' deyish:",
+      "options": [
+        "#Желаю вам удачи",
+        "Я иду с удачей",
+        "Где ваша удача?",
+        "Удача — это хорошо"
+      ],
+      "id": 71
+    },
+    {
+      "text": "'Iltimos, bu yerga yozing' jumlasi:",
+      "options": [
+        "#Напишите здесь, пожалуйста",
+        "Читайте здесь, пожалуйста",
+        "Смотрите здесь, пожалуйста",
+        "Идите сюда, пожалуйста"
+      ],
+      "id": 72
+    },
+    {
+      "text": "O'zining bandligini aytish: 'Bugun juda ko'p ishim bor'",
+      "options": [
+        "#У меня сегодня много дел",
+        "Я сегодня много работаю",
+        "Я сегодня отдыхаю",
+        "Где моя работа?"
+      ],
+      "id": 73
+    },
+    {
+      "text": "Yashash joyini so'rash: 'Siz qayerda yashaysiz?'",
+      "options": [
+        "#Где вы живете?",
+        "Откуда вы приехали?",
+        "Где ваш дом?",
+        "Куда вы идете?"
+      ],
+      "id": 74
+    },
+    {
+      "text": "'Men adashib qoldim' (Yo'l topa olmaganda):",
+      "options": [
+        "#Я заблудился / заблудилась",
+        "Я потерял сумку",
+        "Я иду домой",
+        "Я не знаю дорогу"
+      ],
+      "id": 75
+    },
+    {
+      "text": "Suhbatdoshga 'Xavotir olmang' deyish:",
+      "options": [
+        "#Не волнуйтесь",
+        "Не идите туда",
+        "Не говорите так",
+        "Не делайте это"
+      ],
+      "id": 76
+    },
+    {
+      "text": "'Hamma narsa bo'lishi mumkin' (Ehtimollik):",
+      "options": [
+        "#Всё может быть",
+        "Ничего не будет",
+        "Я всё знаю",
+        "Это невозможно"
+      ],
+      "id": 77
+    },
+    {
+      "text": "'Men hozir qaytaman' jumlasi:",
+      "options": [
+        "#Я сейчас вернусь",
+        "Я уже пришел",
+        "Я ухожу навсегда",
+        "Я буду там"
+      ],
+      "id": 78
+    },
+    {
+      "text": "Biror narsani unutib qo'ysangiz: 'Esimdan chiqibdi'",
+      "options": [
+        "#Я забыл(а)",
+        "Я помню",
+        "Я знаю",
+        "Я нашел"
+      ],
+      "id": 79
+    },
+    {
+      "text": "Sizga biror narsa taklif qilishsa (masalan, choy), 'Bajonidil' deb javob bering:",
+      "options": [
+        "#С удовольствием",
+        "Я не хочу",
+        "Может быть позже",
+        "Дайте мне два"
+      ],
+      "id": 80
+    },
+    {
+      "text": "Telefon raqamini so'rash: 'Raqamingizni bera olasizmi?'",
+      "options": [
+        "#Можно ваш номер телефона?",
+        "Где ваш телефон?",
+        "Кто вам звонит?",
+        "Ваш телефон сломан"
+      ],
+      "id": 81
+    },
+    {
+      "text": "'Menga farqi yo'q' (Tanlovda ikkilanganda):",
+      "options": [
+        "#Мне всё равно",
+        "Мне это важно",
+        "Я не знаю это",
+        "Это не моё"
+      ],
+      "id": 82
+    },
+    {
+      "text": "Harakatni takrorlashni so'rash: 'Yana bir marta, iltimos'",
+      "options": [
+        "#Ещё раз, пожалуйста",
+        "Хватит уже",
+        "Больше не надо",
+        "Один раз было достаточно"
+      ],
+      "id": 83
+    },
+    {
+      "text": "'Men o'ylashim kerak' (Qaror qabul qilishdan oldin):",
+      "options": [
+        "#Мне нужно подумать",
+        "Я уже решил",
+        "Я не хочу думать",
+        "Что вы думаете?"
+      ],
+      "id": 84
+    },
+    {
+      "text": "Suhbatdoshni tabriklash: 'Bayramingiz bilan!'",
+      "options": [
+        "#С праздником!",
+        "С днём рождения!",
+        "Удачи вам!",
+        "Хорошего дня!"
+      ],
+      "id": 85
+    },
+    {
+      "text": "Kasalxonada: 'Menga shifokor kerak'",
+      "options": [
+        "#Мне нужен врач",
+        "Где аптека?",
+        "Я здоров",
+        "Кто здесь врач?"
+      ],
+      "id": 86
+    },
+    {
+      "text": "'Sizga yordam kerakmi?' (Taklif qilish):",
+      "options": [
+        "#Вам нужна помощь?",
+        "Что вы делаете?",
+        "Где вы помогаете?",
+        "Вы мне поможете?"
+      ],
+      "id": 87
+    },
+    {
+      "text": "Xursandchilik bildirish: 'Men juda xursandman!'",
+      "options": [
+        "#Я очень рад(а)!",
+        "Я очень грустный",
+        "Я очень занят",
+        "Я очень устал"
+      ],
+      "id": 88
+    },
+    {
+      "text": "Biror kishi aksirsa (O'zbekchada: Sog' bo'ling):",
+      "options": [
+        "#Будьте здоровы!",
+        "Всего доброго!",
+        "До свидания!",
+        "Извините!"
+      ],
+      "id": 89
+    },
+    {
+      "text": "'Kechirasiz, men tushuntira olmayapman' (Til bilmaslik sabab):",
+      "options": [
+        "#Извините, я не могу объяснить",
+        "Извините, я не хочу говорить",
+        "Извините, я не слышу",
+        "Извините, я все знаю"
+      ],
+      "id": 90
+    },
+    {
+      "text": "Xushmuomalalik: 'Yoqimli ishtaha!'",
+      "options": [
+        "#Приятного аппетита!",
+        "Всего хорошего!",
+        "Очень вкусно!",
+        "Дайте поесть!"
+      ],
+      "id": 91
+    },
+    {
+      "text": "Kutishni so'rash: 'Bir daqiqa kutib turing'",
+      "options": [
+        "#Подождите одну минуту",
+        "Идите быстрее",
+        "Я не буду ждать",
+        "Где вы были?"
+      ],
+      "id": 92
+    },
+    {
+      "text": "'Hammasi joyida, xavotir olmang' (Tinchlantirish):",
+      "options": [
+        "#Всё в порядке, не волнуйтесь",
+        "Ничего не хорошо",
+        "Что случилось?",
+        "Я здесь"
+      ],
+      "id": 93
+    },
+    {
+      "text": "Suhbatdoshdan 'Sizning fikringiz qanday?' deb so'rash:",
+      "options": [
+        "#Какое ваше мнение?",
+        "Что вы делаете?",
+        "Где вы живете?",
+        "Кто вы такой?"
+      ],
+      "id": 94
+    },
+    {
+      "text": "Maslahat so'rash: 'Menga nima maslahat berasiz?'",
+      "options": [
+        "#Что вы мне посоветуете?",
+        "Что вы мне дадите?",
+        "Где ваш совет?",
+        "Я не хочу совета"
+      ],
+      "id": 95
+    },
+    {
+      "text": "'Men buni sinab ko'rmoqchiman' (Kiyim yoki taomni):",
+      "options": [
+        "#Я хочу это попробовать",
+        "Я хочу это купить",
+        "Я хочу это видеть",
+        "Я хочу это отдать"
+      ],
+      "id": 96
+    },
+    {
+      "text": "Yo'l so'rash: 'Bu yer uzoqmi?'",
+      "options": [
+        "#Это далеко отсюда?",
+        "Где это находится?",
+        "Как туда доехать?",
+        "Это близко?"
+      ],
+      "id": 97
+    },
+    {
+      "text": "'Men hozir kelaman' (Tezda qaytish):",
+      "options": [
+        "#Я скоро буду",
+        "Я уже здесь",
+        "Я ушел",
+        "Я не приду"
+      ],
+      "id": 98
+    },
+    {
+      "text": "Suhbatdoshga 'Ehtiyot bo'ling' deyish:",
+      "options": [
+        "#Будьте осторожны",
+        "Будьте здоровы",
+        "Будьте здесь",
+        "Будьте готовы"
+      ],
+      "id": 99
+    },
+    {
+      "text": "Tarjima qiling: 'Hammasi uchun rahmat!'",
+      "options": [
+        "#Спасибо за всё!",
+        "До свидания!",
+        "Я всё сделал!",
+        "Где мой подарок?"
+      ],
+      "id": 100
+    }
+  ]
+}
