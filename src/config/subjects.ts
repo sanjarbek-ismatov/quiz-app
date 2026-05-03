@@ -46,6 +46,15 @@ export const SUBJECTS: SubjectConfig[] = [
     questionsCount: 130,
     groupsCount: 6,
   },
+  {
+    id: 'russian-vocabulary',
+    name: 'Russian Vocabulary',
+    description: 'Basic words and phrases in Russian',
+    icon: 'brain',
+    color: 'from-blue-500 to-red-500',
+    questionsCount: 100,
+    groupsCount: 4,
+  },
 ]
 
 /**
