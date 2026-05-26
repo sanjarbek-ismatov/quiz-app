@@ -55,6 +55,15 @@ export const SUBJECTS: SubjectConfig[] = [
     questionsCount: 100,
     groupsCount: 4,
   },
+  {
+    id: 'business-english',
+    name: 'Business English',
+    description: 'Essential Business English vocabulary for exams — management, finance, marketing, and more',
+    icon: 'globe',
+    color: 'from-emerald-500 to-teal-500',
+    questionsCount: 256,
+    groupsCount: 11,
+  },
 ]
 
 /**
