@@ -1,0 +1,3024 @@
+{
+  "questions": [
+    {
+      "text": "What is the primary purpose of communication skills in academics?",
+      "options": [
+        "#To effectively express ideas",
+        "To memorize facts and learn",
+        "To avoid discussions",
+        "To write lengthy essays"
+      ],
+      "id": 1
+    },
+    {
+      "text": "Which skill is essential for evaluating sources in research?",
+      "options": [
+        "#Critical thinking",
+        "Memorization and song",
+        "Guesswork",
+        "Summarization"
+      ],
+      "id": 2
+    },
+    {
+      "text": "What is the key to effective time management?",
+      "options": [
+        "#Prioritization of tasks",
+        "Avoiding deadlines",
+        "Completing tasks randomly",
+        "Ignoring schedules"
+      ],
+      "id": 3
+    },
+    {
+      "text": "Why is teamwork important in academic settings?",
+      "options": [
+        "#It fosters collaboration",
+        "It eliminates individual effort",
+        "It reduces personal responsibility",
+        "It discourages creativity"
+      ],
+      "id": 4
+    },
+    {
+      "text": "Which skill helps students stay focused during study sessions?",
+      "options": [
+        "#Self-discipline",
+        "Multitasking",
+        "Ignoring schedules",
+        "Random reading"
+      ],
+      "id": 5
+    },
+    {
+      "text": "What is the purpose of academic writing skills?",
+      "options": [
+        "#To present logical arguments",
+        "To copy information and chat",
+        "To write informally",
+        "To summarize stories"
+      ],
+      "id": 6
+    },
+    {
+      "text": "How can students improve their research skills?",
+      "options": [
+        "#By using reliable sources",
+        "By guessing answers and running",
+        "By avoiding research",
+        "By relying on social media"
+      ],
+      "id": 7
+    },
+    {
+      "text": "Which skill is needed to paraphrase effectively?",
+      "options": [
+        "#Understanding and rewording",
+        "Copying text directly and running",
+        "Memorizing content",
+        "Skipping key details"
+      ],
+      "id": 8
+    },
+    {
+      "text": "Why is note-taking important in learning?",
+      "options": [
+        "#It helps retain key information",
+        "It increases memorization stress",
+        "It replaces reading completely",
+        "It slows down learning"
+      ],
+      "id": 9
+    },
+    {
+      "text": "What is a characteristic of a critical thinker?",
+      "options": [
+        "#Analyzing information logically",
+        "Accepting all arguments as true",
+        "Avoiding difficult questions",
+        "Relying on emotions"
+      ],
+      "id": 10
+    },
+    {
+      "text": "What helps in managing stress during exams?",
+      "options": [
+        "#Breaking tasks into smaller steps",
+        "Avoiding all study plans and eating",
+        "Skipping revision",
+        "Cramming at the last moment"
+      ],
+      "id": 11
+    },
+    {
+      "text": "What is the key to self-directed learning?",
+      "options": [
+        "#Taking initiative in studies",
+        "Waiting for the teacher's instructions",
+        "Relying only on class notes",
+        "Avoiding extra reading"
+      ],
+      "id": 12
+    },
+    {
+      "text": "How can students develop better study habits?",
+      "options": [
+        "#By maintaining consistency",
+        "By studying only before exams",
+        "By avoiding structured plans",
+        "By ignoring learning methods"
+      ],
+      "id": 13
+    },
+    {
+      "text": "Which skill is crucial for writing professional emails?",
+      "options": [
+        "#Formal communication",
+        "Casual language and poems",
+        "Using emojis",
+        "Writing in slang"
+      ],
+      "id": 14
+    },
+    {
+      "text": "Why is leadership important in group projects?",
+      "options": [
+        "#It helps coordinate tasks",
+        "It eliminates teamwork",
+        "It reduces individual effort",
+        "It ignores team opinions"
+      ],
+      "id": 15
+    },
+    {
+      "text": "Which skill improves social interactions in academic settings?",
+      "options": [
+        "#Effective communication",
+        "Ignoring classmates and drowning",
+        "Avoiding teamwork",
+        "Focusing only on textbooks"
+      ],
+      "id": 16
+    },
+    {
+      "text": "What is the key benefit of cultural competence?",
+      "options": [
+        "#Understanding different perspectives",
+        "Avoiding cultural differences, letter",
+        "Focusing only on personal views",
+        "Ignoring diversity"
+      ],
+      "id": 17
+    },
+    {
+      "text": "How does goal-setting help students?",
+      "options": [
+        "#It provides direction and motivation",
+        "It increases confusion",
+        "It eliminates personal responsibility",
+        "It discourages planning"
+      ],
+      "id": 18
+    },
+    {
+      "text": "What role does logical thinking play in academics?",
+      "options": [
+        "#It strengthens arguments",
+        "It encourages random ideas",
+        "It eliminates analysis",
+        "It discourages reasoning"
+      ],
+      "id": 19
+    },
+    {
+      "text": "Why is digital literacy important for students?",
+      "options": [
+        "#To use technology responsibly",
+        "To rely on unreliable sources",
+        "To avoid technological advancements",
+        "To memorize software names"
+      ],
+      "id": 20
+    },
+    {
+      "text": "What is the key benefit of self-discipline in academics?",
+      "options": [
+        "#It helps maintain focus and productivity",
+        "It eliminates the need for deadlines, creativity",
+        "It allows skipping study sessions",
+        "It reduces the importance of planning"
+      ],
+      "id": 21
+    },
+    {
+      "text": "Why is organizational skill important for students?",
+      "options": [
+        "#It helps manage time and workload efficiently",
+        "It encourages procrastination and eating during the lessons",
+        "It limits flexibility in scheduling",
+        "It reduces motivation to study"
+      ],
+      "id": 22
+    },
+    {
+      "text": "What is a core component of critical thinking?",
+      "options": [
+        "#Evaluating arguments logically",
+        "Accepting all information as true",
+        "Ignoring opposing viewpoints",
+        "Relying on personal opinions only"
+      ],
+      "id": 23
+    },
+    {
+      "text": "How can students improve their academic writing?",
+      "options": [
+        "#By structuring arguments clearly",
+        "By avoiding research, by procrastination",
+        "By using informal language",
+        "By focusing on word count only"
+      ],
+      "id": 24
+    },
+    {
+      "text": "What is a key element of effective teamwork?",
+      "options": [
+        "#Collaboration and communication",
+        "Ignoring team members and having stress",
+        "Avoiding leadership roles",
+        "Focusing only on personal success"
+      ],
+      "id": 25
+    },
+    {
+      "text": "Which skill helps students adapt to different teaching styles?",
+      "options": [
+        "#Flexible thinking",
+        "Strictly following one method",
+        "Ignoring classroom discussions",
+        "Avoiding new learning techniques"
+      ],
+      "id": 26
+    },
+    {
+      "text": "What is the purpose of active listening?",
+      "options": [
+        "#To fully understand and respond appropriately",
+        "To wait for a turn to speak, and to be shy all the time",
+        "To ignore the speaker",
+        "To avoid asking questions"
+      ],
+      "id": 27
+    },
+    {
+      "text": "How does prioritization contribute to time management?",
+      "options": [
+        "#It ensures important tasks are completed first",
+        "It encourages procrastination",
+        "It increases workload stress",
+        "It eliminates the need for planning"
+      ],
+      "id": 28
+    },
+    {
+      "text": "What is the benefit of goal-setting in academics?",
+      "options": [
+        "#It provides motivation and direction",
+        "It limits flexibility",
+        "It discourages creativity",
+        "It eliminates the need for time management"
+      ],
+      "id": 29
+    },
+    {
+      "text": "Why is public speaking an important academic skill?",
+      "options": [
+        "#It builds confidence and communication skills",
+        "It discourages critical thinking",
+        "It reduces the need for preparation",
+        "It encourages memorization without understanding"
+      ],
+      "id": 30
+    },
+    {
+      "text": "Which skill is crucial for evaluating the credibility of sources?",
+      "options": [
+        "#Information literacy",
+        "Blind trust in all sources",
+        "Avoiding source verification",
+        "Choosing only popular sources"
+      ],
+      "id": 31
+    },
+    {
+      "text": "What is the purpose of constructive feedback?",
+      "options": [
+        "#To improve performance and skills",
+        "To criticize without solutions",
+        "To lower confidence",
+        "To discourage further effort"
+      ],
+      "id": 32
+    },
+    {
+      "text": "How does stress management help students?",
+      "options": [
+        "#It improves focus and reduces anxiety",
+        "It encourages last-minute studying and copying",
+        "It increases workload pressure",
+        "It eliminates the need for planning"
+      ],
+      "id": 33
+    },
+    {
+      "text": "Which habit contributes to academic success?",
+      "options": [
+        "#Regular and planned studying",
+        "Cramming the night before exams",
+        "Avoiding structured learning",
+        "Skipping challenging topics"
+      ],
+      "id": 34
+    },
+    {
+      "text": "Why is self-motivation important for students?",
+      "options": [
+        "#It drives learning without external pressure",
+        "It eliminates the need for deadlines, learning",
+        "It reduces engagement with coursework",
+        "It avoids taking responsibility for tasks"
+      ],
+      "id": 35
+    },
+    {
+      "text": "What is the benefit of learning to summarize information?",
+      "options": [
+        "#It helps retain key concepts efficiently",
+        "It eliminates the need for a detailed study",
+        "It reduces the importance of note-taking",
+        "It encourages memorization without understanding"
+      ],
+      "id": 36
+    },
+    {
+      "text": "Why is proofreading important in academic writing?",
+      "options": [
+        "#It ensures clarity and correctness",
+        "It increases word count unnecessarily",
+        "It eliminates the need for structuring",
+        "It reduces the importance of grammar"
+      ],
+      "id": 37
+    },
+    {
+      "text": "What is the main goal of problem-solving skills?",
+      "options": [
+        "#To find effective solutions to challenges",
+        "To avoid addressing issues, running from classes",
+        "To rely on guesswork",
+        "To ignore difficult problems"
+      ],
+      "id": 38
+    },
+    {
+      "text": "How does persistence benefit students?",
+      "options": [
+        "#It helps overcome challenges and setbacks",
+        "It encourages giving up easily",
+        "It reduces learning motivation",
+        "It eliminates the need for time management"
+      ],
+      "id": 39
+    },
+    {
+      "text": "What is an essential characteristic of leadership in academics?",
+      "options": [
+        "#Decision-making and guiding others",
+        "Ignoring team responsibilities",
+        "Avoiding communication",
+        "Focusing only on personal success"
+      ],
+      "id": 40
+    },
+    {
+      "text": "Which approach enhances learning retention?",
+      "options": [
+        "#Engaging with material actively",
+        "Relying solely on rote memorization",
+        "Avoiding note-taking",
+        "Skipping practice tests"
+      ],
+      "id": 41
+    },
+    {
+      "text": "How does adaptability contribute to academic success?",
+      "options": [
+        "#It helps students adjust to new learning environments",
+        "It eliminates the need for planning and for lunch at the unit",
+        "It reduces motivation to study",
+        "It discourages creative thinking"
+      ],
+      "id": 42
+    },
+    {
+      "text": "What is an effective way to develop confidence in public speaking?",
+      "options": [
+        "#Practicing regularly and preparing well",
+        "Avoiding speeches altogether",
+        "Memorizing without understanding and swimming",
+        "Reading slides without engagement"
+      ],
+      "id": 43
+    },
+    {
+      "text": "Why is decision-making important in academics?",
+      "options": [
+        "#It helps evaluate choices effectively",
+        "It encourages indecisiveness and playing",
+        "It eliminates problem-solving",
+        "It reduces accountability"
+      ],
+      "id": 44
+    },
+    {
+      "text": "Which strategy improves focus during study sessions?",
+      "options": [
+        "#Minimizing distractions",
+        "Multitasking constantly",
+        "Ignoring study schedules",
+        "Skipping breaks"
+      ],
+      "id": 45
+    },
+    {
+      "text": "What is an advantage of collaboration in academic projects?",
+      "options": [
+        "#It promotes shared ideas and creativity",
+        "It reduces teamwork skills",
+        "It eliminates individual responsibility",
+        "It discourages communication"
+      ],
+      "id": 46
+    },
+    {
+      "text": "How does time management improve academic performance?",
+      "options": [
+        "#It ensures efficiency and reduces stress",
+        "It encourages last-minute studying and copying",
+        "It eliminates the need for schedules",
+        "It increases procrastination"
+      ],
+      "id": 47
+    },
+    {
+      "text": "Which factor helps in developing professionalism?",
+      "options": [
+        "#Respect, punctuality, and responsibility",
+        "Ignoring deadlines",
+        "Avoiding communication",
+        "Using casual language in formal settings"
+      ],
+      "id": 48
+    },
+    {
+      "text": "Why is logical reasoning important in academics?",
+      "options": [
+        "#It strengthens arguments and analysis",
+        "It encourages emotional decision-making",
+        "It avoids structured thinking",
+        "It discourages the evaluation of facts"
+      ],
+      "id": 49
+    },
+    {
+      "text": "Which skill helps in handling constructive criticism?",
+      "options": [
+        "#Open-mindedness",
+        "Ignoring feedback",
+        "Taking criticism personally",
+        "Avoiding professional growth"
+      ],
+      "id": 50
+    },
+    {
+      "text": "What is the purpose of reflective learning?",
+      "options": [
+        "#To assess progress and improve skills",
+        "To ignore past mistakes",
+        "To avoid learning new strategies",
+        "To focus only on past successes"
+      ],
+      "id": 51
+    },
+    {
+      "text": "Which habit contributes to long-term academic success?",
+      "options": [
+        "#Consistent and proactive studying",
+        "Avoiding academic challenges",
+        "Relying on last-minute studying",
+        "Skipping structured learning"
+      ],
+      "id": 52
+    },
+    {
+      "text": "Why is conflict resolution important in teamwork?",
+      "options": [
+        "#It helps maintain a positive work environment",
+        "It encourages misunderstandings and playing games",
+        "It avoids addressing issues",
+        "It reduces cooperation"
+      ],
+      "id": 53
+    },
+    {
+      "text": "How can students improve their note-taking skills?",
+      "options": [
+        "#By summarizing key points effectively",
+        "By copying everything word for word",
+        "By avoiding written notes",
+        "By relying solely on lectures"
+      ],
+      "id": 54
+    },
+    {
+      "text": "Why is humility important in academic growth?",
+      "options": [
+        "#It allows students to learn from mistakes",
+        "It eliminates confidence and paraphrasings",
+        "It reduces motivation",
+        "It discourages constructive criticism"
+      ],
+      "id": 55
+    },
+    {
+      "text": "What is the impact of good stress management?",
+      "options": [
+        "#It enhances concentration and productivity",
+        "It eliminates the need for studying and learning",
+        "It reduces motivation",
+        "It encourages last-minute work"
+      ],
+      "id": 56
+    },
+    {
+      "text": "Why is ethical decision-making crucial in academia?",
+      "options": [
+        "#It ensures integrity and fairness",
+        "It encourages plagiarism, copying",
+        "It discourages responsibility",
+        "It avoids accountability"
+      ],
+      "id": 57
+    },
+    {
+      "text": "Which skill is essential for effective brainstorming?",
+      "options": [
+        "#Creative thinking",
+        "Following strict rules",
+        "Avoiding new ideas",
+        "Focusing on a single approach"
+      ],
+      "id": 58
+    },
+    {
+      "text": "What is the role of perseverance in achieving academic goals?",
+      "options": [
+        "#It helps students overcome setbacks",
+        "It encourages quitting easily and burn out",
+        "It reduces motivation",
+        "It eliminates challenges"
+      ],
+      "id": 59
+    },
+    {
+      "text": "Which approach improves exam performance?",
+      "options": [
+        "#Consistent preparation and practice",
+        "Last-minute cramming, sitting uselessly",
+        "Avoiding revision",
+        "Ignoring past mistakes"
+      ],
+      "id": 60
+    },
+    {
+      "text": "Why is networking important in academics?",
+      "options": [
+        "#It creates opportunities for growth",
+        "It discourages collaboration and playing",
+        "It eliminates teamwork",
+        "It reduces communication skills"
+      ],
+      "id": 61
+    },
+    {
+      "text": "What is an effective method for improving academic reading?",
+      "options": [
+        "#Active reading and summarization",
+        "Skimming without focus and procrastination",
+        "Avoiding complex texts",
+        "Reading without analysis"
+      ],
+      "id": 62
+    },
+    {
+      "text": "What is the main purpose of academic integrity?",
+      "options": [
+        "#To ensure honesty and fairness in studies",
+        "To encourage plagiarism, copying, and running",
+        "To avoid citing sources",
+        "To ignore ethical guidelines"
+      ],
+      "id": 63
+    },
+    {
+      "text": "Why is curiosity important in learning?",
+      "options": [
+        "#It encourages exploration and deeper understanding",
+        "It limits questioning",
+        "It discourages independent thought, and idea sharing",
+        "It reduces motivation"
+      ],
+      "id": 64
+    },
+    {
+      "text": "What is the key to effective leadership in group work?",
+      "options": [
+        "#Guiding and motivating others",
+        "Ignoring team opinions, claiming",
+        "Dominating discussions",
+        "Avoiding responsibilities"
+      ],
+      "id": 65
+    },
+    {
+      "text": "Why is adaptability important in professional life?",
+      "options": [
+        "#It helps adjust to new situations",
+        "It discourages change and motivation",
+        "It eliminates creativity",
+        "It reduces flexibility"
+      ],
+      "id": 66
+    },
+    {
+      "text": "Which skill is essential for analyzing research data?",
+      "options": [
+        "#Critical thinking",
+        "Guesswork",
+        "Avoiding statistics",
+        "Memorization"
+      ],
+      "id": 67
+    },
+    {
+      "text": "Why is time management crucial in higher education?",
+      "options": [
+        "#It ensures productivity and reduces stress",
+        "It increases procrastination and plagiarism",
+        "It eliminates deadlines",
+        "It avoids responsibility"
+      ],
+      "id": 68
+    },
+    {
+      "text": "What is the benefit of writing concisely in academic papers?",
+      "options": [
+        "#It improves clarity and understanding",
+        "It increases word count unnecessarily",
+        "It avoids structuring arguments",
+        "It ignores logical flow"
+      ],
+      "id": 69
+    },
+    {
+      "text": "Why is professional networking valuable for students?",
+      "options": [
+        "#It opens career opportunities",
+        "It eliminates teamwork",
+        "It reduces motivation",
+        "It discourages collaboration"
+      ],
+      "id": 70
+    },
+    {
+      "text": "Which factor improves reading comprehension?",
+      "options": [
+        "#Summarizing key points",
+        "Skipping difficult sections",
+        "Ignoring unfamiliar words",
+        "Reading passively"
+      ],
+      "id": 71
+    },
+    {
+      "text": "What is the role of confidence in public speaking?",
+      "options": [
+        "#It enhances delivery and engagement",
+        "It discourages preparation and playing outside",
+        "It eliminates nervousness",
+        "It avoids audience interaction"
+      ],
+      "id": 72
+    },
+    {
+      "text": "How can students improve their self-motivation?",
+      "options": [
+        "#By setting clear goals",
+        "By avoiding challenges",
+        "By ignoring feedback",
+        "By skipping difficult tasks"
+      ],
+      "id": 73
+    },
+    {
+      "text": "What is the purpose of brainstorming in problem-solving?",
+      "options": [
+        "#To generate creative ideas",
+        "To avoid structured thinking",
+        "To eliminate teamwork",
+        "To restrict solutions"
+      ],
+      "id": 74
+    },
+    {
+      "text": "Which habit helps maintain work-life balance?",
+      "options": [
+        "#Prioritizing tasks effectively",
+        "Ignoring responsibilities",
+        "Avoiding social interactions",
+        "Overworking constantly"
+      ],
+      "id": 75
+    },
+    {
+      "text": "Why is decision-making important for leaders?",
+      "options": [
+        "#It helps in problem-solving",
+        "It encourages indecisiveness",
+        "It avoids responsibility",
+        "It discourages teamwork"
+      ],
+      "id": 76
+    },
+    {
+      "text": "What is an effective way to reduce exam anxiety?",
+      "options": [
+        "#Regular preparation and practice",
+        "Cramming at the last minute and procrastination",
+        "Skipping revision sessions",
+        "Avoiding exam strategies"
+      ],
+      "id": 77
+    },
+    {
+      "text": "How does resilience contribute to academic success?",
+      "options": [
+        "#It helps overcome setbacks",
+        "It encourages giving up",
+        "It reduces motivation",
+        "It avoids learning from mistakes"
+      ],
+      "id": 78
+    },
+    {
+      "text": "Why is goal-setting important for students?",
+      "options": [
+        "#It provides a roadmap for success",
+        "It eliminates flexibility",
+        "It discourages planning",
+        "It avoids commitment"
+      ],
+      "id": 79
+    },
+    {
+      "text": "Which skill is essential for conflict resolution?",
+      "options": [
+        "#Active listening",
+        "Ignoring disagreements",
+        "Reacting emotionally",
+        "Avoiding communication"
+      ],
+      "id": 80
+    },
+    {
+      "text": "How does analytical thinking benefit students?",
+      "options": [
+        "#It improves problem-solving skills",
+        "It discourages logical reasoning and running",
+        "It eliminates creativity",
+        "It reduces decision-making"
+      ],
+      "id": 81
+    },
+    {
+      "text": "What is the benefit of engaging in group discussions?",
+      "options": [
+        "#It enhances understanding and perspective",
+        "It discourages participation and playing fun",
+        "It reduces communication skills",
+        "It eliminates independent thinking"
+      ],
+      "id": 82
+    },
+    {
+      "text": "Why is feedback important in academic growth?",
+      "options": [
+        "#It helps identify areas for improvement",
+        "It discourages self-reflection and procrastination",
+        "It reduces learning potential",
+        "It eliminates constructive criticism"
+      ],
+      "id": 83
+    },
+    {
+      "text": "How does consistency contribute to learning?",
+      "options": [
+        "#It reinforces retention and mastery",
+        "It eliminates flexibility",
+        "It reduces engagement",
+        "It discourages active participation"
+      ],
+      "id": 84
+    },
+    {
+      "text": "Which approach is best for problem-solving?",
+      "options": [
+        "#Analyzing and evaluating options",
+        "Ignoring the problem",
+        "Choosing the first available solution",
+        "Avoiding logical reasoning"
+      ],
+      "id": 85
+    },
+    {
+      "text": "How can students enhance their ability to focus?",
+      "options": [
+        "#By minimizing distractions",
+        "By multitasking excessively",
+        "By ignoring study schedules",
+        "By avoiding structured learning"
+      ],
+      "id": 86
+    },
+    {
+      "text": "Why is professional etiquette important in communication?",
+      "options": [
+        "#It ensures clarity and respect",
+        "It encourages informal language",
+        "It discourages professionalism",
+        "It eliminates formality"
+      ],
+      "id": 87
+    },
+    {
+      "text": "What is the impact of overconfidence in decision-making?",
+      "options": [
+        "#It leads to poor judgment",
+        "It improves logical thinking",
+        "It eliminates uncertainty",
+        "It encourages critical evaluation"
+      ],
+      "id": 88
+    },
+    {
+      "text": "How does patience contribute to learning?",
+      "options": [
+        "#It allows steady progress and understanding",
+        "It eliminates the need for practice and procrastination",
+        "It reduces problem-solving skills",
+        "It discourages consistency"
+      ],
+      "id": 89
+    },
+    {
+      "text": "What is the role of note organization in effective studying?",
+      "options": [
+        "#It improves retention and clarity",
+        "It eliminates the need for review",
+        "It discourages summarization",
+        "It increases confusion"
+      ],
+      "id": 90
+    },
+    {
+      "text": "Which method helps in stress management?",
+      "options": [
+        "#Practicing relaxation techniques",
+        "Ignoring responsibilities",
+        "Avoiding time management",
+        "Overloading tasks"
+      ],
+      "id": 91
+    },
+    {
+      "text": "Why is strategic planning essential for project management?",
+      "options": [
+        "#It ensures efficiency and goal achievement",
+        "It discourages teamwork and bad news",
+        "It eliminates flexibility",
+        "It avoids structured work"
+      ],
+      "id": 92
+    },
+    {
+      "text": "What is the purpose of self-assessment in learning?",
+      "options": [
+        "#To evaluate progress",
+        "To ignore personal weaknesses",
+        "To eliminate reflection",
+        "To discourage feedback"
+      ],
+      "id": 93
+    },
+    {
+      "text": "How does being open-minded benefit learning?",
+      "options": [
+        "#It allows exposure to new perspectives",
+        "It encourages rigid thinking, wasteful time",
+        "It reduces engagement",
+        "It avoids diverse ideas"
+      ],
+      "id": 94
+    },
+    {
+      "text": "Which quality makes a good mentor?",
+      "options": [
+        "#Providing guidance and support",
+        "Discouraging independence",
+        "Avoiding constructive criticism",
+        "Ignoring mentee concerns"
+      ],
+      "id": 95
+    },
+    {
+      "text": "What is an effective way to boost creativity?",
+      "options": [
+        "#Exploring diverse experiences",
+        "Avoiding new challenges",
+        "Ignoring brainstorming techniques",
+        "Restricting imagination"
+      ],
+      "id": 96
+    },
+    {
+      "text": "Why is resilience crucial in leadership?",
+      "options": [
+        "#It helps navigate challenges effectively",
+        "It discourages persistence",
+        "It eliminates adaptability",
+        "It reduces decision-making ability and fast track"
+      ],
+      "id": 97
+    },
+    {
+      "text": "Which practice leads to better academic performance?",
+      "options": [
+        "#Active engagement with material",
+        "Skipping assignments",
+        "Avoiding structured learning",
+        "Memorizing without understanding"
+      ],
+      "id": 98
+    },
+    {
+      "text": "How does developing patience help students?",
+      "options": [
+        "#It promotes long-term learning success",
+        "It eliminates problem-solving skills and copying",
+        "It discourages resilience",
+        "It reduces logical thinking"
+      ],
+      "id": 99
+    },
+    {
+      "text": "What is the key element of lifelong learning?",
+      "options": [
+        "#Continuous curiosity and adaptation",
+        "Avoiding new skills",
+        "Relying on past knowledge only",
+        "Ignoring professional development"
+      ],
+      "id": 100
+    },
+    {
+      "text": "How can students improve logical reasoning?",
+      "options": [
+        "#By practicing analytical thinking",
+        "By guessing answers",
+        "By avoiding structured learning",
+        "By ignoring logical connections"
+      ],
+      "id": 101
+    },
+    {
+      "text": "What is an advantage of continuous learning?",
+      "options": [
+        "#It keeps knowledge and skills updated",
+        "It discourages growth and motivates procrastination",
+        "It reduces motivation",
+        "It avoids professional success"
+      ],
+      "id": 102
+    },
+    {
+      "text": "Why is personal responsibility essential for students?",
+      "options": [
+        "#It fosters accountability",
+        "It eliminates deadlines",
+        "It discourages planning",
+        "It reduces motivation"
+      ],
+      "id": 103
+    },
+    {
+      "text": "What is a key benefit of self-reflection in learning?",
+      "options": [
+        "#It helps identify strengths and weaknesses",
+        "It eliminates the need for feedback and copying",
+        "It discourages improvement",
+        "It avoids self-assessment"
+      ],
+      "id": 104
+    },
+    {
+      "text": "Why is adaptability important in team projects?",
+      "options": [
+        "#It allows students to adjust to different roles",
+        "It eliminates leadership responsibilities",
+        "It reduces the need for communication",
+        "It discourages teamwork"
+      ],
+      "id": 105
+    },
+    {
+      "text": "Which factor improves concentration during study sessions?",
+      "options": [
+        "#Eliminating distractions",
+        "Studying in noisy environments",
+        "Avoiding structured schedules",
+        "Skipping breaks"
+      ],
+      "id": 106
+    },
+    {
+      "text": "How does learning from mistakes benefit students?",
+      "options": [
+        "#It promotes growth and improvement",
+        "It discourages confidence and motivation",
+        "It eliminates the need for feedback",
+        "It reduces academic motivation"
+      ],
+      "id": 107
+    },
+    {
+      "text": "What is the role of patience in goal achievement?",
+      "options": [
+        "#It encourages persistence and steady progress",
+        "It eliminates challenges and helps to make money",
+        "It discourages hard work",
+        "It reduces motivation"
+      ],
+      "id": 108
+    },
+    {
+      "text": "Why is critical analysis important in academic writing?",
+      "options": [
+        "#It strengthens arguments",
+        "It eliminates creativity",
+        "It avoids in-depth discussion",
+        "It discourages research"
+      ],
+      "id": 109
+    },
+    {
+      "text": "What is an effective way to develop leadership skills?",
+      "options": [
+        "#By taking initiative and guiding others",
+        "By avoiding group projects",
+        "By focusing only on personal tasks",
+        "By disregarding team input"
+      ],
+      "id": 110
+    },
+    {
+      "text": "Which habit helps in avoiding procrastination?",
+      "options": [
+        "#Breaking tasks into smaller steps",
+        "Waiting until the last moment and sleep",
+        "Ignoring deadlines",
+        "Avoiding task prioritization"
+      ],
+      "id": 111
+    },
+    {
+      "text": "How does confidence impact decision-making?",
+      "options": [
+        "#It helps in making firm and informed choices",
+        "It reduces logical reasoning and playing roles",
+        "It eliminates analytical thinking",
+        "It discourages self-assessment"
+      ],
+      "id": 112
+    },
+    {
+      "text": "Why is questioning important in critical thinking?",
+      "options": [
+        "#It leads to deeper understanding and analysis",
+        "It eliminates discussion",
+        "It discourages logical reasoning",
+        "It avoids seeking alternative perspectives, copying"
+      ],
+      "id": 113
+    },
+    {
+      "text": "How does ethical behavior contribute to academic success?",
+      "options": [
+        "#It fosters trust and academic integrity",
+        "It eliminates the need for citations",
+        "It discourages responsible research",
+        "It avoids following ethical guidelines"
+      ],
+      "id": 114
+    },
+    {
+      "text": "What is an effective strategy for reducing distractions?",
+      "options": [
+        "#Creating a structured study environment",
+        "Studying with multiple distractions",
+        "Avoiding designated study areas",
+        "Skipping focus techniques"
+      ],
+      "id": 115
+    },
+    {
+      "text": "Why is maintaining curiosity important for learning?",
+      "options": [
+        "#It encourages exploration and innovation",
+        "It discourages problem-solving",
+        "It reduces interest in new ideas",
+        "It eliminates research opportunities and running"
+      ],
+      "id": 116
+    },
+    {
+      "text": "Which factor enhances problem-solving skills?",
+      "options": [
+        "#Thinking critically and creatively",
+        "Avoiding challenges",
+        "Ignoring alternative solutions and pushing back",
+        "Relying only on memorization"
+      ],
+      "id": 117
+    },
+    {
+      "text": "How does resilience help in overcoming academic challenges?",
+      "options": [
+        "#It promotes persistence despite setbacks",
+        "It reduces motivation",
+        "It eliminates the need for effort",
+        "It discourages self-improvement, unmotivated"
+      ],
+      "id": 118
+    },
+    {
+      "text": "Why is adaptability essential in an evolving academic environment?",
+      "options": [
+        "#It helps students embrace new learning",
+        "It discourages flexibility",
+        "It eliminates the need for innovation",
+        "It avoids problem-solving strategies"
+      ],
+      "id": 119
+    },
+    {
+      "text": "Which habit contributes to better academic discussions?",
+      "options": [
+        "#Engaging actively and listening attentively",
+        "Avoiding participation",
+        "Ignoring opposing viewpoints",
+        "Focusing only on personal opinions, ignoring"
+      ],
+      "id": 120
+    },
+    {
+      "text": "How does prioritization contribute to efficient studying?",
+      "options": [
+        "#It ensures that the most important tasks",
+        "It discourages task organization and discussing",
+        "It eliminates structured learning",
+        "It reduces focus on key topics"
+      ],
+      "id": 121
+    },
+    {
+      "text": "Why is patience important in academic research?",
+      "options": [
+        "#It allows thorough analysis",
+        "It eliminates detailed study",
+        "It discourages accuracy",
+        "It avoids structured research methods"
+      ],
+      "id": 122
+    },
+    {
+      "text": "What is an effective strategy for lifelong learning?",
+      "options": [
+        "#Continuously seeking knowledge and new skills",
+        "Avoiding new challenges and ignoring every task",
+        "Limiting learning opportunities",
+        "Focusing only on past experiences"
+      ],
+      "id": 123
+    },
+    {
+      "text": "Which of the following represents the main components of professional competence?",
+      "options": [
+        "#Knowledge, Skills, Attitudes",
+        "Communication, Networking, Finance",
+        "Creativity, Independence, Wealth",
+        "Planning, Control, Entertainment"
+      ],
+      "id": 124
+    },
+    {
+      "text": "Which factor is most essential for developing academic writing skills?",
+      "options": [
+        "#Critical reading and analysis",
+        "Entertainment and leisure",
+        "Travel and shopping",
+        "Physical exercise and sports"
+      ],
+      "id": 125
+    },
+    {
+      "text": "Which of the following is a key element of professional ethics?",
+      "options": [
+        "#Integrity and responsibility",
+        "Luxury and consumption",
+        "Ambition and competition",
+        "Relaxation and comfort"
+      ],
+      "id": 126
+    },
+    {
+      "text": "Which competence is necessary for effective teamwork?",
+      "options": [
+        "#Collaboration",
+        "Isolation and secrecy",
+        "Silence and passivity",
+        "Indifference and delay"
+      ],
+      "id": 127
+    },
+    {
+      "text": "What does critical thinking primarily involve?",
+      "options": [
+        "#Evaluation of evidence",
+        "Copying without reflection",
+        "Ignoring logical reasoning",
+        "Following emotions only"
+      ],
+      "id": 128
+    },
+    {
+      "text": "Which element is essential in professional presentation skills?",
+      "options": [
+        "#Clarity and confidence",
+        "Confusion and speed",
+        "Randomness and humor",
+        "Shyness and silence"
+      ],
+      "id": 129
+    },
+    {
+      "text": "Which is the foundation of academic integrity?",
+      "options": [
+        "#Honesty in research",
+        "Copying from peers",
+        "Fabricating sources",
+        "Ignoring references"
+      ],
+      "id": 130
+    },
+    {
+      "text": "Which of the following contributes most to professional growth?",
+      "options": [
+        "#Continuous learning",
+        "Avoiding feedback",
+        "Ignoring new knowledge",
+        "Rejecting challenges"
+      ],
+      "id": 131
+    },
+    {
+      "text": "Which skill is central to effective academic communication?",
+      "options": [
+        "#Clarity and structure",
+        "Ambiguity and vagueness",
+        "Fast talking only",
+        "Silence and avoidance"
+      ],
+      "id": 132
+    },
+    {
+      "text": "Which of the following is an important time management strategy?",
+      "options": [
+        "#Prioritizing tasks effectively",
+        "Procrastinating constantly",
+        "Ignoring all deadlines",
+        "Working without breaks"
+      ],
+      "id": 133
+    },
+    {
+      "text": "Which competence reflects the ability to adapt to change?",
+      "options": [
+        "#Flexibility and resilience",
+        "Rigidity and refusal",
+        "Fear and avoidance",
+        "Confusion and denial"
+      ],
+      "id": 134
+    },
+    {
+      "text": "Which skill is most important in academic research?",
+      "options": [
+        "#Ability to evaluate sources",
+        "Copying without review",
+        "Memorizing only",
+        "Ignoring evidence"
+      ],
+      "id": 135
+    },
+    {
+      "text": "Which element strengthens problem-solving competence?",
+      "options": [
+        "#Analytical and creative",
+        "Avoidance and silence",
+        "Guessing randomly",
+        "Imitating blindly"
+      ],
+      "id": 136
+    },
+    {
+      "text": "Which competence is vital for leadership?",
+      "options": [
+        "#Decision-making",
+        "Laziness and silence",
+        "Indifference and delay",
+        "Ignorance and passivity"
+      ],
+      "id": 137
+    },
+    {
+      "text": "Which factor supports lifelong learning?",
+      "options": [
+        "#Motivation and curiosity",
+        "Disinterest and boredom",
+        "Avoidance and denial",
+        "Imitation and silence"
+      ],
+      "id": 138
+    },
+    {
+      "text": "Which academic skill involves proper citation?",
+      "options": [
+        "#Referencing",
+        "Copying and hiding",
+        "Ignoring authors",
+        "Fabricating works"
+      ],
+      "id": 139
+    },
+    {
+      "text": "Which element is essential for professional networking?",
+      "options": [
+        "#Building trust",
+        "Deception and secrecy",
+        "Isolation and silence",
+        "Avoidance and ignorance"
+      ],
+      "id": 140
+    },
+    {
+      "text": "Which factor enhances self-organization skills?",
+      "options": [
+        "#Goal-setting and planning",
+        "Confusion and delay",
+        "Randomness and passivity",
+        "Disorder and chaos"
+      ],
+      "id": 141
+    },
+    {
+      "text": "Which competence is necessary for conflict resolution?",
+      "options": [
+        "#Negotiation and empathy",
+        "Aggression and anger",
+        "Denial and silence",
+        "Avoidance and ignorance"
+      ],
+      "id": 142
+    },
+    {
+      "text": "Which academic skill is tested in oral presentations?",
+      "options": [
+        "#Public speaking and clarity",
+        "Avoidance and fear",
+        "Silence and hesitation",
+        "Confusion and vagueness"
+      ],
+      "id": 143
+    },
+    {
+      "text": "Which element is central to professional accountability?",
+      "options": [
+        "#Responsibility",
+        "Blame and excuses",
+        "Silence and denial",
+        "Fear and ignorance"
+      ],
+      "id": 144
+    },
+    {
+      "text": "Which skill helps improve academic writing quality?",
+      "options": [
+        "#Editing, proofreading",
+        "Ignoring mistakes",
+        "Copying without check",
+        "Guessing meanings"
+      ],
+      "id": 145
+    },
+    {
+      "text": "Which of the following is a part of digital competence?",
+      "options": [
+        "#Effective use of technology",
+        "Avoiding all devices, gadgets",
+        "Ignoring new tools",
+        "Rejecting innovation"
+      ],
+      "id": 146
+    },
+    {
+      "text": "Which competence relates to applying knowledge in practice?",
+      "options": [
+        "#Application, problem-solving",
+        "Ignoring situations and platforms",
+        "Avoidance and delay",
+        "Silence and fear"
+      ],
+      "id": 147
+    },
+    {
+      "text": "Which element of communication shows respect?",
+      "options": [
+        "#Active listening and response",
+        "Interrupting constantly and singing",
+        "Ignoring opinions",
+        "Speaking without pause"
+      ],
+      "id": 148
+    },
+    {
+      "text": "Which skill is essential for a research presentation?",
+      "options": [
+        "#Organizing and delivering findings",
+        "Avoiding structure and copying information",
+        "Silence and denial",
+        "Random guessing"
+      ],
+      "id": 149
+    },
+    {
+      "text": "Which competence is required for innovation?",
+      "options": [
+        "#Creativity and experimentation",
+        "Imitation and copying pop-songs",
+        "Avoidance and fear",
+        "Silence and delay"
+      ],
+      "id": 150
+    },
+    {
+      "text": "Which academic skill supports group projects?",
+      "options": [
+        "#Collaboration and responsibility",
+        "Isolation and silence in the corner",
+        "Denial and confusion",
+        "Random avoidance"
+      ],
+      "id": 151
+    },
+    {
+      "text": "Which competence is crucial for career success?",
+      "options": [
+        "#Adaptability and lifelong learning",
+        "Passivity and delay all people around",
+        "Silence and denial",
+        "Ignorance and refusal"
+      ],
+      "id": 152
+    },
+    {
+      "text": "Which element is fundamental in critical discussion?",
+      "options": [
+        "#Evidence-based reasoning",
+        "Guessing without facts, chatting",
+        "Ignoring arguments",
+        "Silence and avoidance"
+      ],
+      "id": 153
+    },
+    {
+      "text": "What is essential for effective academic planning?",
+      "options": [
+        "#Setting measurable academic objectives",
+        "Ignoring structured academic schedules",
+        "Delaying preparation until deadlines",
+        "Avoiding systematic task organization"
+      ],
+      "id": 154
+    },
+    {
+      "text": "Which ability improves professional adaptability?",
+      "options": [
+        "#Responding effectively to new challenges",
+        "Rejecting unfamiliar working conditions",
+        "Resisting organizational transformations",
+        "Avoiding innovative strategic approaches"
+      ],
+      "id": 155
+    },
+    {
+      "text": "What strengthens academic argumentation skills?",
+      "options": [
+        "#Supporting claims with credible evidence",
+        "Relying only on unsupported assumptions",
+        "Ignoring opposing scholarly perspectives",
+        "Avoiding logical structural development"
+      ],
+      "id": 156
+    },
+    {
+      "text": "Which factor enhances independent learning?",
+      "options": [
+        "#Taking responsibility for personal progress",
+        "Depending entirely on external guidance",
+        "Avoiding additional educational resources",
+        "Ignoring feedback from instructors"
+      ],
+      "id": 157
+    },
+    {
+      "text": "What improves clarity in written assignments?",
+      "options": [
+        "#Using structured and coherent paragraphs",
+        "Writing without logical organization",
+        "Ignoring transitions between ideas",
+        "Avoiding revision and editing stages"
+      ],
+      "id": 158
+    },
+    {
+      "text": "Which competence supports ethical research conduct?",
+      "options": [
+        "#Following citation and referencing standards",
+        "Copying materials without acknowledgment",
+        "Fabricating experimental research data",
+        "Ignoring intellectual property rights"
+      ],
+      "id": 159
+    },
+    {
+      "text": "What develops strong presentation confidence?",
+      "options": [
+        "#Practicing delivery with structured preparation",
+        "Avoiding rehearsal before presentations",
+        "Reading slides without audience engagement",
+        "Ignoring visual communication techniques"
+      ],
+      "id": 160
+    },
+    {
+      "text": "Which strategy improves academic concentration?",
+      "options": [
+        "#Creating a distraction-free study environment",
+        "Studying with constant interruptions",
+        "Ignoring structured learning routines",
+        "Multitasking during complex assignments"
+      ],
+      "id": 161
+    },
+    {
+      "text": "What enhances collaboration in academic teams?",
+      "options": [
+        "#Sharing responsibilities and clear communication",
+        "Competing aggressively within group tasks",
+        "Avoiding participation in discussions",
+        "Ignoring collective project objectives"
+      ],
+      "id": 162
+    },
+    {
+      "text": "Which skill supports professional email writing?",
+      "options": [
+        "#Maintaining clarity and formal tone",
+        "Using informal abbreviations excessively",
+        "Ignoring professional formatting standards",
+        "Writing emotionally expressive messages"
+      ],
+      "id": 163
+    },
+    {
+      "text": "What improves effectiveness in academic teamwork?",
+      "options": [
+        "#Establishing clear roles and expectations",
+        "Avoiding assigned individual responsibilities",
+        "Ignoring group communication standards",
+        "Competing instead of collaborating constructively"
+      ],
+      "id": 164
+    },
+    {
+      "text": "Which skill strengthens research methodology?",
+      "options": [
+        "#Designing systematic and logical procedures",
+        "Collecting data without defined structure",
+        "Ignoring research reliability standards",
+        "Avoiding analytical evaluation methods"
+      ],
+      "id": 165
+    },
+    {
+      "text": "What contributes to professional credibility?",
+      "options": [
+        "#Demonstrating consistent ethical behavior",
+        "Ignoring established professional standards",
+        "Avoiding responsibility for outcomes",
+        "Providing inaccurate documented information"
+      ],
+      "id": 166
+    },
+    {
+      "text": "Which factor improves analytical reading ability?",
+      "options": [
+        "#Identifying main arguments and assumptions",
+        "Reading texts without critical evaluation",
+        "Ignoring contextual supporting evidence",
+        "Avoiding comparison of different viewpoints"
+      ],
+      "id": 167
+    },
+    {
+      "text": "What enhances long-term academic performance?",
+      "options": [
+        "#Maintaining disciplined and regular study habits",
+        "Studying only before major examinations",
+        "Ignoring structured academic schedules",
+        "Avoiding complex theoretical materials"
+      ],
+      "id": 168
+    },
+    {
+      "text": "Which competence supports innovation development?",
+      "options": [
+        "#Combining creativity with structured planning",
+        "Rejecting unconventional academic ideas",
+        "Avoiding experimentation in projects",
+        "Ignoring feedback during improvement stages"
+      ],
+      "id": 169
+    },
+    {
+      "text": "What is essential for persuasive communication?",
+      "options": [
+        "#Presenting logical arguments confidently",
+        "Relying on emotional exaggeration",
+        "Avoiding supporting factual evidence",
+        "Ignoring audience expectations entirely"
+      ],
+      "id": 170
+    },
+    {
+      "text": "Which ability improves project management skills?",
+      "options": [
+        "#Coordinating timelines and resource allocation",
+        "Ignoring progress monitoring systems",
+        "Avoiding structured implementation plans",
+        "Delaying evaluation of outcomes"
+      ],
+      "id": 171
+    },
+    {
+      "text": "What strengthens reflective learning practice?",
+      "options": [
+        "#Analyzing achievements and improvement areas",
+        "Ignoring previous academic experiences",
+        "Avoiding self-evaluation processes",
+        "Dismissing constructive developmental feedback"
+      ],
+      "id": 172
+    },
+    {
+      "text": "Which element enhances digital professionalism?",
+      "options": [
+        "#Communicating responsibly in online platforms",
+        "Sharing unverified academic information",
+        "Ignoring cybersecurity protection principles",
+        "Posting inappropriate institutional content"
+      ],
+      "id": 173
+    },
+    {
+      "text": "What improves structured academic discussions?",
+      "options": [
+        "#Respecting diverse opinions and evidence",
+        "Interrupting opposing participants frequently",
+        "Ignoring relevant supporting information",
+        "Avoiding participation in debates"
+      ],
+      "id": 174
+    },
+    {
+      "text": "Which strategy enhances exam preparation efficiency?",
+      "options": [
+        "#Organizing revision with clear objectives",
+        "Cramming information without structure",
+        "Ignoring practice assessment opportunities",
+        "Avoiding time allocation planning"
+      ],
+      "id": 175
+    },
+    {
+      "text": "What strengthens professional accountability?",
+      "options": [
+        "#Accepting responsibility for decisions made",
+        "Blaming colleagues for project failures",
+        "Avoiding transparent communication processes",
+        "Ignoring established organizational policies"
+      ],
+      "id": 176
+    },
+    {
+      "text": "Which competence improves conflict management?",
+      "options": [
+        "#Applying negotiation and empathy skills",
+        "Escalating disagreements unnecessarily",
+        "Ignoring emotional dynamics within teams",
+        "Avoiding collaborative resolution strategies"
+      ],
+      "id": 177
+    },
+    {
+      "text": "What enhances academic creativity?",
+      "options": [
+        "#Integrating diverse perspectives into solutions",
+        "Limiting ideas to traditional methods",
+        "Avoiding interdisciplinary exploration opportunities",
+        "Rejecting alternative innovative proposals"
+      ],
+      "id": 178
+    },
+    {
+      "text": "Which factor supports effective delegation?",
+      "options": [
+        "#Assigning tasks according to competencies",
+        "Ignoring individual team member strengths",
+        "Avoiding monitoring delegated activities",
+        "Overloading single participants excessively"
+      ],
+      "id": 179
+    },
+    {
+      "text": "What is essential for scholarly credibility?",
+      "options": [
+        "#Using peer-reviewed and reliable sources",
+        "Referencing unverified online materials",
+        "Ignoring publication authenticity standards",
+        "Avoiding academic citation requirements"
+      ],
+      "id": 180
+    },
+    {
+      "text": "Which ability strengthens decision-making quality?",
+      "options": [
+        "#Evaluating alternatives before final selection",
+        "Choosing options without analysis",
+        "Ignoring potential long-term consequences",
+        "Avoiding consultation with experts"
+      ],
+      "id": 181
+    },
+    {
+      "text": "What improves professional presentation visuals?",
+      "options": [
+        "#Designing clear and informative slides",
+        "Overloading slides with excessive text",
+        "Ignoring audience readability factors",
+        "Avoiding consistent formatting standards"
+      ],
+      "id": 182
+    },
+    {
+      "text": "Which habit promotes academic resilience?",
+      "options": [
+        "#Maintaining motivation during challenging tasks",
+        "Giving up after minor setbacks",
+        "Avoiding difficult academic assignments",
+        "Ignoring opportunities for improvement"
+      ],
+      "id": 183
+    },
+    {
+      "text": "What strengthens independent research competence?",
+      "options": [
+        "#Formulating clear and focused research questions",
+        "Collecting unrelated background information",
+        "Ignoring defined methodological frameworks",
+        "Avoiding systematic data organization"
+      ],
+      "id": 184
+    },
+    {
+      "text": "Which factor enhances professional collaboration?",
+      "options": [
+        "#Building mutual trust and accountability",
+        "Competing destructively within teams",
+        "Ignoring transparent communication practices",
+        "Avoiding shared performance evaluation"
+      ],
+      "id": 185
+    },
+    {
+      "text": "What improves logical writing coherence?",
+      "options": [
+        "#Connecting arguments with structured transitions",
+        "Listing ideas without logical order",
+        "Ignoring paragraph development principles",
+        "Avoiding revision for structural clarity"
+      ],
+      "id": 186
+    },
+    {
+      "text": "Which competence is vital for academic leadership?",
+      "options": [
+        "#Inspiring others toward shared objectives",
+        "Ignoring collective institutional goals",
+        "Avoiding responsibility in decision-making",
+        "Discouraging open communication culture"
+      ],
+      "id": 187
+    },
+    {
+      "text": "What enhances effective knowledge retention?",
+      "options": [
+        "#Reviewing material through spaced repetition",
+        "Relying only on passive reading and copying",
+        "Ignoring periodic revision sessions",
+        "Avoiding practical application exercises"
+      ],
+      "id": 188
+    },
+    {
+      "text": "Which strategy improves professional growth planning?",
+      "options": [
+        "#Setting measurable long-term development goals",
+        "Avoiding structured career assessment and disagreement",
+        "Ignoring competency gap analysis",
+        "Delaying professional skill improvement"
+      ],
+      "id": 189
+    },
+    {
+      "text": "What strengthens ethical academic behavior?",
+      "options": [
+        "#Respecting intellectual property rights",
+        "Using unauthorized published materials",
+        "Ignoring institutional integrity codes",
+        "Avoiding proper source acknowledgment"
+      ],
+      "id": 190
+    },
+    {
+      "text": "Which element enhances constructive feedback delivery?",
+      "options": [
+        "#Providing specific and balanced suggestions",
+        "Criticizing without improvement guidance",
+        "Ignoring positive performance aspects",
+        "Avoiding respectful communication tone"
+      ],
+      "id": 191
+    },
+    {
+      "text": "What supports effective academic networking?",
+      "options": [
+        "#Establishing meaningful professional relationships",
+        "Ignoring opportunities for collaboration",
+        "Avoiding participation in academic events",
+        "Limiting communication with peers"
+      ],
+      "id": 192
+    },
+    {
+      "text": "Which factor increases productivity efficiency?",
+      "options": [
+        "#Managing time through structured scheduling",
+        "Ignoring prioritized task sequencing",
+        "Avoiding performance tracking systems",
+        "Delaying completion of responsibilities"
+      ],
+      "id": 193
+    },
+    {
+      "text": "What enhances strategic academic planning?",
+      "options": [
+        "#Aligning actions with defined objectives",
+        "Ignoring measurable performance indicators",
+        "Avoiding structured academic frameworks",
+        "Delaying evaluation of progress"
+      ],
+      "id": 194
+    },
+    {
+      "text": "Which factor improves professional reliability?",
+      "options": [
+        "#Meeting commitments within agreed deadlines",
+        "Ignoring assigned responsibilities consistently",
+        "Avoiding transparent communication updates",
+        "Delivering incomplete required tasks"
+      ],
+      "id": 195
+    },
+    {
+      "text": "What strengthens evidence-based reasoning?",
+      "options": [
+        "#Integrating verified data into arguments",
+        "Relying on unsupported personal beliefs",
+        "Ignoring contradictory research findings",
+        "Avoiding systematic analytical methods"
+      ],
+      "id": 196
+    },
+    {
+      "text": "Which ability supports effective leadership communication?",
+      "options": [
+        "#Articulating vision with clarity and purpose",
+        "Providing vague and inconsistent messages",
+        "Ignoring audience engagement strategies",
+        "Avoiding structured communication planning"
+      ],
+      "id": 197
+    },
+    {
+      "text": "What improves academic self-regulation?",
+      "options": [
+        "#Monitoring progress and adjusting strategies",
+        "Ignoring performance feedback regularly",
+        "Avoiding realistic goal assessment",
+        "Delaying corrective improvement actions"
+      ],
+      "id": 198
+    },
+    {
+      "text": "Which competence enhances interdisciplinary learning?",
+      "options": [
+        "#Connecting concepts across different fields",
+        "Restricting knowledge to single disciplines",
+        "Ignoring cross-functional collaboration opportunities",
+        "Avoiding integration of diverse theories"
+      ],
+      "id": 199
+    },
+    {
+      "text": "What strengthens professional negotiation outcomes?",
+      "options": [
+        "#Balancing interests through mutual understanding",
+        "Imposing decisions without consultation",
+        "Ignoring stakeholder expectations entirely",
+        "Avoiding compromise during discussions"
+      ],
+      "id": 200
+    },
+    {
+      "text": "Which factor increases research validity?",
+      "options": [
+        "#Applying consistent methodological standards",
+        "Collecting unreliable inconsistent data",
+        "Ignoring sample selection criteria",
+        "Avoiding peer review evaluation"
+      ],
+      "id": 201
+    },
+    {
+      "text": "What improves clarity in academic summaries?",
+      "options": [
+        "#Highlighting essential ideas concisely",
+        "Including irrelevant detailed explanations",
+        "Ignoring structural coherence principles",
+        "Avoiding logical sequencing entirely"
+      ],
+      "id": 202
+    },
+    {
+      "text": "Which strategy enhances productive study sessions?",
+      "options": [
+        "#Setting specific time-bound objectives",
+        "Studying without defined goals",
+        "Ignoring planned revision intervals",
+        "Avoiding concentration techniques"
+      ],
+      "id": 203
+    },
+    {
+      "text": "What strengthens ethical leadership behavior?",
+      "options": [
+        "#Modeling integrity in professional actions",
+        "Ignoring institutional ethical guidelines",
+        "Avoiding responsibility for misconduct",
+        "Encouraging unfair competitive practices"
+      ],
+      "id": 204
+    },
+    {
+      "text": "Which factor improves collaborative innovation?",
+      "options": [
+        "#Encouraging open exchange of ideas",
+        "Suppressing alternative creative suggestions",
+        "Ignoring team brainstorming opportunities",
+        "Avoiding inclusive participation strategies"
+      ],
+      "id": 205
+    },
+    {
+      "text": "What enhances academic writing precision?",
+      "options": [
+        "#Using accurate terminology consistently",
+        "Employing vague ambiguous expressions",
+        "Ignoring grammatical correctness standards",
+        "Avoiding revision and refinement processes"
+      ],
+      "id": 206
+    },
+    {
+      "text": "Which competence supports crisis management?",
+      "options": [
+        "#Responding calmly with structured decisions",
+        "Reacting emotionally without analysis",
+        "Ignoring risk assessment procedures",
+        "Avoiding contingency planning measures"
+      ],
+      "id": 207
+    },
+    {
+      "text": "What improves professional self-confidence?",
+      "options": [
+        "#Building competence through continuous practice",
+        "Avoiding challenging growth opportunities",
+        "Ignoring constructive performance feedback",
+        "Relying solely on past achievements"
+      ],
+      "id": 208
+    },
+    {
+      "text": "Which element strengthens academic collaboration ethics?",
+      "options": [
+        "#Respecting contributions of all members",
+        "Claiming credit for shared work",
+        "Ignoring collaborative responsibility agreements",
+        "Avoiding transparent acknowledgment practices"
+      ],
+      "id": 209
+    },
+    {
+      "text": "What enhances adaptability in dynamic environments?",
+      "options": [
+        "#Adjusting strategies based on feedback",
+        "Resisting organizational structural changes",
+        "Ignoring emerging technological developments",
+        "Avoiding proactive learning initiatives"
+      ],
+      "id": 210
+    },
+    {
+      "text": "Which factor increases effective delegation results?",
+      "options": [
+        "#Monitoring progress with supportive guidance",
+        "Assigning tasks without follow-up",
+        "Ignoring competency alignment principles",
+        "Avoiding accountability tracking systems"
+      ],
+      "id": 211
+    },
+    {
+      "text": "What improves constructive academic debate?",
+      "options": [
+        "#Supporting opinions with logical reasoning",
+        "Interrupting opposing viewpoints frequently",
+        "Ignoring evidence presented by others",
+        "Avoiding respectful argumentative tone"
+      ],
+      "id": 212
+    },
+    {
+      "text": "Which habit strengthens professional discipline?",
+      "options": [
+        "#Maintaining consistent performance standards",
+        "Ignoring established organizational policies",
+        "Avoiding structured daily routines",
+        "Delaying task completion unnecessarily"
+      ],
+      "id": 213
+    },
+    {
+      "text": "What enhances research data interpretation?",
+      "options": [
+        "#Analyzing patterns with critical evaluation",
+        "Accepting findings without verification",
+        "Ignoring contextual influencing variables",
+        "Avoiding comparative analytical methods"
+      ],
+      "id": 214
+    },
+    {
+      "text": "Which competence supports sustainable professional growth?",
+      "options": [
+        "#Engaging in lifelong skill development",
+        "Avoiding updated industry knowledge",
+        "Ignoring emerging professional trends",
+        "Resisting technological advancement integration"
+      ],
+      "id": 215
+    },
+    {
+      "text": "What strengthens presentation audience engagement?",
+      "options": [
+        "#Encouraging interaction through relevant questions",
+        "Reading slides without audience connection",
+        "Ignoring visual communication techniques",
+        "Avoiding preparation for potential questions"
+      ],
+      "id": 216
+    },
+    {
+      "text": "Which factor improves structured problem-solving?",
+      "options": [
+        "#Defining problems before selecting solutions",
+        "Choosing immediate unexamined alternatives",
+        "Ignoring root cause identification",
+        "Avoiding systematic evaluation processes"
+      ],
+      "id": 217
+    },
+    {
+      "text": "What enhances academic perseverance?",
+      "options": [
+        "#Persisting despite temporary difficulties",
+        "Abandoning tasks after obstacles",
+        "Ignoring opportunities for skill improvement",
+        "Avoiding long-term academic commitments"
+      ],
+      "id": 218
+    },
+    {
+      "text": "Which strategy strengthens digital research competence?",
+      "options": [
+        "#Evaluating online sources for credibility",
+        "Using unverified information automatically",
+        "Ignoring authorship authenticity indicators",
+        "Avoiding cross-checking reference materials"
+      ],
+      "id": 219
+    },
+    {
+      "text": "What improves clarity in professional reporting?",
+      "options": [
+        "#Presenting findings in organized structure",
+        "Providing disordered fragmented information",
+        "Ignoring summary and conclusion sections",
+        "Avoiding data visualization techniques"
+      ],
+      "id": 220
+    },
+    {
+      "text": "Which competence enhances team accountability?",
+      "options": [
+        "#Clarifying responsibilities and performance metrics",
+        "Ignoring clearly defined role distribution, debating",
+        "Avoiding measurable project benchmarks",
+        "Delaying performance evaluation discussions"
+      ],
+      "id": 221
+    },
+    {
+      "text": "What strengthens independent critical reflection?",
+      "options": [
+        "#Assessing decisions against established criteria",
+        "Ignoring past outcomes entirely",
+        "Avoiding objective performance analysis",
+        "Dismissing external constructive feedback"
+      ],
+      "id": 222
+    },
+    {
+      "text": "Which factor improves academic goal achievement?",
+      "options": [
+        "#Tracking progress through measurable indicators",
+        "Ignoring strategic performance milestones and ignoring",
+        "Avoiding consistent progress monitoring",
+        "Delaying implementation of action plans"
+      ],
+      "id": 223
+    },
+    {
+      "text": "What strengthens professional strategic thinking?",
+      "options": [
+        "#Evaluating long-term consequences of decisions",
+        "Focusing only on immediate outcomes, sharing",
+        "Ignoring potential external influences",
+        "Avoiding structured scenario planning"
+      ],
+      "id": 224
+    },
+    {
+      "text": "Which factor improves academic task prioritization?",
+      "options": [
+        "#Ranking assignments by urgency and importance",
+        "Completing tasks in random order",
+        "Ignoring approaching submission deadlines",
+        "Avoiding structured workload distribution"
+      ],
+      "id": 225
+    },
+    {
+      "text": "What enhances effective mentoring relationships?",
+      "options": [
+        "#Providing constructive guidance and support",
+        "Ignoring mentee developmental needs",
+        "Avoiding consistent communication meetings",
+        "Discouraging independent decision-making"
+      ],
+      "id": 226
+    },
+    {
+      "text": "Which competence supports responsible digital behavior?",
+      "options": [
+        "#Protecting data privacy and confidentiality",
+        "Sharing sensitive information publicly",
+        "Ignoring cybersecurity awareness practices",
+        "Avoiding secure password management"
+      ],
+      "id": 227
+    },
+    {
+      "text": "What strengthens structured academic reasoning?",
+      "options": [
+        "#Building arguments on verified foundations",
+        "Relying on speculative assumptions",
+        "Ignoring supporting academic literature",
+        "Avoiding logical consistency checks"
+      ],
+      "id": 228
+    },
+    {
+      "text": "Which factor improves professional time efficiency?",
+      "options": [
+        "#Allocating resources according to priorities",
+        "Ignoring realistic time estimations, disputing",
+        "Avoiding delegation when necessary",
+        "Delaying execution of critical tasks"
+      ],
+      "id": 229
+    },
+    {
+      "text": "What enhances academic collaboration outcomes?",
+      "options": [
+        "#Coordinating efforts toward shared objectives",
+        "Competing for individual recognition",
+        "Ignoring collective performance standards",
+        "Avoiding transparent communication channels"
+      ],
+      "id": 230
+    },
+    {
+      "text": "Which element strengthens leadership credibility?",
+      "options": [
+        "#Demonstrating fairness in decision processes",
+        "Favoring selective team members",
+        "Ignoring accountability responsibilities",
+        "Avoiding ethical evaluation procedures"
+      ],
+      "id": 231
+    },
+    {
+      "text": "What improves clarity in analytical reports?",
+      "options": [
+        "#Presenting conclusions supported by evidence",
+        "Listing unrelated descriptive information",
+        "Ignoring structured interpretation frameworks",
+        "Avoiding precise terminology usage"
+      ],
+      "id": 232
+    },
+    {
+      "text": "Which strategy enhances examination performance?",
+      "options": [
+        "#Practicing application of theoretical knowledge",
+        "Memorizing content without understanding",
+        "Ignoring feedback from mock assessments",
+        "Avoiding review of weak subject areas"
+      ],
+      "id": 233
+    },
+    {
+      "text": "What strengthens professional communication ethics?",
+      "options": [
+        "#Maintaining transparency and honesty consistently",
+        "Providing misleading partial information, disputing",
+        "Ignoring confidentiality agreements",
+        "Avoiding accountability for statements"
+      ],
+      "id": 234
+    },
+    {
+      "text": "Which factor improves innovation sustainability?",
+      "options": [
+        "#Testing solutions before full implementation",
+        "Implementing ideas without evaluation",
+        "Ignoring potential operational risks",
+        "Avoiding stakeholder consultation processes"
+      ],
+      "id": 235
+    },
+    {
+      "text": "What enhances academic leadership influence?",
+      "options": [
+        "#Empowering others through shared responsibility",
+        "Centralizing authority without delegation and ignoring",
+        "Ignoring collaborative input entirely",
+        "Avoiding motivational communication efforts"
+      ],
+      "id": 236
+    },
+    {
+      "text": "Which competence supports structured self-development?",
+      "options": [
+        "#Identifying strengths and growth opportunities",
+        "Ignoring areas requiring improvement",
+        "Avoiding measurable personal objectives, judging",
+        "Delaying professional skill enhancement"
+      ],
+      "id": 237
+    },
+    {
+      "text": "What improves interdisciplinary research success?",
+      "options": [
+        "#Integrating methodologies from multiple fields",
+        "Limiting analysis to single discipline",
+        "Ignoring cross-sector collaboration opportunities",
+        "Avoiding comparative theoretical perspectives"
+      ],
+      "id": 238
+    },
+    {
+      "text": "Which factor strengthens resilience in academics?",
+      "options": [
+        "#Viewing challenges as learning opportunities",
+        "Interpreting setbacks as permanent failures",
+        "Ignoring constructive performance feedback",
+        "Avoiding demanding academic experiences"
+      ],
+      "id": 239
+    },
+    {
+      "text": "What enhances clarity in professional negotiations?",
+      "options": [
+        "#Defining expectations before reaching agreements",
+        "Agreeing without clarifying responsibilities",
+        "Ignoring documented contractual terms",
+        "Avoiding mutual understanding discussions"
+      ],
+      "id": 240
+    },
+    {
+      "text": "Which strategy improves academic productivity balance?",
+      "options": [
+        "#Scheduling tasks with realistic timeframes",
+        "Overloading agenda without prioritization",
+        "Ignoring need for restorative breaks",
+        "Avoiding structured daily planning"
+      ],
+      "id": 241
+    },
+    {
+      "text": "What strengthens credibility in academic presentations?",
+      "options": [
+        "#Citing authoritative sources accurately",
+        "Presenting unsupported generalized claims",
+        "Ignoring reference documentation standards",
+        "Avoiding verification of statistical data"
+      ],
+      "id": 242
+    },
+    {
+      "text": "Which competence enhances collaborative decision-making?",
+      "options": [
+        "#Encouraging participation from all members",
+        "Dominating discussions without listening",
+        "Ignoring alternative viewpoints completely",
+        "Avoiding structured consensus-building methods"
+      ],
+      "id": 243
+    },
+    {
+      "text": "What improves effectiveness of academic feedback?",
+      "options": [
+        "#Offering specific actionable improvement suggestions",
+        "Providing vague general comments only and ignoring",
+        "Ignoring positive performance elements",
+        "Avoiding follow-up evaluation discussions"
+      ],
+      "id": 244
+    },
+    {
+      "text": "Which factor enhances professional adaptability skills?",
+      "options": [
+        "#Learning continuously from changing environments",
+        "Resisting necessary organizational adjustments",
+        "Ignoring industry development trends",
+        "Avoiding skill diversification opportunities"
+      ],
+      "id": 245
+    },
+    {
+      "text": "What strengthens structured goal achievement?",
+      "options": [
+        "#Dividing objectives into measurable milestones",
+        "Setting unrealistic undefined ambitions",
+        "Ignoring periodic performance assessments",
+        "Avoiding strategic action planning"
+      ],
+      "id": 246
+    },
+    {
+      "text": "Which competence supports ethical research publication?",
+      "options": [
+        "#Ensuring originality and proper attribution",
+        "Submitting duplicated previously published work",
+        "Ignoring plagiarism detection standards",
+        "Avoiding transparent authorship disclosure"
+      ],
+      "id": 247
+    },
+    {
+      "text": "What enhances teamwork productivity outcomes?",
+      "options": [
+        "#Clarifying shared expectations and deadlines",
+        "Working independently without coordination",
+        "Ignoring collaborative evaluation sessions",
+        "Avoiding mutual responsibility agreements"
+      ],
+      "id": 248
+    },
+    {
+      "text": "Which factor improves professional self-management?",
+      "options": [
+        "#Balancing workload with personal wellbeing",
+        "Ignoring stress management strategies",
+        "Avoiding realistic performance boundaries",
+        "Delaying necessary recovery periods"
+      ],
+      "id": 249
+    },
+    {
+      "text": "What strengthens academic argument consistency?",
+      "options": [
+        "#Maintaining logical flow between sections",
+        "Including contradictory unsupported statements",
+        "Ignoring structured paragraph transitions",
+        "Avoiding coherence review processes"
+      ],
+      "id": 250
+    },
+    {
+      "text": "Which strategy enhances digital research accuracy?",
+      "options": [
+        "#Cross-checking information across multiple databases",
+        "Using single unverified web sources",
+        "Ignoring publication date relevance",
+        "Avoiding evaluation of author credibility"
+      ],
+      "id": 251
+    },
+    {
+      "text": "What improves leadership effectiveness in projects?",
+      "options": [
+        "#Setting clear vision and measurable targets",
+        "Changing objectives without explanation",
+        "Ignoring team capacity limitations",
+        "Avoiding performance accountability systems"
+      ],
+      "id": 252
+    },
+    {
+      "text": "Which element ensures long-term professional competence?",
+      "options": [
+        "#Committing to continuous learning development",
+        "Relying solely on existing knowledge",
+        "Ignoring evolving industry requirements",
+        "Avoiding participation in training programs, judging"
+      ],
+      "id": 253
+    },
+    {
+      "text": "What is a common cause of conflict in professional activities?",
+      "options": [
+        "#Poor communication",
+        "Clear instructions",
+        "Strong teamwork",
+        "Mutual respect"
+      ],
+      "id": 254
+    },
+    {
+      "text": "What is the first step in resolving a workplace conflict?",
+      "options": [
+        "#Identifying the problem",
+        "Ignoring the issue and items",
+        "Blaming others",
+        "Leaving the team"
+      ],
+      "id": 255
+    },
+    {
+      "text": "Which skill is essential for resolving professional conflicts?",
+      "options": [
+        "#Active listening",
+        "Interrupting others",
+        "Avoiding discussion",
+        "Raising your voice"
+      ],
+      "id": 256
+    },
+    {
+      "text": "Why is communication important in conflict resolution?",
+      "options": [
+        "#It helps clarify misunderstandings",
+        "It increases tension",
+        "It creates more problems, more discrimination",
+        "It avoids responsibility"
+      ],
+      "id": 257
+    },
+    {
+      "text": "What should you do when emotions rise during a conflict?",
+      "options": [
+        "#Stay calm and professional",
+        "React immediately",
+        "Shout loudly",
+        "Leave without explanation"
+      ],
+      "id": 258
+    },
+    {
+      "text": "Which approach is most effective in solving workplace disagreements?",
+      "options": [
+        "#Negotiation and compromise",
+        "Competition and ignoring everyone",
+        "Avoidance",
+        "Blaming"
+      ],
+      "id": 259
+    },
+    {
+      "text": "What is a positive outcome of conflict when managed properly?",
+      "options": [
+        "#Improved teamwork",
+        "Broken relationships",
+        "Loss of trust",
+        "Reduced productivity"
+      ],
+      "id": 260
+    },
+    {
+      "text": "Which behavior can prevent conflicts at work?",
+      "options": [
+        "#Respecting different opinions",
+        "Ignoring colleagues and judging",
+        "Refusing feedback",
+        "Being aggressive"
+      ],
+      "id": 261
+    },
+    {
+      "text": "What role does empathy play in conflict resolution?",
+      "options": [
+        "#Understanding others’ feelings",
+        "Judging others",
+        "Criticizing constantly and judging",
+        "Ignoring emotions"
+      ],
+      "id": 262
+    },
+    {
+      "text": "When should a manager intervene in a conflict?",
+      "options": [
+        "#When it affects team performance",
+        "When it is entertaining",
+        "When it increases competition",
+        "When it is minor gossip"
+      ],
+      "id": 263
+    },
+    {
+      "text": "What is the benefit of open discussion during conflict?",
+      "options": [
+        "#Finding a mutual solution",
+        "Creating arguments",
+        "Embarrassing colleagues and shaming",
+        "Increasing stress"
+      ],
+      "id": 264
+    },
+    {
+      "text": "Which of the following is a professional way to express disagreement?",
+      "options": [
+        "#Using respectful language",
+        "Shouting",
+        "Sending angry messages",
+        "Ignoring the issue"
+      ],
+      "id": 265
+    },
+    {
+      "text": "How can misunderstanding lead to conflict?",
+      "options": [
+        "#Through unclear messages",
+        "Through teamwork and collaboration",
+        "Through cooperation",
+        "Through planning"
+      ],
+      "id": 266
+    },
+    {
+      "text": "What is compromise in conflict resolution?",
+      "options": [
+        "#Both sides give up something",
+        "One side wins completely all the time",
+        "Ignoring the problem",
+        "Ending communication"
+      ],
+      "id": 267
+    },
+    {
+      "text": "Why is problem-solving important in professional conflicts?",
+      "options": [
+        "#It helps find effective solutions",
+        "It increases tension and war in team",
+        "It avoids responsibility",
+        "It delays decisions"
+      ],
+      "id": 268
+    },
+    {
+      "text": "Which action can escalate a workplace conflict?",
+      "options": [
+        "#Spreading rumors",
+        "Open dialogue",
+        "Calm discussion",
+        "Seeking advice"
+      ],
+      "id": 269
+    },
+    {
+      "text": "What is the role of professionalism during conflict?",
+      "options": [
+        "#Maintaining respect and ethics",
+        "Acting emotionally and shouting",
+        "Ignoring rules",
+        "Blaming publicly"
+      ],
+      "id": 270
+    },
+    {
+      "text": "How can feedback help prevent conflicts?",
+      "options": [
+        "#By clarifying expectations",
+        "By criticizing harshly",
+        "By ignoring mistakes",
+        "By avoiding communication"
+      ],
+      "id": 271
+    },
+    {
+      "text": "Which strategy helps resolve conflicts quickly?",
+      "options": [
+        "#Addressing issues early",
+        "Delaying discussion",
+        "Avoiding responsibility",
+        "Increasing competition"
+      ],
+      "id": 272
+    },
+    {
+      "text": "Why is teamwork important in resolving conflicts?",
+      "options": [
+        "#It encourages cooperation",
+        "It increases rivalry",
+        "It avoids communication",
+        "It reduces trust"
+      ],
+      "id": 273
+    },
+    {
+      "text": "What is the primary function of a literature review in academic research?",
+      "options": [
+        "#To critically evaluate and synthesize existing scholarship",
+        "To summarize all articles in chronological order, and discover",
+        "To present only studies that support the topic",
+        "To provide personal reflections on readings"
+      ],
+      "id": 274
+    },
+    {
+      "text": "Which element best strengthens an argumentative thesis statement?",
+      "options": [
+        "#A clear position supported by specific reasoning",
+        "A broad topic description without stance",
+        "A quotation from a famous scholar",
+        "A list of unrelated research questions"
+      ],
+      "id": 275
+    },
+    {
+      "text": "What distinguishes analytical writing from descriptive writing?",
+      "options": [
+        "#Interpretation and evaluation of evidence",
+        "Use of longer and complex sentences",
+        "Inclusion of many direct quotations",
+        "Presentation of personal experiences"
+      ],
+      "id": 276
+    },
+    {
+      "text": "What is the main purpose of methodological transparency?",
+      "options": [
+        "#To ensure validity and replicability of research",
+        "To increase the word count of the paper and journal",
+        "To avoid citing theoretical sources",
+        "To simplify complex statistical data"
+      ],
+      "id": 277
+    },
+    {
+      "text": "Which practice best avoids unintentional plagiarism?",
+      "options": [
+        "#Proper paraphrasing with accurate citation",
+        "Changing only a few words in a sentence",
+        "Using outdated sources without reference",
+        "Copying data from public websites"
+      ],
+      "id": 278
+    },
+    {
+      "text": "What characterizes a well-developed academic paragraph?",
+      "options": [
+        "#A topic sentence supported by coherent evidence and analysis",
+        "Multiple ideas presented without transitions and clarifying words",
+        "A long quotation followed by minimal explanation",
+        "Informal commentary on the research topic"
+      ],
+      "id": 279
+    },
+    {
+      "text": "In academic discourse, objectivity requires the writer to:",
+      "options": [
+        "#Base arguments on verifiable evidence and logical reasoning",
+        "Eliminate all citations from the discussion and unregulate communication",
+        "Avoid acknowledging opposing viewpoints",
+        "Use emotionally persuasive language"
+      ],
+      "id": 280
+    },
+    {
+      "text": "What is the purpose of counterargument in academic essays?",
+      "options": [
+        "#To demonstrate critical engagement with alternative perspectives",
+        "To weaken the writer’s central argument, to show irresponsibility",
+        "To replace the original thesis statement",
+        "To introduce unrelated theoretical concepts"
+      ],
+      "id": 281
+    },
+    {
+      "text": "Which feature enhances coherence across paragraphs?",
+      "options": [
+        "#Logical progression supported by transitional devices",
+        "Frequent repetition of identical vocabulary, writing the same",
+        "Inclusion of unrelated statistical tables",
+        "Use of rhetorical questions in each section"
+      ],
+      "id": 282
+    },
+    {
+      "text": "What is a key criterion when evaluating academic sources?",
+      "options": [
+        "#Authority, credibility, and relevance of the author",
+        "Popularity of the website online, online payment",
+        "Length of the publication title",
+        "Number of images included in the text"
+      ],
+      "id": 283
+    },
+    {
+      "text": "What does synthesizing sources involve?",
+      "options": [
+        "#Integrating multiple perspectives into a unified discussion",
+        "Listing summaries of articles separately and involving judgement",
+        "Quoting one author extensively",
+        "Providing only statistical comparisons"
+      ],
+      "id": 284
+    },
+    {
+      "text": "Why is clarity prioritized in academic writing?",
+      "options": [
+        "#To communicate complex ideas precisely and effectively",
+        "To reduce the number of citations required in the conditions",
+        "To avoid technical terminology entirely",
+        "To shorten the conclusion paragraph"
+      ],
+      "id": 285
+    },
+    {
+      "text": "What is the function of hedging language in research writing?",
+      "options": [
+        "#To express caution and acknowledge limitations",
+        "To exaggerate the certainty of findings and to ignore",
+        "To simplify statistical calculations",
+        "To eliminate opposing viewpoints"
+      ],
+      "id": 286
+    },
+    {
+      "text": "A strong conclusion should primarily:",
+      "options": [
+        "#Reinforce the thesis through synthesized insights",
+        "Introduce entirely new theoretical frameworks",
+        "Repeat the introduction word for word",
+        "Add unrelated background information"
+      ],
+      "id": 287
+    },
+    {
+      "text": "What role do citations play in academic integrity?",
+      "options": [
+        "#They demonstrate accountability and scholarly engagement",
+        "They replace the need for analysis and to hind overall information",
+        "They function as decorative formatting",
+        "They eliminate the need for methodology"
+      ],
+      "id": 288
+    },
+    {
+      "text": "Which revision strategy improves argumentative strength?",
+      "options": [
+        "#Ensuring claims are supported with credible evidence",
+        "Adding more descriptive adjectives",
+        "Increasing sentence length artificially",
+        "Removing all counterarguments"
+      ],
+      "id": 289
+    },
+    {
+      "text": "What is the significance of disciplinary conventions?",
+      "options": [
+        "#They guide structure, citation style, and argumentation norms",
+        "They restrict the use of research data",
+        "They eliminate the need for introductions",
+        "They replace independent critical thinking"
+      ],
+      "id": 290
+    },
+    {
+      "text": "What does critical engagement with sources require?",
+      "options": [
+        "#Analyzing strengths, weaknesses, and assumptions",
+        "Accepting all published findings as accurate",
+        "Quoting without commentary",
+        "Summarizing conclusions without critique"
+      ],
+      "id": 291
+    },
+    {
+      "text": "Why is logical fallacy avoidance important in academic writing?",
+      "options": [
+        "#To maintain argumentative validity and credibility",
+        "To increase emotional persuasion and ignoring facts",
+        "To simplify complex methodologies",
+        "To reduce reference requirements"
+      ],
+      "id": 292
+    },
+    {
+      "text": "What is the ultimate goal of academic writing at university level?",
+      "options": [
+        "#To contribute thoughtfully to scholarly discourse",
+        "To complete assignments with minimal effort",
+        "To avoid engagement with theory",
+        "To summarize textbooks without analysis"
+      ],
+      "id": 293
+    },
+    {
+      "text": "What is the main benefit of working in a group?",
+      "options": [
+        "#Becoming a more versatile communicator",
+        "Becoming ruthless to make others finish their job",
+        "Making it hard to finish a project on time",
+        "Making others believe in your ideas and follow"
+      ],
+      "id": 294
+    },
+    {
+      "text": "Which psychological trait supports effective teamwork the most?",
+      "options": [
+        "#Empathy",
+        "Isolation",
+        "Dominance",
+        "Rigidity"
+      ],
+      "id": 295
+    },
+    {
+      "text": "Why are an individual's characteristics important for professional competence?",
+      "options": [
+        "#character is mainly more important than hard skills for success",
+        "Without hard skills, characters bring about success effortlessly.",
+        "People do not care about others’ attitudes and continue to work.",
+        "Professional competence is only determined by character."
+      ],
+      "id": 296
+    },
+    {
+      "text": "What is the main purpose of setting clear roles in a team?",
+      "options": [
+        "#To reduce confusion and overlap",
+        "To limit participation in adverticement",
+        "To avoid collaboration",
+        "To rank team members"
+      ],
+      "id": 297
+    },
+    {
+      "text": "Which behavior most improves team decision-making?",
+      "options": [
+        "#Considering multiple viewpoints before choosing",
+        "Choosing the fastest solution available",
+        "Allowing one person to decide for the group",
+        "Focusing only on past decisions"
+      ],
+      "id": 298
+    },
+    {
+      "text": "Which action shows good teamwork during a problem?",
+      "options": [
+        "#Working together to find a solution",
+        "Blaming someone quickly and ignoring",
+        "Ignoring the issue",
+        "Waiting for others to fix it"
+      ],
+      "id": 299
+    },
+    {
+      "text": "Which habit leads to long-term team success?",
+      "options": [
+        "#Reflecting on work and learning from mistakes",
+        "Following the same routine without change",
+        "Letting the most confident member decide",
+        "Avoiding feedback from others"
+      ],
+      "id": 300
+    },
+    {
+      "text": "Which behavior shows respect in a team?",
+      "options": [
+        "#Listening to others’ ideas even if you disagree",
+        "Ignoring suggestions you don’t like",
+        "Always following your own plan",
+        "Criticizing teammates publicly"
+      ],
+      "id": 301
+    },
+    {
+      "text": "How can a team handle unexpected changes in a project?",
+      "options": [
+        "#Adapt quickly and share ideas",
+        "Stick only to the original plan",
+        "Wait for the manager to decide everything",
+        "Ignore the changes"
+      ],
+      "id": 302
+    }
+  ]
+}
