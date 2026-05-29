@@ -64,6 +64,15 @@ export const SUBJECTS: SubjectConfig[] = [
     questionsCount: 256,
     groupsCount: 11,
   },
+  {
+    id: 'academic-skills',
+    name: 'Academic skills',
+    description: 'Master essential skills for academic success: communication, critical thinking, research, and teamwork',
+    icon: 'book',
+    color: 'from-orange-500 to-amber-500',
+    questionsCount: 302,
+    groupsCount: 13,
+  },
 ]
 
 /**
