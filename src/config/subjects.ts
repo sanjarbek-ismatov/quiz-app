@@ -1,10 +1,10 @@
 /**
  * Subject Configuration
- * 
+ *
  * Define all available subjects here. This is the source of truth
  * for UI metadata like name, description, icon, and color.
  * The question and group counts are now statically defined for performance.
- * 
+ *
  * See ADDING_SUBJECTS.md for detailed instructions.
  */
 
@@ -20,57 +20,21 @@ export interface SubjectConfig {
 
 export const SUBJECTS: SubjectConfig[] = [
   {
-    id: 'study-of-religions-part1',
-    name: 'Study of Religions (part 1)',
-    description: 'Explore world religions, belief systems, and religious studies - Part 1',
-    icon: 'brain',
-    color: 'from-indigo-500 to-violet-500',
-    questionsCount: 103,
-    groupsCount: 5,
-  },
-  {
-    id: 'study-of-religions-part2',
-    name: 'Study of Religions (part 2)',
-    description: 'Explore world religions, belief systems, and religious studies - Part 2',
-    icon: 'brain',
-    color: 'from-blue-500 to-cyan-500',
-    questionsCount: 104,
-    groupsCount: 5,
-  },
-  {
-    id: 'study-of-religions-part3',
-    name: 'Study of Religions (part 3)',
-    description: 'Explore world religions, belief systems, and religious studies - Part 3',
-    icon: 'brain',
-    color: 'from-purple-500 to-pink-500',
-    questionsCount: 130,
-    groupsCount: 6,
-  },
-  {
-    id: 'russian-vocabulary',
-    name: 'Russian Vocabulary',
-    description: 'Basic words and phrases in Russian',
-    icon: 'brain',
-    color: 'from-blue-500 to-red-500',
-    questionsCount: 100,
-    groupsCount: 4,
-  },
-  {
-    id: 'business-english',
-    name: 'Business English',
-    description: 'Essential Business English vocabulary for exams — management, finance, marketing, and more',
-    icon: 'globe',
-    color: 'from-emerald-500 to-teal-500',
-    questionsCount: 256,
-    groupsCount: 11,
-  },
-  {
     id: 'academic-skills',
-    name: 'Academic skills',
-    description: 'Master essential skills for academic success: communication, critical thinking, research, and teamwork',
+    name: 'Academic nonsense',
+    description: 'Bro, you have time for that, do it tomorrow, it is easy-peasy ;)',
     icon: 'book',
     color: 'from-orange-500 to-amber-500',
     questionsCount: 302,
+    groupsCount: 13,
+  },
+  {
+    id: 'economic-theories',
+    name: 'Boring theories',
+    description: "you'd better study this shit now, don't forget that you were so close to fail!",
+    icon: 'target',
+    color: 'from-green-500 to-emerald-500',
+    questionsCount: 301,
     groupsCount: 13,
   },
 ]

@@ -35,7 +35,7 @@ export function useQuiz(subjectId: string | undefined, groupId: string | undefin
   useEffect(() => {
     async function loadData() {
       setIsLoading(true)
-      const data = await loadSubjectData(subjectId || 'study-of-religions-part1')
+      const data = await loadSubjectData(subjectId || 'academic-skills')
       setRawQuestions(data?.questions || [])
       setIsLoading(false)
     }
