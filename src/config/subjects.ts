@@ -73,6 +73,15 @@ export const SUBJECTS: SubjectConfig[] = [
     questionsCount: 302,
     groupsCount: 13,
   },
+  {
+    id: 'economic-theories',
+    name: 'Economic theories',
+    description: 'Explore fundamental economic concepts, macroeconomics, and microeconomic theories',
+    icon: 'zap',
+    color: 'from-blue-600 to-indigo-600',
+    questionsCount: 301,
+    groupsCount: 13,
+  },
 ]
 
 /**
